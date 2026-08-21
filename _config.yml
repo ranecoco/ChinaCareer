@@ -123,5 +123,5 @@ theme: butterfly
 deploy:
   type: "git"
   repo: "https://github.com/ranecoco/ranecoco.github.io"
-  branch: main
+  branch: master
   token: $GITHUB_TOKEN

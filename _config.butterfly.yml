@@ -696,7 +696,8 @@ subtitle:
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-  sub: 对于主业工作，记住这个本质：工作，就是95%的时间用来工作，5%的时间用来找工作。
+  sub: 
+  - 对于主业，记住这个本质：工作，就是95%的时间用来工作，5%的时间用来找工作。
 
 # Loading Animation (加載動畫)
 preloader: true

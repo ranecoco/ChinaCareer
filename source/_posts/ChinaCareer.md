@@ -1,6 +1,6 @@
 ---
-created: 2024-11-18T23:03:46 (UTC +08:00)
-date: 2924-12-32
+date: 2024-11-18T23:03:46 (UTC +08:00)
+update: 2924-12-32
 title: 中国职场宝典6.0
 cover: 1.jpg
 description: 工作只需20年
@@ -335,7 +335,7 @@ categories: 00. 工作只需20年
 - [简历投出去没回音，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484811&idx=1&sn=bda84c746451a97e1443447ea247b3b2&chksm=e96dae4ade1a275c1b814f20ad5984b07352e048161efcd6da28b108069e1ddae20a2423c431&scene=21#wechat_redirect)
 - 🔴{% post_link 09简历投递秘笈/什么时候是换工作的最佳时机？ %}
 - [投外企，是用中文简历还是英文简历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486338&idx=1&sn=e1e7072221c560e6eb97e124c2a60156&chksm=e96da043de1a295521a1370bfdd2cef5e02e2b87f5188f4d0fab3ddff429ed9f68509931fbc9&scene=21#wechat_redirect)
-- 🔴[一万到手，适可而止](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486163&idx=1&sn=d49b4c55329a51cc9a041bc1622a622a&chksm=e96da112de1a2804aaf5bca4e37035e8421410c76a2eeb274297e240fa2bd934647bcdae183b&scene=21#wechat_redirect)
+- 🔴{% post_link 09简历投递秘笈/一万到手，适可而止 %}
 - [世界五百强，并不是 500 强](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486180&idx=1&sn=341c1219374dc4974a321b57e1ba96ba&chksm=e96da125de1a28332fde58fbfd7f8c0d38f4215639e518b07135e8391e7d1dd00ec98014b066&scene=21#wechat_redirect)
 - [漂亮女孩求职，有什么注意点？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486322&idx=1&sn=abdce25f20b021bd3e353dda41831de5&chksm=e96da0b3de1a29a5756165434bc688b61d0f0054b1ed9e6a08700adac4cfbfc932c8e8b14c83&scene=21#wechat_redirect)
 - [投简历时，不小心投给了目前公司，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487246&idx=1&sn=2273c0213bfa05f481717eed8de4abfc&chksm=e96da4cfde1a2dd9a22d71f5abfd0c31c9eb9e08620bbdabd9717f840df21376a939bbe523c3&scene=21#wechat_redirect)

@@ -1,17 +1,16 @@
 ---
-created: 2024-12-09T09:50:25 (UTC +08:00)
+date: 2020-8-3 13:09
+update: 2024-12-09T09:50:25 (UTC +08:00)
 title: 海投简历后，接到HR来电记不清是哪家公司了怎么办？
 cover: 0.jpg
 description: 海投简历后，接到HR来电记不清是哪家公司了怎么办？
 tags: [Career]
 categories: [ 09. 简历投递秘笈 ]
-source: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493907&idx=2&sn=08804be506408ac91072bea2d6229402&chksm=e96e42d2de19cbc41cff4b12c4b4949ff13cd660b1614aed35bd69215a5491cb838cf56e0493&scene=21#wechat_redirect
+cpoyright_url: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493907&idx=2&sn=08804be506408ac91072bea2d6229402&chksm=e96e42d2de19cbc41cff4b12c4b4949ff13cd660b1614aed35bd69215a5491cb838cf56e0493&scene=21#wechat_redirect
 author: 幽哥
+place: JumpFrog
 ---
 
-# 海投简历后，接到HR来电记不清是哪家公司了怎么办？
-
----
 **今天的文章主题是关于海投。**
 
 先看下如下截图：

@@ -1,4 +1,5 @@
 ---
+date: 2020-4-19 12:29
 update: 2024-12-09T10:48:10 (UTC +08:00)
 title: 还没面试,就让我做性格测试交方案做PPT，要不要做？
 cover: 0.jpg
@@ -7,16 +8,8 @@ tags: [Career]
 categories: [ 10. 面试技巧 ]
 source: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490101&idx=2&sn=a29c4a82a9a9214dc7ff70dacadf6c91&chksm=e84ca99de803b7cc44f1e96615515cccebc03324d9752f77de1f242735cd8c5435b481c3b656&mpshare=1&srcid=1207mCN9GbuP1aGFnrOP5oYc&sharer_shareinfo=69f5108300ad6e9b2f31b0215c219744&sharer_shareinfo_first=69f5108300ad6e9b2f31b0215c219744&from=groupmessage&scene=1&subscene=10000&sessionid=1733539085&clicktime=1733539907&enterid=1733539907&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7502977-en_US-zip&fasttmpl_flag=0&realreporttime=1733539907090&devicetype=android-34&version=2800353f&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=CN&exportkey=n_ChQIAhIQSV79bKcGoGG8witZtwFnFBL0AQIE97dBBAEAAAAAAM6pJ3GYkecAAAAOpnltbLcz9gKNyK89dVj0KjlhV1%2F9M1gGpIm%2F%2Frf0EOweN9l3Kx45VeMjDkqQVCavKT753JEMno42FQK4BkY07oh3b%2B40UWF8zDmO%2BnHvtyjQtUxLCj1%2F%2BFj837d8fFTvMaYQ9hRMcBOqCbjYEmdXlBVM5EAQLKdHgeW7AWg9bFz2hNzbMWDn8GTOvItDLqowC6d36Ik5TiJfJO68CLeVUp7SSzpFGu%2B32nx5B7qc4CQ83HXLFqEn%2FB33RdosdQI7edkVWl6brI3hsaH0WcK%2Bq%2B5P%2F%2Fd2bioCQMfjA9Y%3D&pass_ticket=CgRSpiWy13ny7hE8Oj2rkyEBJEHnMkLHlLNUnzgDKzswgJejudLv5AmDhUQOkUZF&wx_header=3
 author: 幽哥
+place: JumpFrog
 ---
-
-# 还没面试,就让我做性格测试交方案做PPT，要不要做？
-
----
-![Image](640.webp)
-
-作者 | 幽哥
-
-首发 | 公众号：职场蛙
 
 **星友提问：** 
 
@@ -95,4 +88,7 @@ HR能忽悠你的时间很长，从第一次打你电话，一直到发Offer之�
 试工这种浪费你时间、更进一步压榨求职者的方式，你尽量别参加，面试都不要去。
 
 **全文链接：**[**还没报到，就被拉进了工作群，是好是坏？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489693&idx=1&sn=c7eb09debaaa1b05ade24a777c203b00&chksm=e96db35cde1a3a4a1c4409697eaa81aa3c216dd787615bbaa2dc7ac3708e552059bbbf046186&scene=21#wechat_redirect)
+<center>End</center>
+
+---
 

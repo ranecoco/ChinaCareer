@@ -215,7 +215,7 @@ anchor: false
 toc:
   post: true
   page: true
-  number: true
+  number: false
   expand: true
   style_simple: true # for post
 
@@ -243,7 +243,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: https://github.dev/Ceobe33/aaroncode/tree/main/source/
+  url: https://github.dev/ranecoco/ChinaCareer/tree/main/source/
 
 # Related Articles
 related_post:

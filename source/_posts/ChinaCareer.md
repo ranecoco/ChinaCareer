@@ -23,6 +23,11 @@ sticky: 100
 
 🔴**红色**为标志性文章。尽量全部看完。
 
+## **【00，必知必会】**
+
+- {% post_link 00必知必会/中华人民共和国劳动合同法 %}
+- {% post_link 00必知必会/中华人民共和国劳动法 %}
+
 ## **【01，学历不重要？能力更重要？】**
 
 - [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)

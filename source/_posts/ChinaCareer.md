@@ -799,7 +799,8 @@ sticky: 100
 
 ## **【23, 采购职位入门】**
 
-- 🔴{% post_link 30职场互动/幽哥语音合集【1】：如何改行做采购？ %}
+TODO move to 23 folder
+- 🔴{% post_link 23采购职位入门/幽哥语音合集【1】：如何改行做采购？ %}
 - 🔴[女孩是做人事，会计，还是做采购好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484567&idx=1&sn=e0f16129fa7b929aa033d8ad05c38245&chksm=e96daf56de1a2640db144417197166d6cb1a9d3361e1c5870d29dc22f6acf6c9e94c8f497d63&scene=21#wechat_redirect)
 - [刚毕业时，我为何打死也不做采购员？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484623&idx=1&sn=2d5f006a8f446cc298208bfa32d5c0c6&chksm=e96daf0ede1a2618da180afba385bf46020ae56367f682b0c386f57ec95d151d738cbd4559b9&scene=21#wechat_redirect)
 - [他，是如何转行做采购的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486092&idx=1&sn=96522ada6770eafa67227fb6a0774bc5&chksm=e96da14dde1a285b492920e7b9c086546734a1cc58f15f7764dc04ceed115bf4870ba03fc890&scene=21#wechat_redirect)

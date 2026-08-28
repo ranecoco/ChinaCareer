@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main # 当推送到 main 分支时触发
+  schedule:
+    - cron: '0 20 * * *'   # UTC 20:00 = 北京时间 04:00
 
 jobs:
   build:
@@ -53,3 +55,11 @@ jobs:
           # github_token: ${{ secrets.HEXO }}
           publish_dir: ./public
           publish_branch: master
+
+      - name: Commit updated recommend data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add source/_data/daily-recommend.json
+          git diff --staged --quiet || git commit -m "chore: update daily recommend data [skip ci]"
+          git push

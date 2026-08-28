@@ -6,6 +6,8 @@ on:
       - main # 当推送到 main 分支时触发
   schedule:
     - cron: '0 20 * * *'   # UTC 20:00 = 北京时间 04:00
+permissions:
+  contents: write
 
 jobs:
   build:

@@ -1,7 +1,7 @@
-/public/
-/node*
+public/
+node*
 
-/db.json
+db.json
 
-/NERD*
-/source/_posts/NERD*
+NERD*
+daily-recommend.json

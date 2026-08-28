@@ -30,8 +30,13 @@ sticky: 100
 
 ## **【01, 学历不重要？能力更重要？】**
 
-- [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)
+- 🔴 {% post_link 01学历不重要？能力更重要？/哪种学历是否有竞争力，如何判断？（深度分析） %}
 - 🔴{% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
+- {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
+- {% post_link 01学历不重要？能力更重要？/大专应届生去上海求职，有无竞争力？月薪大概几千？ %}
+- {% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
+
+- [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)
 - 🔴[本科毕业和研究生毕业，有什么区别？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484706&idx=1&sn=d7f52d901969428d3bcbf69809a6fc0b&chksm=e96daee3de1a27f55248d3f7bcb4f52c51e0a1e98e72df1fde954d2eee97c4e652e58c1d5209&scene=21#wechat_redirect)
 - [念 MBA 到底有没有用？价值体现在哪些方面？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484359&idx=1&sn=136d71208614122030ea4f52d43257b3&chksm=e96da806de1a2110f645d2c5b21c03949b3656931ea78569492a3333a83d9c86dab0a1f0281e&scene=21#wechat_redirect)
 - [我和男友都全职在家考公务员，我俩会有结果吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484579&idx=1&sn=1dd3bafef4c2ef295d548fc133cc7b9a&chksm=e96daf62de1a26745a4dd97e0ae9e3fcf1e74f241980d98176cc2955e31a740f011e15e4c7da&scene=21#wechat_redirect)
@@ -60,9 +65,6 @@ sticky: 100
 - [非 211 毕业，校招拿了 7 份 offer，现身说法！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487302&idx=1&sn=9952380a0bb739e195967a887f64535c&chksm=e96da487de1a2d9103964d13b8bf6bdbd6a93fa30a5c55fb458a9bd3d4bdd0974a68e26cd07b&scene=21#wechat_redirect)
 
 - [大学生面临哪些挑战和机遇？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488316&idx=2&sn=07e73935181a9b62adcc06be5b1a1113&chksm=e96db8fdde1a31eb516da2e8d6ac82d4221ef0598e48c522225e203d9a1ecb1139b113160f7e&scene=21#wechat_redirect)
-
-- 🔴 {% post_link 01学历不重要？能力更重要？/哪种学历是否有竞争力，如何判断？（深度分析） %}
-
 - [海归本科回国，有竞争力不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489586&idx=2&sn=e81b3755a2c4397a564eda7fae253dd3&chksm=e96db3f3de1a3ae5c4ade497b50bcd5336b7cf19d4f36facf5dcce213421b9fd271d20eb2349&scene=21#wechat_redirect)
 
 - [想考公务员，我是辞职后全力奋战，还是在职备考？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490328&idx=2&sn=804f34dcb5a0dbe26f0d8de4e5605f5b&chksm=e96db0d9de1a39cf18dc1683a4b7847d462064b1d13cd2d5b138dfabefd46d38da354e59faca&scene=21#wechat_redirect)
@@ -72,12 +74,12 @@ sticky: 100
 - [读个第二学位，有没有帮助？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491279&idx=1&sn=32d5f975c824592a2eca8a5a45f43bdc&chksm=e96db50ede1a3c18eba221d52c388ab0e854336acb25336081dc7cbbb96a54b9a054059a85fb&scene=21#wechat_redirect)
 - [本科毕业两年了，今年要不要考研？或者考教师编？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493547&idx=2&sn=844cfe9e9a77bd5feecb265988bf231e&chksm=e96e4c6ade19c57c1594b8e37029438667b3ff439ac316cd3fcd7cb90356895d4846f9244d64&scene=21#wechat_redirect)
 - [女朋友为何不支持我考研？老公为什么反对我读 MBA？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495522&idx=1&sn=12563a64d40eda5c050d7d661d77bb95&chksm=e96e44a3de19cdb53916d8c269493dd533f352bd1b80707fd979762805ad9a8e850db1767d53&scene=21#wechat_redirect)
-- {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
-- {% post_link 01学历不重要？能力更重要？/大专应届生去上海求职，有无竞争力？月薪大概几千？ %}
-- {% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
 
 ## **【02, 什么是中国的职业规划？】**
 
+- 🔴 {% post_link 02什么是中国的职业规划？/你是刘备，但你也是诸葛亮 %}
+- {% post_link 02什么是中国的职业规划？/独生女的职业规划 %}
+- {% post_link 02什么是中国的职业规划？/所谓的职业规划，大多数是骗人 %}
 - [违约金，到底要不要交？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484766&idx=1&sn=6c6631c58a248c5b6ca84a79a5fd30cd&chksm=e96dae9fde1a27892111d50c3abb275c2269010689245482f65b18f041ab3ef8c5df79da43c9&scene=21#wechat_redirect)
 - [应届生，为何愿意交违约金？那 Offer 中的违约金呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485401&idx=1&sn=a0df10258802e7b2aac59c8860e92189&chksm=e96dac18de1a250e08cb6162633ed28d85c272ca0dc0e8cad67265cf363e207e84bd44b233e0&scene=21#wechat_redirect)
 - [MBTI 测试，真的有用吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484786&idx=1&sn=74910de92aecc9c2dbcf221400192876&chksm=e96daeb3de1a27a54f04f7e3ca9842e79df993c1ba53d670afc9eb5fbc00a961a18639a1c5b0&scene=21#wechat_redirect)
@@ -91,8 +93,6 @@ sticky: 100
 - [鸡汤，为何是自媒体时代的硬通货？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486630&idx=1&sn=5d9008fa65ca8811d9ece6142fa25a28&chksm=e96da767de1a2e7196b1989aeec263748d05ceeb310d26d992cf488fb289c5c0e92c528d1782&scene=21#wechat_redirect)
 
 - [体制内跳出来，进入体制外，有哪些特点？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497581&idx=2&sn=00f7ba4b17086c905dcfdc0f9f0cbe61&chksm=e96e5cacde19d5ba2a091821e9ebcd154dffdf748c678857a27d42429e79c54c3d55658e6ebe&scene=21#wechat_redirect)
-- {% post_link 02什么是中国的职业规划？/独生女的职业规划 %}
-- {% post_link 02什么是中国的职业规划？/所谓的职业规划，大多数是骗人 %}
 
 ## **【03, 如何选城市？】**
 
@@ -303,6 +303,7 @@ sticky: 100
 
 ## **【08, 简历制作秘笈】**
 
+- 🔴 {% post_link 08简历制作秘笈/短暂的工作经历，要不要写进简历中去 %}
 - 🔴[教你如何做简历](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484682&idx=1&sn=4e069e22e8f60b3f488bca7d7bd41a8c&chksm=e96daecbde1a27dd4125f4263034dcedd38027dc55e08cd32e800c595124454ed0c56a1fedf9&scene=21#wechat_redirect)
 - [你值得拥有：十几个精选简历模板](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484859&idx=1&sn=8451c52d014e265209e547de42244b1b&chksm=e96dae7ade1a276ced5d4153bc5857b5eae3c3b26edf2821b4f8aee861bed6e35453c8df6450&scene=21#wechat_redirect)
 - [简历上能不能写创业经历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485004&idx=1&sn=3267db041c9400a0b860280ddf1f5658&chksm=e96dad8dde1a249bd9b5e473109ea64ced5cc153552b06e8b3585968168d460d618bb33a6f89&scene=21#wechat_redirect)
@@ -313,9 +314,6 @@ sticky: 100
 - [简历上是否应该写意向职位？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487883&idx=2&sn=8a024b1b65336a5f87b8681a1966ff91&chksm=e96dba4ade1a335cc2e19a3bbb40adc4af06f3d84e67f7bbad6a9abb47c0b14935c9b9025fdd&scene=21#wechat_redirect)
 - [简历应该如何修改，才更漂亮？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492061&idx=2&sn=d129db109857113e1ebdf743db2f1f1f&chksm=e96e4a1cde19c30a74745cabfce95bcedf84997d94d30559f73bcc115b445aaeb637832dda85&scene=21#wechat_redirect)
 - [如何写出一份优秀的英文简历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492200&idx=2&sn=94510c8dc796bff25059358e7094d79e&chksm=e96e49a9de19c0bffab3959892022728257b5c0d6e01a65a96a0a7fe04df22aafc65ff570e25&scene=21#wechat_redirect)
-
-- 🔴[短暂的工作经历，要不要写进简历中去？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493193&idx=2&sn=5ee74cc81c2ce41b444f9d8e98af3709&chksm=e96e4d88de19c49e954da54e829acef6c1b93a9a7ad1b85470f47d402fae599db7ab711b0063&scene=21#wechat_redirect)
-
 - 🔴[简历合并原则](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497403&idx=1&sn=cd98c3abd74e46d1f6cfc815b7890173&chksm=e96e5d7ade19d46c820928eba291489d1b5828aac3bbfeb3169c3ffb318f59da4941222a61e8&scene=21#wechat_redirect)
 
 ## **【09, 简历投递秘笈】**
@@ -435,6 +433,9 @@ sticky: 100
 - {% post_link 11工资行情和Offer谈判/提出加薪后，领导一般是答应还是拒绝 %}
 - {% post_link 11工资行情和Offer谈判/跳槽涨薪50%甚至翻倍，为何他们能做到 %}
 - {% post_link 11工资行情和Offer谈判/我现在才月薪5千，该如何跟华为、美团、头条等大厂谈工资 %}
+- {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
+- {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
+
 
 - [如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
 - [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)
@@ -569,14 +570,15 @@ sticky: 100
 ## **【14, 试用期和转正】**
 
 - 🔴 {% post_link 14试用期和转正/我没有离职证明，新公司又要，怎么办？ %}
-- [试用期内，为何也要继续找工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484938&idx=1&sn=ea3f019c543b3c70000602ff44531555&chksm=e96dadcbde1a24dd0f2ffba1718183f37baff7ed98174c2ec707ca2727a74ca68358e1d42709&scene=21#wechat_redirect)
+- 🔴 {% post_link 14试用期和转正/碰到“无法完成的任务”，我该怎么办 %}
+- {% post_link 14试用期和转正/试用期内继续求职的话，简历如何写 %}
+- {% post_link 14试用期和转正/试用期内，为何一定要继续找工作 %}
 - [找工作，要拆掉思维里的墙！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484945&idx=1&sn=5fd5271f063d11192a2b01ff7dad5bff&chksm=e96dadd0de1a24c6ede06b5eed4912686542ccebc68c5d1402535e744d7ba4097842b0d0569c&scene=21#wechat_redirect)
 - [劳动合同期是长一点好，还是短一点好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487979&idx=2&sn=bed22ca63a0decdd08f26f570e1d135c&chksm=e96dba2ade1a333c3d719d138199f0f8aef943d65175fb180f58ac763dfd1d83ec7436d42922&scene=21#wechat_redirect)
 - [从月薪 1 千到 5 万，看整个过程中的每次新工作入职](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487872&idx=2&sn=1dd80287112c65d795730f1c6331dc71&chksm=e96dba41de1a33571656fd372ea46fc1fd253168432e7c682e67c544c602be5925740129ba96&scene=21#wechat_redirect)
 - 🔴[刚入职又来了面试电话，我是说自己在职还是已离职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488217&idx=1&sn=5cd37e1c1d863cb6e556ee5dae4f3a3e&chksm=e96db918de1a300e251d5180c61ab20ba8e02282caf86ea1f764b931b12a14a2f634f4e0e66d&scene=21#wechat_redirect)
 - 🔴[新工作入职指南](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487493&idx=1&sn=a9886da0367d33187794b9909753bf8d&chksm=e96dbbc4de1a32d2294275309ca9210e26c3aab7fb2d8e1f7d62016bb042837631c372c4c2dc&scene=21#wechat_redirect)
 - [第一个 Offer 下周一报到，第二家说下周发 Offer，我怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485700&idx=2&sn=2f50f2f8935be9e0a79bfeff0cac2e37&chksm=e96da2c5de1a2bd317c6f15cb02cb8c5280631ec01788c17a97473b3f7b18256a83e36ad876d&scene=21#wechat_redirect)
-- [试用期内继续求职的话，简历如何写？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485151&idx=1&sn=400f30075247b9f65dbb40230d994025&chksm=e96dad1ede1a2408c60d432688cfe593de44129d361a859971aacc55161acaf50c69e98c0214&scene=21#wechat_redirect)
 - [这 4 种情况下，得赶紧找工作](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484821&idx=1&sn=a4fa0e52c5f7d79b6241d7f7db9f74d6&chksm=e96dae54de1a274253d600daa8d951785ac7f99f5c2ebf9e9dd44eb4352e6d668d5999fc20bf&scene=21#wechat_redirect)
 - [什么样的新人容易留下来?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487088&idx=1&sn=c6e30a53c1712aaf01d7aef7cf6ca45f&chksm=e96da5b1de1a2ca76024b2488c8d26a9ec8127a7a6bcb0941f846385341264daa5a0e9497fad&scene=21#wechat_redirect)
 
@@ -666,18 +668,19 @@ sticky: 100
 
 ## **【18, 职业性格和星座】**
 
-- [夏天出生的人，适合什么工作？冬天呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484495&idx=1&sn=0406e964a4154a85763396d77e4b95c8&chksm=e96daf8ede1a2698b01e7db3f910088ca28bc6efe1de1f499fc4f64e6226b9c91908ecf3ff4d&scene=21#wechat_redirect)
-- [3 月底 4 月初出生的人，适合什么工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484546&idx=1&sn=cb41e40a872772993e707bfeeadabc3f&chksm=e96daf43de1a2655d2c88636f622c4aa0c5e3b7f1c74322d7b5d064211bdc9e4f3e28f94ce88&scene=21#wechat_redirect)
-- [狮子与职场](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485195&idx=1&sn=ec6b7504e9055427f544da9561426115&chksm=e96daccade1a25dc6d82e562cbc52aa4fb6b82af81228e5811aea8405a8912da4bbf4e7c8716&scene=21#wechat_redirect)
-- [秋天出生的人，适合什么工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484999&idx=1&sn=b014330f9f9f5709ba135f0779b03361&chksm=e96dad86de1a24905781d90e9df5a4305a2621f66c0efd7fdaa083e821d8bcf0ab45229f1d20&scene=21#wechat_redirect)
+- 🔴 {% post_link 18职业性格和星座/面试官有没有可能挑剔求职者的星座 %}
+- {% post_link 18职业性格和星座/夏天出生的人，适合什么工作？冬天呢 %}
+- {% post_link 18职业性格和星座/3 月底 4 月初出生的人，适合什么工作 %}
+- {% post_link 18职业性格和星座/狮子与职场 %}
+- {% post_link 18职业性格和星座/秋天出生的人，适合什么工作 %}
 - [星座跟职场，到底有没有关系？（今年第一次做媒人）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485182&idx=1&sn=fdd91aaede31a5f94548559d58dee4c0&chksm=e96dad3fde1a24299d1624b9a6228e1cfeb21982bf8cec4b111cae77856d28a02ed60145c7c8&scene=21#wechat_redirect)
 - [哪些同事报复心很强？挨个看一下！（1/2）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484716&idx=1&sn=dcd84b78ea07bc30495483e54d255845&chksm=e96daeedde1a27fb0a9529999c6a88214018f1a75bb97c3fb66e413a942db13be0f4ae48db06&scene=21#wechat_redirect)
 - [哪些同事报复心很强？挨个看一下！（2/2）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484722&idx=1&sn=2b6a389e8035e379067a8c60ff18bab7&chksm=e96daef3de1a27e5c5775d45093ea3d5cd5075729ffc4130b6f3518ab0c72615915cb0db177e&scene=21#wechat_redirect)
-- 🔴[面试官有没有可能挑剔求职者的星座？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493208&idx=2&sn=ca9b08a3a23705f49c7cf89b662c8ba0&chksm=e96e4d99de19c48f238819fc9919dc0beb96ecd8c6c267db48feb66c5349dadd2dc10c17958f&scene=21#wechat_redirect)
 
 ## **【19, 如何跟领导相处？】**
 
 - 🔴 {% post_link 19如何跟领导相处？/空降来了新领导，我该怎么办？ %}
+- 🔴 {% post_link 19如何跟领导相处？/总监跨过经理直接给我安排任务，我该听谁的 %}
 - {% post_link 19如何跟领导相处？/刚入职3个月，招我进来的经理被干掉了，我该怎么办？ %}
 - {% post_link 19如何跟领导相处？/空降领导，如何坐稳江山？ %}
 - 🔴[必修课：如何跟女领导相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484653&idx=1&sn=c71fdf86c92f7b42af6a5ada7a029a71&chksm=e96daf2cde1a263a4f582d6a560f70db0d8c2672359129f1c27bfa68af664c72527b10e95f71&scene=21#wechat_redirect)
@@ -744,7 +747,7 @@ sticky: 100
 
 ## **【21, 同事如何相处？】**
 
-- 🔴 {% post_link 21同事如何相处？/当有人跟你说“我对事不对人”时，你要小心了！ %}
+- 🔴 {% post_link 21同事如何相处？/当有人跟你说“我对事不对人”时，你要小心了 %}
 - 🔴 {% post_link 21同事如何相处？/领导如何搞走员工？（内心不强大者不要看） %}
 - 🔴 {% post_link 21同事如何相处？/工作中，如何让不配合的人配合？ %}
 - {% post_link 21同事如何相处？/同事都比我学历高，我该怎么办？ %}
@@ -789,7 +792,7 @@ sticky: 100
 
 ## **【22, 汽车行业专题】**
 
-- 🔴[汽车行业的工资，比其他行业大概高多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484862&idx=1&sn=7ecaf12230713d61f2ac6d98fe875958&chksm=e96dae7fde1a2769da29634c0e924a37b333c62afe90a67caaa4731e50234864fa50275fd9d7&scene=21#wechat_redirect)
+- 🔴 {% post_link 22汽车行业专题/汽车行业的工资，比其他行业大概高多少 %}
 - [汽车行业是整个制造业的标杆](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484076&idx=1&sn=a7ee282121a9943207d5518958960ced&chksm=e96da96dde1a207b8ceb4bb05c94dd26319ca46272513be15efa09f53c8f066998f4d39ca5de&scene=21#wechat_redirect)
 - [说一下跳到德尔福的经历：进了汽车行业，也是工资增幅最大的一次](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484230&idx=1&sn=7cccb56cae8d8becf4da10327db8e754&chksm=e96da887de1a2191d46545dd99401ea82d61abc980fba94e9c54594d2a8f55210918dc306485&scene=21#wechat_redirect)
 - [两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484370&idx=1&sn=f58475b57a6a470e74b641caee8c5e54&chksm=e96da813de1a21059a18d14e547aaf577eeadabfc7e977a1a4af2c4e3a5a365272639ad46bf8&scene=21#wechat_redirect)
@@ -815,6 +818,7 @@ TODO move to 23 folder
 
 ## **【24, 房产私房菜】**
 
+- 🔴 {% post_link 24房产私房菜/为什么不要贸然投资房产 %}
 - [房产税，能遏制高房价吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484726&idx=1&sn=6929f7742992e6575ef81a53b5a7c8ae&chksm=e96daef7de1a27e139c792d9fde05b041406f0f28999f336a072f2d30e51a6b24889d2ca9707&scene=21#wechat_redirect)
 - 🔴[第一套房，首付款一般是怎么来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484645&idx=1&sn=681cf1f454d9e735922c1c4316e73111&chksm=e96daf24de1a2632a2b878581d0795c21b6c2cfc4c711daf55446d9078a1302d711559a90015&scene=21#wechat_redirect)
 - 🔴[打工，如何才能买车买房？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484632&idx=1&sn=11e57ee8e6bb66fb933875d0d54e5777&chksm=e96daf19de1a260fce782961ccf5d7c9fb97ec0b0b934a5e617fc1e88720750f7a5c0f8784f5&scene=21#wechat_redirect)
@@ -841,15 +845,13 @@ TODO move to 23 folder
 - [女孩买婚前第一套房，如何向亲戚借钱才能提高成功概率？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489980&idx=2&sn=e0ad36fe9b9e2fc5f7b4d766f522daba&chksm=e96db27dde1a3b6bc806a0f6c15db0d389c0307fa569d5d5016b002194fa0da44bbdc8f237fa&scene=21#wechat_redirect)
 
 - 🔴[大城市真实的房价大概多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492043&idx=2&sn=7b423e0030df7aadd91c8d892e0efee1&chksm=e96e4a0ade19c31c99483723be56a7fea4ca4cfa9d75ee95a1f1cca4da57161a5545968dde9f&scene=21#wechat_redirect)
-
-- 🔴[为什么不要贸然投资房产？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492290&idx=1&sn=50c2ac4c45b628b205352611b8fcd420&chksm=e96e4903de19c0157cf01ebff5e2aef51990783b0025379bc8275ba6ed8ee157b7e076a9fb5c&scene=21#wechat_redirect)
-
 - [借钱，有没有什么优先顺序？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496019&idx=2&sn=c46c571fde32085f9874c7b493a21861&chksm=e96e5a92de19d3842bc98b26b623a0bcf739cf74f4f03db4941469a10121d5441dbba0e05bfc&scene=21#wechat_redirect)
 
 - [贷款尚未还清的房子，可以卖吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496304&idx=1&sn=03326263b9e844675509733fa913e0da&chksm=e96e59b1de19d0a78caadafccae88c9e2ea844d20ca958c5b1ca1869edbcfc4a0e280c088803&scene=21#wechat_redirect)
 
 ## **【25, 年代秀&**真人秀**】**
 
+- 🔴 {% post_link 25年代秀&真人秀/十八年的上海外企白领之路 %}
 - [年代秀：10 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484294&idx=1&sn=35ce071b9073a0b280b645e8398e4678&chksm=e96da847de1a2151c7032408f97726bba3cebd9cb31ba9a1a18959c3136d78d9d3f3d0c54c18&scene=21#wechat_redirect)
 - [年代秀：00 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484291&idx=1&sn=e3ea1585fef45024d8da88f5a82ca3d9&chksm=e96da842de1a215429c7667b7f208dac43f96caec35197d4fab450e55cdc79b2a51acd7ecf7c&scene=21#wechat_redirect)
 - [年代秀：90 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484289&idx=1&sn=4ed7976c9ddd636ed67354112dcf2de8&chksm=e96da840de1a21561d7f521ac374973e3fd3091bfea2971ea7926699c60cd5270bef5d670411&scene=21#wechat_redirect)
@@ -870,9 +872,6 @@ TODO move to 23 folder
 - [职场秀：流氓焊工的心路历程，是什么样子的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484586&idx=1&sn=8848ecd3af3e3888018aae4eded42365&chksm=e96daf6bde1a267d918d6772ef521b793b16a62a178b7130e42842ed2fa2211bd8fdadf18f01&scene=21#wechat_redirect)
 
 - 🔴[职场秀：武汉的工资，为何这么低？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484665&idx=1&sn=d8ec238fa78cc1abdb617d70f5ce51a9&chksm=e96daf38de1a262e8d3e04a42a17d0342f8279cb392e5beb43eb7b6e9a859dca2d0bc168dac5&scene=21#wechat_redirect)
-
-- 🔴[职场秀：十八年的上海外企白领之路](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484847&idx=1&sn=6ed1d1c2ee8a2e15b2d745347ffa27ef&chksm=e96dae6ede1a27786fc0fa0f2e6f4694818f90612e47286e0894534ea64a3b529e695b260bc8&scene=21#wechat_redirect)
-
 - [职场秀：大学生在酒吧打工，是什么样的亲身体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484764&idx=1&sn=8bcccb7780a3c16efd3901987a54d632&chksm=e96dae9dde1a278b60b815ca79d701e0ea18447b0f3dc75e56abeb2ce61a9a4cb09837dd50bc&scene=21#wechat_redirect)
 
 - [职场秀：本命年的注意点](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484790&idx=1&sn=dbc9b043d042b89971667912b97fbe1d&chksm=e96daeb7de1a27a1af568ed51e2a06c1439b680d945bd7e03d573bf67303949813cfe95b6526&scene=21#wechat_redirect)
@@ -903,6 +902,7 @@ TODO move to 23 folder
 
 ## **【26, 副业和财务自由】**
 
+- 🔴 {% post_link 26副业和财务自由/接下来56个风口行业，让你受益终生 %}
 - [申请信用贷款，居然是这样的，千万要注意！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484510&idx=1&sn=6bd31a303c52cffe3947c39cb4833eca&chksm=e96daf9fde1a2689afd3a4d70edd5c191e4ce2bd4ba48ed7b14d0097a265d099b354994d76e6&scene=21#wechat_redirect)
 - [分期手续费大不同：微粒贷万五，借呗万三，工行、建行万几呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484609&idx=1&sn=0b2c74e5289a51e9f853bd2ab124bdbc&chksm=e96daf00de1a2616b372b58eb6b32b9ab22f1543952b490797802e9bc2967fcc417f7f805314&scene=21#wechat_redirect)
 - [哪家银行信用卡分期好一点？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485796&idx=1&sn=c7cbc73a77fa4d6d8cd1c017941dc40a&chksm=e96da2a5de1a2bb3e59287dde85cad6c406b9143cfa23fc6dc637e9c13904d623f2e79e2b921&scene=21#wechat_redirect)
@@ -912,7 +912,6 @@ TODO move to 23 folder
 - [理财 APP，该卸载的可以卸载了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485089&idx=1&sn=bead6c8e42e482eee4fdf268da5abd32&chksm=e96dad60de1a247643d41c2f2beffc43a9038a7322fd76351f28e491120f84eae21e656864ac&scene=21#wechat_redirect)
 - [财务自由的标准，你到了哪一步？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484658&idx=1&sn=1a8f38d2b2007db9d0197e59a4d8b8e2&chksm=e96daf33de1a26253e506473d3039d5b4e376ee112e9a7910e58fc3ae8dd35b1e6577ae9f83c&scene=21#wechat_redirect)
 - 🔴[准备借 20 万加盟一个奶茶店，行不行？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484651&idx=1&sn=c0bb58862d5f14cc55b3d972849d0f1f&chksm=e96daf2ade1a263cb31edf9866db67aa5f06b5844f44030f8ca4127873ac9c6bebd4fdd573d7&scene=21#wechat_redirect)
-- 🔴[接下来 56 个风口行业，让你受益终生！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484641&idx=1&sn=92c950ba54f657f795f158543f18f2a0&chksm=e96daf20de1a2636aba1d0b4b38c183d4faed0c5f968b29329d7395c7c1d694ba1b3104b5d4f&scene=21#wechat_redirect)
 - [创业做老板，最缺的是什么？是资金吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484593&idx=1&sn=35b5782c16b3dc1787921572b2ad6306&chksm=e96daf70de1a26660b4018d9291d2a0a0e5dc21674a6fab4d451a6131e27e0e0d76debf967c0&scene=21#wechat_redirect)
 
 - [手把手教你，开发自己的副业！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484553&idx=1&sn=0243375b656c207674094be02cb9354b&chksm=e96daf48de1a265edc47af7e5f9393a64772a57beed4ec68e1f683b55637744941e2eb72aa0c&scene=21#wechat_redirect)
@@ -986,7 +985,10 @@ TODO move to 23 folder
 - 🔴 {% post_link 27职场生活技艺/什么是三季人，如何应对三季人？ %}
 - 🔴 {% post_link 27职场生活技艺/没有管过人，如何证明自己管过人？ %}
 - 🔴 {% post_link 27职场生活技艺/普通职员到主管或领导的标志 %}
-- {% post_link 27职场生活技艺/当有人跟你说“我对事不对人”时，你要小心了 %}
+- 🔴 {% post_link 27职场生活技艺/同事跟领导吵架，大领导来找我调查，我如何应对 %}
+- {% post_link 27职场生活技艺/心得分享：在上海工作生活了4年，我从未损失过一天的房租 %}
+- {% post_link 27职场生活技艺/租房心得 %}
+- {% post_link 27职场生活技艺/职业人生中的情绪成本 %}
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
 - [学会取名：你的英文名叫什么？网名呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484643&idx=1&sn=6499e4dc1427fd983c17cda0761ddc04&chksm=e96daf22de1a2634dbb0eb3742522f4689be351a5937c776814be8ab97ef4c56b30e7e6dbf0c&scene=21#wechat_redirect)
 - [春节后，头脑为何会发热？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484625&idx=1&sn=809a923765f82b34000f7bea14fd5a8d&chksm=e96daf10de1a260629e1fb8ecd9eeaf9470622cafa3ec3dc2156b6ec47f033e6518ff510ce17&scene=21#wechat_redirect)
@@ -1050,6 +1052,7 @@ TODO move to 23 folder
 
 ## **【28, 宏观职场】**
 
+- 🔴 {% post_link 28宏观职场/拜登若当选，对普通中国职场人，有什么影响 %}
 - [中美贸易战，对普通职场人有什么影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484703&idx=1&sn=d1ad51e905effdb506c90f20716a43ab&chksm=e96daedede1a27c898f3ab5dc7563a44199c5b5c31ae8b862f26a8c208bcc5b0c88c9eb899a7&scene=21#wechat_redirect)
 - [亚洲的贫富差距，在全球处于什么位置？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484573&idx=1&sn=d14ff7eb0dcb0e0e742705e92264d793&chksm=e96daf5cde1a264a5bc5cb0a993ed598cac24d5933178dae85e4bd169e98a3f455554ec1108a&scene=21#wechat_redirect)
 - [S-400 是啥，中文名叫什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484555&idx=1&sn=556fdcf347d00111ce4d287f7d32b238&chksm=e96daf4ade1a265c410e2dd9fc3a814440a20fd8c6f15ea8889fa02e399a736cc0e1fe2e7e87&scene=21#wechat_redirect)
@@ -1064,9 +1067,6 @@ TODO move to 23 folder
 - [从客观的角度，看非典的影响](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489106&idx=2&sn=fc38bc8f635c8d645a0a2ac8bdfaa4e5&chksm=e96dbd93de1a3485408f546dfff5238592ab7e68dcb464f1d11380544350427f473f3afb28b6&scene=21#wechat_redirect)
 
 - [2020 中国经济增长率，大概多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490106&idx=2&sn=2ba6679234e7c6c82f678534043a0470&chksm=e96db1fbde1a38ed9167aa9bac0c6960299f7e9f3b203e26c2be7df043859b8cfe706bb391bc&scene=21#wechat_redirect)
-
-- 🔴[拜登若当选，对普通中国职场人，有什么影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495148&idx=2&sn=be1a39ad75bebd4cf7355438af2a4ba8&chksm=e96e462dde19cf3b68446832ba50862198a63f358941fd8d9ccaa51df09033d251f7b7aee048&scene=21#wechat_redirect)
-
 - [看下海归回国以及当前国内的宏观就业情况](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495868&idx=1&sn=9686c14748df61ff59fd2818eb1eda26&chksm=e96e5b7dde19d26b2af73eaf0fdf2cd563515c5b8632c5644543cc3df956783da468efda7f55&scene=21#wechat_redirect)
 
 ## **【29, 势商和人生规划】**
@@ -1074,13 +1074,22 @@ TODO move to 23 folder
 - 🔴 {% post_link 29势商和人生规划/普通人年薪突破30万的6个方法 %}
 - 🔴 {% post_link 29势商和人生规划/成为百万年薪职业经理人的5个步骤eg1 %}
 - 🔴 {% post_link 29势商和人生规划/普通职场人达到年薪100万的8个方法eg2 %}
-- 🔴 {% post_link 02什么是中国的职业规划？/你是刘备，但你也是诸葛亮 %}
 - 🔴 {% post_link 29势商和人生规划/普通人的逆袭之路 %}
+- 🔴 {% post_link 29势商和人生规划/普通人三种职业之路的选择 %}
 - 🔴 {% post_link 29势商和人生规划/普通人，如何发展事业 %}
+
 - {% post_link 29势商和人生规划/普通职员如何在2年内做到经理，并实现工资翻番？ %}
 - {% post_link 29势商和人生规划/选择定居城市的基本方法 %}
 - {% post_link 29势商和人生规划/势商之城市篇：解决你人生中所有的城市选择问题（干货） %}
 - {% post_link 29势商和人生规划/年薪20万、30万、50万，哪个最难突破 %}
+
+- {% post_link 29势商和人生规划/反PUA的方法之一 %}
+- {% post_link 29势商和人生规划/反PUA的方法之二——请假法 %}
+- {% post_link 29势商和人生规划/被PUA了，怎么办 %}
+
+- {% post_link 29势商和人生规划/生病了，对象不关心我，怎么办？ %}
+- {% post_link 29势商和人生规划/单身未婚，找有房的对象好，还是无房的对象好 %}
+- {% post_link 29势商和人生规划/妹妹读高二，成绩不好，怎么办 %}
 
 - 🔴[月薪 6800, 处于什么水平？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484550&idx=1&sn=c36ee8749dd77ed4d455aecfae6f221a&chksm=e96daf47de1a265182da0e5a1f164d97a97c0378fb080f1bdbf4afb13e88305ffbf393d60f4f&scene=21#wechat_redirect)
 - 🔴[势商，是什么？如何提高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485713&idx=1&sn=066a1fc0c36b16461ef1f97a5852531b&chksm=e96da2d0de1a2bc6553ee292e13701546f1ac74bb6f6e9fdca23bf353f6ba005368140335678&scene=21#wechat_redirect)

@@ -8,6 +8,7 @@ menu:
   Articles||fas fa-book:
     Tags: /tags/ || fas fa-tags
     Categories: /categories/ || fas fa-folder-open
+    Daily Recommend: /daily/ || fas fa-dice
   # hide 是指默认隐藏子目录，不需要可以不加，但这里好像没有区别
   # List||fas fa-list||hide:
   Widgets||fas fa-list:
@@ -882,7 +883,20 @@ aplayer:
   style_dir: some/place # Public 目录下样式目录路径，默认: 'assets/css'
   # meting_api: http://xxx/api.php                # 自定义 Meting API 地址
   # externalLink: http://xxx/aplayer.min.js       # 老版本参数，功能与参数 cdn 相同
+hexo-tag-dplayer:
+  # DPlayer JS 文件输出路径 (默认 /assets/js/)
+  js_path: /assets/js/
 
+  # 使用 CDN 加载 DPlayer (设置后将忽略本地 js_path)
+  # cdn:
+  #   - https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js
+
+  # 默认标签参数 (所有 {% dplayer %} 标签的默认值)
+  default:
+    api: https://api.prprpr.me/dplayer/
+    theme: '#FADFA3'
+    autoplay: false
+    # 其他 DPlayer 选项...
 # Snackbar (Toast Notification 彈窗)
 # https://github.com/polonel/SnackBar
 # position 彈窗位置

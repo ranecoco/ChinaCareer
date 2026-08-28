@@ -1,5 +1,5 @@
 ---
-date: 2024-11-18T23:03:46 (UTC +08:00)
+date: 2020-11-01 00:00
 update: 2026-08-23 23:00
 title: 中国职场宝典6.0
 cover: 1.jpg
@@ -7,10 +7,7 @@ description: 工作只需20年
 tags: [Career]
 categories: 00. 工作只需20年
 sticky: 100
----
-
-# 中国职场宝典 6.0
-
+recommend: false
 ---
 
 原创 幽哥 [职场蛙](<javascript:void(0);>) _2020 年 11 月 01 日 00:00_
@@ -176,13 +173,15 @@ sticky: 100
 - 🔴 {% post_link 05如何选企业/美国公司跟欧洲公司，有啥区别？ %}
 - 🔴 {% post_link 05如何选企业/英语不好，如何混外企？ %}
 - 🔴 {% post_link 05如何选企业/如何面对996工作制？ %}
+- 🔴 {% post_link 05如何选企业/究竟是进外企好还是内资企业好 %}
+- 🔴 {% post_link 05如何选企业/内资和外资，哪个“搞人”更厉害 %}
 - {% post_link 05如何选企业/这类公司，入职需谨慎 %}
+- {% post_link 05如何选企业/单位内斗，输了，怎么办？去民企会不会好一点 %}
 - [BAT 之后，哪几家会成为下一个 BAT？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484561&idx=1&sn=21fe3d46cedba41c8244256e258d1559&chksm=e96daf50de1a26469723138872e9c29fcb3ff037c265b6cb83b0c88b4ae16a21cf3df31e7af2&scene=21#wechat_redirect)
 - 🔴[为何尽量别去创业公司？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484543&idx=1&sn=f08688bf4d784b5863f2da21a00d8ede&chksm=e96dafbede1a26a82dddaf2a34370ab26fbe84ebb76c5bc7e28d357a201de9c2fd9048f20b63&scene=21#wechat_redirect)
 - 🔴[亲戚家的小公司能不能去？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484516&idx=1&sn=d30f6dab8676e9c440ca0b976148a3b5&chksm=e96dafa5de1a26b3fd3ff1076cdf9718f721fcfd19c91db2704d9ccc68b83b8dd29931f34035&scene=21#wechat_redirect)
 - [小公司可以学到东西？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486890&idx=1&sn=9f5349d632be0d82a1dec10d0c0b5a74&chksm=e96da66bde1a2f7d319a9a48aed3a7910f7736a8460233981d01a61964720fd2b0d59a37ac71&scene=21#wechat_redirect)
 - [这就是传销！亲身经历，找工作的人注意了！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484505&idx=1&sn=ef83d18e83ebc67cf05d513b4d83573e&chksm=e96daf98de1a268ed1221dd613cabf4499fc779582b2c9dc536a891be5bcdab3b79fef73374d&scene=21#wechat_redirect)
-- [单位内斗，输了，怎么办？去民企会不会好一点？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484476&idx=1&sn=d11dc7e58f1c55f7df9bbe30bfa97299&chksm=e96daffdde1a26eb77061a1cffde318c8146731b74569e7295cff472feb5a342c10ade417527&scene=21#wechat_redirect)
 - [本科毕业不到 2 年，她是如何进入星巴克高大上中国总部的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484423&idx=1&sn=691967d5cdf5a06b4be3bad3fb50f1fa&chksm=e96dafc6de1a26d06c40b590fd6516e1378ff660363f904b70faca5400b74c2d8f1451659ab7&scene=21#wechat_redirect)
 - [哪个靠谱？“同学那工资高让去”“老乡拉我创业”“亲戚公司缺人”，是不是坑？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484394&idx=1&sn=b9ec0abc440bcda2280dfcf84c42f630&chksm=e96da82bde1a213dede005863a8288cad7f69192bcc8e73590156ae41079095d3327d5c74318&scene=21#wechat_redirect)
 - [两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484370&idx=1&sn=f58475b57a6a470e74b641caee8c5e54&chksm=e96da813de1a21059a18d14e547aaf577eeadabfc7e977a1a4af2c4e3a5a365272639ad46bf8&scene=21#wechat_redirect)
@@ -192,8 +191,6 @@ sticky: 100
 
 - 🔴[绝招：如何选 Offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484500&idx=1&sn=4fd164852d2be6a059806992ec414836&chksm=e96daf95de1a268382a5221dd687edc60cb2ee03695147f4c8529a4effb9704b66e1326a8d98&scene=21#wechat_redirect)
 
-- 🔴[内资和外资，哪个“搞人”更厉害？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484853&idx=1&sn=4ee2f3c8cf1d5ea6bcf7f7b9225feb21&chksm=e96dae74de1a2762cfb31f5e041f89a42b029c05a8e5578bedfef0709dea1a38032118bab264&scene=21#wechat_redirect)
-
 - [等到领导退休自己才能上去，猴年马月呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484892&idx=1&sn=0335a6f596edb77d398b1d598e9d2ef2&chksm=e96dae1dde1a270b917a80db40378360493cbee90f4925c3ae8306b77763da10bac48ae0af2a&scene=21#wechat_redirect)
 
 - [为何很多人说国企工资低？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485024&idx=1&sn=44274138acb866053e481bed1e0042ea&chksm=e96dada1de1a24b7c2736d201be484163dbe5b447b922416832110bf7c04124810e9c17f03a2&scene=21#wechat_redirect)
@@ -201,9 +198,6 @@ sticky: 100
 - [七险二金，这么好的待遇为何还辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485026&idx=1&sn=646824fec7a754257e66eb49676e4429&chksm=e96dada3de1a24b558f94c53a9fcea0cdfb2100da476dc33d175cc0f45d04a895e5cc9c556c5&scene=21#wechat_redirect)
 
 - [40 年的职业生涯告诉你：进什么样的公司才好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485122&idx=1&sn=2952b6c71dcfd7be7ebb35ceac18ac82&chksm=e96dad03de1a24153363dd925b32bf0fef997b5d1fed82bd9d838be9f6b62cee07e931bc55bf&scene=21#wechat_redirect)
-
-- 🔴[究竟是进外企好还是内资企业好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485125&idx=1&sn=ca57ba34d547b7e3a998e3144f1a55b2&chksm=e96dad04de1a24127d6b19263939ab155803d778c06eb283f8ef4c387d201a43ef6afddc561d&scene=21#wechat_redirect)
-
 
 - 🔴[小公司能学到东西？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485480&idx=1&sn=e759b084a4558b1f43559a31a4f23985&chksm=e96da3e9de1a2aff16600be8bd5bd4244065486ee92197ee512c00cb14cbe40c86e3508b82dd&scene=21#wechat_redirect)
 
@@ -542,6 +536,7 @@ sticky: 100
 - 🔴 {% post_link 13背景调查/背景调查全攻略（不能听HR的，否则很惨） %}
 - 🔴 {% post_link 13背景调查/什么程度的简历造假，过不了背景调查？(背调珍藏版) %}
 - {% post_link 13背景调查/多写了半年经验，已收到的腾讯offer会被毙掉吗 %}
+- {% post_link 13背景调查/我为什么拒绝回答背景调查问题 %}
 - [我就一小职员，为何入职也要做背景调查？究竟调查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484396&idx=1&sn=5f8366746c382b1df8aa8a7fc6c6a9a0&chksm=e96da82dde1a213bb2a3deb64a18304651612dc41b39ec36f4157af718d11a23455a3dc7a7c8&scene=21#wechat_redirect)
 - [简历上学历造假了，怎么办？能混过去不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484353&idx=1&sn=ec448101112960a42414f98ad45af38b&chksm=e96da800de1a21168a1fa5cd4d7de8fbdba55e4d4e6f04a04ba45a73eab1b95f64d115820657&scene=21#wechat_redirect)
 - [背景调查一般在什么时候开始做？谁做？查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484351&idx=1&sn=558e22fadeebc0004a71af4ace78f6a4&chksm=e96da87ede1a2168125d88c03080222ec3e3f0652a77ab85396eedaed329ba689ba7bfcb92de&scene=21#wechat_redirect)
@@ -802,8 +797,7 @@ sticky: 100
 
 ## **【23, 采购职位入门】**
 
-TODO move to 23 folder
-- 🔴{% post_link 23采购职位入门/幽哥语音合集【1】：如何改行做采购？ %}
+- 🔴 {% post_link 23采购职位入门/幽哥语音合集【1】：如何改行做采购？ %}
 - 🔴[女孩是做人事，会计，还是做采购好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484567&idx=1&sn=e0f16129fa7b929aa033d8ad05c38245&chksm=e96daf56de1a2640db144417197166d6cb1a9d3361e1c5870d29dc22f6acf6c9e94c8f497d63&scene=21#wechat_redirect)
 - [刚毕业时，我为何打死也不做采购员？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484623&idx=1&sn=2d5f006a8f446cc298208bfa32d5c0c6&chksm=e96daf0ede1a2618da180afba385bf46020ae56367f682b0c386f57ec95d151d738cbd4559b9&scene=21#wechat_redirect)
 - [他，是如何转行做采购的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486092&idx=1&sn=96522ada6770eafa67227fb6a0774bc5&chksm=e96da14dde1a285b492920e7b9c086546734a1cc58f15f7764dc04ceed115bf4870ba03fc890&scene=21#wechat_redirect)
@@ -989,6 +983,7 @@ TODO move to 23 folder
 - {% post_link 27职场生活技艺/心得分享：在上海工作生活了4年，我从未损失过一天的房租 %}
 - {% post_link 27职场生活技艺/租房心得 %}
 - {% post_link 27职场生活技艺/职业人生中的情绪成本 %}
+- {% post_link 27职场生活技艺/办公室搞政治斗争，我要不要参与站队 %}
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
 - [学会取名：你的英文名叫什么？网名呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484643&idx=1&sn=6499e4dc1427fd983c17cda0761ddc04&chksm=e96daf22de1a2634dbb0eb3742522f4689be351a5937c776814be8ab97ef4c56b30e7e6dbf0c&scene=21#wechat_redirect)
 - [春节后，头脑为何会发热？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484625&idx=1&sn=809a923765f82b34000f7bea14fd5a8d&chksm=e96daf10de1a260629e1fb8ecd9eeaf9470622cafa3ec3dc2156b6ec47f033e6518ff510ce17&scene=21#wechat_redirect)
@@ -1090,6 +1085,7 @@ TODO move to 23 folder
 - {% post_link 29势商和人生规划/生病了，对象不关心我，怎么办？ %}
 - {% post_link 29势商和人生规划/单身未婚，找有房的对象好，还是无房的对象好 %}
 - {% post_link 29势商和人生规划/妹妹读高二，成绩不好，怎么办 %}
+- {% post_link 29势商和人生规划/为何有人心甘情愿被人控制 %}
 
 - 🔴[月薪 6800, 处于什么水平？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484550&idx=1&sn=c36ee8749dd77ed4d455aecfae6f221a&chksm=e96daf47de1a265182da0e5a1f164d97a97c0378fb080f1bdbf4afb13e88305ffbf393d60f4f&scene=21#wechat_redirect)
 - 🔴[势商，是什么？如何提高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485713&idx=1&sn=066a1fc0c36b16461ef1f97a5852531b&chksm=e96da2d0de1a2bc6553ee292e13701546f1ac74bb6f6e9fdca23bf353f6ba005368140335678&scene=21#wechat_redirect)
@@ -1114,7 +1110,6 @@ TODO move to 23 folder
 
 ## **【30, 职场互动】**
 
-- 🔴{% post_link 30职场互动/幽哥语音合集【1】：如何改行做采购？ %}
 - [《群友逆袭100人》之第一例](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489260&idx=2&sn=ab365ca1d5bfa1a6b67df46a81a3eb18&chksm=e96dbd2dde1a343b65d91db1c87d7362bd0a19ee05ae700085a68b4370bb90aad0498c2b0813&scene=21#wechat_redirect)
 - [职场信息交流，算不算社交？（互动版本）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484756&idx=1&sn=b5574891d79a4e50dea92ae8cf2c0df5&chksm=e96dae95de1a278342e2308c100b95c82f6a8f489810e7b5e241438ce2e8f22be55ccf11e9f7&scene=21#wechat_redirect)
 - [第一次视频互动，分享职场干货！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484760&idx=1&sn=91b5b3b6818eb906df28a91e93decf03&chksm=e96dae99de1a278f5eb5d925a805afec2bbe9635f2c6f22070b1ed11913bbaf84df729055c2a&scene=21#wechat_redirect)

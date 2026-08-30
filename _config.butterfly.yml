@@ -950,7 +950,8 @@ inject:
   head:
     - <link rel="stylesheet" href="/custom/sideBar.css">
   bottom:
-    # - <script src="/custom/cardInfo.styl"></script>
+    # didn't work,purpose is click everywhere could jump over card
+    # - <script src="/js/card_click.js"></script>
     # - <script src="https://kit.fontawesome.com/8a35a2bb32.js" crossorigin="anonymous"></script>
     # - <script src="/assets/algolia/algoliasearchLite.min.js" async></script>
 

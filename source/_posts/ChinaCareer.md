@@ -813,6 +813,8 @@ recommend: false
 ## **【24, 房产私房菜】**
 
 - 🔴 {% post_link 24房产私房菜/为什么不要贸然投资房产 %}
+- 🔴 {% post_link 24房产私房菜/房贷最长40年，相较于30年，是好是坏 %}
+
 - [房产税，能遏制高房价吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484726&idx=1&sn=6929f7742992e6575ef81a53b5a7c8ae&chksm=e96daef7de1a27e139c792d9fde05b041406f0f28999f336a072f2d30e51a6b24889d2ca9707&scene=21#wechat_redirect)
 - 🔴[第一套房，首付款一般是怎么来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484645&idx=1&sn=681cf1f454d9e735922c1c4316e73111&chksm=e96daf24de1a2632a2b878581d0795c21b6c2cfc4c711daf55446d9078a1302d711559a90015&scene=21#wechat_redirect)
 - 🔴[打工，如何才能买车买房？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484632&idx=1&sn=11e57ee8e6bb66fb933875d0d54e5777&chksm=e96daf19de1a260fce782961ccf5d7c9fb97ec0b0b934a5e617fc1e88720750f7a5c0f8784f5&scene=21#wechat_redirect)

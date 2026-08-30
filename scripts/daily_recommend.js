@@ -6,7 +6,9 @@ const path = require('path');
 // ===== 可调整参数 =====
 // 前端下拉框最大可选的推荐篇数,预取时就按这个数量抽取,
 // 前端 JS 再根据用户实际选择的数量隐藏多余部分。
-const MAX_COUNT = 10;
+const dailyConf = hexo.config.daily_recommend || {};
+const MAX_COUNT = dailyConf.max_count || 10;
+const DEFAULT_COUNT = dailyConf.default_count || 3;
 
 // 数据持久化到 source/_data 下,hexo clean 不会清掉这个目录
 const DATA_DIR = path.join(hexo.source_dir, '_data');
@@ -73,15 +75,20 @@ function getDailyRecommend(posts) {
     // 优先从"这一轮还没抽到过"的文章里选,保证抽完一轮前不重复
     let pool = allSlugs.filter(slug => !data.history.includes(slug));
 
-    // 所有文章都推荐过一轮了,清空历史重新开始新一轮
-    if (pool.length === 0) {
+    // 需求2:剩余未展示的文章数不够填满当天展示上限,直接清空历史、当新一轮重新抽
+    if (pool.length < MAX_COUNT) {
       data.history = [];
       pool = [...allSlugs];
     }
 
     const picked = shuffle(pool).slice(0, Math.min(MAX_COUNT, pool.length));
 
-    data.history.push(...picked);
+    // 需求1:只有真正凑够展示上限时才计入历史,
+    // 避免文章总数本身不足 MAX_COUNT 时历史列表被提前写满、失去轮换意义
+    if (picked.length >= MAX_COUNT) {
+      data.history.push(...picked);
+    }
+
     data.lastDate = today;
     data.today = picked;
     saveData(data);

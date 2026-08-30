@@ -1,5 +1,6 @@
 ---
-created: 2024-12-01T22:38:29 (UTC +08:00)
+date: 2024-11-30 21:17
+update: 2026-08-30 09:34
 title: 幽哥语音合集【2】：如何改行做PM、培训、安规、风控和成本审计工作？
 cover: 1.webp
 description: 幽哥语音合集【2】：如何改行做PM、培训、安规、风控和成本审计工作？
@@ -7,12 +8,8 @@ tags: [Career, Voice]
 categories: [ 30. 职场互动 ]
 source: https://mp.weixin.qq.com/s/hwtstZZsT7FfCNVTvz1Mig
 author: 幽哥
+place: Shanghai
 ---
-
-# 幽哥语音合集【2】：如何改行做PM、培训、安规、风控和成本审计工作？
-
----
-![图片](1.webp)
 
 **周末**今天大家也是听听就行了。
 

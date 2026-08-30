@@ -69,6 +69,9 @@ prismjs:
   line_number: true
   tab_replace: ""
 
+daily_recommend:
+  max_count: 10
+  default_count: 3
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)

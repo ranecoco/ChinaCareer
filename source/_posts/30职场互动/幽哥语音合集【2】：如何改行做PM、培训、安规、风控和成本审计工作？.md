@@ -6,7 +6,7 @@ cover: 1.webp
 description: 幽哥语音合集【2】：如何改行做PM、培训、安规、风控和成本审计工作？
 tags: [Career, Voice]
 categories: [ 30. 职场互动 ]
-source: https://mp.weixin.qq.com/s/hwtstZZsT7FfCNVTvz1Mig
+copyright_url: https://mp.weixin.qq.com/s/hwtstZZsT7FfCNVTvz1Mig
 author: 幽哥
 place: Shanghai
 ---

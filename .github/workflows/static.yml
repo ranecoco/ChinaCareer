@@ -1,12 +1,16 @@
 name: Deploy Hexo to GitHub Pages
 
+concurrency:
+  group: hexo-deploy
+  cancel-in-progress: false
+
 on:
   push:
     branches:
       - main # 当推送到 main 分支时触发
   schedule:
     # - cron: '0 20 * * *'   # UTC 20:00 = 北京时间 04:00
-    - cron: '40 1 * * *' 
+    - cron: '0 12 * * *' 
     #        * * * * *
     #        │ │ │ │ │
     #        │ │ │ │ └─── 星期几 (0-7, 0和7都代表周日)
@@ -30,7 +34,7 @@ jobs:
           submodules: recursive
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: "22"
 
@@ -42,6 +46,14 @@ jobs:
           npm install hexo-deployer-git --save
           npm install hexo-cli -g
 
+      - name: Restore daily recommend cache
+        uses: actions/cache@v4
+        with:
+          path: source/_data/daily-recommend.json
+          key: daily-recommend-${{ github.run_id }}
+          restore-keys: |
+            daily-recommend-
+
       - name: Clean and Generate Static Files
         run: |
           hexo clean
@@ -52,8 +64,6 @@ jobs:
           git config --global init.defaultBranch main
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git submodule init
-          git submodule update
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
@@ -64,10 +74,10 @@ jobs:
           publish_dir: ./public
           publish_branch: master
 
-      - name: Commit updated recommend data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add source/_data/daily-recommend.json
-          git diff --staged --quiet || git commit -m "chore: update daily recommend data [skip ci]"
-          git push
+      # - name: Commit updated recommend data
+      #   run: |
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add source/_data/daily-recommend.json
+      #     git diff --staged --quiet || git commit -m "chore: update daily recommend data [skip ci]"
+      #     git push

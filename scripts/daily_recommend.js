@@ -7,7 +7,7 @@ const path = require('path');
 // 前端下拉框最大可选的推荐篇数,预取时就按这个数量抽取,
 // 前端 JS 再根据用户实际选择的数量隐藏多余部分。
 const dailyConf = hexo.config.daily_recommend || {};
-const MAX_COUNT = dailyConf.max_count || 10;
+const MAX_COUNT = dailyConf.max_count || 9;
 const DEFAULT_COUNT = dailyConf.default_count || 3;
 
 // 数据持久化到 source/_data 下,hexo clean 不会清掉这个目录
@@ -88,6 +88,7 @@ function getDailyRecommend(posts) {
     if (picked.length >= MAX_COUNT) {
       data.history.push(...picked);
     }
+    console.log('[daily-recommend] pool.length:', pool.length, ' all slugs:', allSlugs.length, ' posts:', posts.length);
 
     data.lastDate = today;
     data.today = picked;
@@ -99,9 +100,9 @@ function getDailyRecommend(posts) {
 
 // 生成前预取一次,保证同一次 generate 过程里所有页面拿到的数据一致,
 // 且不会因为多次调用助手函数而被重复抽取。
-hexo.extend.filter.register('before_generate', function () {
+hexo.extend.filter.register('after_generate', function (locals) {
   const posts = hexo.locals.get('posts').toArray();
-  console.log('[daily-recommend] eligible posts:', posts.filter(isEligible).length, 'MAX_COUNT:', MAX_COUNT);
+  // console.log('[daily-recommend] eligible posts:', posts.filter(isEligible).length, 'MAX_COUNT:', MAX_COUNT);
   getDailyRecommend(posts);
 });
 

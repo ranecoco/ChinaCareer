@@ -156,6 +156,8 @@ recommend: false
 ## **【04, 如何选行业？】**
 
 - 🔴 {% post_link 04如何选行业/这样选行业，能少走10年弯路 %}
+- 🔴 {% post_link 04如何选行业/毕业几年后，不容易改行 %}
+
 - [汽车行业未来三十年预测（附企业名单）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484736&idx=1&sn=6df28618e0e22c45a8bbf3b540e1066a&chksm=e96dae81de1a279733bcc633f7f8652ca5e9f5dfe1ab1c3116161732657c4679cb4c06707176&scene=21#wechat_redirect)
 - 🔴[求职时，是选择一个公司，还是选择一个行业？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484478&idx=1&sn=5744ffa95c250d1725b260e69a5043c6&chksm=e96dafffde1a26e9acc4ff62f2a9dbee8a6daee790962563ecfe8090a6b6ff6bb51cde390959&scene=21#wechat_redirect)
 - [转行真的穷三年吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484365&idx=1&sn=46d0884b9c34b30f2e973c1012134daf&chksm=e96da80cde1a211ac1447f05b634bfdc5741a0e017ef8413b4ca805e2cd237959970433a11b8&scene=21#wechat_redirect)
@@ -163,7 +165,6 @@ recommend: false
 - 🔴[如何快速确定自己的职业方向？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484743&idx=1&sn=bd0b66117e59e220cb7ecd87051db9d3&chksm=e96dae86de1a27907c944031bb4d71b356e6baa86808f6ef59058770685d4bf9abf273e3dbb4&scene=21#wechat_redirect)
 - [选择好行业重要，还是好公司，或者好岗位更重要？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485956&idx=1&sn=13d22898b2ac29f0c3f94ae61e9e5913&chksm=e96da1c5de1a28d309cae28743ecb0d7c0623d0b68f2662eabec8579c304d9a47409a5036974&scene=21#wechat_redirect)
 - [在银行工作的好日子，到头了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484886&idx=1&sn=b878eb03abc69053ef070d598b112c1a&chksm=e96dae17de1a270191147f41e7ce92ba7741679fa375f2bad4cdca8df04b696691c1efe37e12&scene=21#wechat_redirect)
-- 🔴[毕业几年后，不容易改行？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488332&idx=1&sn=d7d951c362c268817d48af73a5fe63ec&chksm=e96db88dde1a319b8b4a6745a76df2661dec004a3e386a8547dedd97159e950997ea9669b76a&scene=21#wechat_redirect)
 - [这个行业的利润，超过了其他所有行业之和](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492391&idx=2&sn=1678283238dc68a03b4f86a75dc52269&chksm=e96e48e6de19c1f01bfc01b5587cd49536b8e53946d2fc4a0c0d570946080054bd45028450f9&scene=21#wechat_redirect)
 
 
@@ -321,6 +322,7 @@ recommend: false
 - {% post_link 09简历投递秘笈/接到面试电话我是答应明天去面试还是拖到下周一 %}
 - {% post_link 09简历投递秘笈/海投简历后，接到HR来电记不清是哪家公司了怎么办？ %}
 - {% post_link 09简历投递秘笈/如何让微软、苹果公司的HR主动联系我 %}
+- {% post_link 09简历投递秘笈/年薪40万的人求职，也是通过APP投递吗 %}
 
 - 🔴[怎样通过互联网了解一家公司？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484685&idx=1&sn=5662413179c790252c82163f2f9df8eb&chksm=e96daeccde1a27da2e87faf7c4a287af133121b68c4d0d67eb57ef54908549a264a18211a40e&scene=21#wechat_redirect)
 - [春节后，好找工作吗?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484621&idx=1&sn=4ea9b0b8fbedac503a2505bb609e98eb&chksm=e96daf0cde1a261a42f638f4715730ae44e36d5fd3d8e229eb7f6df387ccf9295e991a26f1df&scene=21#wechat_redirect)
@@ -431,7 +433,9 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/我现在才月薪5千，该如何跟华为、美团、头条等大厂谈工资 %}
 - {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
 - {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
-
+- {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
+- {% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}
+- {% post_link 11工资行情和Offer谈判/HR问我要最近3个月的银行工资流水，怎么办 %}
 
 - [如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
 - [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)

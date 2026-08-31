@@ -101,6 +101,7 @@ function getDailyRecommend(posts) {
 // 且不会因为多次调用助手函数而被重复抽取。
 hexo.extend.filter.register('before_generate', function () {
   const posts = hexo.locals.get('posts').toArray();
+  console.log('[daily-recommend] eligible posts:', posts.filter(isEligible).length, 'MAX_COUNT:', MAX_COUNT);
   getDailyRecommend(posts);
 });
 

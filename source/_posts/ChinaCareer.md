@@ -362,6 +362,7 @@ recommend: false
 - 🔴 {% post_link 10面试技巧/已经离职了，面试时说自己还在职，万一穿帮了怎么办？ %}
 - 🔴 {% post_link 10面试技巧/出去面试，如何请假 %}
 - {% post_link 10面试技巧/面试三大必答题，你准备好了没有？ %}
+- {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
 - {% post_link 10面试技巧/在加拿大边留学边找工作的经验 %}
 - {% post_link 10面试技巧/空窗期半年求职无果，顿悟后一个月上岸，我经历了什么？ %}
@@ -419,6 +420,7 @@ recommend: false
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门三：熬鹰法 %}
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门四：一打一拉 %}
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门五：如何才能拿完年终奖后，再去新公司报道？ %}
+- 🔴{% post_link 11工资行情和Offer谈判/谈判入门六：高端局 %}
 - {% post_link 11工资行情和Offer谈判/咨询面试哪些公司时，不能用倒逼法谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/同时来了3个入职意向，该如何谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/公司为何只跟我签1年的合同？ %}
@@ -1050,6 +1052,7 @@ recommend: false
 ## **【28, 宏观职场】**
 
 - 🔴 {% post_link 28宏观职场/拜登若当选，对普通中国职场人，有什么影响 %}
+- 🔴 {% post_link 28宏观职场/孙跟女明星的纠葛，对职场人的4个启示 %}
 - [中美贸易战，对普通职场人有什么影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484703&idx=1&sn=d1ad51e905effdb506c90f20716a43ab&chksm=e96daedede1a27c898f3ab5dc7563a44199c5b5c31ae8b862f26a8c208bcc5b0c88c9eb899a7&scene=21#wechat_redirect)
 - [亚洲的贫富差距，在全球处于什么位置？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484573&idx=1&sn=d14ff7eb0dcb0e0e742705e92264d793&chksm=e96daf5cde1a264a5bc5cb0a993ed598cac24d5933178dae85e4bd169e98a3f455554ec1108a&scene=21#wechat_redirect)
 - [S-400 是啥，中文名叫什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484555&idx=1&sn=556fdcf347d00111ce4d287f7d32b238&chksm=e96daf4ade1a265c410e2dd9fc3a814440a20fd8c6f15ea8889fa02e399a736cc0e1fe2e7e87&scene=21#wechat_redirect)

@@ -19,7 +19,7 @@ place:
 
 **《**[**新公司问我要工资证明和银行流水，怎么办？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247499948&idx=2&sn=2968be43cc900f79dd1b8c06f4358c7b&chksm=e96e6b6dde19e27bf5721feb75af8e1212d25d048225548e0cc4f5e25f67de2f5ac4bee7c173&scene=21#wechat_redirect)**》**
 
-**《**[**谈薪资时，HR说我上家工资太低，怎么办？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486055&idx=1&sn=6b3658f2fa8afb95645f4e57c6841972&chksm=e96da1a6de1a28b00ef392789cf461e704ad05442b68260ecec92e41a478b7af48795d874278&scene=21#wechat_redirect)**》**
+**《{% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}》**
 
 今天讲关于流水的其他重要知识点。
 
@@ -130,7 +130,11 @@ HR这里为了砍他的工资，其实工资还没谈拢，他说的“最近收
 
 联系方式：职场蛙后台回复young
 
-最后，我新媒体分享经验以来，并没有出书，主要是这部《[中国职场宝典5.0（2021年初版）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497730&idx=2&sn=b1652bb06c32d0b3b176e4882cfd2cbb&chksm=e96e53c3de19dad51b6ff103f93fe8fa8d01b062f84836f0ce969bf65423b87d3c0e91fd17ca&scene=21#wechat_redirect)》，600多篇文章。我也担心哪天下架，大家关注下我的俩小号如下。
+最后，我新媒体分享经验以来，并没有出书，主要是这部《[中国职场宝典5.0（2021年初版）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497730&idx=2&sn=b1652bb06c32d0b3b176e4882cfd2cbb&chksm=e96e53c3de19dad51b6ff103f93fe8fa8d01b062f84836f0ce969bf65423b87d3c0e91fd17ca&scene=21#wechat_redirect)》，600多篇文章。
+
+<center>End</center>
+
+---
 
 Reads 14.4K
 

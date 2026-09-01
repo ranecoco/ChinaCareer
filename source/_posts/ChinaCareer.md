@@ -423,6 +423,9 @@ recommend: false
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门四：一打一拉 %}
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门五：如何才能拿完年终奖后，再去新公司报道？ %}
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门六：高端局 %}
+- 🔴{% post_link 11工资行情和Offer谈判/刚毕业，你别跟我谈年薪 %}
+- 🔴{% post_link 11工资行情和Offer谈判/面谈工资的四大方法（不外传干货） %}
+
 - {% post_link 11工资行情和Offer谈判/咨询面试哪些公司时，不能用倒逼法谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/同时来了3个入职意向，该如何谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/公司为何只跟我签1年的合同？ %}
@@ -436,6 +439,8 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
 - {% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}
 - {% post_link 11工资行情和Offer谈判/HR问我要最近3个月的银行工资流水，怎么办 %}
+- {% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}
+
 
 - [如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
 - [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)
@@ -543,12 +548,12 @@ recommend: false
 - 🔴 {% post_link 13背景调查/什么程度的简历造假，过不了背景调查？(背调珍藏版) %}
 - {% post_link 13背景调查/多写了半年经验，已收到的腾讯offer会被毙掉吗 %}
 - {% post_link 13背景调查/我为什么拒绝回答背景调查问题 %}
+- {% post_link 13背景调查/能不能自己做个离职证明 %}
 - [我就一小职员，为何入职也要做背景调查？究竟调查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484396&idx=1&sn=5f8366746c382b1df8aa8a7fc6c6a9a0&chksm=e96da82dde1a213bb2a3deb64a18304651612dc41b39ec36f4157af718d11a23455a3dc7a7c8&scene=21#wechat_redirect)
 - [简历上学历造假了，怎么办？能混过去不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484353&idx=1&sn=ec448101112960a42414f98ad45af38b&chksm=e96da800de1a21168a1fa5cd4d7de8fbdba55e4d4e6f04a04ba45a73eab1b95f64d115820657&scene=21#wechat_redirect)
 - [背景调查一般在什么时候开始做？谁做？查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484351&idx=1&sn=558e22fadeebc0004a71af4ace78f6a4&chksm=e96da87ede1a2168125d88c03080222ec3e3f0652a77ab85396eedaed329ba689ba7bfcb92de&scene=21#wechat_redirect)
 - [简历上的工作经历，能不能合并？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484801&idx=1&sn=6a1d79cc00c2c52cec3e3c2c93327340&chksm=e96dae40de1a275652d2d296903e773eb1fc039250d1494e2483ac4c80dd87fabe62efaf0bf5&scene=21#wechat_redirect)
 - [这几个比背景调查更恶心！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484745&idx=1&sn=b90b7a0f283a93c65a8d9fe144db51b7&chksm=e96dae88de1a279e38d5af455f9d7df7d20a004d529a36802729779223e237886a90b0706333&scene=21#wechat_redirect)
-- [能不能自己做个离职证明？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485399&idx=1&sn=42ce429281bf34a4fc3307b72a2c2424&chksm=e96dac16de1a25003658853beb453552031e853038d118c751662b23acb40d7270356bef1fe5&scene=21#wechat_redirect)
 - 🔴[我为什么拒绝回答背景调查问题？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485507&idx=1&sn=fbe24c9ff3ca7a8f44919137525129a6&chksm=e96da382de1a2a9466194572d247bb948c120baf24aabd7a1b60a35dbe58e0f7b5dd29962313&scene=21#wechat_redirect)
 - 🔴[如何应对背景调查？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487645&idx=1&sn=d19cfbf6bd841bd06b21d9f4b541d720&chksm=e96dbb5cde1a324a2a26c87bb3f1c147e4e522a5bb4a04d763cd93e4d7b95d1f07a3fd0df510&scene=21#wechat_redirect)
 
@@ -574,6 +579,8 @@ recommend: false
 - 🔴 {% post_link 14试用期和转正/碰到“无法完成的任务”，我该怎么办 %}
 - {% post_link 14试用期和转正/试用期内继续求职的话，简历如何写 %}
 - {% post_link 14试用期和转正/试用期内，为何一定要继续找工作 %}
+- {% post_link 14试用期和转正/公司2个月没发工资了，我怎么办 %}
+
 - [找工作，要拆掉思维里的墙！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484945&idx=1&sn=5fd5271f063d11192a2b01ff7dad5bff&chksm=e96dadd0de1a24c6ede06b5eed4912686542ccebc68c5d1402535e744d7ba4097842b0d0569c&scene=21#wechat_redirect)
 - [劳动合同期是长一点好，还是短一点好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487979&idx=2&sn=bed22ca63a0decdd08f26f570e1d135c&chksm=e96dba2ade1a333c3d719d138199f0f8aef943d65175fb180f58ac763dfd1d83ec7436d42922&scene=21#wechat_redirect)
 - [从月薪 1 千到 5 万，看整个过程中的每次新工作入职](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487872&idx=2&sn=1dd80287112c65d795730f1c6331dc71&chksm=e96dba41de1a33571656fd372ea46fc1fd253168432e7c682e67c544c602be5925740129ba96&scene=21#wechat_redirect)
@@ -854,6 +861,7 @@ recommend: false
 ## **【25, 年代秀&**真人秀**】**
 
 - 🔴 {% post_link 25年代秀&真人秀/十八年的上海外企白领之路 %}
+- {% post_link 25年代秀&真人秀/《群友逆袭100人》之第一例 %}
 - [年代秀：10 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484294&idx=1&sn=35ce071b9073a0b280b645e8398e4678&chksm=e96da847de1a2151c7032408f97726bba3cebd9cb31ba9a1a18959c3136d78d9d3f3d0c54c18&scene=21#wechat_redirect)
 - [年代秀：00 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484291&idx=1&sn=e3ea1585fef45024d8da88f5a82ca3d9&chksm=e96da842de1a215429c7667b7f208dac43f96caec35197d4fab450e55cdc79b2a51acd7ecf7c&scene=21#wechat_redirect)
 - [年代秀：90 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484289&idx=1&sn=4ed7976c9ddd636ed67354112dcf2de8&chksm=e96da840de1a21561d7f521ac374973e3fd3091bfea2971ea7926699c60cd5270bef5d670411&scene=21#wechat_redirect)
@@ -1092,6 +1100,7 @@ recommend: false
 - {% post_link 29势商和人生规划/反PUA的方法之二——请假法 %}
 - {% post_link 29势商和人生规划/被PUA了，怎么办 %}
 
+- {% post_link 29势商和人生规划/30岁再“学个技术”，还有用不 %}
 - {% post_link 29势商和人生规划/生病了，对象不关心我，怎么办？ %}
 - {% post_link 29势商和人生规划/单身未婚，找有房的对象好，还是无房的对象好 %}
 - {% post_link 29势商和人生规划/妹妹读高二，成绩不好，怎么办 %}
@@ -1120,7 +1129,6 @@ recommend: false
 
 ## **【30, 职场互动】**
 
-- [《群友逆袭100人》之第一例](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489260&idx=2&sn=ab365ca1d5bfa1a6b67df46a81a3eb18&chksm=e96dbd2dde1a343b65d91db1c87d7362bd0a19ee05ae700085a68b4370bb90aad0498c2b0813&scene=21#wechat_redirect)
 - [职场信息交流，算不算社交？（互动版本）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484756&idx=1&sn=b5574891d79a4e50dea92ae8cf2c0df5&chksm=e96dae95de1a278342e2308c100b95c82f6a8f489810e7b5e241438ce2e8f22be55ccf11e9f7&scene=21#wechat_redirect)
 - [第一次视频互动，分享职场干货！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484760&idx=1&sn=91b5b3b6818eb906df28a91e93decf03&chksm=e96dae99de1a278f5eb5d925a805afec2bbe9635f2c6f22070b1ed11913bbaf84df729055c2a&scene=21#wechat_redirect)
 - [幽哥答疑专用贴 2018](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484614&idx=1&sn=f4133d973ed86e974e3a74e52f8f94e5&chksm=e96daf07de1a26118cff4b2e5456b78caf44a35372529783e1a840b39083d4f6be2e89abac5e&scene=21#wechat_redirect)

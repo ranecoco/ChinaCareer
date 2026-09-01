@@ -8,6 +8,7 @@ tags: [Career]
 categories: 00. 工作只需20年
 sticky: 100
 recommend: false
+abbrlink: '42103658'
 ---
 
 原创 幽哥 [职场蛙](<javascript:void(0);>) _2020 年 11 月 01 日 00:00_
@@ -32,6 +33,7 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
 - {% post_link 01学历不重要？能力更重要？/大专应届生去上海求职，有无竞争力？月薪大概几千？ %}
 - {% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
+- {% post_link 01学历不重要？能力更重要？/为何每年都是最难就业季 %}
 
 - [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)
 - 🔴[本科毕业和研究生毕业，有什么区别？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484706&idx=1&sn=d7f52d901969428d3bcbf69809a6fc0b&chksm=e96daee3de1a27f55248d3f7bcb4f52c51e0a1e98e72df1fde954d2eee97c4e652e58c1d5209&scene=21#wechat_redirect)
@@ -50,9 +52,6 @@ recommend: false
 - [到底如何填志愿，选专业？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486705&idx=1&sn=9145c455c1b63f1db8750d7c1e49cebe&chksm=e96da730de1a2e26713e193f47a301f8c35dce586e54a6169530fa1dd0b8859abc35745b8e33&scene=21#wechat_redirect)
 
 - [考研二战三战失败了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486079&idx=1&sn=e7c1893645ed608a6e2676d1d08e0667&chksm=e96da1bede1a28a80371bccd63eb33a44669f9aa92bdb12156b9c5fc6b33c0a442bdf91799b9&scene=21#wechat_redirect)
-
-- [为何每年都是最难就业季？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485521&idx=1&sn=9cf4ab56f31e6f9c4abd78ccfe82c8ff&chksm=e96da390de1a2a8677e6fe2e1c829752803c9b07d490156aa40fa31d29161b37a9e846416396&scene=21#wechat_redirect)
-
 - 🔴[如何提升学历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486252&idx=1&sn=926ce25c069819178f9fa4e11f1af525&chksm=e96da0edde1a29fb89fa7c9295e728f1fc27bbd36bf47821d4739620bfa549da439d00abde78&scene=21#wechat_redirect)
 
 - [本科毕业，简历上能不能写“硕士在读”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486262&idx=1&sn=33733235b615b6d3fcb3bf0f9250fad7&chksm=e96da0f7de1a29e1f769043211e526a04621df5db3d7930eb75bb139baace14362a57aabc0f5&scene=21#wechat_redirect)
@@ -359,16 +358,21 @@ recommend: false
 
 ## **【10, 面试技巧】**
 
-- 🔴 {% post_link 10面试技巧/究竟如何解释离职原因？（一篇讲全所有场景） %}
+- 🔴 {% post_link 10面试技巧/究竟如何解释离职原因 %}
 - 🔴 {% post_link 10面试技巧/明天有个面试今天能做什么 %}
 - 🔴 {% post_link 10面试技巧/已经离职了，面试时说自己还在职，万一穿帮了怎么办？ %}
 - 🔴 {% post_link 10面试技巧/出去面试，如何请假 %}
-- {% post_link 10面试技巧/面试三大必答题，你准备好了没有？ %}
+- 🔴 {% post_link 10面试技巧/到底怎样谈工资 %}
+
+- 🔴 {% post_link 10面试技巧/面试三大必答题，你准备好了没有？ %}
+- 🔴 {% post_link 10面试技巧/面试官问“你的缺点是什么？”该如何回答 %}
+- 🔴 {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
+- 🔴 {% post_link 10面试技巧/面谈工资的四大方法 %}
+
 - {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
 - {% post_link 10面试技巧/在加拿大边留学边找工作的经验 %}
 - {% post_link 10面试技巧/空窗期半年求职无果，顿悟后一个月上岸，我经历了什么？ %}
-- {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
 - {% post_link 10面试技巧/怎么回答：面试官问“你有什么要问我的？” %}
 - {% post_link 10面试技巧/HR总说我跳槽频繁？他们自己频繁跳槽吗 %}
 - {% post_link 10面试技巧/人一生大概跳槽多少次 %}
@@ -393,9 +397,6 @@ recommend: false
 
 - [出去面试被领导发现了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485820&idx=2&sn=1c4492b59402d44d370fd6de85bee284&chksm=e96da2bdde1a2babd82241bfc606f0bfc63d95697a112a8745aeb2885042fa4986445227348d&scene=21#wechat_redirect)
 - [面试官一直不提工资，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486229&idx=1&sn=2518528ea0440233a22688aadbe37fe5&chksm=e96da0d4de1a29c23d769d0fa5eb36cf494af5ac9052e0c7e4933c9d50180c606dbac6046986&scene=21#wechat_redirect)
-
-- 🔴[到底怎样谈工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486247&idx=1&sn=4a53f43cbe4cbf67d04132e5441724f7&chksm=e96da0e6de1a29f0dd927ea7d51c0b3ef417d2adb10ed96a0ec28774327712f92eb5066cdf5b&scene=21#wechat_redirect)
-
 - 🔴[面试后，一般几天有答复？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485115&idx=1&sn=961939d7af0f1aaa692d90e69f83680f&chksm=e96dad7ade1a246c2a789e5f3393c617b8b021b384cce8e4b1a510e0ba7c378d3227a904b501&scene=21#wechat_redirect)
 
 - 🔴[面试了 15 家，为何没有一个 offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487362&idx=2&sn=fe2b56b6a3fe9b58a9de10d6a4ced3ba&chksm=e96da443de1a2d557cd54a61ed270d24c24fdc60afbc131f9f8da690223f9c6574b742439292&scene=21#wechat_redirect)
@@ -437,10 +438,7 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
 - {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
 - {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
-- {% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}
-- {% post_link 11工资行情和Offer谈判/HR问我要最近3个月的银行工资流水，怎么办 %}
 - {% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}
-
 
 - [如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
 - [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)
@@ -549,6 +547,9 @@ recommend: false
 - {% post_link 13背景调查/多写了半年经验，已收到的腾讯offer会被毙掉吗 %}
 - {% post_link 13背景调查/我为什么拒绝回答背景调查问题 %}
 - {% post_link 13背景调查/能不能自己做个离职证明 %}
+- {% post_link 13背景调查/HR问我要最近3个月的银行工资流水，怎么办 %}
+- {% post_link 13背景调查/谈工资时，HR问我要12个月的银行流水，怎么办 %}
+
 - [我就一小职员，为何入职也要做背景调查？究竟调查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484396&idx=1&sn=5f8366746c382b1df8aa8a7fc6c6a9a0&chksm=e96da82dde1a213bb2a3deb64a18304651612dc41b39ec36f4157af718d11a23455a3dc7a7c8&scene=21#wechat_redirect)
 - [简历上学历造假了，怎么办？能混过去不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484353&idx=1&sn=ec448101112960a42414f98ad45af38b&chksm=e96da800de1a21168a1fa5cd4d7de8fbdba55e4d4e6f04a04ba45a73eab1b95f64d115820657&scene=21#wechat_redirect)
 - [背景调查一般在什么时候开始做？谁做？查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484351&idx=1&sn=558e22fadeebc0004a71af4ace78f6a4&chksm=e96da87ede1a2168125d88c03080222ec3e3f0652a77ab85396eedaed329ba689ba7bfcb92de&scene=21#wechat_redirect)
@@ -716,6 +717,10 @@ recommend: false
 ## **【20, 女性专场】**
 
 - {% post_link 20女性专场/妈妈为什么喜欢伤害我？ %}
+- {% post_link 20女性专场/女性35岁去学什么技术、考哪个证书，未来的事业和家庭都才更稳定 %}
+- {% post_link 20女性专场/女性拥有了财富和权力，年老后一般交给谁 %}
+
+
 - [女孩如何考虑婚姻和生育，才能获得更好的职业发展？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)
 - [女孩，如何才能不做“伏地魔”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488458&idx=2&sn=778b78c7ebdd076af1709053788ceba9&chksm=e96db80bde1a311d373ce2cc4f0084c839348a67056e8a5e58544e28ab87cff5f7e7c7f78370&scene=21#wechat_redirect)
 - [生娃，对职业生涯到底有多大影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488408&idx=1&sn=114625a3470145b7957daaaa122b4408&chksm=e96db859de1a314fe70a7ad62304c93a487e66a9bba5a298a2cc4b1d7a81daa776eea2d9f371&scene=21#wechat_redirect)
@@ -760,6 +765,8 @@ recommend: false
 - 🔴 {% post_link 21同事如何相处？/工作中，如何让不配合的人配合？ %}
 - {% post_link 21同事如何相处？/同事都比我学历高，我该怎么办？ %}
 - {% post_link 21同事如何相处？/加个好友，是你扫我还是我扫你？ %}
+- {% post_link 21同事如何相处？/不换工作时的两大生存之道 %}
+
 - [同事之间，该如何相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484734&idx=1&sn=555c5fde943c945406a220c733f0224b&chksm=e96daeffde1a27e98833908cb0bef7eb77ad43af74d7f0902139f5741eddd1f4acc327f96a0d&scene=21#wechat_redirect)
 - [同事问我借钱，能不能借？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484730&idx=1&sn=d0b20941296d7cc740956013fc773f0a&chksm=e96daefbde1a27ed9ee385ec264600d4df7958f05200fccc760d42e2b4ed89b7374525fe9300&scene=21#wechat_redirect)
 - [什么是三季人，如何应对三季人？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484660&idx=1&sn=2e4511b943815ee23b28cce16835a703&chksm=e96daf35de1a26238638c4eb2704614eedeaa98b3d5b7085844eb81a0fdef95d6b4daff594f4&scene=21#wechat_redirect)
@@ -1089,6 +1096,7 @@ recommend: false
 - 🔴 {% post_link 29势商和人生规划/普通人的逆袭之路 %}
 - 🔴 {% post_link 29势商和人生规划/普通人三种职业之路的选择 %}
 - 🔴 {% post_link 29势商和人生规划/普通人，如何发展事业 %}
+- 🔴 {% post_link 29势商和人生规划/碰到职业难题，你是问父母？咨询同学？还是听同事的 %}
 
 - {% post_link 29势商和人生规划/50岁还可以跳槽进大城市吗 %}
 - {% post_link 29势商和人生规划/普通职员如何在2年内做到经理，并实现工资翻番？ %}

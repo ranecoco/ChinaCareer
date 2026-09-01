@@ -1,14 +1,15 @@
 ---
-date: 2021-11-13 16:57
-update: 2026-08-31 18:09
+date: '2021-11-13 16:57'
+update: '2026-08-31 18:09'
 title: HR问我要最近3个月的银行工资流水，怎么办？
 cover: 0.jpg
-description: 
-tags: [Career]
-categories: [ 11. 工资行情和 Offer 谈判 ]
+tags: [ Career ]
+categories: [ 13. 背景调查 ]
 copyright_author: 幽哥
-copyright_url: https://mp.weixin.qq.com/s/FIDkUfcPPDVpbLiW3zWMJg
-place: 
+copyright_url: 'https://mp.weixin.qq.com/s/FIDkUfcPPDVpbLiW3zWMJg'
+abbrlink: 6909747c
+description:
+place:
 ---
 
 **关于**工资流水的部分，几篇现有文章已经讲解了大多数破解方法，大家有空认真看，不再赘述。不限于以下篇目：

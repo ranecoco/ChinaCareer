@@ -11,6 +11,8 @@ recommend: false
 abbrlink: '42103658'
 ---
 
+> `🍭` 标记，都为云飞所书。
+
 原创 幽哥 [职场蛙](<javascript:void(0);>) _2020 年 11 月 01 日 00:00_
 
 本《职场宝典》是最新版，写出了 22 岁进入职场，并直到 45 岁实现财务自由的全过程。
@@ -75,7 +77,7 @@ abbrlink: '42103658'
 - 🔴 {% post_link 02什么是中国的职业规划？/刚毕业，你别跟我谈年薪 %}
 - 🔴 {% post_link 02什么是中国的职业规划？/中国，到底有没有职业规划 %}
 - {% post_link 02什么是中国的职业规划？/独生女的职业规划 %}
-- {% post_link 02什么是中国的职业规划？/所谓的职业规划，大多数是骗人 %}
+- {% post_link 02什么是中国的职业规划？/所谓的职业规划，大多数是骗人的 %}
 - {% post_link 02什么是中国的职业规划？/MBTI测试，真的有用吗 %}
 
 - [违约金，到底要不要交？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484766&idx=1&sn=6c6631c58a248c5b6ca84a79a5fd30cd&chksm=e96dae9fde1a27892111d50c3abb275c2269010689245482f65b18f041ab3ef8c5df79da43c9&scene=21#wechat_redirect)
@@ -236,6 +238,8 @@ abbrlink: '42103658'
 - 🔴 {% post_link 06如何选职务/任何公司的职位四阶段 %}
 - 🔴 {% post_link 06如何选职务/那种“很锻炼人”的工作，能不能去 %}
 
+- {% post_link 06如何选职务/管理入门 %}
+- {% post_link 06如何选职务/管理入门：如何应对新来的领导 %}
 - {% post_link 06如何选职务/SQE跟Sourcing，哪个工作好 %}
 
 
@@ -355,19 +359,17 @@ abbrlink: '42103658'
 - 🔴 {% post_link 10面试技巧/明天有个面试今天能做什么 %}
 - 🔴 {% post_link 10面试技巧/已经离职了，面试时说自己还在职，万一穿帮了怎么办？ %}
 - 🔴 {% post_link 10面试技巧/出去面试，如何请假 %}
-- 🔴 {% post_link 10面试技巧/到底怎样谈工资 %}
 
 - 🔴 {% post_link 10面试技巧/面试三大必答题，你准备好了没有？ %}
 - 🔴 {% post_link 10面试技巧/面试官问“你的缺点是什么？”该如何回答 %}
 - 🔴 {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
-- 🔴 {% post_link 10面试技巧/面谈工资的四大方法 %}
+- 🔴 {% post_link 10面试技巧/面试后，一般几天有答复 %}
 
 - {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
 - {% post_link 10面试技巧/在加拿大边留学边找工作的经验 %}
 - {% post_link 10面试技巧/空窗期半年求职无果，顿悟后一个月上岸，我经历了什么？ %}
 - {% post_link 10面试技巧/怎么回答：面试官问“你有什么要问我的？” %}
-- {% post_link 10面试技巧/HR总说我跳槽频繁？他们自己频繁跳槽吗 %}
 - {% post_link 10面试技巧/人一生大概跳槽多少次 %}
 - {% post_link 10面试技巧/你遇到过的最奇葩的面试经历是什么 %}
 
@@ -389,7 +391,6 @@ abbrlink: '42103658'
 
 - [出去面试被领导发现了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485820&idx=2&sn=1c4492b59402d44d370fd6de85bee284&chksm=e96da2bdde1a2babd82241bfc606f0bfc63d95697a112a8745aeb2885042fa4986445227348d&scene=21#wechat_redirect)
 - [面试官一直不提工资，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486229&idx=1&sn=2518528ea0440233a22688aadbe37fe5&chksm=e96da0d4de1a29c23d769d0fa5eb36cf494af5ac9052e0c7e4933c9d50180c606dbac6046986&scene=21#wechat_redirect)
-- 🔴[面试后，一般几天有答复？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485115&idx=1&sn=961939d7af0f1aaa692d90e69f83680f&chksm=e96dad7ade1a246c2a789e5f3393c617b8b021b384cce8e4b1a510e0ba7c378d3227a904b501&scene=21#wechat_redirect)
 
 - 🔴[面试了 15 家，为何没有一个 offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487362&idx=2&sn=fe2b56b6a3fe9b58a9de10d6a4ced3ba&chksm=e96da443de1a2d557cd54a61ed270d24c24fdc60afbc131f9f8da690223f9c6574b742439292&scene=21#wechat_redirect)
 
@@ -416,14 +417,15 @@ abbrlink: '42103658'
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门四：一打一拉 %}
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门五：如何才能拿完年终奖后，再去新公司报道？ %}
 - 🔴{% post_link 11工资行情和Offer谈判/谈判入门六：高端局 %}
-- 🔴{% post_link 11工资行情和Offer谈判/刚毕业，你别跟我谈年薪 %}
 - 🔴{% post_link 11工资行情和Offer谈判/面谈工资的四大方法（不外传干货） %}
+- 🔴 {% post_link 11工资行情和Offer谈判/到底怎样谈工资 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/什么是时间倒逼法，什么是工资倒逼法？那什么又是过早倒逼法呢 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/A和B俩公司我更心仪B，该如何运用倒逼法 %}
 
 - {% post_link 11工资行情和Offer谈判/咨询面试哪些公司时，不能用倒逼法谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/同时来了3个入职意向，该如何谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/公司为何只跟我签1年的合同？ %}
 - {% post_link 11工资行情和Offer谈判/工资要低了，后悔了，怎么办？ %}
-- {% post_link 11工资行情和Offer谈判/到底怎样谈工资 %}
 - {% post_link 11工资行情和Offer谈判/提出加薪后，领导一般是答应还是拒绝 %}
 - {% post_link 11工资行情和Offer谈判/跳槽涨薪50%甚至翻倍，为何他们能做到 %}
 - {% post_link 11工资行情和Offer谈判/我现在才月薪5千，该如何跟华为、美团、头条等大厂谈工资 %}
@@ -759,6 +761,7 @@ abbrlink: '42103658'
 - 🔴 {% post_link 21同事如何相处？/当有人跟你说“我对事不对人”时，你要小心了 %}
 - 🔴 {% post_link 21同事如何相处？/领导如何搞走员工？（内心不强大者不要看） %}
 - 🔴 {% post_link 21同事如何相处？/工作中，如何让不配合的人配合？ %}
+- 🔴 {% post_link 21同事如何相处？/同事不配合我的工作，怎么办 %}
 - {% post_link 21同事如何相处？/同事都比我学历高，我该怎么办？ %}
 - {% post_link 21同事如何相处？/加个好友，是你扫我还是我扫你？ %}
 - {% post_link 21同事如何相处？/不换工作时的两大生存之道 %}

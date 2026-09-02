@@ -7,8 +7,9 @@ description:
 tags: [Career, Sharpness]
 categories: [ 10. 面试技巧 ]
 copyright_author: 幽哥
-copyright_url: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489348&idx=2&sn=31e4de023379853c6d7e4a8cd1e200c6&chksm=e96dbc85de1a35935d1362b020c3cc51e59dcc87018c8573a31dac34a17ca9ee6e2269995896&scene=21#wechat_redirect
+copyright_url: https://mp.weixin.qq.com/s/1tSes0qK-6azXojDKii-mw
 place: 
+account: JumpFrog
 ---
 
 **HR**，英文全称叫Human Resource，翻译过来即人力资源，全称人力资源管理，就是我们常说的人事。

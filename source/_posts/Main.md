@@ -95,7 +95,10 @@ abbrlink: '42103658'
 ## **【03, 如何选城市？】**
 
 - 🔴 {% post_link 03如何选择城市/为了爱情换城市，大概几个月工作能稳定下来 %}
+- 🔴 {% post_link 03如何选择城市/为了爱情而换城市，需要考虑什么 %}
 - 🔴 {% post_link 03如何选择城市/大专应届生去上海求职，有无竞争力？月薪大概几千？ %}
+- 🔴 {% post_link 03如何选择城市/我因为爱情而换了城市 %}
+
 - {% post_link 03如何选择城市/第一次跨城市跳槽进上海的经历 %}
 - {% post_link 03如何选择城市/毕业后的前三年，你是怎么在北上广深活下来的 %}
 - {% post_link 03如何选择城市/跨城市跳槽，第一步要做什么 %}
@@ -108,7 +111,6 @@ abbrlink: '42103658'
 
 - [从北上广回二三线求职，是什么体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484747&idx=1&sn=d3b8b61e714d57606aaf5d47c3d6ae8e&chksm=e96dae8ade1a279c658f865e3ee0fb7f82cbbfbd952ae65a7d0808b578dafb12840abd8ba6df&scene=21#wechat_redirect)
 - [看老家和就业双城记，聊影响一生的抉择](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484607&idx=1&sn=ea82c93f048a31ebb37993ef9ce19657&chksm=e96daf7ede1a2668c102b571a84aaa344a042e9b8b62a793e8c828f0d40598be5a1d73fd8332&scene=21#wechat_redirect)
-- 🔴[小城市，如何获得高工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485945&idx=1&sn=9bf9e4c4e0d1de99912bfeed62d1a670&chksm=e96da238de1a2b2e0b7f7cc731b601945e0e77e129e7dbf1d4a202a64ba434e51b578498f83f&scene=21#wechat_redirect)
 - [毕业 3 年，在合肥，女友让我去上海，不然分手！真是纠结死......](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484588&idx=1&sn=f610456acf73f8741ae9a3299a6b9518&chksm=e96daf6dde1a267b3e8984bd20b1484ed7c402bff7329b0254489ddb270687bb54aa3226b483&scene=21#wechat_redirect)
 - [究竟回不回老家，啥时回？来看下哪个地方最纠结](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484470&idx=1&sn=6f115a594b990b19afeef782f3fb13e9&chksm=e96daff7de1a26e116134387053bf68be2f7c941eecb0847b7e7e02d34a4386a780003554c9c&scene=21#wechat_redirect)
 - [男人 42 岁事业单位辞职，去异地打拼，值还是不值？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484456&idx=1&sn=8a105504d0c106e3919abb634e83782f&chksm=e96dafe9de1a26ffecfa04548d60956b6ca39d1ce356ec04c3a470222ec7ff26dfc56b754df9&scene=21#wechat_redirect)
@@ -139,9 +141,6 @@ abbrlink: '42103658'
 - [广州的工资为何没有杭州高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487918&idx=1&sn=1b8b61809b11086c7056c805fc9ecad6&chksm=e96dba6fde1a3379b6ab1042b1ede0ec2cd6d7a35917d7cf490d00ce0991ad36bedc97ba00fa&scene=21#wechat_redirect)
 
 - 🔴[深圳的工资怎么样？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488082&idx=1&sn=b06c618ef1fdc041294c2dd0aeb6feb3&chksm=e96db993de1a3085394ba02473760f6a8f2556d44670080c14b86c4b8786bd3c6fb50dd79c85&scene=21#wechat_redirect)
-
-- [为了爱情而换城市，需要考虑什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489989&idx=2&sn=c3e4c0a5ffc9aa363e4c55ac364f08a7&chksm=e96db204de1a3b12d526e0aa761df23b54a64a9bd4abddd6130e80b1cdb0f4f59d91dfb99a1a&scene=21#wechat_redirect)
-
 - [第一次跨城市跳槽进上海的经历](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490986&idx=2&sn=754d475710fb77d18102e5a181101184&chksm=e96db66bde1a3f7d0ce1d8c8d4f04ddb326b87667a3c64add053a5e96159a3de398857ee6680&scene=21#wechat_redirect)
 
 - 🔴[个人能不能在北上广深长期待下来，如何判断？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492612&idx=2&sn=4f30d45d6a1b5fc9e0faa502c8595c9d&chksm=e96e4fc5de19c6d3005a7299e8d6defd0e36cc34bb6b2aae17ff4aea41005225db445a38e6b9&scene=21#wechat_redirect)
@@ -411,16 +410,17 @@ abbrlink: '42103658'
 
 ## **【11, 工资行情和 Offer 谈判】**
 
-- 🔴{% post_link 11工资行情和Offer谈判/谈判入门一 %}
-- 🔴{% post_link 11工资行情和Offer谈判/谈判入门二：自身条件一般时，如何谈到好结果？ %}
-- 🔴{% post_link 11工资行情和Offer谈判/谈判入门三：熬鹰法 %}
-- 🔴{% post_link 11工资行情和Offer谈判/谈判入门四：一打一拉 %}
-- 🔴{% post_link 11工资行情和Offer谈判/谈判入门五：如何才能拿完年终奖后，再去新公司报道？ %}
-- 🔴{% post_link 11工资行情和Offer谈判/谈判入门六：高端局 %}
-- 🔴{% post_link 11工资行情和Offer谈判/面谈工资的四大方法（不外传干货） %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈判入门一 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈判入门二：自身条件一般时，如何谈到好结果？ %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈判入门三：熬鹰法 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈判入门四：一打一拉 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈判入门五：如何才能拿完年终奖后，再去新公司报道？ %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈判入门六：高端局 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/面谈工资的四大方法（不外传干货） %}
 - 🔴 {% post_link 11工资行情和Offer谈判/到底怎样谈工资 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/什么是时间倒逼法，什么是工资倒逼法？那什么又是过早倒逼法呢 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/A和B俩公司我更心仪B，该如何运用倒逼法 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
 
 - {% post_link 11工资行情和Offer谈判/咨询面试哪些公司时，不能用倒逼法谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/同时来了3个入职意向，该如何谈工资？ %}
@@ -431,7 +431,6 @@ abbrlink: '42103658'
 - {% post_link 11工资行情和Offer谈判/我现在才月薪5千，该如何跟华为、美团、头条等大厂谈工资 %}
 - {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
 - {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
-- {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
 - {% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}
 - {% post_link 11工资行情和Offer谈判/俩工作选哪个，如何快速判断 %}
 
@@ -642,14 +641,13 @@ abbrlink: '42103658'
 
 ## **【16, 宝妈求职秘笈】**
 
+- {% post_link 16宝妈求职秘笈/宝妈求职宝典1：全职太太为何还要重返职场 %}
 - {% post_link 16宝妈求职秘笈/宝妈求职宝典2：重返职场，有两大秘诀 %}
-
-- [宝妈求职宝典（1/7）：全职太太为何还要重返职场？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484311&idx=1&sn=9f6f51fa85397b9376486844358d8f65&chksm=e96da856de1a21409aebe2d49dbee41f15b3c25047c68937f1d10309ecaca2253c7b2896b8ba&scene=21#wechat_redirect)
-- [宝妈求职宝典（3/7）：这样投简历，面试机会才会大量到来](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484315&idx=1&sn=1f2dcc6536fc70032b25838d16ed26a4&chksm=e96da85ade1a214c99e60ca5adf8172e86fb4d870a5502c2077cbad2259e6ef3e9fd89c22594&scene=21#wechat_redirect)
-- [宝妈求职宝典（4/7）：超过一年的职业空档期，如何“填平”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484317&idx=1&sn=3f931df02f3edccd2f4a6c3228c079b0&chksm=e96da85cde1a214a09d16e062f5eb48482bcfe5b4761e1d1f41216b0d353073c49306ffed8ee&scene=21#wechat_redirect)
-- [宝妈求职宝典（5/7）：宝妈重回职场，还能找到原来的工作吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484325&idx=2&sn=2d3276b5bfd4cae7cd5f3a075dd00576&chksm=e96da864de1a2172833c4369c92e4dc2e0b867bc13030b443df5fc02b70089528b17f00757c8&scene=21#wechat_redirect)
-- [宝妈求职宝典（6/7）：对方问期望薪资，开多少合适？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484328&idx=1&sn=83e164954a1be9fe4160d395dd86668e&chksm=e96da869de1a217f09d982fd7fc6267c67e0c3070ef279269f2b11642b76787f73f5291fc1cb&scene=21#wechat_redirect)
-- [宝妈求职宝典（7/7）：重回职场，如何提供离职证明？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484384&idx=1&sn=b029f8cfef4463945b1351e77ef476f4&chksm=e96da821de1a2137cde71821ea5f668e4d42b9d853a072768869fd70117ae28b1b2b8de3101a&scene=21#wechat_redirect)
+- {% post_link 16宝妈求职秘笈/宝妈求职宝典3：这样投简历，面试机会才会大量到来 %}
+- {% post_link 16宝妈求职秘笈/宝妈求职宝典4：超过一年的职业空档期，如何“填平” %}
+- {% post_link 16宝妈求职秘笈/宝妈求职宝典5：宝妈重回职场，还能找到原来的工作吗 %}
+- {% post_link 16宝妈求职秘笈/宝妈求职宝典6：对方问期望薪资，开多少合适 %}
+- {% post_link 16宝妈求职秘笈/宝妈求职宝典7：宝妈重回职场，如何提供离职证明 %}
 
 ## **【17, 如何解决失业危机？】**
 
@@ -720,6 +718,8 @@ abbrlink: '42103658'
 - {% post_link 20女性专场/女性35岁去学什么技术、考哪个证书，未来的事业和家庭都才更稳定 %}
 - {% post_link 20女性专场/女性拥有了财富和权力，年老后一般交给谁 %}
 - {% post_link 20女性专场/女生如何在相亲时，就避免以后的婚姻悲剧 %}
+- {% post_link 20女性专场/什么叫假独生女现象 %}
+- {% post_link 20女性专场/什么是假独生子女 %}
 
 
 - [女孩如何考虑婚姻和生育，才能获得更好的职业发展？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)
@@ -833,6 +833,10 @@ abbrlink: '42103658'
 
 - 🔴 {% post_link 24房产私房菜/为什么不要贸然投资房产 %}
 - 🔴 {% post_link 24房产私房菜/房贷最长40年，相较于30年，是好是坏 %}
+- {% post_link 24房产私房菜/父母为何不劝女儿买房 %}
+
+- ￥ {% post_link 24房产私房菜/到底如何买房？ %}
+
 
 - [房产税，能遏制高房价吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484726&idx=1&sn=6929f7742992e6575ef81a53b5a7c8ae&chksm=e96daef7de1a27e139c792d9fde05b041406f0f28999f336a072f2d30e51a6b24889d2ca9707&scene=21#wechat_redirect)
 - 🔴[第一套房，首付款一般是怎么来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484645&idx=1&sn=681cf1f454d9e735922c1c4316e73111&chksm=e96daf24de1a2632a2b878581d0795c21b6c2cfc4c711daf55446d9078a1302d711559a90015&scene=21#wechat_redirect)
@@ -866,8 +870,11 @@ abbrlink: '42103658'
 
 ## **【25, 年代秀&**真人秀**】**
 
+- 🔴 {% post_link 25年代秀&真人秀/年薪300万的师兄，在聚会时分享了什么 %}
 - 🔴 {% post_link 25年代秀&真人秀/十八年的上海外企白领之路 %}
 - {% post_link 25年代秀&真人秀/《群友逆袭100人》之第一例 %}
+
+
 - [年代秀：10 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484294&idx=1&sn=35ce071b9073a0b280b645e8398e4678&chksm=e96da847de1a2151c7032408f97726bba3cebd9cb31ba9a1a18959c3136d78d9d3f3d0c54c18&scene=21#wechat_redirect)
 - [年代秀：00 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484291&idx=1&sn=e3ea1585fef45024d8da88f5a82ca3d9&chksm=e96da842de1a215429c7667b7f208dac43f96caec35197d4fab450e55cdc79b2a51acd7ecf7c&scene=21#wechat_redirect)
 - [年代秀：90 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484289&idx=1&sn=4ed7976c9ddd636ed67354112dcf2de8&chksm=e96da840de1a21561d7f521ac374973e3fd3091bfea2971ea7926699c60cd5270bef5d670411&scene=21#wechat_redirect)
@@ -922,6 +929,11 @@ abbrlink: '42103658'
 - {% post_link 26副业和财务自由/你是如何通过副业挣钱的 %}
 - {% post_link 26副业和财务自由/什么人适合副业：打工，能否实现财务自由(7) %}
 - {% post_link 26副业和财务自由/接下来哪些行业是风口 %}
+
+- {% post_link 26副业和财务自由/如何劝说父母不再投资做生意 %}
+- {% post_link 26副业和财务自由/辞职后不上班，在家专门搞副业，行不行 %}
+- {% post_link 26副业和财务自由/开发副业的基本原则 %}
+- {% post_link 26副业和财务自由/毕业几年，适合发展副业 %}
 
 
 - [申请信用贷款，居然是这样的，千万要注意！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484510&idx=1&sn=6bd31a303c52cffe3947c39cb4833eca&chksm=e96daf9fde1a2689afd3a4d70edd5c191e4ce2bd4ba48ed7b14d0097a265d099b354994d76e6&scene=21#wechat_redirect)
@@ -1115,6 +1127,8 @@ abbrlink: '42103658'
 - {% post_link 29势商和人生规划/单身未婚，找有房的对象好，还是无房的对象好 %}
 - {% post_link 29势商和人生规划/妹妹读高二，成绩不好，怎么办 %}
 - {% post_link 29势商和人生规划/为何有人心甘情愿被人控制 %}
+- {% post_link 29势商和人生规划/独生女的6条职业之路，第6条最差 %}
+
 
 - 🔴[月薪 6800, 处于什么水平？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484550&idx=1&sn=c36ee8749dd77ed4d455aecfae6f221a&chksm=e96daf47de1a265182da0e5a1f164d97a97c0378fb080f1bdbf4afb13e88305ffbf393d60f4f&scene=21#wechat_redirect)
 - 🔴[势商，是什么？如何提高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485713&idx=1&sn=066a1fc0c36b16461ef1f97a5852531b&chksm=e96da2d0de1a2bc6553ee292e13701546f1ac74bb6f6e9fdca23bf353f6ba005368140335678&scene=21#wechat_redirect)

@@ -9,6 +9,7 @@ menu:
     Tags: /tags/ || fas fa-tags
     Categories: /categories/ || fas fa-folder-open
     Daily Recommend: /daily/ || fas fa-dice
+    Tools: /tools/ || fas fa-dice
   # hide 是指默认隐藏子目录，不需要可以不加，但这里好像没有区别
   # List||fas fa-list||hide:
   Widgets||fas fa-list:

@@ -73,6 +73,6 @@ place:
 
 联系方式：职场蛙后台回复“JH”
 
-平时多阅读《[中国职场宝典5.0（2021年初版）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497730&idx=2&sn=b1652bb06c32d0b3b176e4882cfd2cbb&chksm=e96e53c3de19dad51b6ff103f93fe8fa8d01b062f84836f0ce969bf65423b87d3c0e91fd17ca&scene=21#wechat_redirect)》
+平时多阅读《[**中国职场宝典5.0（2021年初版）**](https://mp.weixin.qq.com/s/JF2Y60p9vz6Zf6mBshuLiA)》
 
 

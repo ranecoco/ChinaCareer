@@ -7,8 +7,8 @@ description:
 tags: [Career, Resume, Linkedin]
 categories: [ 09. 简历投递秘笈 ]
 copyright_author: 幽哥
-copyright_url: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490752&idx=2&sn=0905b4b6377a911138cc210183dfc2fa&chksm=e96db701de1a3e178c2ea9ac3feaee7add649e3270203988003515cd34aa87818010fa1acc6a&scene=21#wechat_redirect
-place: JumpFrog
+copyright_url: https://mp.weixin.qq.com/s/KWQ5SvwfmkrbA6T8KC2xcg
+account: JumpFrog
 ---
 
 **今天**知识点众多，包含且不限于如下命题。

@@ -1,8 +1,9 @@
 ---
 title: 上海2026五险一金及个税计算器
-date: 2026-09-03 18:56:00
+# date: 2026-09-03 18:56:00
 index: false
 description: 输入税前工资，自动计算上海2026年度社保、公积金、个税及到手工资。适用期间：2026年7月 - 2027年6月。
+tools: [ Calculator ]
 ---
 
 > **适用期间**：2026年7月 - 2027年6月  
@@ -14,7 +15,7 @@ description: 输入税前工资，自动计算上海2026年度社保、公积金
 
 ## 使用方法
 
-1. 在下方黄色输入框中填入您的工资和扣除项
+1. 在下方参数输入框中填入您的工资和扣除项
 2. 结果会自动实时计算并显示
 3. 所有数据仅在本地浏览器计算，不会上传任何服务器
 
@@ -73,6 +74,66 @@ description: 输入税前工资，自动计算上海2026年度社保、公积金
   padding: 12px 20px; background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
   color: #fff; border: none; border-radius: 8px; font-size: 14px; font-weight: 700;
   cursor: pointer; text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+.salary-calc .btn-calc:active {
+  transform: scale(0.96);
+}
+.salary-calc .btn-calc.calculating {
+  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  pointer-events: none;
+}
+.salary-calc .btn-calc::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 0; height: 0;
+  background: rgba(255,255,255,0.3);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.4s ease, height 0.4s ease;
+}
+.salary-calc .btn-calc:active::after {
+  width: 300px; height: 300px;
+}
+.salary-calc .value {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+.salary-calc .value.updating {
+  color: #4f46e5;
+  transform: scale(1.08);
+}
+.salary-calc .result-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.salary-calc .result-card.flash {
+  animation: cardFlash 0.5s ease;
+}
+@keyframes cardFlash {
+  0% { transform: scale(1); box-shadow: 0 0 0 rgba(79,70,229,0); }
+  50% { transform: scale(1.02); box-shadow: 0 0 20px rgba(79,70,229,0.2); }
+  100% { transform: scale(1); box-shadow: 0 0 0 rgba(79,70,229,0); }
+}
+.salary-calc .detail-table tbody tr {
+  transition: background-color 0.3s ease;
+}
+.salary-calc .detail-table tbody tr.flash-row {
+  animation: rowFlash 0.6s ease;
+}
+@keyframes rowFlash {
+  0% { background-color: transparent; }
+  50% { background-color: rgba(79,70,229,0.08); }
+  100% { background-color: transparent; }
+}
+.salary-calc .number-roll {
+  display: inline-block;
+  animation: numberRoll 0.4s ease-out;
+}
+@keyframes numberRoll {
+  0% { transform: translateY(-8px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
 }
 .salary-calc .result-grid {
   display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
@@ -139,13 +200,17 @@ description: 输入税前工资，自动计算上海2026年度社保、公积金
 }
 </style>
 
+<!-- // text -->
+
 <div class="salary-calc">
   <div class="calc-header">
     <h2>上海 2026 五险一金及个税计算器</h2>
     <p>社保基数：7546 ~ 37731 | 公积金基数：2740 ~ 37731 | 公积金比例：5% ~ 7%</p>
   </div>
 
-  <div class="section-title">📥 输入参数</div>
+  <div class="section-title">
+    <h2 id="parameter">📥 输入参数</h2>
+  </div>
   <div class="form-grid">
     <div class="form-group">
       <label>税前月工资（元）</label>
@@ -242,7 +307,9 @@ description: 输入税前工资，自动计算上海2026年度社保、公积金
     </tbody>
   </table>
 
-  <div class="section-title">🎯 最终到手</div>
+  <div class="section-title">
+    <h2 id="result">🎯 最终到手</h2>
+  </div>
   <div class="result-grid">
     <div class="result-card important">
       <div class="label">💰 实发工资（到手）</div>
@@ -314,7 +381,57 @@ function getTaxRate(income) {
   if (income <= 80000) return { rate: 0.35, quick: 7160, rateStr: "35%" };
   return { rate: 0.45, quick: 15160, rateStr: "45%" };
 }
-function calculateSalary() {
+
+function animateValue(element, start, end, duration) {
+  const startTime = performance.now();
+  function update(currentTime) {
+    const elapsed = currentTime - startTime;
+    const progress = Math.min(elapsed / duration, 1);
+    const easeProgress = 1 - Math.pow(1 - progress, 3);
+    const current = start + (end - start) * easeProgress;
+    element.textContent = formatMoney(current);
+    element.classList.add('number-roll');
+    if (progress < 1) {
+      requestAnimationFrame(update);
+    } else {
+      setTimeout(() => element.classList.remove('number-roll'), 400);
+    }
+  }
+  requestAnimationFrame(update);
+}
+
+function flashElements() {
+  document.querySelectorAll('.salary-calc .result-card').forEach((card, i) => {
+    setTimeout(() => {
+      card.classList.add('flash');
+      setTimeout(() => card.classList.remove('flash'), 500);
+    }, i * 80);
+  });
+  document.querySelectorAll('.salary-calc .detail-table tbody tr').forEach((row, i) => {
+    setTimeout(() => {
+      row.classList.add('flash-row');
+      setTimeout(() => row.classList.remove('flash-row'), 600);
+    }, i * 60);
+  });
+}
+
+let previousValues = {};
+
+function setAnimatedValue(id, newValue) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  const oldValue = previousValues[id] || 0;
+  if (Math.abs(newValue - oldValue) > 0.01) {
+    animateValue(el, oldValue, newValue, 400);
+    el.classList.add('updating');
+    setTimeout(() => el.classList.remove('updating'), 300);
+  } else {
+    el.textContent = formatMoney(newValue);
+  }
+  previousValues[id] = newValue;
+}
+
+function doCalculate(isManual) {
   const salary = parseFloat(document.getElementById('salary').value) || 0;
   let socialBase = parseFloat(document.getElementById('socialBase').value) || 7546;
   let gjjBase = parseFloat(document.getElementById('gjjBase').value) || 2740;
@@ -324,27 +441,27 @@ function calculateSalary() {
   const children = parseFloat(document.getElementById('children').value) || 0;
   const education = parseFloat(document.getElementById('education').value) || 0;
   const mortgage = parseFloat(document.getElementById('mortgage').value) || 0;
-
+  
   socialBase = Math.max(7546, Math.min(37731, socialBase));
   gjjBase = Math.max(2740, Math.min(37731, gjjBase));
-
+  
   const pension = socialBase * 0.08;
   const medical = socialBase * 0.02;
   const unemployment = socialBase * 0.005;
   const socialTotal = pension + medical + unemployment;
-
+  
   const gjjPersonal = gjjBase * (gjjRate / 100);
   const gjjCompany = gjjBase * (gjjRate / 100);
   const gjjAccount = gjjPersonal + gjjCompany;
-
+  
   const deductionTotal = rent + elderly + children + education + mortgage;
   const taxableIncome = Math.max(salary - 5000 - socialTotal - gjjPersonal - deductionTotal, 0);
   const taxInfo = getTaxRate(taxableIncome);
   const taxAmount = Math.max(taxableIncome * taxInfo.rate - taxInfo.quick, 0);
-
+  
   const takeHome = salary - socialTotal - gjjPersonal - taxAmount;
   const personalTotal = socialTotal + gjjPersonal + taxAmount;
-
+  
   const compPension = socialBase * 0.16;
   const compMedical = socialBase * 0.09;
   const compUnemployment = socialBase * 0.005;
@@ -352,38 +469,68 @@ function calculateSalary() {
   const compGjj = gjjCompany;
   const compTotal = compPension + compMedical + compUnemployment + compInjury + compGjj;
   const compCost = salary + compTotal;
-
-  document.getElementById('pension').textContent = formatMoney(pension);
-  document.getElementById('medical').textContent = formatMoney(medical);
-  document.getElementById('unemployment').textContent = formatMoney(unemployment);
-  document.getElementById('socialTotal').textContent = formatMoney(socialTotal);
-  document.getElementById('gjjPersonal').textContent = formatMoney(gjjPersonal);
-  document.getElementById('gjjCompany').textContent = formatMoney(gjjCompany);
-  document.getElementById('gjjAccount').textContent = formatMoney(gjjAccount);
+  
+  setAnimatedValue('pension', pension);
+  setAnimatedValue('medical', medical);
+  setAnimatedValue('unemployment', unemployment);
+  setAnimatedValue('socialTotal', socialTotal);
+  setAnimatedValue('gjjPersonal', gjjPersonal);
+  setAnimatedValue('gjjCompany', gjjCompany);
+  setAnimatedValue('gjjAccount', gjjAccount);
+  setAnimatedValue('taxSalary', salary);
+  setAnimatedValue('taxSocial', socialTotal);
+  setAnimatedValue('taxGjj', gjjPersonal);
+  setAnimatedValue('taxDeduction', deductionTotal);
+  setAnimatedValue('taxableIncome', taxableIncome);
+  setAnimatedValue('taxQuick', taxInfo.quick);
+  setAnimatedValue('taxAmount', taxAmount);
+  setAnimatedValue('takeHome', takeHome);
+  setAnimatedValue('personalTotal', personalTotal);
+  setAnimatedValue('compPension', compPension);
+  setAnimatedValue('compMedical', compMedical);
+  setAnimatedValue('compUnemployment', compUnemployment);
+  setAnimatedValue('compInjury', compInjury);
+  setAnimatedValue('compGjj', compGjj);
+  setAnimatedValue('compTotal', compTotal);
+  setAnimatedValue('compCost', compCost);
+  
   document.getElementById('gjjRateDisplay').textContent = gjjRate + '%';
-  document.getElementById('taxSalary').textContent = formatMoney(salary);
-  document.getElementById('taxSocial').textContent = formatMoney(socialTotal);
-  document.getElementById('taxGjj').textContent = formatMoney(gjjPersonal);
-  document.getElementById('taxDeduction').textContent = formatMoney(deductionTotal);
-  document.getElementById('taxableIncome').textContent = formatMoney(taxableIncome);
   document.getElementById('taxRate').textContent = taxInfo.rateStr;
-  document.getElementById('taxQuick').textContent = formatMoney(taxInfo.quick);
-  document.getElementById('taxAmount').textContent = formatMoney(taxAmount);
-  document.getElementById('takeHome').textContent = formatMoney(takeHome);
-  document.getElementById('personalTotal').textContent = formatMoney(personalTotal);
-  document.getElementById('compPension').textContent = formatMoney(compPension);
-  document.getElementById('compMedical').textContent = formatMoney(compMedical);
-  document.getElementById('compUnemployment').textContent = formatMoney(compUnemployment);
-  document.getElementById('compInjury').textContent = formatMoney(compInjury);
-  document.getElementById('compGjj').textContent = formatMoney(compGjj);
-  document.getElementById('compTotal').textContent = formatMoney(compTotal);
-  document.getElementById('compCost').textContent = formatMoney(compCost);
+  
+  if (isManual) {
+    flashElements();
+  }
 }
+
+function calculateSalary() {
+  const btn = document.querySelector('.salary-calc .btn-calc');
+  const originalText = btn.textContent;
+  btn.textContent = '⚡ 计算中...';
+  btn.classList.add('calculating');
+
+  setTimeout(() => {
+    doCalculate(true);
+    
+    setTimeout(() => {
+      btn.textContent = originalText;
+      btn.classList.remove('calculating');
+      const resultEl = document.getElementById('result');
+      if (resultEl) {
+        resultEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }, 500);
+  }, 50);
+}
+
+function autoCalculate() {
+  doCalculate(false);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
-  calculateSalary();
+  doCalculate(false);
   document.querySelectorAll('.salary-calc input, .salary-calc select').forEach(el => {
-    el.addEventListener('change', calculateSalary);
-    el.addEventListener('input', calculateSalary);
+    el.addEventListener('change', autoCalculate);
+    el.addEventListener('input', autoCalculate);
   });
 });
 </script>

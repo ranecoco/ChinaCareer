@@ -217,26 +217,21 @@ tools: [ Calculator ]
       <input type="number" id="salary" value="6000" min="0" step="100">
     </div>
     <div class="form-group">
-      <label>社保缴费基数（元）</label>
-      <input type="number" id="socialBase" value="7546" min="7546" max="37731">
-      <div class="hint">工资低于7546按7546，高于37731按37731</div>
-    </div>
-    <div class="form-group">
       <label>公积金缴费基数（元）</label>
-      <input type="number" id="gjjBase" value="6000" min="2740" max="37731">
+      <input type="number" id="gjjBase" value="2740" min="2740" max="37731">
       <div class="hint">通常按实际工资，也可2740~37731自选</div>
     </div>
     <div class="form-group">
       <label>公积金缴存比例</label>
       <select id="gjjRate">
-        <option value="5">5%</option>
+        <option value="5" selected>5%</option>
         <option value="6">6%</option>
-        <option value="7" selected>7%</option>
+        <option value="7">7%</option>
       </select>
     </div>
     <div class="form-group">
       <label>住房租金专项扣除（元/月）</label>
-      <input type="number" id="rent" value="1500" min="0" step="100">
+      <input type="number" id="rent" value="0" min="0" step="100">
     </div>
     <div class="form-group">
       <label>赡养老人专项扣除（元/月）</label>
@@ -259,12 +254,27 @@ tools: [ Calculator ]
     </div>
   </div>
 
-  <button class="btn-calc" onclick="calculateSalary()">🔄 重新计算</button>
+  <button class="btn-calc" onclick="calculateSalary()">🔄 计算</button>
+
+  <div class="section-title">
+    <h2 id="result">🎯 最终到手</h2>
+  </div>
+  <div class="result-grid">
+    <div class="result-card important">
+      <div class="label">💰 实发工资（到手）</div>
+      <div class="value" id="takeHome">0.00</div>
+    </div>
+    <div class="result-card danger">
+      <div class="label">个人五险一金扣除合计</div>
+      <div class="value" id="personalTotal">0.00</div>
+    </div>
+  </div>
 
   <div class="section-title">📊 社会保险（个人缴纳部分）</div>
   <table class="detail-table">
     <thead><tr><th>险种</th><th>比例</th><th>金额（元）</th></tr></thead>
     <tbody>
+    <tr style="background:#e8ecf4;font-weight:700;"><td colspan="2">实际社保缴费基数</td><td id="actualSocialBase">0.00</td></tr>
       <tr><td>养老保险</td><td>8%</td><td id="pension">0.00</td></tr>
       <tr><td>医疗保险</td><td>2%</td><td id="medical">0.00</td></tr>
       <tr><td>失业保险</td><td>0.5%</td><td id="unemployment">0.00</td></tr>
@@ -306,20 +316,6 @@ tools: [ Calculator ]
       <tr class="total-row"><td>个税金额</td><td id="taxAmount">0.00</td></tr>
     </tbody>
   </table>
-
-  <div class="section-title">
-    <h2 id="result">🎯 最终到手</h2>
-  </div>
-  <div class="result-grid">
-    <div class="result-card important">
-      <div class="label">💰 实发工资（到手）</div>
-      <div class="value" id="takeHome">0.00</div>
-    </div>
-    <div class="result-card danger">
-      <div class="label">个人五险一金扣除合计</div>
-      <div class="value" id="personalTotal">0.00</div>
-    </div>
-  </div>
 
   <div class="section-title">🏢 单位用工成本</div>
   <table class="detail-table">
@@ -433,7 +429,9 @@ function setAnimatedValue(id, newValue) {
 
 function doCalculate(isManual) {
   const salary = parseFloat(document.getElementById('salary').value) || 0;
-  let socialBase = parseFloat(document.getElementById('socialBase').value) || 7546;
+  let socialBase = salary;
+  if (socialBase < 7546) socialBase = 7546;
+  if (socialBase > 37731) socialBase = 37731;
   let gjjBase = parseFloat(document.getElementById('gjjBase').value) || 2740;
   const gjjRate = parseFloat(document.getElementById('gjjRate').value) || 7;
   const rent = parseFloat(document.getElementById('rent').value) || 0;
@@ -469,7 +467,7 @@ function doCalculate(isManual) {
   const compGjj = gjjCompany;
   const compTotal = compPension + compMedical + compUnemployment + compInjury + compGjj;
   const compCost = salary + compTotal;
-  
+  document.getElementById('actualSocialBase').textContent = formatMoney(socialBase);
   setAnimatedValue('pension', pension);
   setAnimatedValue('medical', medical);
   setAnimatedValue('unemployment', unemployment);
@@ -514,10 +512,10 @@ function calculateSalary() {
     setTimeout(() => {
       btn.textContent = originalText;
       btn.classList.remove('calculating');
-      const resultEl = document.getElementById('result');
-      if (resultEl) {
-        resultEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }
+      // const resultEl = document.getElementById('result');
+      // if (resultEl) {
+      //   resultEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      // }
     }, 500);
   }, 50);
 }

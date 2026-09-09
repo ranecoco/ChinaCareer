@@ -248,7 +248,7 @@ abbrlink: '42103658'
 - {% post_link 06如何选职务/SQE跟Sourcing，哪个工作好 %}
 - {% post_link 06如何选职务/哪些工作比较闲，但是工资又不低 %}
 - {% post_link 06如何选职务/如何从简历中挖掘自己可投递的岗位，提高找工作的效率 %}
-- {% post_link 06如何选职务/跨行换岗的方法，有哪些 %}
+- {% post_link 04如何选行业？/跨行换岗的方法，有哪些 %}
 
 
 - [英语好，找工作就一定是外贸、英语老师或翻译？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486883&idx=1&sn=cd8623a513b5c5d50f8508dc28afb7da&chksm=e96da662de1a2f742e10127d462f0da799fff51803da0c02dcea285276cd298447aa3d28893e&scene=21#wechat_redirect)

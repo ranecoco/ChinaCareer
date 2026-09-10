@@ -298,6 +298,8 @@ abbrlink: '42103658'
 ## **【08, 简历制作秘笈】**
 
 - 🔴 {% post_link 08简历制作秘笈/短暂的工作经历，要不要写进简历中去 %}
+- 🔴 {% post_link 08简历制作秘笈/我一人多劳，简历里究竟写哪一个岗位 %}
+
 - 🔴[教你如何做简历](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484682&idx=1&sn=4e069e22e8f60b3f488bca7d7bd41a8c&chksm=e96daecbde1a27dd4125f4263034dcedd38027dc55e08cd32e800c595124454ed0c56a1fedf9&scene=21#wechat_redirect)
 - [你值得拥有：十几个精选简历模板](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484859&idx=1&sn=8451c52d014e265209e547de42244b1b&chksm=e96dae7ade1a276ced5d4153bc5857b5eae3c3b26edf2821b4f8aee861bed6e35453c8df6450&scene=21#wechat_redirect)
 - [简历上能不能写创业经历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485004&idx=1&sn=3267db041c9400a0b860280ddf1f5658&chksm=e96dad8dde1a249bd9b5e473109ea64ced5cc153552b06e8b3585968168d460d618bb33a6f89&scene=21#wechat_redirect)
@@ -773,6 +775,7 @@ abbrlink: '42103658'
 - 🔴 {% post_link 21同事如何相处？/领导如何搞走员工？（内心不强大者不要看） %}
 - 🔴 {% post_link 21同事如何相处？/工作中，如何让不配合的人配合？ %}
 - 🔴 {% post_link 21同事如何相处？/同事不配合我的工作，怎么办 %}
+- {% post_link 21同事如何相处？/平级同事对我的工作指手画脚，我要配合吗 %}
 - {% post_link 21同事如何相处？/同事都比我学历高，我该怎么办？ %}
 - {% post_link 21同事如何相处？/加个好友，是你扫我还是我扫你？ %}
 - {% post_link 21同事如何相处？/不换工作时的两大生存之道 %}
@@ -1051,6 +1054,8 @@ abbrlink: '42103658'
 - {% post_link 27职场生活技艺/分手分不掉，怎么办 %}
 - {% post_link 27职场生活技艺/婚姻对女孩的好处有哪些 %}
 - {% post_link 27职场生活技艺/什么是假独生子女 %}
+- {% post_link 27职场生活技艺/想买个洗碗机，但家人反对，怎么办 %}
+- {% post_link 27职场生活技艺/突然生病了，怎么办 %}
 
 - ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 

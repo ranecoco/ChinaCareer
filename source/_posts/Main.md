@@ -35,11 +35,12 @@ abbrlink: '42103658'
 - 🔴 {% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
 - 🔴 {% post_link 01学历不重要？能力更重要？/如何提升学历 %}
 - {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
-- {% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
 - {% post_link 01学历不重要？能力更重要？/为何每年都是最难就业季 %}
 - {% post_link 01学历不重要？能力更重要？/读个第二学位，有没有帮助 %}
 - {% post_link 01学历不重要？能力更重要？/念MBA到底有没有用？价值体现在哪些方面 %}
 - {% post_link 01学历不重要？能力更重要？/在职硕士，为何就是个大坑 %}
+- {% post_link 01学历不重要？能力更重要？/读研的七种方法 %}
+- {% post_link 01学历不重要？能力更重要？/多大岁数提升学历算来不及了，或者叫做“晚了” %}
 
 
 - [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)
@@ -110,6 +111,7 @@ abbrlink: '42103658'
 - {% post_link 03如何选择城市/换工作到一线城市，薪水一般涨多少倍 %}
 - {% post_link 03如何选择城市/女生跟男生，谁更倾向于定居大城市 %}
 - {% post_link 03如何选择城市/回国后选择一线城市好，还是回小城市就业好 %}
+- {% post_link 03如何选择城市/在异地小城市的出租屋里连续考公，有没有必要 %}
 
 
 - [从北上广回二三线求职，是什么体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484747&idx=1&sn=d3b8b61e714d57606aaf5d47c3d6ae8e&chksm=e96dae8ade1a279c658f865e3ee0fb7f82cbbfbd952ae65a7d0808b578dafb12840abd8ba6df&scene=21#wechat_redirect)
@@ -379,6 +381,7 @@ abbrlink: '42103658'
 - {% post_link 10面试技巧/人一生大概跳槽多少次 %}
 - {% post_link 10面试技巧/你遇到过的最奇葩的面试经历是什么 %}
 - {% post_link 10面试技巧/我的简历跟岗位明明很匹配，为何却通不过面试 %}
+- {% post_link 10面试技巧/从老家跳上海，如何做面试准备 %}
 
 
 - [为什么元旦的时候，面试的人更多？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484482&idx=1&sn=eb198ee7232774d372955d8c6051fd8e&chksm=e96daf83de1a26950e5d2c59e6979f01c9252ad98bb134bcbecfda3cad91654c032b0d17a3b1&scene=21#wechat_redirect)
@@ -444,13 +447,14 @@ abbrlink: '42103658'
 - {% post_link 11工资行情和Offer谈判/有个工作机会，跟目前的工作打分差不多，选哪个 %}
 - {% post_link 11工资行情和Offer谈判/什么人会特别纠结？已经据掉的Offer如何舔回来 %}
 - {% post_link 11工资行情和Offer谈判/质量管理岗位中，为何SQE的工资最高 %}
+- {% post_link 11工资行情和Offer谈判/为何新人比我这师父工资高 %}
+
 
 - [如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
 - [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)
 - [海归硕士的工资行情如何？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484872&idx=1&sn=60bc9495af643a6edf231568387cc1c6&chksm=e96dae09de1a271f0dea65c844339cb8b3043ea48175690819d2277c23364c7e2f749f12d84d&scene=21#wechat_redirect)
 - [面试谈薪资，先开价你就输了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487876&idx=2&sn=bbe7be73d00bfc121b11f87e325966a0&chksm=e96dba45de1a3353956cb14362b43885b9087f5cc82ab79653285edaeb501c313e6da37d38c2&scene=21#wechat_redirect)
 - [哪种性质的企业工资高](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484874&idx=1&sn=9becfbda4d0c0e3aef78a300475c3cef&chksm=e96dae0bde1a271dee35abdce7dda9476253d1051ec614a21fe3b0c91236facc9c90a2e1ff77&scene=21#wechat_redirect)
-- [为何新人比我这师父工资高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484890&idx=1&sn=20d555facb6abc3044b2de28d568b0b8&chksm=e96dae1bde1a270d8cb9061d8d6cd75507afcee9842fc81c700381be5645809076626bc09653&scene=21#wechat_redirect)
 - 🔴[Offer 上月薪 5000, 签合同时为何变成了 3000？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485065&idx=1&sn=2d1fe6fc4ef347b815bdc4e2e5389254&chksm=e96dad48de1a245e22b8a7a2a6de54071e4739fb943ad4e95e6e83751842011e502cc06bdf0c&scene=21#wechat_redirect)
 - [同班同学毕业 5 年，为何有人月薪 1 万有人 2 万？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485080&idx=1&sn=267c3e81899b96e7aef241315e15fb16&chksm=e96dad59de1a244fc8b3673bce041969837049e8c02aa340681ac38e08e2a2c79e184bac1487&scene=21#wechat_redirect)
 - 🔴[如何知道自己的工资行情？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485158&idx=1&sn=560ca59e39cf9302c2a9ce125eb8fc66&chksm=e96dad27de1a2431ed56e9c9793568dafc112b084ad95cc20610eeaf7a995977d8838ede0994&scene=21#wechat_redirect)
@@ -584,12 +588,18 @@ abbrlink: '42103658'
 
 - 🔴 {% post_link 14试用期和转正/我没有离职证明，新公司又要，怎么办？ %}
 - 🔴 {% post_link 14试用期和转正/碰到“无法完成的任务”，我该怎么办 %}
+- 🔴 {% post_link 14试用期和转正/警惕：返聘的领导 %}
 - {% post_link 14试用期和转正/试用期内继续求职的话，简历如何写 %}
 - {% post_link 14试用期和转正/试用期内，为何一定要继续找工作 %}
 - {% post_link 14试用期和转正/公司2个月没发工资了，我怎么办 %}
+- {% post_link 14试用期和转正/劳动合同期是长一点好，还是短一点好 %}
+- {% post_link 14试用期和转正/离职几年后，又回了老东家，还需要经历试用期吗 %}
+- {% post_link 14试用期和转正/公司说不跟我签劳动合同，但签劳务合同，行不行 %}
+- {% post_link 14试用期和转正/入职时的《不生娃承诺书》能签吗 %}
+- {% post_link 14试用期和转正/求职碰到“划小核算”“人单合一”“阿米巴”等字眼，绕着走 %}
+
 
 - [找工作，要拆掉思维里的墙！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484945&idx=1&sn=5fd5271f063d11192a2b01ff7dad5bff&chksm=e96dadd0de1a24c6ede06b5eed4912686542ccebc68c5d1402535e744d7ba4097842b0d0569c&scene=21#wechat_redirect)
-- [劳动合同期是长一点好，还是短一点好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487979&idx=2&sn=bed22ca63a0decdd08f26f570e1d135c&chksm=e96dba2ade1a333c3d719d138199f0f8aef943d65175fb180f58ac763dfd1d83ec7436d42922&scene=21#wechat_redirect)
 - [从月薪 1 千到 5 万，看整个过程中的每次新工作入职](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487872&idx=2&sn=1dd80287112c65d795730f1c6331dc71&chksm=e96dba41de1a33571656fd372ea46fc1fd253168432e7c682e67c544c602be5925740129ba96&scene=21#wechat_redirect)
 - 🔴[刚入职又来了面试电话，我是说自己在职还是已离职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488217&idx=1&sn=5cd37e1c1d863cb6e556ee5dae4f3a3e&chksm=e96db918de1a300e251d5180c61ab20ba8e02282caf86ea1f764b931b12a14a2f634f4e0e66d&scene=21#wechat_redirect)
 - 🔴[新工作入职指南](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487493&idx=1&sn=a9886da0367d33187794b9909753bf8d&chksm=e96dbbc4de1a32d2294275309ca9210e26c3aab7fb2d8e1f7d62016bb042837631c372c4c2dc&scene=21#wechat_redirect)
@@ -631,6 +641,9 @@ abbrlink: '42103658'
 - 🔴 {% post_link 15辞退和裁员/遭遇试用期被辞退，个人的操作策略 %}
 - 🔴 {% post_link 15辞退和裁员/被裁，是什么样一个标准流程 %}
 - {% post_link 15辞退和裁员/年底突然被辞退，如何解释裸辞原因？ %}
+- {% post_link 15辞退和裁员/公司要搬迁，会给我赔偿吗 %}
+
+- [？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488489&idx=1&sn=e19587c4eece78e9b251a80619c99b75&chksm=e96db828de1a313e5275c6058bf90c75fb1f0e7dbc03e6ba0e13895d993381b80fc4fe39629c&scene=21#wechat_redirect)
 
 - 🔴[工作中出错导致公司受损，个人要承担损失不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486660&idx=1&sn=d80d9693197819e72fcf1601af540a94&chksm=e96da705de1a2e13411e6f491867a004ddf58129f410de4a9a51f8ddbf62855a4b014467ec50&scene=21#wechat_redirect)
 - [领导为何一步步开始为难你？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486717&idx=1&sn=f3c2b9a764042ae69a6b87d0dcffca61&chksm=e96da73cde1a2e2af914f83a32a18609fb22b027e36feb7d6ea13739c4d9c66ed5c02f10253a&scene=21#wechat_redirect)
@@ -640,7 +653,6 @@ abbrlink: '42103658'
 - 🔴[试用期被辞退，也有赔偿吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487726&idx=1&sn=405a39a3c1ffcdd6857f143e3ec2a263&chksm=e96dbb2fde1a323951db726692e7b105d544fddecbf7fd1e2c92285082d47911cffcc69c55c4&scene=21#wechat_redirect)
 - [企业会先辞退哪些员工，有没有什么顺序？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488423&idx=1&sn=1af8fcb00b009bc5544b79f2545555cb&chksm=e96db866de1a3170f42c01bcbfa36cc1304547fa66673695be8f9ee565ee03672b11f6f1e206&scene=21#wechat_redirect)
 - [试用期提出离职要提前 3 天，企业辞退员工也要提前 3 天吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488447&idx=1&sn=720118d18110eb06f5f89d0809a57b7c&chksm=e96db87ede1a31682cd06f92841f14b480e4c385242e3e449578b69f136d416a3fca4e2e0597&scene=21#wechat_redirect)
-- [公司要搬迁，会给我赔偿吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488489&idx=1&sn=e19587c4eece78e9b251a80619c99b75&chksm=e96db828de1a313e5275c6058bf90c75fb1f0e7dbc03e6ba0e13895d993381b80fc4fe39629c&scene=21#wechat_redirect)
 
 - [年前最后一天被辞退，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488720&idx=1&sn=114b4243f6f9b80297ee5b4be80ec38a&chksm=e96dbf11de1a36073f5cfaaced0e60c4f61a6987b57596411fcaf1defba5f6fe8e6f80f34582&scene=21#wechat_redirect)
 
@@ -1056,6 +1068,9 @@ abbrlink: '42103658'
 - {% post_link 27职场生活技艺/什么是假独生子女 %}
 - {% post_link 27职场生活技艺/想买个洗碗机，但家人反对，怎么办 %}
 - {% post_link 27职场生活技艺/突然生病了，怎么办 %}
+- {% post_link 27职场生活技艺/《职场宝典》的正确打开方式 %}
+- {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
+
 
 - ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 
@@ -1137,6 +1152,8 @@ abbrlink: '42103658'
 - 🔴 {% post_link 29势商和人生规划/碰到职业难题，你是问父母？咨询同学？还是听同事的 %}
 - 🔴 {% post_link 29势商和人生规划/如何进入大城市买房、读研，并年薪30万 %}
 - 🔴 {% post_link 29势商和人生规划/30岁再“学个技术”，还有用不 %}
+- 🔴 {% post_link 29势商和人生规划/拆解中国当下求职市场的新变化（2026年中版拆解中国当下求职市场的新变化（2026年中版） %}
+- 🔴 {% post_link 29势商和人生规划/中国当下求职市场的新变化（2026年中版） %}
 
 - {% post_link 29势商和人生规划/50岁还可以跳槽进大城市吗 %}
 - {% post_link 29势商和人生规划/普通职员如何在2年内做到经理，并实现工资翻番？ %}
@@ -1217,6 +1234,12 @@ abbrlink: '42103658'
 - ￥ {% post_link 24房产私房菜/到底如何买房？ %}
 - ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 - ￥ {% post_link 29势商和人生规划/男女求职思维的不同点 %}
+
+---
+
+## 32, 历版宝典
+
+- [中国职场宝典4.0（2020年初版）](https://mp.weixin.qq.com/s/s4zk9vwBq3UGlEbSadm1lA)
 ---
 
 这 660 文只看 1 篇会很难过，看不下去，超过 3 篇能上瘾，新读者最好研读 50 篇以上，才能听懂“阅读原文”中的主业晋级、副业开发、提升学历、职场外语四视频。

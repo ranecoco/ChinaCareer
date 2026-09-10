@@ -3,7 +3,7 @@ date:
 update: 2026-09-11 11:50
 title: GPTManagementImprove
 cover: 0.jpg
-tags: [Career]
+tags: [Career, Management]
 categories: [ 06. 如何选职务？ ]
 copyright_author: 云飞
 copyright_url: 
@@ -2211,3 +2211,4 @@ HR：不能调人
 核心目标：
 
 > 从“我做过项目”升级为“我理解项目如何被规划、推进、控制风险并最终交付”。
+

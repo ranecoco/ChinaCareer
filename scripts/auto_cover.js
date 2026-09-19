@@ -930,9 +930,10 @@ function create_cover_svg(post) {
 // Hexo Filter
 // =====================================================
 const TAG = 'auto_cover'
+let hasResource = false
 // 检查封面图片文件是否真实存在
 function coverFileExists(coverPath) {
-  if (!coverPath) return false;
+  if (coverPath?.trim().length == 0) return false;
   const absPath = path.join(hexo.source_dir, coverPath.replace(/^\//, ''));
   return fs.existsSync(absPath);
 }
@@ -960,9 +961,8 @@ function write_cover_to_post(post, cover_path) {
   const fm = fmMatch[0];
   let fa = fmMatch[1];
 
-      if (!(post.cover && post.cover !== '')) {
-      } else if (!coverFileExists(post.cover)) {
-        fa = fa.replace(/\n.*cover:.*\n?/m, '')
+      if (!hasResource) {
+        fa = fa.replace(/\n.*cover:.*/m, '')
       } else {
         return;
       }
@@ -1038,18 +1038,13 @@ hexo.extend.filter.register( 'after_post_render',
       return post;
     }
 
-    const hasResource = coverFileExists(post.cover);
+    hasResource = coverFileExists(post.cover);
     const hasAssetFolder = assetFolderExists(post);
     /*
-     * 有 cover：
+     * 有 cover 资源
      * 不做任何处理。
      */
-    if (
-      post.cover !== undefined
-      && post.cover !== null 
-      && post.cover !== ''
-      && (hasResource || hasAssetFolder)
-    ) {
+    if (hasResource || hasAssetFolder) {
       return post;
     }
 

@@ -6,7 +6,6 @@ tags: [ Career ]
 categories: [ 13. 背景调查 ]
 copyright_author: 幽哥
 copyright_url: 'https://mp.weixin.qq.com/s/FIDkUfcPPDVpbLiW3zWMJg'
-abbrlink: 6909747c
 description:
 place:
 cover: img/auto_cover/ebf37fbd0e3a.svg
@@ -16,9 +15,9 @@ cover: img/auto_cover/ebf37fbd0e3a.svg
 
 **《{% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}》**
 
-**《**[**能不能自己每个月给自己发工资，冒充银行流水？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487780&idx=2&sn=256504d619ee498bda9be582b94236c4&chksm=e96dbae5de1a33f34a84a2b9985b75311a7154803ea725a5ebec809f7e323aa84c285e24c3c2&scene=21#wechat_redirect)**》**
+**《{% post_link 13背景调查/能不能自己每个月给自己发工资，冒充银行流水 %}》**
 
-**《**[**新公司问我要工资证明和银行流水，怎么办？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247499948&idx=2&sn=2968be43cc900f79dd1b8c06f4358c7b&chksm=e96e6b6dde19e27bf5721feb75af8e1212d25d048225548e0cc4f5e25f67de2f5ac4bee7c173&scene=21#wechat_redirect)**》**
+**《{% post_link 13背景调查/新公司问我要工资证明和银行流水，怎么办 %}》**
 
 **《{% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}》**
 
@@ -127,7 +126,7 @@ HR这里为了砍他的工资，其实工资还没谈拢，他说的“最近收
 
 废话不多说，戴尔内推。
 
-如下戴尔在全国各地的部分职位表，大家可以加我的职场徒弟young内推。
+大家可以加我的职场徒弟young内推。
 
 联系方式：职场蛙后台回复young
 
@@ -136,134 +135,4 @@ HR这里为了砍他的工资，其实工资还没谈拢，他说的“最近收
 <center>End</center>
 
 ---
-
-Reads 14.4K
-
-**13 Comments**
-
-Comment
-
-* ![](https://wx.qlogo.cn/mmopen/UbwKeQ5iaf0tORjqTmLbgibARGO1Axw4212BJmeTODjl5ker2amaEqHlQgOeZia6BpONlA0rxhRnBMeLDtJ2nGLxbGkqDcSAqPYDpGb5X5ias7IEGwfRIQXlhYmK5jvTicIvF/64)
-  
-  刘
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like3
-  
-  我想问一下，我最近找工作面试通过了，面试专员岗位，HR让我提供上一家公司工资流水。然后我感觉它现在给我的报的工资就是我上家公司的到手工资。感觉加了几百块而已。我感觉有点过分，年底也比较难找工作，不知道去不去？
-  
-  ![]()
-  
-  职场蛙
-  
-  AuthorNov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like15
-  
-  至少加30%才能去。
-* ![]()
-  
-  丝丝猫🐾
-  
-  Nov 14, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like10
-  
-  作为十年的HR，也是幽哥的老粉，从来不会让应聘者提供流水，因为这个事情毫无意义。一些高薪的岗位，都会用一些大家心照不宣的方法避税，流水不代表他的实际工资；万一如果对方有心造假，在准备跳槽前的半年就可以造假流水记录。洽谈工资是通过双方的契合度来有商有量的，事实上中国民企里的HR并没有那么大的拍板权，工资方面的问题一般是更高层复试后确定的，尤其是高管类岗位，一般是老板(总经理、股东等)亲自谈好，这时候谁都不敢对老板已经谈好的人才节外生枝，更别提要求银行流水这种画蛇添足了。
-* ![]()
-  
-  SarZ
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like7
-  
-  幽哥好，我记得您之前文章提过，HR能看到的就是银行流水，如果在小公司跳大公司，如果小公司不交公积金，可以报交了7%公积金，7%的可以报12%。是这样子么？如果在比较大型的企业，没有什么现金类的补贴，要如何在相同流水的情况下，向下家报更高的工资啊？感谢幽哥指导![[抱拳]](//res.wx.qq.com/t/wx_fed/we-emoji/res/assets/Expression/Expression_84@2x.png)![[抱拳]](//res.wx.qq.com/t/wx_fed/we-emoji/res/assets/Expression/Expression_84@2x.png)
-* <iframe data-v-45da8554="" src="https://wxa.wxs.qq.com/tmpl/px/base_tmpl.html" class="iframe_ad_container iframe_adv_ad_container"></iframe>
-* ![]()
-  
-  宁静致远
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like7
-  
-  我要热评![[旺柴]](//res.wx.qq.com/t/wx_fed/we-emoji/res/assets/newemoji/Yellowdog.png)
-  
-  First comment
-* ![]()
-  
-  春er\~
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like5
-  
-  提供当然可以，一般牛的公司或者单位根本不要你提供，他就问你，目前工资多少什么的……工资是明面，当然谈的时候，其他的你也要强调啊，去了新的地方，没了什么你现在有什么，告诉他，他心里没个底吗？
-* ![]()
-  
-  Zuo
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like4
-  
-  HR问你要最近的，你可以不提供最近的，而提供最高的那几个月工资流水即可。如果有困难，就提供三个月的，当然如果没有困难，那能提供一年的就更好
-* ![]()
-  
-  Vivian Li
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like4
-  
-  点个赞，表示看过了。😁 😁 😁
-* ![]()
-  
-  海市的便利店
-  
-  河北Mar 22, 2023
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like3
-  
-  经常，我想问一下，我隐瞒了三个月的空窗期，新公司让提供工资流水，要怎么办呢
-* ![]()
-  
-  芝宝
-  
-  Nov 14, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like3
-  
-  ①offer 替代法②东拼西凑法
-  
-  ③乖乖投降法![[呲牙]](//res.wx.qq.com/t/wx_fed/we-emoji/res/assets/Expression/Expression_14@2x.png)
-* ![]()
-  
-  沧海
-  
-  Nov 14, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like3
-  
-  很多HR的无知让我很咂舌，比如不知道籍贯和户籍的区别。我问入职表格上，为何要写籍贯（没有户籍这一栏），HR经理傲慢的答到:上五险啊，你不知道吗？![😂](//res.wx.qq.com/t/wx_fed/we-emoji/res/assets/newemoji/Lol.png)
-* ![]()
-  
-  曦
-  
-  Nov 13, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like3
-  
-  幽哥 虚报工资 要流水怎么处理啊 比如一万 面试写一万五
-* ![]()
-  
-  时木子
-  
-  Nov 15, 2021
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like1
-  
-  之前也有一个offer基本确定了，但是HR找我要之前一年的工资流水，面试的时候虚报了工资，想谈高点工资，拿不出来，也没提前做准备，就放弃了
 

@@ -8,6 +8,7 @@ categories: [ 29. 势商和人生规划 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/6n_59CVcXdtBsxoKL3WleA
 place: Shanghai
+account: JumpFrog
 cover: img/auto_cover/4c7eae44bda4.svg
 ---
 
@@ -39,7 +40,7 @@ cover: img/auto_cover/4c7eae44bda4.svg
 
 这位群友开始被领导为难，派活，让他加班，不断PUA他，而且周末也要加班。
 
-如上截图中，就是我的建议，**我让他先休完年假，然后请病假一周，回来上班几天后就再请2周病假，然后再回来一两周，开始请一个月事假，接着回来几天再请三个月病假，然后六个月病假。**
+如上就是我的建议，**我让他先休完年假，然后请病假一周，回来上班几天后就再请2周病假，然后再回来一两周，开始请一个月事假，接着回来几天再请三个月病假，然后六个月病假。**
 
 其实这里需要搞个病例和医嘱，找一找，哪怕你就去身边的医院找医生，说自己“工作压力大，快抑郁了”。医生会给你开的，放心。
 
@@ -53,12 +54,8 @@ cover: img/auto_cover/4c7eae44bda4.svg
 
 更多干货文章可如下点击阅读：
 
-1，[幽哥精华干货汇总](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247527228&idx=2&sn=d774c260f83debb051054feeb84155dd&chksm=e96ec0fdde1949eb76d94f1ddf798ffb61dccdd3b96f35280fa7fd6f75a1d2081b2e5aa55aac&scene=21#wechat_redirect)
-
+1，[20230112幽哥精华干货汇总](https://mp.weixin.qq.com/s/-js1Losc5mI_-AssVTDOdQ)
 2，{% post_link 29势商和人生规划/普通人年薪突破30万的6个方法 %}
-
-1. [到底如何买房？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247484265&idx=1&sn=49e4e45aa75c9a44fbca223673d70f6a&chksm=fbfaa318cc8d2a0e9244626dc2813c37dc4ffc347bc998450530ec550a3eb6df9c223f3953ab&scene=21#wechat_redirect)
-
-4，[女孩如何考虑婚姻和生育，才能获得更好的职业发展？￥](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)
-
-5，[央国企求职秘籍：极大提高成功率](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247494295&idx=1&sn=4cfdcef35d8db0f7507d1604e5c07b2b&chksm=fbf94ae6cc8ec3f0978ac15cf5417fd6f7fe3d267b68e535fa76099b0f8a1e71a94cc9b79847&scene=21#wechat_redirect)
+3, {% post_link 24房产私房菜/到底如何买房？ %}
+4，{% post_link 20女性专场/女孩如何考虑婚姻和生育，才能获得更好的职业发展 %}
+5，{% post_link 07求职，就是打败HR的过程/央国企求职秘籍：极大提高成功率 %}

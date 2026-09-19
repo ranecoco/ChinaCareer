@@ -8,7 +8,6 @@ tags: [Career]
 categories: 00. 工作只需20年
 sticky: 100
 recommend: false
-abbrlink: '42103658'
 ---
 
 > `🍭` 标记，都为云飞所书。
@@ -253,11 +252,11 @@ abbrlink: '42103658'
 - {% post_link 06如何选职务/如何从简历中挖掘自己可投递的岗位，提高找工作的效率 %}
 - {% post_link 04如何选行业？/跨行换岗的方法，有哪些 %}
 - {% post_link 04如何选行业？/我是那种“不带人的主管”，有些尴尬，如何向人解释？ %}
+- {% post_link 04如何选行业？/HR说这职位是“contractor”，啥意思？说待遇跟正式工一样，能接受吗 %}
 
 
 - [英语好，找工作就一定是外贸、英语老师或翻译？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486883&idx=1&sn=cd8623a513b5c5d50f8508dc28afb7da&chksm=e96da662de1a2f742e10127d462f0da799fff51803da0c02dcea285276cd298447aa3d28893e&scene=21#wechat_redirect)
 - [会计转行学编程年薪 20 万，要不要转？！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484503&idx=1&sn=7fa1849693966c7bc53b7345b9f419da&chksm=e96daf96de1a2680a13f5dff483e07f5cc414f13123c2ee9470213d845888f59e153b33dd18f&scene=21#wechat_redirect)
-- [HR 说这职位是“contractor”，啥意思？说待遇跟正式工一样，能接受吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484441&idx=1&sn=63cd287a2010a265ab7063da01c802db&chksm=e96dafd8de1a26ceeff2a0b0e5f0b2166853ca408a3515485a93be31d7ce950f2207cd695525&scene=21#wechat_redirect)
 - [什么第三方员工？就是临时工吧！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484897&idx=1&sn=2501fb3ccaa612bbaa6d2e6b6795cb4f&chksm=e96dae20de1a27361d4b782aaee88f650ce1cbc2e6a04b119cd609e78c7b8dab9f5b24aaa26d&scene=21#wechat_redirect)
 - [本科毕业 2 年月到手 4 万：看哪些工作比程序猿工资还高](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484386&idx=1&sn=dbd01486604279ea4fe4045c942f7971&chksm=e96da823de1a213565f535aead21ff733101a33fde14a619f3bc14bf7e2d05a0b1b8979d69e2&scene=21#wechat_redirect)
 - [先做几年销售，后期如何转采购或其他岗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484662&idx=1&sn=80d3162eee35172bc4b3a86a948a6f58&chksm=e96daf37de1a2621828a9c714042977f98b482787f769c8b3da27cd9ce564d3027111cb4710c&scene=21#wechat_redirect)
@@ -430,6 +429,7 @@ abbrlink: '42103658'
 - 🔴 {% post_link 11工资行情和Offer谈判/A和B俩公司我更心仪B，该如何运用倒逼法 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/谈工资的筹码有哪些 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}
 - 🔴[毕业头 3 年（含应届生），如何选工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486370&idx=1&sn=78909bf673f1542f9e92182266d530f2&chksm=e96da063de1a2975cad28b3b734d034b16287c84dc9597d1560020dec5c5ad7c773a714e37fc&scene=21#wechat_redirect)
 - 🔴[什么是 13 薪，真的有 18 薪、25 薪的不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486680&idx=1&sn=f19649cbd5c9a4a71e7d76508eee7e77&chksm=e96da719de1a2e0fbd1614c9a3aef30ae8206cec4b38d6a076abfd6634bfec2c59e48f6e978a&scene=21#wechat_redirect)
 - 🔴[大家一般几号发工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487540&idx=1&sn=b321f03dc318489bd417e0a58124c65b&chksm=e96dbbf5de1a32e38a34cea3f8a500569e56d830447c330f6f4d7190e0e46f78a994673ed3a9&scene=21#wechat_redirect)
@@ -441,7 +441,6 @@ abbrlink: '42103658'
 - 🔴[Offer 上月薪 5000, 签合同时为何变成了 3000？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485065&idx=1&sn=2d1fe6fc4ef347b815bdc4e2e5389254&chksm=e96dad48de1a245e22b8a7a2a6de54071e4739fb943ad4e95e6e83751842011e502cc06bdf0c&scene=21#wechat_redirect)
 - 🔴[如何知道自己的工资行情？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485158&idx=1&sn=560ca59e39cf9302c2a9ce125eb8fc66&chksm=e96dad27de1a2431ed56e9c9793568dafc112b084ad95cc20610eeaf7a995977d8838ede0994&scene=21#wechat_redirect)
 - 🔴[工资如何远超同班同学？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485364&idx=1&sn=59430eb4d5a1c6f0b1146fdb214ecc63&chksm=e96dac75de1a25637c8516aa208d3ad5a01dad989df9b88e6fd8b5f49674273d9f046d964bbf&scene=21#wechat_redirect)
-- 🔴[谈工资时，HR 问我要 12 个月的银行流水，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485766&idx=1&sn=2dc705569a32ba18b24f453fd1ecb733&chksm=e96da287de1a2b914d5d7b1a1fb6abafa1434213f4978c2179cb51424647213fe62f6b0728ea&scene=21#wechat_redirect)
 - 🔴[为何这家公司急着招我？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486031&idx=1&sn=a40cee7bdb11993c79174aab293e6696&chksm=e96da18ede1a28988ecaf3282373084e50011c261189ff631d7f60fd8958b9080ffa81051280&scene=21#wechat_redirect)
 
 - {% post_link 11工资行情和Offer谈判/月薪4千如何在几个月内达到1万5 %}
@@ -559,16 +558,16 @@ abbrlink: '42103658'
 - {% post_link 13背景调查/我为什么拒绝回答背景调查问题 %}
 - {% post_link 13背景调查/能不能自己做个离职证明 %}
 - {% post_link 13背景调查/HR问我要最近3个月的银行工资流水，怎么办 %}
-- {% post_link 13背景调查/谈工资时，HR问我要12个月的银行流水，怎么办 %}
 - {% post_link 13背景调查/简历上的工作经历，能不能合并 %}
+- {% post_link 13背景调查/能不能自己每个月给自己发工资，冒充银行流水 %}
+- {% post_link 13背景调查/新公司问我要工资证明和银行流水，怎么办 %}
+
 
 - [我就一小职员，为何入职也要做背景调查？究竟调查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484396&idx=1&sn=5f8366746c382b1df8aa8a7fc6c6a9a0&chksm=e96da82dde1a213bb2a3deb64a18304651612dc41b39ec36f4157af718d11a23455a3dc7a7c8&scene=21#wechat_redirect)
 - [简历上学历造假了，怎么办？能混过去不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484353&idx=1&sn=ec448101112960a42414f98ad45af38b&chksm=e96da800de1a21168a1fa5cd4d7de8fbdba55e4d4e6f04a04ba45a73eab1b95f64d115820657&scene=21#wechat_redirect)
 - [背景调查一般在什么时候开始做？谁做？查哪些内容？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484351&idx=1&sn=558e22fadeebc0004a71af4ace78f6a4&chksm=e96da87ede1a2168125d88c03080222ec3e3f0652a77ab85396eedaed329ba689ba7bfcb92de&scene=21#wechat_redirect)
 - [简历上的工作经历，能不能合并？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484801&idx=1&sn=6a1d79cc00c2c52cec3e3c2c93327340&chksm=e96dae40de1a275652d2d296903e773eb1fc039250d1494e2483ac4c80dd87fabe62efaf0bf5&scene=21#wechat_redirect)
 - [这几个比背景调查更恶心！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484745&idx=1&sn=b90b7a0f283a93c65a8d9fe144db51b7&chksm=e96dae88de1a279e38d5af455f9d7df7d20a004d529a36802729779223e237886a90b0706333&scene=21#wechat_redirect)
-
-- [能不能自己每个月给自己发工资，冒充银行流水？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487780&idx=2&sn=256504d619ee498bda9be582b94236c4&chksm=e96dbae5de1a33f34a84a2b9985b75311a7154803ea725a5ebec809f7e323aa84c285e24c3c2&scene=21#wechat_redirect)
 
 - [前领导说我坏话，会不会影响我下家的入职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488369&idx=1&sn=1fc7074f1dada549284056f4e40d0b37&chksm=e96db8b0de1a31a654f9e03165fadfce00a6a1abbf1c95e5ffe784eee169b9d5a89b34f72dbe&scene=21#wechat_redirect)
 
@@ -580,7 +579,7 @@ abbrlink: '42103658'
 - 🔴 {% post_link 14试用期和转正/我没有离职证明，新公司又要，怎么办？ %}
 - 🔴 {% post_link 14试用期和转正/碰到“无法完成的任务”，我该怎么办 %}
 - 🔴 {% post_link 14试用期和转正/警惕：返聘的领导 %}
-- 🔴[刚入职又来了面试电话，我是说自己在职还是已离职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488217&idx=1&sn=5cd37e1c1d863cb6e556ee5dae4f3a3e&chksm=e96db918de1a300e251d5180c61ab20ba8e02282caf86ea1f764b931b12a14a2f634f4e0e66d&scene=21#wechat_redirect)
+- 🔴 {% post_link 14试用期和转正/刚入职又来了面试电话，我是说自己在职还是已离职 %}
 - 🔴[新工作入职指南](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487493&idx=1&sn=a9886da0367d33187794b9909753bf8d&chksm=e96dbbc4de1a32d2294275309ca9210e26c3aab7fb2d8e1f7d62016bb042837631c372c4c2dc&scene=21#wechat_redirect)
 - 🔴[入职不久就要换工作，怎样向面试官解释呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486579&idx=1&sn=2d684512a14a6801b8bc6b7191f3cb2e&chksm=e96da7b2de1a2ea4f43465a5e1f17be93fc22aebf955ceeb120bdb4e2ce16b84f2fe616b748a&scene=21#wechat_redirect)
 - 🔴[我刚入职 1 天，要不要考虑其他面试？如何使用倒逼法？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489324&idx=2&sn=8879ae07face39f04d3c5de69263f627&chksm=e96dbcedde1a35fb7dbb30bc7f29a5467a73271858d5878a7f622dc26e619c0d507fa285460e&scene=21#wechat_redirect)
@@ -804,8 +803,6 @@ abbrlink: '42103658'
 - [为什么都说工作之后真心朋友却变少了？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483865&idx=1&sn=c18724a8a09f52cbbdcd9a707c5f13bd&scene=21#wechat_redirect)
 
 - [日常工作中，你有没有被老员工刁难过啊？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483764&idx=1&sn=90c42e2a06688e3d375e905e5bd782bd&scene=21#wechat_redirect)
-
-- [碰到职业难题，你是问父母？咨询同学？还是听同事的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484518&idx=1&sn=bd5d3da13b5b6de164838ca1f39247a9&chksm=e96dafa7de1a26b1cfc4c966a4640d1b18263fdaed6d11013e9f7929d742c06176dbb23c37ad&scene=21#wechat_redirect)
 
 - [如何判断一个人是否靠谱？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484799&idx=1&sn=93a524acddb591fc6e7ddb481c978cdc&chksm=e96daebede1a27a8c555fd50849ae8325bff0b940877129dade1b3186c653aa905d73d0ed087&scene=21#wechat_redirect)
 
@@ -1242,9 +1239,11 @@ abbrlink: '42103658'
 
 ## 32, 历版宝典
 
+- [20230112幽哥精华干货汇总](https://mp.weixin.qq.com/s/-js1Losc5mI_-AssVTDOdQ)
 - [20231031幽哥线下聚会干货汇总](https://mp.weixin.qq.com/s/zoS8sPKLUEAfddfpJ70YQA)
 - [20231128幽哥精华干货汇总](https://mp.weixin.qq.com/s/Ly4t5dLkks9vJ1uOkVU1Rw)
 
+- [从打工到财务自由，到底有多远？](https://mp.weixin.qq.com/s/GgmT6D_RLiAOkOG81n5v1g)
 - [中国职场宝典](https://mp.weixin.qq.com/s/wDGw0Xf4jtk1T0dOUnmBLQ)
 - [中国职场宝典4.0（2020年初版）](https://mp.weixin.qq.com/s/s4zk9vwBq3UGlEbSadm1lA)
 - [中国职场宝典5.0（2021年初版）](https://mp.weixin.qq.com/s/JF2Y60p9vz6Zf6mBshuLiA)

@@ -20,7 +20,7 @@ cover: img/auto_cover/39e6656fc9ac.svg
   大家注意下，你月薪2万，银行流水显示的工资大概是14500元，乘以12就是17万4。然后，**HR会继续跟你谈月薪不谈年薪**，她他还会悄悄地基于你这17万4，给你涨薪30%税后22.6 万，再推算出给你的税前年薪是309863元，很精确。 
   你看看，你已经“年薪30万”，跳槽过后还是年薪30万，你本来的目标是50万的。这就是个变戏法，HR代表的是企业方，代表的是资本贪婪的本性，你降薪来打工TA才更开心。
 
-全文在这里《{% post_link 11工资行情和Offer谈判/刚毕业，你别跟我谈年薪 %}》，简而言之就是：刚毕业不久，你要跟HR谈月薪；毕业5-8年后，你要跟HR谈年薪。
+全文在这里《{% post_link 02什么是中国的职业规划？/刚毕业，你别跟我谈年薪 %}》，简而言之就是：刚毕业不久，你要跟HR谈月薪；毕业5-8年后，你要跟HR谈年薪。
 
 更多的人是**低薪**的，就会碰到如下群友小猪的情况，什么情况呢？就是“我目前工资太低，我面试的工作月薪是我的2倍，怎么谈工资？！”
 
@@ -32,7 +32,7 @@ cover: img/auto_cover/39e6656fc9ac.svg
 
 这种情况是你的市场价达到了2万，并不因为你过去傻逼的低薪打工而影响你的市场价。此时，你是没经验的，你会听着资本家的口舌HR的话：“我们需要看你上家的工资才好给你定薪资”“我们有规定的”“正常目前跳槽加薪只有20%，经济环境不好”......HR的使命是砍你的工资，你听资本家的，还当真了，你说你是不是太巨婴？
 
-上面这位小猪，还不仅仅谈工资捉急，她还听信她哪个“朋友”的话，说跳槽工资涨幅不会超过30%，傻瓜，你们是在同一个城市的同龄人，这位朋友她怎么愿意你的工资超过她呢？**无论她在腾讯、百度还是苹果，她还是他，都不能听**。看下这篇《[碰到职业难题，你是问父母？咨询同学？还是听同事的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484518&idx=1&sn=bd5d3da13b5b6de164838ca1f39247a9&chksm=e96dafa7de1a26b1cfc4c966a4640d1b18263fdaed6d11013e9f7929d742c06176dbb23c37ad&scene=21#wechat_redirect)》。
+上面这位小猪，还不仅仅谈工资捉急，她还听信她哪个“朋友”的话，说跳槽工资涨幅不会超过30%，傻瓜，你们是在同一个城市的同龄人，这位朋友她怎么愿意你的工资超过她呢？**无论她在腾讯、百度还是苹果，她还是他，都不能听**。看下这篇《{% post_link 29势商和人生规划/碰到职业难题，你是问父母？咨询同学？还是听同事的 %}》。
 
 目前你工资确实太低，比同学低了很多，我们应该怎么做呢？
 
@@ -91,14 +91,10 @@ cover: img/auto_cover/39e6656fc9ac.svg
 
 如下相关HR的文章，大家有空了看下，看完，获得高薪没问题。
 
-《[HR为何“拼命”砍我的工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485276&idx=1&sn=c489fdf2a4c0d550cf6530dec3c1011c&chksm=e96dac9dde1a258b7e485900f2745d8e8dd24d6c72ad209385282ac8ba966478282b2cb7c897&scene=21#wechat_redirect)》
-
-《[HR在我们求职过程中，“坏”到什么程度？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485613&idx=1&sn=a3999b97a8635c4e926037a4d73a4310&chksm=e96da36cde1a2a7a8617ef9957ce71bc6382e974c4896729959b9e3f562d4635a00d2e4cc5c3&scene=21#wechat_redirect)》
-
+《{% post_link 07求职，就是打败HR的过程/HR为何“拼命”砍我的工资 %}》
+《{% post_link 07求职，就是打败HR的过程/HR“坏”到什么程度 %}》
 《{% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}》
-
-《[HR说背景调查很简单，能不能信？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484548&idx=1&sn=40faa01b08a7c2e9a9ba5af581618cb9&chksm=e96daf45de1a265359200d92704bb27e832ba4df4e2773d16c5735d907b8c5584eaa413619bd&scene=21#wechat_redirect)》
-
+《{% post_link 13背景调查/背景调查全攻略（不能听HR的，否则很惨） %}》
 《[HR说这职位是“contractor”，待遇跟正式工一样，真的吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484441&idx=1&sn=63cd287a2010a265ab7063da01c802db&chksm=e96dafd8de1a26ceeff2a0b0e5f0b2166853ca408a3515485a93be31d7ce950f2207cd695525&scene=21#wechat_redirect)》
 
 《[当HR面试的时候问：“你的期望薪资多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484092&idx=1&sn=88a09a8b7517dd31bc9121911fffa703&chksm=e96da97dde1a206b8999e146376a6c1248e96ab2a64b8302373bb690eb437c30a4d73372e712&scene=21#wechat_redirect)》

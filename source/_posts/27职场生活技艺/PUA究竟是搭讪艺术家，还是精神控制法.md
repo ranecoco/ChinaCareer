@@ -2,7 +2,6 @@
 # date: 2021-10-4 12:30 
 update: 2026-09-12 14:54
 title: PUA究竟是搭讪艺术家，还是精神控制法？
-cover: 0.jpg
 tags: [Career]
 categories: [ 27. 职场生活技艺 ]
 copyright_author: 幽哥
@@ -10,6 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/Z_GXJLueORYAZbBgQ56RLQ
 description: 
 account: JumpFrog
 place: Shanghai
+cover: img/auto_cover/39a419faf7db.svg
 ---
 
 今天的主题，在职场中是比**试用期被辞退**更加可怕的事情。

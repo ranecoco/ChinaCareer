@@ -2,13 +2,13 @@
 date: 2022-8-5 15:31
 update: 2026-08-27 17:04
 title: 反PUA的方法之一
-cover: 0.jpg
 description: 
 tags: [Career, PUA]
 categories: [ 29. 势商和人生规划 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247490835&idx=2&sn=ebae70e786cc1161cbe659277a5bca3a&chksm=fbfabd62cc8d34743d59c413d93f7807888e90abb510799c217a7e6213b0e85c86578444c9f9&scene=21#wechat_redirect
 place: Jiangsu
+cover: img/auto_cover/ffb729377fd9.svg
 ---
 
 **我们**的人生中，经常被PUA，包括职业生涯中，常常遇到这种“不可能完成的任务”，领导自己也做不了，他现在就要你去做。而且不但不给方法，甚至连做成之后好的结果是什么样子也不告诉你，**就是盯着要你出业绩**。

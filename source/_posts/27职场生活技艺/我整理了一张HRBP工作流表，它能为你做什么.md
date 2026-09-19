@@ -2,7 +2,6 @@
 date: 2026-6-16 10:00 
 update: 2026-09-04 17:27
 title: 我整理了一张HRBP工作流表，它能为你做什么？
-cover: 0.jpg
 tags: [Career, 十二]
 categories: [ 27. 职场生活技艺 ]
 copyright_author: 十二
@@ -10,6 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/eUIPhRQMvEj3-8pmi2jhMQ
 description: 
 account: JumpFrog
 place: Jiangsu
+cover: img/auto_cover/0bfe0d994eba.svg
 ---
 
 **付费文章**

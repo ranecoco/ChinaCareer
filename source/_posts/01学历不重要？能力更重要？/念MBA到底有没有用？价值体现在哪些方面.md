@@ -2,14 +2,14 @@
 <!-- date: 2017-11-11 10:00  -->
 update: 2026-09-04 10:01
 title: 念 MBA 到底有没有用？价值体现在哪些方面？
-cover: 0.jpg
 tags: [Career]
 categories: [ 01. 学历不重要？能力更重要？ ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/3cWOnJm_gTB23QSaaf1dVA
 description: 
 account: JumpFrog
-place: 
+place:
+cover: img/auto_cover/05d5b0f55566.svg
 ---
 
 很多人问，念MBA到底有没有用。首先，肯定是有用的。为什么？具体体现在哪些方面？

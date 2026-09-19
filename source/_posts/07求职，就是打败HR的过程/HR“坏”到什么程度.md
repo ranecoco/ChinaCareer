@@ -2,14 +2,14 @@
 date: 2018-11-16 17:36 
 update: 2026-09-02 17:24
 title: HR“坏”到什么程度？
-cover: 0.jpg
 tags: [Career, Red]
 categories: [ 07. 求职，就是打败HR的过程 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/zbzPCvaMORKqrY5Jmncqiw
 description: 
 account: JumpFrog
-place: 
+place:
+cover: img/auto_cover/6c518210e6c4.svg
 ---
 
 **本篇**是说HR坏，其实HR是无辜的，只是HR的主人比较坏，HR在其位谋其职。HR这个职位设置的本身，就是**资本家用来对付求职者**的。

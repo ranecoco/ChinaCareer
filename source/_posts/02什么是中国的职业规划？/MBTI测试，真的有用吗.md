@@ -2,7 +2,6 @@
 date: 2018-4-27 17:45
 update: 2026-09-02 17:28
 title: MBTI测试，真的有用吗？
-cover: 0.jpg
 tags: [Career]
 categories: [ 02. 什么是中国的职业规划？ ]
 copyright_author: 幽哥
@@ -10,6 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/iFwqTcOqIhLBVJUElxc6IQ
 description: 
 account: JumpFrog
 place: Shanghai
+cover: img/auto_cover/dbb19e9c0e44.svg
 ---
 
 **这**问题，一直被问。

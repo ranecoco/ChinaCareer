@@ -2,13 +2,13 @@
 date: May 9, 2021, 2:35 PM
 update: 2026-08-28 13:34
 title: 被PUA了，怎么办？
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 29. 势商和人生规划 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/2SivhUv8MD7GajirQ1MSWQ
-place: 
+place:
+cover: img/auto_cover/694958e27481.svg
 ---
 
 **多个**群友和读者反映，说领导对自己不好，尤其女领导如何提出具体难以达成的要求，自己非常苦恼，不知下一步如何应对。

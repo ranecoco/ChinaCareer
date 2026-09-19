@@ -6,3 +6,4 @@ db.json
 NERD*
 .DS_Store
 temp*
+/source/img/auto_cover/*.svg

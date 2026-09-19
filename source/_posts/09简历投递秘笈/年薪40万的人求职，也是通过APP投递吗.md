@@ -2,7 +2,6 @@
 date: 2024-1-25 23:57
 update: 2026-08-31 11:24
 title: 年薪40万的人求职，也是通过APP投递吗？
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 09. 简历投递秘笈 ]
@@ -10,6 +9,7 @@ copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/z1FSXA1Sc4xysU4uQk-ysg
 place: Shanghai
 account: JumpFrog
+cover: img/auto_cover/c0808524df69.svg
 ---
 
 **分享了**那么多职场干货，也到了提升的时候了，别老在低薪阶段徘徊。

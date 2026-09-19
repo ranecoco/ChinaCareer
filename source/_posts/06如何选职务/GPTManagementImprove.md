@@ -2,7 +2,6 @@
 date:  
 update: 2026-09-11 11:50
 title: GPTManagementImprove
-cover: 0.jpg
 tags: [Career, Management]
 categories: [ 06. 如何选职务？ ]
 copyright_author: 云飞
@@ -10,6 +9,7 @@ copyright_url:
 description: 
 account: 
 place: Shanghai
+cover: img/auto_cover/1a5802ea09e8.svg
 ---
 
 # 软件项目经理知识库与面试实战手册

@@ -2,7 +2,6 @@
 date: 2018-8-25 18:10
 update: 2026-09-02 17:11
 title: HR为何“拼命”砍我的工资？
-cover: 0.jpg
 tags: [Career]
 categories: [ 07. 求职，就是打败HR的过程 ]
 copyright_author: 幽哥
@@ -10,6 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/ysNhaLny_JdcviArW6qPCw
 description: 
 account: JumpFrog
 place: Shanghai
+cover: img/auto_cover/92fee09092d7.svg
 ---
 
 **社**会是这样的，表面看到的，并不是实质。世俗的认知，容易让你打脸。

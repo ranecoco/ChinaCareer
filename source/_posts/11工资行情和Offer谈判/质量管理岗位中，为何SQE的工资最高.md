@@ -2,7 +2,6 @@
 # date: 2018-2-12 18:18 
 update: 2026-09-04 20:41
 title: 质量管理岗位中，为何SQE的工资最高？
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 11. 工资行情和 Offer 谈判 ]
@@ -10,6 +9,7 @@ copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/QxG6qTh9toyiXSsSagyLbw
 account: JumpFrog
 place: Shanghai
+cover: img/auto_cover/bf223e577a5c.svg
 ---
 
 春节期间，大家都忙，为了节约你的时间，本公众号每次发文尽量简短，并突出**几个知识点**，用红色字体注明，大家一看便能记住。

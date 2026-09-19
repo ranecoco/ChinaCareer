@@ -2,13 +2,13 @@
 date: 2020-5-19 18:58
 update: 2026-08-25 10:13
 title: 如何让微软、苹果公司的HR主动联系我？
-cover: 0.jpg
 description: 
 tags: [Career, Resume, Linkedin]
 categories: [ 09. 简历投递秘笈 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/KWQ5SvwfmkrbA6T8KC2xcg
 account: JumpFrog
+cover: img/auto_cover/fd212d33478c.svg
 ---
 
 **今天**知识点众多，包含且不限于如下命题。

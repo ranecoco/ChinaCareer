@@ -2,14 +2,14 @@
 <!-- date: 2020-7-16 15:10  -->
 update: 2026-09-04 17:01
 title: 什么人会特别纠结？已经据掉的Offer如何舔回来？
-cover: 0.jpg
 tags: [Career]
 categories: [ 11. 工资行情和 Offer 谈判 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/MHoMm7PFpn76isNJOlAwCg
 description: 
 account: JumpFrog
-place: 
+place:
+cover: img/auto_cover/d6c12f642224.svg
 ---
 
 **求职**过程中，关于Offer的处理，分别有以下几个纠结，甚至叫“老大难”问题，一直无解。

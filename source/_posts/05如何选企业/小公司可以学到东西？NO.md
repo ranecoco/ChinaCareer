@@ -2,7 +2,6 @@
 # date: 2019-7-20 11:30 
 update: 2026-09-14 20:57
 title: 小公司可以学到东西？NO !
-cover: 0.jpg
 tags: [Career]
 categories: [ 05. 如何选企业？ ]
 copyright_author: 小饭, 幽哥
@@ -10,6 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/nWXAa3hU6wP8DrRchnTm0w
 description: 
 account: JumpFrog
 place: Shanghai
+cover: img/auto_cover/e61df72d2e35.svg
 ---
 
 文末有点评

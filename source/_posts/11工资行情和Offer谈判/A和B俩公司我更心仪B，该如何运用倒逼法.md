@@ -2,13 +2,13 @@
 date: 2021-5-12 20:44 
 update: 2026-09-03 08:47
 title: A和B俩公司我更心仪B，该如何运用倒逼法？
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 11. 工资行情和 Offer 谈判 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/MYG11lOS55iGvDoc1fJf3w
-place: 
+place:
+cover: img/auto_cover/d1f47891434a.svg
 ---
 
 **我**这套职业理论尤其**跳槽思维**，还是很有用的，例子不胜枚举，跨行换岗大城市小城市的，还有体制内外的选择、城市的抉择、副业开发、投资买房等理论，已经经验大量案例的长期验证。

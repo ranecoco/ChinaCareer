@@ -2,7 +2,6 @@
 <!-- date: 2022-4-28 14:52  -->
 update: 2026-09-02 15:11
 title: SQE跟Sourcing，哪个工作好？
-cover: 0.jpg
 tags: [Career]
 categories: [ 06. 如何选职务？ ]
 copyright_author: 幽哥
@@ -10,6 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/XpnFjHx1bfgxIZduT_FqLA
 description: 
 account: JumpFrog
 place: Shanghai
+cover: img/auto_cover/97197ecdc559.svg
 ---
 
 **本文**如约而至，主要解答下面这个常被提及的问题，几年来一直被反复问。

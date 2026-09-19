@@ -2,13 +2,13 @@
 date: 2018-3-5 15:00
 update: 2026-08-25 13:40
 title: 多写了半年经验，已收到的腾讯offer会被毙掉吗？
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 13. 背景调查 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484648&idx=1&sn=46048b982fdef600d115113b26391b44&chksm=e96daf29de1a263fd3a4c7e13f8126f7c7c45f6963b82d660de1d0297e2f2e3c4e4119015b7f&scene=21#wechat_redirect
 place: JumpFrog
+cover: img/auto_cover/47368335fd93.svg
 ---
 
 这个得就事论事，从大到小，挨个分析，结果一看便知。

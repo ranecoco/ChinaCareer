@@ -2,7 +2,6 @@
 date: 2020-3-3 11:34
 update: 2026-08-25 14:35
 title: HR总说我跳槽频繁？他们自己频繁跳槽吗？
-cover: 0.jpg
 description: 
 tags: [Career, Sharpness]
 categories: [ 10. 面试技巧 ]
@@ -10,6 +9,7 @@ copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/1tSes0qK-6azXojDKii-mw
 place: 
 account: JumpFrog
+cover: img/auto_cover/3a79f3c4bd1b.svg
 ---
 
 **HR**，英文全称叫Human Resource，翻译过来即人力资源，全称人力资源管理，就是我们常说的人事。

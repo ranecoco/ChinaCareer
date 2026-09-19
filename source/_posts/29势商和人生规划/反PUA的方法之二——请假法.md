@@ -2,13 +2,13 @@
 date: Sep 6, 2024, 11:59 PM
 update: 2026-08-28 13:43
 title: 反PUA的方法之二——请假法
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 29. 势商和人生规划 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/6n_59CVcXdtBsxoKL3WleA
 place: Shanghai
+cover: img/auto_cover/4c7eae44bda4.svg
 ---
 
 **之前**写过《{% post_link 29势商和人生规划/反PUA的方法之一 %}》，介绍了一种被领导为难、压榨甚至pua时候的一种方法。其实就是“非暴力不合作运动”，还是假意配合领导的工作，但拖着做、慢慢做甚至不做，顾左右而言他，千年不赖但万年不还，做任何事情先列出需要的各种条件，只要有一个不满足就不行动......

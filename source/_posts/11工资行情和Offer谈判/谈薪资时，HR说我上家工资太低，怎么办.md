@@ -2,13 +2,13 @@
 date: 2019-2-23 13:46
 update: 2026-08-31 20:25
 title: 谈薪资时，HR说我上家工资太低，怎么办？
-cover: 0.jpg
 description: 
 tags: [Career]
 categories: [ 11. 工资行情和 Offer 谈判 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/pPzOY1IjR29a8k2zj1AIcw
-place: 
+place:
+cover: img/auto_cover/39e6656fc9ac.svg
 ---
 
 **工资**对于当下的我们来说，已经成为这个时代求职最大的参考要素，毫无争议。谈工资是非常重要的一个环节，这句话“工资高不高能力说了算”用到当下来说，基本就是错的，这是传统错误认知，给你洗脑的，反驳这句话的例子很多，同班同学能力相同毕业年数相同的情况之下，在同一个城市做同样的工作，他们的工资区别最大有3-5倍的差别。

@@ -2,13 +2,13 @@
 date: 2018-1-24 18:30
 update: 2026-08-25 13:46
 title: 背景调查全攻略（不能听HR的，否则很惨）
-cover: 0.jpg
 description: 
 tags: [Career, Background Check(BC), BC Detail]
 categories: [ 13. 背景调查 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484548&idx=1&sn=40faa01b08a7c2e9a9ba5af581618cb9&chksm=e96daf45de1a265359200d92704bb27e832ba4df4e2773d16c5735d907b8c5584eaa413619bd&scene=21#wechat_redirect
 place: JumpFrog
+cover: img/auto_cover/d88349b82ec4.svg
 ---
 
 中国的很多事情，自古以来就是这样，比如“四十不惑”，人非要等到40岁前后，才不惑。

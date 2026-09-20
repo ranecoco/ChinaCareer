@@ -33,6 +33,7 @@
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-tag-dplayer": "github:MoePlayer/hexo-tag-dplayer",
     "hexo-theme-landscape": "^0.0.3",
-    "hexo-wordcount": "^6.0.1"
+    "hexo-wordcount": "^6.0.1",
+    "wrangler": "^4.131.1"
   }
 }

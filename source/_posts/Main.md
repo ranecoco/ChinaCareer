@@ -331,6 +331,8 @@ abbrlink: '42103658'
 - {% post_link 09简历投递秘笈/海投简历后，接到HR来电记不清是哪家公司了怎么办？ %}
 - {% post_link 09简历投递秘笈/如何让微软、苹果公司的HR主动联系我 %}
 - {% post_link 09简历投递秘笈/年薪40万的人求职，也是通过APP投递吗 %}
+- {% post_link 09简历投递秘笈/找工作时，自己投简历和熟人内推，先用哪个更好 %}
+- {% post_link 09简历投递秘笈/找工作时，熟人内推和自己投简历，哪个先 %}
 
 - [春节后，好找工作吗?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484621&idx=1&sn=4ea9b0b8fbedac503a2505bb609e98eb&chksm=e96daf0cde1a261a42f638f4715730ae44e36d5fd3d8e229eb7f6df387ccf9295e991a26f1df&scene=21#wechat_redirect)
 - [啥时投简历好：春天还是秋天？工作日还是周末？白天还是晚上？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484418&idx=1&sn=6e8266410a0f401b0bd5093b438a0a01&chksm=e96dafc3de1a26d5812dbafe88da2953c85d5e3a45af11f084a3a612f20c7a75cf661f640ec6&scene=21#wechat_redirect)
@@ -737,6 +739,7 @@ abbrlink: '42103658'
 - {% post_link 20女性专场/女性拥有了财富和权力，年老后一般交给谁 %}
 - {% post_link 20女性专场/女生如何在相亲时，就避免以后的婚姻悲剧 %}
 - {% post_link 20女性专场/什么叫假独生女现象 %}
+- {% post_link 20女性专场/为何离婚的人越来越多 %}
 
 
 - [女孩如何考虑婚姻和生育，才能获得更好的职业发展？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)
@@ -749,7 +752,6 @@ abbrlink: '42103658'
 - [什么人会全国各地投简历找工作，漫无目的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490217&idx=3&sn=74dd2dec025c86efc07494c1ca4f0572&chksm=e96db168de1a387e3955fe4663951c1b3c0437774d673b84217e179278cf83ea8d6bb7e55911&scene=21#wechat_redirect)
 - [相亲约会时，该聊什么？如何聊？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490592&idx=2&sn=c8a7033c5d7f86984b349482b7d68bbc&chksm=e96db7e1de1a3ef790fdc10b74033ecca56cd861ecad7aea474df4562233389f4b3d1cdb083b&scene=21#wechat_redirect)
 - [相亲约会时，该聊什么？如何聊？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490592&idx=2&sn=c8a7033c5d7f86984b349482b7d68bbc&chksm=e96db7e1de1a3ef790fdc10b74033ecca56cd861ecad7aea474df4562233389f4b3d1cdb083b&scene=21#wechat_redirect)
-- [为何离婚的人越来越多？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489969&idx=2&sn=fa839c86768a5d7d3bea3acabe55b297&chksm=e96db270de1a3b665c052d79bcbfaa7190dc175ac2ccf90c435824a9e61d01384fe9166d4a9f&scene=21#wechat_redirect)
 
 - [身边每 10 个同事，大概几个离婚了？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490661&idx=3&sn=8bd0d143e5bed91ae278fcbcd30696bf&chksm=e96db7a4de1a3eb22bf0464878752d0cb142b66de61ed251715d4d03e16fd378d086a79558a2&scene=21#wechat_redirect)
 
@@ -905,6 +907,7 @@ abbrlink: '42103658'
 - 🔴[大专学历月薪 5000 到年薪 30 万+的过程](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495537&idx=1&sn=797776acde38022ccf1f72fff586ef72&chksm=e96e44b0de19cda612bfdcbc1b69bece08de7e385c2c6efa2ebadce51ec556c31ab99e4bf00a&scene=21#wechat_redirect)
 - {% post_link 25年代秀&真人秀/《群友逆袭100人》之第一例 %}
 - {% post_link 25年代秀&真人秀/我是这样度过中年危机的 %}
+- {% post_link 25年代秀&真人秀/33岁江西群友营业额突破5000万，《逆袭时代》男三号赖北金 %}
 
 
 - [年代秀：10 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484294&idx=1&sn=35ce071b9073a0b280b645e8398e4678&chksm=e96da847de1a2151c7032408f97726bba3cebd9cb31ba9a1a18959c3136d78d9d3f3d0c54c18&scene=21#wechat_redirect)
@@ -1047,16 +1050,16 @@ abbrlink: '42103658'
 - 🔴 {% post_link 27职场生活技艺/普通职员到主管或领导的标志 %}
 - 🔴 {% post_link 27职场生活技艺/同事跟领导吵架，大领导来找我调查，我如何应对 %}
 - 🔴 {% post_link 27职场生活技艺/在大城市找什么样的男孩为好 %}
-- 🔴 {% post_link 27职场生活技艺/男孩如何挑老婆 %}
 - 🔴 {% post_link 27职场生活技艺/当你没事可做之时，你应该做什么事 %}
 - 🔴 {% post_link 27职场生活技艺/女人，究竟想要什么 %}
 - 🔴 {% post_link 27职场生活技艺/女人，到底需要什么 %}
 - 🔴 {% post_link 27职场生活技艺/真爱，如何获得 %}
 - 🔴 {% post_link 27职场生活技艺/体制外介绍工作，给多少感谢费？网友帮我内推，给他发多大的红包 %}
 - 🔴 {% post_link 27职场生活技艺/不花成本但可以控制一个人的三步骤 %}
+- 🔴 {% post_link 27职场生活技艺/如何判断一个男生能否结婚 %}
+- 🔴 {% post_link 27职场生活技艺/男孩如何挑老婆 %}
+- 🔴 {% post_link 27职场生活技艺/挑对象最重要的标准，有哪些 %}
 
-
-- 🔴[挑对象最重要的标准，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491297&idx=1&sn=987076d3d67b0e6a6ec3a9fa03e02be3&chksm=e96db520de1a3c369b95c343cca1d36b90cf7fa3ff905215748d9c5b955a22dc94398948f2d7&scene=21#wechat_redirect)
 - {% post_link 27职场生活技艺/女孩找什么样的对象为好 %}
 
 - {% post_link 27职场生活技艺/心得分享：在上海工作生活了4年，我从未损失过一天的房租 %}
@@ -1064,7 +1067,6 @@ abbrlink: '42103658'
 - {% post_link 27职场生活技艺/职业人生中的情绪成本 %}
 - {% post_link 27职场生活技艺/办公室搞政治斗争，我要不要参与站队 %}
 - {% post_link 27职场生活技艺/非211，985毕业，如何在职场中实现弯道超车 %}
-- {% post_link 27职场生活技艺/挑对象最重要的标准，有哪些 %}
 - {% post_link 27职场生活技艺/分手分不掉，怎么办 %}
 - {% post_link 27职场生活技艺/婚姻对女孩的好处有哪些 %}
 - {% post_link 27职场生活技艺/什么是假独生子女 %}

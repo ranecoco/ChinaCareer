@@ -960,8 +960,9 @@ function write_cover_to_post(post, cover_path) {
   const fm = fmMatch[0];
   let fa = fmMatch[1];
 
-      if (!coverFileExists(post.cover)) {
-        fa = fa.replace(/.*cover:.*\n?/m, '')
+      if (!(post.cover && post.cover !== '')) {
+      } else if (!coverFileExists(post.cover)) {
+        fa = fa.replace(/\n.*cover:.*\n?/m, '')
       } else {
         return;
       }

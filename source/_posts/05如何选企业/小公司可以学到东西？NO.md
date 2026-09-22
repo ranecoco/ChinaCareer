@@ -147,7 +147,7 @@ cover: img/auto_cover/e61df72d2e35.svg
 
 4.[我到底适合做什么工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484416&idx=1&sn=42825cbf804c5d68a4cb492d69f28475&chksm=e96dafc1de1a26d7529df16265a22813970a2d7f9880ad8c91f50f62fadcf4ec4efef412360d&scene=21#wechat_redirect)[职业如何定向？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484416&idx=1&sn=42825cbf804c5d68a4cb492d69f28475&chksm=e96dafc1de1a26d7529df16265a22813970a2d7f9880ad8c91f50f62fadcf4ec4efef412360d&scene=21#wechat_redirect)
 
-5. [为何这家公司急着招我？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486031&idx=1&sn=a40cee7bdb11993c79174aab293e6696&chksm=e96da18ede1a28988ecaf3282373084e50011c261189ff631d7f60fd8958b9080ffa81051280&scene=21#wechat_redirect)
+5. {% post_link 11工资行情和Offer谈判/为何这家公司急着招我 %}
 
 ![图片]()
 

@@ -8,7 +8,8 @@ copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/yeR3e6LvLWq2ldQ0qfpKdA
 description: 
 account: JumpFrog
-place: 
+place:
+cover: img/auto_cover/da42f6b5217b.svg
 ---
 
 **​  闲**话不多说，元旦到春节这一个月，是每年的**珀金**求职期。大家注意下，是珀金，比黄金还贵。至于为何，就不讲了，这是统计规律，你记住就行，个人求职者只找一份工作，所以是不知道这个规律的。

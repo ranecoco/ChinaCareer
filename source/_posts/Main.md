@@ -380,6 +380,8 @@ recommend: false
 - 🔴 {% post_link 10面试技巧/面试官问“你的缺点是什么？”该如何回答 %}
 - 🔴 {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
 - 🔴 {% post_link 10面试技巧/面试后，一般几天有答复 %}
+- 🔴 {% post_link 10面试技巧/有哪些公司，你去面试会给你报销车旅费 %}
+
 - 🔴[出去面试，如何请假？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487313&idx=1&sn=248936852049de1785aadfa46d2270f6&chksm=e96da490de1a2d86499e140eb924a70979b4f0bf274cb1971900ccee0481ec579091d30e1c47&scene=21#wechat_redirect)
 - 🔴[明天有个面试，谁能给我做个面试辅导？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487801&idx=1&sn=d5da9b20f9a9e12753c820f4621def44&chksm=e96dbaf8de1a33ee12c4c92a9ef69eaf9e63216937ac1bc7fecf6b45d2c88450e62565ff5b3a&scene=21#wechat_redirect)
 - 🔴[如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
@@ -388,7 +390,6 @@ recommend: false
 - 🔴[菜鸟如何应付英语面试？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484338&idx=1&sn=4aacb286f99c31b0070c2833454a59fc&chksm=e96da873de1a2165425321aaf6dcdc030719345e308f31d9c6d859c4b8d5cafacd40ea4b774d&scene=21#wechat_redirect)
 - 🔴[面试了 15 家，为何没有一个 offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487362&idx=2&sn=fe2b56b6a3fe9b58a9de10d6a4ced3ba&chksm=e96da443de1a2d557cd54a61ed270d24c24fdc60afbc131f9f8da690223f9c6574b742439292&scene=21#wechat_redirect)
 - 🔴[这家公司的终面我都通过了，最终为何还被淘汰？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488400&idx=1&sn=c7c863250c7c5c760eddb6b53365fcb1&chksm=e96db851de1a31475b953805856e964266193e31fa57b607b6f21a60bb625b38a80d47caabf9&scene=21#wechat_redirect)
-- 🔴[有哪些公司，你去面试会给你报销车旅费？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496535&idx=1&sn=705417eb164fe1ed7b9f551fa98915c8&chksm=e96e5896de19d180a043d1535aa5b8f06c582a3ed572d8a18b5016798bf2fdcd96364aebe85b&scene=21#wechat_redirect)
 
 - {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
@@ -441,18 +442,17 @@ recommend: false
 - 🔴 {% post_link 11工资行情和Offer谈判/小城市，如何获得高工资 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/谈工资的筹码有哪些 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/谈工资时，HR问我要12个月的银行流水，怎么办 %}
-- 🔴[毕业头 3 年（含应届生），如何选工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486370&idx=1&sn=78909bf673f1542f9e92182266d530f2&chksm=e96da063de1a2975cad28b3b734d034b16287c84dc9597d1560020dec5c5ad7c773a714e37fc&scene=21#wechat_redirect)
-- 🔴[什么是 13 薪，真的有 18 薪、25 薪的不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486680&idx=1&sn=f19649cbd5c9a4a71e7d76508eee7e77&chksm=e96da719de1a2e0fbd1614c9a3aef30ae8206cec4b38d6a076abfd6634bfec2c59e48f6e978a&scene=21#wechat_redirect)
-- 🔴[大家一般几号发工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487540&idx=1&sn=b321f03dc318489bd417e0a58124c65b&chksm=e96dbbf5de1a32e38a34cea3f8a500569e56d830447c330f6f4d7190e0e46f78a994673ed3a9&scene=21#wechat_redirect)
-- 🔴[倒逼法的具体操作方法？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490359&idx=2&sn=86888e7f04ee4bed2fe495bf55dac3bc&chksm=e96db0f6de1a39e01ca21c11a0cea1efe6b93297874e8725fb19675acec58492116f5c964ae5&scene=21#wechat_redirect)
-- 🔴[什么样的公司不发 Offer？劳动合同里不写工资合法吗？](https://mp.weixin.qq.com/s/SLmhNGn9PvXl7qh-Ch6fcw)
-- 🔴[本科毕业 3 年在上海，工资能有多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495682&idx=1&sn=655ead8f51290fccc1a2a1c2f6848046&chksm=e96e5bc3de19d2d52eb44f491955b0cfc114c91e77b4a2274823f7708b79606305028b40dc5a&scene=21#wechat_redirect)
-- 🔴[我现在才月薪 5 千，该如何跟华为、美团、头条等大厂谈工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496986&idx=2&sn=fe3d93b71aa6698b8de442160997f289&chksm=e96e5edbde19d7cdc70bf00b0a9ab66221b0f398ad42ec91a2b77900816bc8e197aa0255e47d&scene=21#wechat_redirect)
-- 🔴[到底怎样谈工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486247&idx=1&sn=4a53f43cbe4cbf67d04132e5441724f7&chksm=e96da0e6de1a29f0dd927ea7d51c0b3ef417d2adb10ed96a0ec28774327712f92eb5066cdf5b&scene=21#wechat_redirect)
-- 🔴[Offer 上月薪 5000, 签合同时为何变成了 3000？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485065&idx=1&sn=2d1fe6fc4ef347b815bdc4e2e5389254&chksm=e96dad48de1a245e22b8a7a2a6de54071e4739fb943ad4e95e6e83751842011e502cc06bdf0c&scene=21#wechat_redirect)
-- 🔴[如何知道自己的工资行情？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485158&idx=1&sn=560ca59e39cf9302c2a9ce125eb8fc66&chksm=e96dad27de1a2431ed56e9c9793568dafc112b084ad95cc20610eeaf7a995977d8838ede0994&scene=21#wechat_redirect)
-- 🔴[工资如何远超同班同学？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485364&idx=1&sn=59430eb4d5a1c6f0b1146fdb214ecc63&chksm=e96dac75de1a25637c8516aa208d3ad5a01dad989df9b88e6fd8b5f49674273d9f046d964bbf&scene=21#wechat_redirect)
-- 🔴[为何这家公司急着招我？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486031&idx=1&sn=a40cee7bdb11993c79174aab293e6696&chksm=e96da18ede1a28988ecaf3282373084e50011c261189ff631d7f60fd8958b9080ffa81051280&scene=21#wechat_redirect)
+- 🔴 {% post_link 11工资行情和Offer谈判/毕业头3年（含应届生），如何选工作 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/什么是13薪，真的有18薪、25薪的不 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/大家一般几号发工资 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/倒逼法的具体操作方法 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/什么样的公司不发Offer？劳动合同里不写工资合法吗 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/本科毕业3年在上海，工资能有多少 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/我现在才月薪5千，该如何跟华为、美团、头条等大厂谈工资 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/Offer上月薪5000，签合同时为何变成了3000 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/如何知道自己的工资行情 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/工资如何远超同班同学 %}
+- 🔴 {% post_link 11工资行情和Offer谈判/为何这家公司急着招我 %}
 
 - {% post_link 11工资行情和Offer谈判/月薪4千如何在几个月内达到1万5 %}
 - {% post_link 11工资行情和Offer谈判/咨询面试哪些公司时，不能用倒逼法谈工资？ %}
@@ -461,7 +461,6 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/工资要低了，后悔了，怎么办？ %}
 - {% post_link 11工资行情和Offer谈判/提出加薪后，领导一般是答应还是拒绝 %}
 - {% post_link 11工资行情和Offer谈判/跳槽涨薪50%甚至翻倍，为何他们能做到 %}
-- {% post_link 11工资行情和Offer谈判/我现在才月薪5千，该如何跟华为、美团、头条等大厂谈工资 %}
 - {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
 - {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
 - {% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}
@@ -470,6 +469,8 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/什么人会特别纠结？已经据掉的Offer如何舔回来 %}
 - {% post_link 11工资行情和Offer谈判/质量管理岗位中，为何SQE的工资最高 %}
 - {% post_link 11工资行情和Offer谈判/为何新人比我这师父工资高 %}
+- {% post_link 11工资行情和Offer谈判/俩Offer比较时，打分差不多，选哪一家 %}
+- {% post_link 11工资行情和Offer谈判/这家央企为何周六周日都要加班 %}
 
 
 - [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)
@@ -508,8 +509,6 @@ recommend: false
 
 - [什么时候不能用倒逼法？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490409&idx=2&sn=c69d835573bc45f4013811bd8ac160a3&chksm=e96db0a8de1a39bea4a6330459a72a9744c454c73a4c4005a3bcc5975e6b9928ec909ae12a81&scene=21#wechat_redirect)
 
-
-- [俩 Offer 比较时，打分差不多，选哪一家？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491339&idx=3&sn=b3db5db38818eb1dd573752d324ce189&chksm=e96db4cade1a3ddce25228fce1e66f710f6d5f5ba530867653fa3be1b32a4f1f30207a89a542&scene=21#wechat_redirect)
 
 - [为什么有些人工资这么低？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491557&idx=1&sn=eb0582a865c4d3663964a1c703880cfc&chksm=e96db424de1a3d32e3148bd11ed44a96d6588e09edf1e190fac7f6cf31e5aecd61242b6a0d1c&scene=21#wechat_redirect)
 
@@ -648,7 +647,9 @@ recommend: false
 
 - {% post_link 15辞退和裁员/年底突然被辞退，如何解释裸辞原因？ %}
 - {% post_link 15辞退和裁员/公司要搬迁，会给我赔偿吗 %}
-- {% post_link 15辞退和裁员/人事高管叫嚣： 我就违法辞退，不服上诉 %}
+- {% post_link 15辞退和裁员/人事高管叫嚣：我就违法辞退，不服上诉 %}
+- {% post_link 15辞退和裁员/国庆前被通知辞退，怎么办 %}
+- {% post_link 15辞退和裁员/我被央企裁员后1个月找到工作 %}
 
 
 - [？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488489&idx=1&sn=e19587c4eece78e9b251a80619c99b75&chksm=e96db828de1a313e5275c6058bf90c75fb1f0e7dbc03e6ba0e13895d993381b80fc4fe39629c&scene=21#wechat_redirect)
@@ -736,8 +737,6 @@ recommend: false
 
 - [给领导送礼，有何讲究？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488499&idx=2&sn=8bbe1e4a82c2654fd0f304967bdb6191&chksm=e96db832de1a3124f91dd0303584e23216c1c8d39f34e85c2a2805f6424e45a0b58eed3d2afb&scene=21#wechat_redirect)
 
-- [陪同领导出差，这些细节只有极少数人能做到！（新人必看）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487615&idx=1&sn=2ecd0f6520322009defae3a70b1b628b&chksm=e96dbbbede1a32a87fde33692fbc90049e9c921a93e71df7e5b5fc95360957597e549510c88b&scene=21#wechat_redirect)
-
 ## **【20, 女性专场】**
 
 - 🔴 {% post_link 20女性专场/婚姻悲剧和杭州案件，对职场人的启示 %}
@@ -806,7 +805,6 @@ recommend: false
 
 - [同事之间，该如何相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484734&idx=1&sn=555c5fde943c945406a220c733f0224b&chksm=e96daeffde1a27e98833908cb0bef7eb77ad43af74d7f0902139f5741eddd1f4acc327f96a0d&scene=21#wechat_redirect)
 - [同事问我借钱，能不能借？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484730&idx=1&sn=d0b20941296d7cc740956013fc773f0a&chksm=e96daefbde1a27ed9ee385ec264600d4df7958f05200fccc760d42e2b4ed89b7374525fe9300&scene=21#wechat_redirect)
-- [什么是三季人，如何应对三季人？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484660&idx=1&sn=2e4511b943815ee23b28cce16835a703&chksm=e96daf35de1a26238638c4eb2704614eedeaa98b3d5b7085844eb81a0fdef95d6b4daff594f4&scene=21#wechat_redirect)
 - [毕业十五年，你懂得了什么职场潜规则？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484634&idx=1&sn=1ffb500343ee66c548b5e274dbbf5352&chksm=e96daf1bde1a260d5032b707d64d2814fb2e4036882d4ff16a9f2f23f5f956303d6f8d2c32c4&scene=21#wechat_redirect)
 - [我 30 岁，都习惯单身了，“八卦”女同事们老给我安排女朋友，这咋回事？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484420&idx=1&sn=780d5462e9847ebb4786debf4625be40&chksm=e96dafc5de1a26d349696c5f59d9750a83cef83390e9069b45e97bd57e3f480ad94bbcd2ec35&scene=21#wechat_redirect)
 - [除了潜规则，玩转职场还有哪些“套路”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484388&idx=1&sn=8e31d9acbdbaac1e47760879a007cde5&chksm=e96da825de1a21334fb86dcd797cd2a897bc87064bf89c3c9dcfe80d86235cac6891585ac218&scene=21#wechat_redirect)
@@ -1096,6 +1094,7 @@ recommend: false
 - {% post_link 27职场生活技艺/突然生病了，怎么办 %}
 - {% post_link 27职场生活技艺/《职场宝典》的正确打开方式 %}
 - {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
+- {% post_link 27职场生活技艺/相亲对象为何急着要你确认恋爱甚至婚姻关系 %}
 
 
 - ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
@@ -1167,6 +1166,7 @@ recommend: false
 
 ## **【29, 势商和人生规划】**
 
+“我被央企裁员后1个月找到工作”（深度点评版）
 - 🔴 {% post_link 29势商和人生规划/普通人年薪突破30万的6个方法 %}
 - 🔴 {% post_link 29势商和人生规划/成为百万年薪职业经理人的5个步骤eg1 %}
 - 🔴 {% post_link 29势商和人生规划/普通职场人达到年薪100万的8个方法eg2 %}
@@ -1206,6 +1206,8 @@ recommend: false
 - {% post_link 29势商和人生规划/妹妹读高二，成绩不好，怎么办 %}
 - {% post_link 29势商和人生规划/为何有人心甘情愿被人控制 %}
 - {% post_link 29势商和人生规划/独生女的6条职业之路，第6条最差 %}
+- {% post_link 29势商和人生规划/工作期间家里不太平，怎么办 %}
+- {% post_link 29势商和人生规划/40岁的人如何找工作？（真实路演） %}
 
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)

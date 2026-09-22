@@ -100,8 +100,6 @@ cover: img/auto_cover/39e6656fc9ac.svg
 《[当HR面试的时候问：“你的期望薪资多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484092&idx=1&sn=88a09a8b7517dd31bc9121911fffa703&chksm=e96da97dde1a206b8999e146376a6c1248e96ab2a64b8302373bb690eb437c30a4d73372e712&scene=21#wechat_redirect)》
 
 《{% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}》
-
-《[HR问“你的缺点是什么？”该如何回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484405&idx=1&sn=3b300154867a6cd486c8cb9b06307679&chksm=e96da834de1a2122aea4a484b62a1256e0046e276bb063fc70f74e90d5ab4e3b0b95bd915e00&scene=21#wechat_redirect)》
-
-《[HR是如何忽悠职场新人选行业的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485147&idx=1&sn=746d975a4f2a63b6f85e495f431c58d6&chksm=e96dad1ade1a240c20cf03f0d4550d1dbdea614ac5e1ed171326971d570ace055cc2a334494d&scene=21#wechat_redirect)》
+《{% post_link 10面试技巧/面试官问“你的缺点是什么？”该如何回答 %}》
+《{% post_link 04如何选行业/这样选行业，能少走10年弯路 %}》
 

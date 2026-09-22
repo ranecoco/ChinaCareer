@@ -106,6 +106,7 @@ recommend: false
 - 🔴 {% post_link 03如何选择城市/省会城市的工资怎么样 %}
 - 🔴 {% post_link 03如何选择城市/深圳的工资怎么样 %}
 - 🔴 {% post_link 03如何选择城市/个人能不能在北上广深长期待下来，如何判断 %}
+- 🔴 {% post_link 03如何选择城市/看老家和就业双城记，聊影响一生的抉择 %}
 
 - {% post_link 03如何选择城市/第一次跨城市跳槽进上海的经历 %}
 - {% post_link 03如何选择城市/毕业后的前三年，你是怎么在北上广深活下来的 %}
@@ -167,15 +168,12 @@ recommend: false
 - {% post_link 04如何选行业/不想做采购工作了，改行做什么好 %}
 - {% post_link 04如何选行业/文科类工作如何改行做工程师 %}
 - {% post_link 04如何选行业/毕业多年，如何改行 %}
-
-
-- [汽车行业未来三十年预测（附企业名单）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484736&idx=1&sn=6df28618e0e22c45a8bbf3b540e1066a&chksm=e96dae81de1a279733bcc633f7f8652ca5e9f5dfe1ab1c3116161732657c4679cb4c06707176&scene=21#wechat_redirect)
-- [转行真的穷三年吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484365&idx=1&sn=46d0884b9c34b30f2e973c1012134daf&chksm=e96da80cde1a211ac1447f05b634bfdc5741a0e017ef8413b4ca805e2cd237959970433a11b8&scene=21#wechat_redirect)
-- [往届生，如何选工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484806&idx=1&sn=a637c00bde154b9a2faf021a494fa2b8&chksm=e96dae47de1a2751da092b869f7a7cf62fda1a7d7a309914619b66ab0110e7c8b0ff722d7719&scene=21#wechat_redirect)
-- [选择好行业重要，还是好公司，或者好岗位更重要？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485956&idx=1&sn=13d22898b2ac29f0c3f94ae61e9e5913&chksm=e96da1c5de1a28d309cae28743ecb0d7c0623d0b68f2662eabec8579c304d9a47409a5036974&scene=21#wechat_redirect)
-- [在银行工作的好日子，到头了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484886&idx=1&sn=b878eb03abc69053ef070d598b112c1a&chksm=e96dae17de1a270191147f41e7ce92ba7741679fa375f2bad4cdca8df04b696691c1efe37e12&scene=21#wechat_redirect)
-- [这个行业的利润，超过了其他所有行业之和](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492391&idx=2&sn=1678283238dc68a03b4f86a75dc52269&chksm=e96e48e6de19c1f01bfc01b5587cd49536b8e53946d2fc4a0c0d570946080054bd45028450f9&scene=21#wechat_redirect)
-
+- {% post_link 22汽车行业专题/汽车行业未来三十年预测 %}
+- {% post_link 22汽车行业专题/转行真的穷三年吗 %}
+- {% post_link 22汽车行业专题/往届生，如何选工作 %}
+- {% post_link 22汽车行业专题/选择好行业重要，还是好公司，或者好岗位更重要 %}
+- {% post_link 22汽车行业专题/在银行工作的好日子，到头了 %}
+- {% post_link 22汽车行业专题/对职场人的影响：这个行业的利润，超过了其他所有行业之和 %}
 
 ## **【05, 如何选企业？】**
 
@@ -198,49 +196,32 @@ recommend: false
 - {% post_link 05如何选企业/小公司可以学到东西？NO %}
 - {% post_link 05如何选企业/去前程无忧上班，怎么样 %}
 - {% post_link 05如何选企业/名气大却很差的企业有哪些？ %}
-
-
-- [BAT 之后，哪几家会成为下一个 BAT？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484561&idx=1&sn=21fe3d46cedba41c8244256e258d1559&chksm=e96daf50de1a26469723138872e9c29fcb3ff037c265b6cb83b0c88b4ae16a21cf3df31e7af2&scene=21#wechat_redirect)
-- [这就是传销！亲身经历，找工作的人注意了！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484505&idx=1&sn=ef83d18e83ebc67cf05d513b4d83573e&chksm=e96daf98de1a268ed1221dd613cabf4499fc779582b2c9dc536a891be5bcdab3b79fef73374d&scene=21#wechat_redirect)
-- [本科毕业不到 2 年，她是如何进入星巴克高大上中国总部的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484423&idx=1&sn=691967d5cdf5a06b4be3bad3fb50f1fa&chksm=e96dafc6de1a26d06c40b590fd6516e1378ff660363f904b70faca5400b74c2d8f1451659ab7&scene=21#wechat_redirect)
-- [哪个靠谱？“同学那工资高让去”“老乡拉我创业”“亲戚公司缺人”，是不是坑？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484394&idx=1&sn=b9ec0abc440bcda2280dfcf84c42f630&chksm=e96da82bde1a213dede005863a8288cad7f69192bcc8e73590156ae41079095d3327d5c74318&scene=21#wechat_redirect)
-- [两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484370&idx=1&sn=f58475b57a6a470e74b641caee8c5e54&chksm=e96da813de1a21059a18d14e547aaf577eeadabfc7e977a1a4af2c4e3a5a365272639ad46bf8&scene=21#wechat_redirect)
-
-- [苹果工资高不？如何进入苹果公司？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484732&idx=1&sn=ff69e3755988b51c1bdae60774307ad2&chksm=e96daefdde1a27ebcee2c3f4a6d616e30c3e787b5c6b6302841409af9ab10ffeffa36fc655b5&scene=21#wechat_redirect)
-- [去哪公司，哪公司倒闭，是人品问题吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484300&idx=1&sn=a2e6e3cca27ba02521cb1355aed36b7c&chksm=e96da84dde1a215b7e9cfd9c5dc611fb53d8908ee463d620a4ce8a7644c2408199359dfd558e&scene=21#wechat_redirect)
-
-- [等到领导退休自己才能上去，猴年马月呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484892&idx=1&sn=0335a6f596edb77d398b1d598e9d2ef2&chksm=e96dae1dde1a270b917a80db40378360493cbee90f4925c3ae8306b77763da10bac48ae0af2a&scene=21#wechat_redirect)
-
-- [为何很多人说国企工资低？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485024&idx=1&sn=44274138acb866053e481bed1e0042ea&chksm=e96dada1de1a24b7c2736d201be484163dbe5b447b922416832110bf7c04124810e9c17f03a2&scene=21#wechat_redirect)
-
-- [七险二金，这么好的待遇为何还辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485026&idx=1&sn=646824fec7a754257e66eb49676e4429&chksm=e96dada3de1a24b558f94c53a9fcea0cdfb2100da476dc33d175cc0f45d04a895e5cc9c556c5&scene=21#wechat_redirect)
-
-- [40 年的职业生涯告诉你：进什么样的公司才好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485122&idx=1&sn=2952b6c71dcfd7be7ebb35ceac18ac82&chksm=e96dad03de1a24153363dd925b32bf0fef997b5d1fed82bd9d838be9f6b62cee07e931bc55bf&scene=21#wechat_redirect)
-
-- [都说裁员，年底了哪些企业还在招人？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485863&idx=1&sn=1af7c9f84f56a00823c20524c194de89&chksm=e96da266de1a2b7051dbf7c4d53b13365fb2bd9ccbb8c07e7ae4dacb38f694ef346cb5a5d2f1&scene=21#wechat_redirect)
-- [究竟是选择高工资，还是大公司？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486436&idx=1&sn=635903247b0dc05c20e160c709412c4d&chksm=e96da025de1a29339183257fc2481af59f70052e21b76a1883516e858dffc60787cf3f881bf1&scene=21#wechat_redirect)
-
-
-- [当下还会有哪些企业拖欠工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487210&idx=1&sn=49248819b552417f0e5058140fbb23c2&chksm=e96da52bde1a2c3dbe041e1312de1e93ca2af4345784d0c293bb8a179f31c473d0b2a07218f5&scene=21#wechat_redirect)
-
-- [公司拖欠工资，该不该辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487467&idx=1&sn=5eccd10882dae587efb39f389ba41796&chksm=e96da42ade1a2d3c25e68f0c59d1fecbbb391803a0815d60945b58c61bf171f3787dc7b928b0&scene=21#wechat_redirect)
-
-- [帮助解决户口的工作，好不好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488579&idx=1&sn=cd4284de0934dae36fd09d4362fff9bc&chksm=e96dbf82de1a36946fb3794b0a8bbf61d56f71ee88af161e830ea4ad30d6b87131f6bb761ee0&scene=21#wechat_redirect)
-
-
-- [什么样的工作，可以给应届本科生五天八小时月薪一万？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489169&idx=1&sn=065e53dbbb6486030066302480b1b724&chksm=e96dbd50de1a34469dcd8aae0c8ad7abb3fd0ba0ab3efc0b2163c3a24f1809b88c76171d9155&scene=21#wechat_redirect)
-
-- [刚毕业，进特斯拉工作，月薪大概多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489417&idx=2&sn=e601d29ca33a8db0f70ef3eb8f1c3b5e&chksm=e96dbc48de1a355ea3cd1e73feb8a8dde054ba171e2055a904e4d0514fae0f828cfa5d64d057&scene=21#wechat_redirect)
-
-- [为何很多公司喜欢试用期工资打八折？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489667&idx=1&sn=a4e7ddfbb18b9b0bf8f941d7a0471f4e&chksm=e96db342de1a3a54a09c0d5d433b46cbf6a787f2c064c22afeb153ca34855b405b985c026771&scene=21#wechat_redirect)
-
-- [公司老总开始直播带货，意味着什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489955&idx=1&sn=25fbe67f74e4b4df2f2cc2a7c3697b81&chksm=e96db262de1a3b74ba5cd7ea389dacf69070b6fa50735b87a73d7328210fa33eba546cedef69&scene=21#wechat_redirect)
-- [为什么有人一心要离开体制内？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490293&idx=1&sn=223e7c8cdb63a8ee0fe87e4ec7bb5743&chksm=e96db134de1a38226e03754e0b91ac6e8ad7f7ec37f7164e6d9a0797bf99ff243df749735663&scene=21#wechat_redirect)
-- [在私企生存的原则是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491006&idx=2&sn=fd639da0b6d19b35e403e8e70cf49a6e&chksm=e96db67fde1a3f697180a6698b77b31242333fe00407a07df3ad182cc8418fb86cd981d97f0d&scene=21#wechat_redirect)
-- [金融行业标志性时刻：银行从业人员的好去处！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492189&idx=2&sn=76f0cefe7ec86fde5d6810733873e287&chksm=e96e499cde19c08a94a247dcbc25c7b6b45075eaf33fa21d0a329e80755436bec23f90be3d0b&scene=21#wechat_redirect)
-- [小公司，要不要托关系进去？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493700&idx=2&sn=2d19e57bfb1cffb2e5ef0db3294dcdac&chksm=e96e4385de19ca93fc8dd9acbc7f77ddedbd828187e16c84a5f4edffd8792fd5e1ca8378f488&scene=21#wechat_redirect)
-- [为什么说“离职见人品”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497586&idx=2&sn=7a4421ff59f752f59269163d19b11164&chksm=e96e5cb3de19d5a5dd71f5e0e1b25c909c2dd4f22fefec5c353d026ea1d9ee9577756b93f4cd&scene=21#wechat_redirect)
-- [公司拖欠工资，该不该辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487467&idx=1&sn=5eccd10882dae587efb39f389ba41796&chksm=e96da42ade1a2d3c25e68f0c59d1fecbbb391803a0815d60945b58c61bf171f3787dc7b928b0&scene=21#wechat_redirect)
+- {% post_link 05如何选企业/BAT之后，哪几家会成为下一个BAT %}
+- {% post_link 05如何选企业/这就是传销！亲身经历，找工作的人注意了 %}
+- {% post_link 05如何选企业/本科毕业不到2年，她是如何进入星巴克高大上中国总部的 %}
+- {% post_link 05如何选企业/哪一个靠谱？“同学那工资高让我去”“老乡拉我创业”“亲戚的公司急缺人”，是不是坑 %}
+- {% post_link 05如何选企业/两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢 %}
+- {% post_link 05如何选企业/苹果工资高不？如何进入苹果公司 %}
+- {% post_link 05如何选企业/去哪公司，哪公司倒闭，是人品问题吗 %}
+- {% post_link 05如何选企业/等到领导退休自己才能上去，猴年马月呢 %}
+- {% post_link 05如何选企业/为何很多人说国企工资低 %}
+- {% post_link 05如何选企业/七险二金，这么好的待遇为何还辞职 %}
+- {% post_link 05如何选企业/40年的职业生涯告诉你：进什么样的公司才好 %}
+- {% post_link 05如何选企业/都说裁员，年底了哪些企业还在招人 %}
+- {% post_link 05如何选企业/究竟是选择高工资，还是大公司 %}
+- {% post_link 05如何选企业/当下还会有哪些企业拖欠工资 %}
+- {% post_link 05如何选企业/公司拖欠工资，该不该辞职 %}
+- {% post_link 05如何选企业/帮助解决户口的工作，好不好 %}
+- {% post_link 05如何选企业/什么样的工作，可以给应届本科生五天八小时月薪一万 %}
+- {% post_link 05如何选企业/刚毕业，进特斯拉工作，月薪大概多少 %}
+- {% post_link 05如何选企业/为何很多公司喜欢试用期工资打八折 %}
+- {% post_link 05如何选企业/公司老总开始直播带货，意味着什么 %}
+- {% post_link 05如何选企业/为什么有人一心要离开体制内 %}
+- {% post_link 05如何选企业/在私企生存的原则是什么 %}
+- {% post_link 05如何选企业/金融行业标志性时刻：银行从业人员的好去处 %}
+- {% post_link 05如何选企业/小公司，要不要托关系进去 %}
+- {% post_link 05如何选企业/为什么说“离职见人品” %}
+- {% post_link 05如何选企业/通用电气（GE）为何被踢出了道琼斯 %}
 
 ## **【06, 如何选职务？】**
 
@@ -252,9 +233,9 @@ recommend: false
 - 🔴 {% post_link 06如何选职务/那种“很锻炼人”的工作，能不能去 %}
 - 🔴 {% post_link 06如何选职务/我到底适合做什么工作？这是我读过最好的文章 %}
 - 🔴 {% post_link 06如何选职务/根据专业，如何找工作 %}
-- 🔴[女孩是做人事，会计，还是做采购好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484567&idx=1&sn=e0f16129fa7b929aa033d8ad05c38245&chksm=e96daf56de1a2640db144417197166d6cb1a9d3361e1c5870d29dc22f6acf6c9e94c8f497d63&scene=21#wechat_redirect)
-- 🔴[哪些工作经验市场不大认可？](https://mp.weixin.qq.com/s/WMbDTy0yIUk4gJUpi7oRCA)
-- 🔴[第三方外包合同工，能不能去？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490184&idx=2&sn=f11fa17f57dc67590bdf8622b3561ca8&chksm=e96db149de1a385f499a32469216a8440db42233abe1c81f2f3ceeb2fff3f261022cf1d59cfa&scene=21#wechat_redirect)
+- 🔴 {% post_link 06如何选职务/女孩是做人事，会计，还是做采购好 %}
+- 🔴 {% post_link 06如何选职务/哪些工作经验市场不大认可 %}
+- 🔴 {% post_link 06如何选职务/第三方外包合同工，能不能去 %}
 
 - {% post_link 06如何选职务/管理入门 %}
 - {% post_link 06如何选职务/管理入门二：如何应对新来的领导 %}
@@ -264,67 +245,58 @@ recommend: false
 - {% post_link 06如何选职务/我是那种“不带人的主管”，有些尴尬，如何向人解释？ %}
 - {% post_link 06如何选职务/HR说这职位是“contractor”，啥意思？说待遇跟正式工一样，能接受吗 %}
 - {% post_link 06如何选职务/什么人闲得可以写书 %}
-
-
-- [英语好，找工作就一定是外贸、英语老师或翻译？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486883&idx=1&sn=cd8623a513b5c5d50f8508dc28afb7da&chksm=e96da662de1a2f742e10127d462f0da799fff51803da0c02dcea285276cd298447aa3d28893e&scene=21#wechat_redirect)
-- [会计转行学编程年薪 20 万，要不要转？！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484503&idx=1&sn=7fa1849693966c7bc53b7345b9f419da&chksm=e96daf96de1a2680a13f5dff483e07f5cc414f13123c2ee9470213d845888f59e153b33dd18f&scene=21#wechat_redirect)
-- [什么第三方员工？就是临时工吧！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484897&idx=1&sn=2501fb3ccaa612bbaa6d2e6b6795cb4f&chksm=e96dae20de1a27361d4b782aaee88f650ce1cbc2e6a04b119cd609e78c7b8dab9f5b24aaa26d&scene=21#wechat_redirect)
-- [本科毕业 2 年月到手 4 万：看哪些工作比程序猿工资还高](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484386&idx=1&sn=dbd01486604279ea4fe4045c942f7971&chksm=e96da823de1a213565f535aead21ff733101a33fde14a619f3bc14bf7e2d05a0b1b8979d69e2&scene=21#wechat_redirect)
-- [先做几年销售，后期如何转采购或其他岗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484662&idx=1&sn=80d3162eee35172bc4b3a86a948a6f58&chksm=e96daf37de1a2621828a9c714042977f98b482787f769c8b3da27cd9ce564d3027111cb4710c&scene=21#wechat_redirect)
-- [工程师为何也考注册会计师，有用不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484792&idx=1&sn=23979f6c4857471ab45ce1bc79ee121b&chksm=e96daeb9de1a27afb35c44a9959e878b9901b8c511009d047fe9cccec8621fd73efa5c12436b&scene=21#wechat_redirect)
-
-- [我 94 年的，搞数据运营，月薪 2 万](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485100&idx=1&sn=07b46038ab18d0e677aeaffe0906daa9&chksm=e96dad6dde1a247b8672a173b95df76b5796a33605f32fae1b9e8dd2b180f24c7ed8ee3cc35b&scene=21#wechat_redirect)
-
-- [如何求职销售类岗位？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486792&idx=1&sn=a7aaa39ac4e8166595d95a79875cc719&chksm=e96da689de1a2f9f2c5eaad383720076ef839c5e955879e54fb39c1d336ffdb822c8c5ca64ee&scene=21#wechat_redirect)
-- [项目经理、产品经理、客户经理，都是真的经理吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487199&idx=1&sn=22f04754eb0730d7d13b9faa313423db&chksm=e96da51ede1a2c087224763f9bcfd804610ddbd7af6d711adf796ac2f2fece5d532577acba49&scene=21#wechat_redirect)
-
-- [大客户经理和普通销售，有什么区别？2B 还是 2C？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489218&idx=1&sn=10e936c8b1ed362c7085eda0c1dbeb4e&chksm=e96dbd03de1a3415c10477df0a8fa25d267ff28df98d647a6bce203696c98c84c31214d3fbdd&scene=21#wechat_redirect)
-- [评估下自己适合不适合做销售](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489681&idx=3&sn=81fa0d4cbf5a76c40b20b138564bf90f&chksm=e96db350de1a3a4695604cc4ff8f4293235146334f8b42790c25e26a18ca02457e8138086a48&scene=21#wechat_redirect)
-
-- [讲师和培训师属于企业的哪个部门？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492394&idx=2&sn=fdab197138ce0b4ed7025c7381b49023&chksm=e96e48ebde19c1fdf13ee0b0bc9d9f8dcfd5ba022e3a423f8eff8b0d569287f17f13e31635ee&scene=21#wechat_redirect)
-- [单位里升职最快的，是哪个部门？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495240&idx=1&sn=4875d0f33a3d196c2bee203f7992f114&chksm=e96e4589de19cc9f784f87d8de0c11ff0cb1da8cb8750ea6114372338923a453ace433466d54&scene=21#wechat_redirect)
-
-- [如何内部转岗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495653&idx=2&sn=153f3838309d67cdca616851770a00c0&chksm=e96e4424de19cd32f89b5b3c8879135c758d8f09f302c0a87c2c7e9cebb0c55a31e96d9f78a7&scene=21#wechat_redirect)
+- {% post_link 06如何选职务/英语好，找工作就一定是外贸、英语老师或翻译 %}
+- {% post_link 06如何选职务/会计转行学编程年薪20万，要不要转 %}
+- {% post_link 06如何选职务/什么第三方员工？就是临时工吧 %}
+- {% post_link 06如何选职务/本科毕业2年月到手4万：看哪些行业比程序猿工资还高 %}
+- {% post_link 06如何选职务/先做几年销售，后期如何转采购或其他岗 %}
+- {% post_link 06如何选职务/工程师为何也考注册会计师，有用不 %}
+- {% post_link 06如何选职务/我94年的，搞数据运营，月薪2万 %}
+- {% post_link 06如何选职务/如何求职销售类岗位 %}
+- {% post_link 06如何选职务/项目经理、产品经理、客户经理，都是真的经理吗 %}
+- {% post_link 06如何选职务/大客户经理和普通销售，有什么区别？2B还是2C %}
+- {% post_link 06如何选职务/评估下自己适合不适合做销售 %}
+- {% post_link 06如何选职务/讲师和培训师属于企业的哪个部门 %}
+- {% post_link 06如何选职务/单位里升职最快的，是哪个部门 %}
+- {% post_link 06如何选职务/如何内部转岗 %}
 
 ## **【07, 求职，就是打败 HR 的过程】**
 
-- 🔴{% post_link 07求职，就是打败HR的过程/学会求职技巧，大概需要多长时间？ %}
-- 🔴{% post_link 07求职，就是打败HR的过程/求职3个月时，常见问题与解答（闭门干货分享） %}
-- 🔴{% post_link 07求职，就是打败HR的过程/HR总说我跳槽频繁？他们自己频繁跳槽吗 %}
-- 🔴{% post_link 07求职，就是打败HR的过程/HR为何“拼命”砍我的工资 %}
-- 🔴{% post_link 07求职，就是打败HR的过程/HR“坏”到什么程度 %}
-- 🔴{% post_link 07求职，就是打败HR的过程/求职过程中最大敌人是谁 %}
+- 🔴 {% post_link 07求职，就是打败HR的过程/学会求职技巧，大概需要多长时间？ %}
+- 🔴 {% post_link 07求职，就是打败HR的过程/求职3个月时，常见问题与解答（闭门干货分享） %}
+- 🔴 {% post_link 07求职，就是打败HR的过程/HR总说我跳槽频繁？他们自己频繁跳槽吗 %}
+- 🔴 {% post_link 07求职，就是打败HR的过程/HR为何“拼命”砍我的工资 %}
+- 🔴 {% post_link 07求职，就是打败HR的过程/HR“坏”到什么程度 %}
+- 🔴 {% post_link 07求职，就是打败HR的过程/求职过程中最大敌人是谁 %}
 
-- ￥ {% post_link 07求职，就是打败HR的过程/央国企求职秘籍：极大提高成功率 %}
-- ￥ {% post_link 07求职，就是打败HR的过程/两个岗位问我选哪个？如何选 %}
+- ￥🔴 {% post_link 07求职，就是打败HR的过程/央国企求职秘籍：极大提高成功率 %}
+- ￥🔴 {% post_link 07求职，就是打败HR的过程/两个岗位问我选哪个？如何选 %}
+
 - {% post_link 07求职，就是打败HR的过程/比求职更重要的职场技能，是什么？ %}
 - {% post_link 07求职，就是打败HR的过程/学会求职技巧，大概需要多长时间？ %}
-
-
-
-- [介绍找工作方法好，还是直接介绍工作好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486044&idx=1&sn=870b9ec2c6ea54c8f553462e805d0415&chksm=e96da19dde1a288bd017826bfcf13f2ab364a1ed15bec801783745b00333de0ced285792b2b3&scene=21#wechat_redirect)
-- [HR 说我职业方向不明确，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486208&idx=1&sn=3f8a179b4385f117e0ffbef6b4836c83&chksm=e96da0c1de1a29d754669f181a0a7968d3c7e8556d6ac94137edea83bbf877715c068e224afd&scene=21#wechat_redirect)
-- [HR 问“你现在还在职吗”，如何回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486508&idx=1&sn=6d99e43a42e7ef5212f618af28949bcf&chksm=e96da7edde1a2efb35f0bd50c68ba601a1e9c20ce7183fd08aa3bb6ac09d9685cd8a57e80027&scene=21#wechat_redirect)
-- [HR 问“你这次为什么要换工作”，如何回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486764&idx=1&sn=b29c824e90544243a4f14dec7003f8f0&chksm=e96da6edde1a2ffba30ed8308e1179aecb577ee1626fa4e4af74d412523dc618574ca2fb2744&scene=21#wechat_redirect)
+- {% post_link 07求职，就是打败HR的过程/介绍找工作方法好，还是直接介绍工作好 %}
+- {% post_link 07求职，就是打败HR的过程/HR说我职业方向不明确，怎么办 %}
+- {% post_link 07求职，就是打败HR的过程/如何回答“你现在还在职吗” %}
+- {% post_link 07求职，就是打败HR的过程/HR问“你这次为什么要换工作”，如何回答 %}
 
 ## **【08, 简历制作秘笈】**
 
 - 🔴 {% post_link 08简历制作秘笈/短暂的工作经历，要不要写进简历中去 %}
 - 🔴 {% post_link 08简历制作秘笈/我一人多劳，简历里究竟写哪一个岗位 %}
-- {% post_link 08简历制作秘笈/想改行，如何做简历 %}
-
-- 🔴[教你如何做简历](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484682&idx=1&sn=4e069e22e8f60b3f488bca7d7bd41a8c&chksm=e96daecbde1a27dd4125f4263034dcedd38027dc55e08cd32e800c595124454ed0c56a1fedf9&scene=21#wechat_redirect)
-- 🔴[做简历的几个注意点](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487853&idx=1&sn=801f169d4190909f10909e98ffcbbbde&chksm=e96dbaacde1a33ba86418315f3c2658822053dd7c1f61ae23f70507c178d3df850afe26549c5&scene=21#wechat_redirect)
-- 🔴[简历合并原则](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497403&idx=1&sn=cd98c3abd74e46d1f6cfc815b7890173&chksm=e96e5d7ade19d46c820928eba291489d1b5828aac3bbfeb3169c3ffb318f59da4941222a61e8&scene=21#wechat_redirect)
-
-- [你值得拥有：十几个精选简历模板](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484859&idx=1&sn=8451c52d014e265209e547de42244b1b&chksm=e96dae7ade1a276ced5d4153bc5857b5eae3c3b26edf2821b4f8aee861bed6e35453c8df6450&scene=21#wechat_redirect)
-- [简历上能不能写创业经历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485004&idx=1&sn=3267db041c9400a0b860280ddf1f5658&chksm=e96dad8dde1a249bd9b5e473109ea64ced5cc153552b06e8b3585968168d460d618bb33a6f89&scene=21#wechat_redirect)
-- [简历上要不要写工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485173&idx=1&sn=3642710bb593151453592214bd665680&chksm=e96dad34de1a2422bed0fde6a4a5876c743c1ab0e812b65ce8d9ca7f0a30ffdde1f29ac068b4&scene=21#wechat_redirect)
-- [简历能不能优化？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486569&idx=1&sn=2b6b8204e79c294b66e8c49706e9d4c6&chksm=e96da7a8de1a2ebe4df9872e658fbce9fe8579ea9b74eed18e033ad6400b3c93180c079ad0f8&scene=21#wechat_redirect)
-- [简历里面为何不要写“出生日期”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487289&idx=1&sn=3d13dd08a47a2404eb23b95b10d4bb7b&chksm=e96da4f8de1a2dee231ff9c6a01ec389cd4ebad3b76638419a8c5073a7ae701af437b33c8772&scene=21#wechat_redirect)
-- [简历上是否应该写意向职位？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487883&idx=2&sn=8a024b1b65336a5f87b8681a1966ff91&chksm=e96dba4ade1a335cc2e19a3bbb40adc4af06f3d84e67f7bbad6a9abb47c0b14935c9b9025fdd&scene=21#wechat_redirect)
-- [简历应该如何修改，才更漂亮？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492061&idx=2&sn=d129db109857113e1ebdf743db2f1f1f&chksm=e96e4a1cde19c30a74745cabfce95bcedf84997d94d30559f73bcc115b445aaeb637832dda85&scene=21#wechat_redirect)
-- [如何写出一份优秀的英文简历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492200&idx=2&sn=94510c8dc796bff25059358e7094d79e&chksm=e96e49a9de19c0bffab3959892022728257b5c0d6e01a65a96a0a7fe04df22aafc65ff570e25&scene=21#wechat_redirect)
+- 🔴 {% post_link 08简历制作秘笈/教你如何做简历 %}
+- 🔴 {% post_link 08简历制作秘笈/想改行，如何做简历 %}
+- 🔴 {% post_link 08简历制作秘笈/做简历的几个注意点 %}
+- 🔴 {% post_link 08简历制作秘笈/简历合并原则 %}
+- {% post_link 08简历制作秘笈/一两个月的经历，要写进简历里去吗 %}
+- {% post_link 08简历制作秘笈/短暂的工作经历，要写进简历吗 %}
+- {% post_link 08简历制作秘笈/你值得拥有：十几个精选简历模板 %}
+- {% post_link 08简历制作秘笈/简历上能不能写创业经历 %}
+- {% post_link 08简历制作秘笈/简历上要不要写工资 %}
+- {% post_link 08简历制作秘笈/简历能不能优化 %}
+- {% post_link 08简历制作秘笈/简历里面为何不要写“出生日期” %}
+- {% post_link 08简历制作秘笈/简历上是否应该写意向职位 %}
+- {% post_link 08简历制作秘笈/简历应该如何修改，才更漂亮 %}
+- {% post_link 08简历制作秘笈/如何写出一份优秀的英文简历 %}
 
 ## **【09, 简历投递秘笈】**
 
@@ -332,45 +304,37 @@ recommend: false
 - 🔴 {% post_link 09简历投递秘笈/一万到手，适可而止 %}
 - 🔴 {% post_link 09简历投递秘笈/能不能同时应聘同1家公司的2个职位？ %}
 - 🔴 {% post_link 09简历投递秘笈/为何投简历后一个面试电话也没有？好不容易来了个垃圾公司的邀请，还紧张得要死 %}
-- 🔴[怎样通过互联网了解一家公司？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484685&idx=1&sn=5662413179c790252c82163f2f9df8eb&chksm=e96daeccde1a27da2e87faf7c4a287af133121b68c4d0d67eb57ef54908549a264a18211a40e&scene=21#wechat_redirect)
-- 🔴[年薪 40 万的人求职，也是通过前程无忧、智联招聘吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487324&idx=1&sn=92f5fb3ed83782ee1d944addbbf1b5ab&chksm=e96da49dde1a2d8b7cbb011383ca5401f421c562466c3e885e3364aab04ff8b97b16a8dcd14c&scene=21#wechat_redirect)
-- 🔴[有多大的把握才能去参加面试？50, 80，100，还是 120%？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489278&idx=2&sn=3f9fc82fa670f97f6b96f56833870fbd&chksm=e96dbd3fde1a3429898e3d463f80ac94557dd0cc071702712f30fae07ee989ec71a94592011f&scene=21#wechat_redirect)
-- 🔴[朋友内推的工作，能不能谈工资？家人介绍的呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489456&idx=3&sn=ff6f34aa983058bce59d7153804b9683&chksm=e96dbc71de1a35673780d650171cb6483281e5055d3ffb4c3788e941dd23fe7b791dcf2aed5f&scene=21#wechat_redirect)
+- 🔴 {% post_link 09简历投递秘笈/怎样通过互联网了解一家公司 %}
+- 🔴 {% post_link 09简历投递秘笈/年薪40万的人求职，也是通过APP投递吗 %}
+- 🔴 {% post_link 09简历投递秘笈/有多大的把握才能去参加面试？50，80，100，还是120% %}
+- 🔴 {% post_link 09简历投递秘笈/朋友内推的工作，能不能谈工资？家人介绍的呢 %}
 
 - {% post_link 09简历投递秘笈/入职前发现新公司也在招另一个我更喜欢的岗位，我还能投递吗？ %}
 - {% post_link 09简历投递秘笈/简历刚投出去，会发生什么？ %}
 - {% post_link 09简历投递秘笈/求职很久，但一直没面试电话怎么办 %}
+- {% post_link 09简历投递秘笈/找工作时，熟人内推和自己投简历，哪个先 %}
 - {% post_link 09简历投递秘笈/接到面试电话我是答应明天去面试还是拖到下周一 %}
+- {% post_link 09简历投递秘笈/春节后，好找工作吗 %}
 - {% post_link 09简历投递秘笈/海投简历后，接到HR来电记不清是哪家公司了怎么办？ %}
 - {% post_link 09简历投递秘笈/如何让微软、苹果公司的HR主动联系我 %}
-- {% post_link 09简历投递秘笈/年薪40万的人求职，也是通过APP投递吗 %}
 - {% post_link 09简历投递秘笈/找工作时，自己投简历和熟人内推，先用哪个更好 %}
-- {% post_link 09简历投递秘笈/找工作时，熟人内推和自己投简历，哪个先 %}
-
-- [春节后，好找工作吗?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484621&idx=1&sn=4ea9b0b8fbedac503a2505bb609e98eb&chksm=e96daf0cde1a261a42f638f4715730ae44e36d5fd3d8e229eb7f6df387ccf9295e991a26f1df&scene=21#wechat_redirect)
-- [啥时投简历好：春天还是秋天？工作日还是周末？白天还是晚上？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484418&idx=1&sn=6e8266410a0f401b0bd5093b438a0a01&chksm=e96dafc3de1a26d5812dbafe88da2953c85d5e3a45af11f084a3a612f20c7a75cf661f640ec6&scene=21#wechat_redirect)
-- [找工作是去智联招聘、前程无忧，还是 58 、赶集？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484414&idx=1&sn=8f88dbfe70e1e415edccee97fe7139ee&chksm=e96da83fde1a2129840a2a3dec436262c8ae26b27044ec4a34bc2a49479ebdf8b49d7c76257a&scene=21#wechat_redirect)
-- [简历投出去没回音，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484811&idx=1&sn=bda84c746451a97e1443447ea247b3b2&chksm=e96dae4ade1a275c1b814f20ad5984b07352e048161efcd6da28b108069e1ddae20a2423c431&scene=21#wechat_redirect)
-- [投外企，是用中文简历还是英文简历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486338&idx=1&sn=e1e7072221c560e6eb97e124c2a60156&chksm=e96da043de1a295521a1370bfdd2cef5e02e2b87f5188f4d0fab3ddff429ed9f68509931fbc9&scene=21#wechat_redirect)
-- [世界五百强，并不是 500 强](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486180&idx=1&sn=341c1219374dc4974a321b57e1ba96ba&chksm=e96da125de1a28332fde58fbfd7f8c0d38f4215639e518b07135e8391e7d1dd00ec98014b066&scene=21#wechat_redirect)
-- [漂亮女孩求职，有什么注意点？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486322&idx=1&sn=abdce25f20b021bd3e353dda41831de5&chksm=e96da0b3de1a29a5756165434bc688b61d0f0054b1ed9e6a08700adac4cfbfc932c8e8b14c83&scene=21#wechat_redirect)
-- [投简历时，不小心投给了目前公司，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487246&idx=1&sn=2273c0213bfa05f481717eed8de4abfc&chksm=e96da4cfde1a2dd9a22d71f5abfd0c31c9eb9e08620bbdabd9717f840df21376a939bbe523c3&scene=21#wechat_redirect)
-- [猎头不都是免费的嘛，怎么有收费猎头的？是不是骗子？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487574&idx=1&sn=7ce7194c35b1cbfbf7e61da02f0bad22&chksm=e96dbb97de1a3281f02650e7f891a61fd91d97c77f307d6bf7f998b79b40ffb65e365b584a01&scene=21#wechat_redirect)
-
-- [关于投递简历，我的几点感悟](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488143&idx=2&sn=138d4bf7ad055abc50caee059248221b&chksm=e96db94ede1a30589dd29705c304fa1b2262296bc65f66afdf7963d40ba087fb68a19daae349&scene=21#wechat_redirect)
-
-- [跳槽，有没有淡季旺季之分？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488473&idx=1&sn=95a528ec5b7c0892652d0d9352b668f2&chksm=e96db818de1a310e8012e650332719ce3891d280dbf64f0cbe79b01fc6033c2cfe94c3458586&scene=21#wechat_redirect)
-
-- [如何才能引起猎头公司的注意？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488720&idx=2&sn=c95c69c135bb9444c4ef501decdc358e&chksm=e96dbf11de1a360761f91568dafb1aca3148a592cacdfa20ebdaa49e1376e8c7629a8e793a44&scene=21#wechat_redirect)
-
-- [通过内推简历找工作，为何成功率更大？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489169&idx=2&sn=2b1e50a47d5ebafbc12c84004fb9313a&chksm=e96dbd50de1a3446602c6c413205a205a7d98b34da69d63c05f4bd7e6da1464986e5e2356576&scene=21#wechat_redirect)
-
-- [在职投递简历被公司领导发现了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489265&idx=2&sn=81d36667cbf6e9225a77707f3216af72&chksm=e96dbd30de1a3426ed146819b81252140f339b22d61ab96adaeba7f8e4640e2423bb35ad6ba2&scene=21#wechat_redirect)
-
-- [如何辨别一家公司是不是真的在招人？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492468&idx=1&sn=02cef6c1b1122b68049df1d0119afb6a&chksm=e96e48b5de19c1a351ffc1d4da0fb03a75aab2cd9ef94f1faaff92c9771ea185fc97f517a550&scene=21#wechat_redirect)
-
-- [投递简历的方向不明确，该如何办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492606&idx=2&sn=f359be39ced7bef960328f50bc0edc1c&chksm=e96e483fde19c12945509440383b558a778421ffa038200e9f8d59d1f57f78b7c717685fd2ed&scene=21#wechat_redirect)
-- [关于投递简历，我的几点感悟](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488143&idx=2&sn=138d4bf7ad055abc50caee059248221b&chksm=e96db94ede1a30589dd29705c304fa1b2262296bc65f66afdf7963d40ba087fb68a19daae349&scene=21#wechat_redirect)
+- {% post_link 09简历投递秘笈/春节后，好找工作吗 %}
+- {% post_link 09简历投递秘笈/啥时投简历好：春天还是秋天？工作日还是周末？白天还是晚上 %}
+- {% post_link 09简历投递秘笈/找工作是去智联招聘、前程无忧，还是58、赶集 %}
+- {% post_link 09简历投递秘笈/简历投出去没回音，怎么办 %}
+- {% post_link 09简历投递秘笈/投外企，是用中文简历还是英文简历 %}
+- {% post_link 09简历投递秘笈/世界五百强，并不是500强 %}
+- {% post_link 09简历投递秘笈/漂亮女孩求职，有什么注意点 %}
+- {% post_link 09简历投递秘笈/投简历时，不小心投给了目前公司，怎么办 %}
+- {% post_link 09简历投递秘笈/猎头不都是免费的嘛，怎么有收费猎头的？是不是骗子 %}
+- {% post_link 09简历投递秘笈/关于投递简历，我的几点感悟 %}
+- {% post_link 09简历投递秘笈/跳槽，有没有淡季忘记之分 %}
+- {% post_link 09简历投递秘笈/如何才能引起猎头公司的注意 %}
+- {% post_link 09简历投递秘笈/通过内推简历找工作，为何成功率更大 %}
+- {% post_link 09简历投递秘笈/在职投递简历被公司领导发现了，怎么办 %}
+- {% post_link 09简历投递秘笈/如何辨别一家公司是不是真的在招人 %}
+- {% post_link 09简历投递秘笈/投递简历的方向不明确，该如何办 %}
+- {% post_link 09简历投递秘笈/过年期间招聘的岗位不多，我要不要等到过了年再找工作 %}
 
 ## **【10, 面试技巧】**
 
@@ -384,15 +348,12 @@ recommend: false
 - 🔴 {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
 - 🔴 {% post_link 10面试技巧/面试后，一般几天有答复 %}
 - 🔴 {% post_link 10面试技巧/有哪些公司，你去面试会给你报销车旅费 %}
-
-- 🔴[出去面试，如何请假？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487313&idx=1&sn=248936852049de1785aadfa46d2270f6&chksm=e96da490de1a2d86499e140eb924a70979b4f0bf274cb1971900ccee0481ec579091d30e1c47&scene=21#wechat_redirect)
-- 🔴[明天有个面试，谁能给我做个面试辅导？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487801&idx=1&sn=d5da9b20f9a9e12753c820f4621def44&chksm=e96dbaf8de1a33ee12c4c92a9ef69eaf9e63216937ac1bc7fecf6b45d2c88450e62565ff5b3a&scene=21#wechat_redirect)
-- 🔴[如何回答“你的期望薪资是多少？”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484492&idx=1&sn=75b37b9b1dd2942d307c9b21ba6432f7&chksm=e96daf8dde1a269b02a37d30a67a05e6d15427fdb7d7cbfdaf8ba341ffc64399bbe2a557a499&scene=21#wechat_redirect)
-- 🔴[真正的面试技巧，是什么样子的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484569&idx=1&sn=ef4cdb6abaf33539bcce2e3aebdea534&chksm=e96daf58de1a264e70da48261137a5fe9f08bbcc7779a23a16da3cd7b55885d4931eaf3a824e&scene=21#wechat_redirect)
-- 🔴[最厉害的面试技巧，是什么样子的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484403&idx=1&sn=6690d0e3097d5f193a7a25c6166efd90&chksm=e96da832de1a2124effcc64be228beaa96bfdc4b7e7fa9c62285228d92e7813ea8d86b5a6cf8&scene=21#wechat_redirect)
-- 🔴[菜鸟如何应付英语面试？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484338&idx=1&sn=4aacb286f99c31b0070c2833454a59fc&chksm=e96da873de1a2165425321aaf6dcdc030719345e308f31d9c6d859c4b8d5cafacd40ea4b774d&scene=21#wechat_redirect)
-- 🔴[面试了 15 家，为何没有一个 offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487362&idx=2&sn=fe2b56b6a3fe9b58a9de10d6a4ced3ba&chksm=e96da443de1a2d557cd54a61ed270d24c24fdc60afbc131f9f8da690223f9c6574b742439292&scene=21#wechat_redirect)
-- 🔴[这家公司的终面我都通过了，最终为何还被淘汰？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488400&idx=1&sn=c7c863250c7c5c760eddb6b53365fcb1&chksm=e96db851de1a31475b953805856e964266193e31fa57b607b6f21a60bb625b38a80d47caabf9&scene=21#wechat_redirect)
+- 🔴 {% post_link 10面试技巧/明天有个面试，谁能给我做个面试辅导 %}
+- 🔴 {% post_link 10面试技巧/真正的面试技巧，是什么样子的 %}
+- 🔴 {% post_link 10面试技巧/最厉害的面试技巧，是什么样子的 %}
+- 🔴 {% post_link 10面试技巧/菜鸟如何应付英语面试 %}
+- 🔴 {% post_link 10面试技巧/面试了15家，为何没有一个offer %}
+- 🔴 {% post_link 10面试技巧/这家公司的终面我都通过了，最终为何还被淘汰？ %}
 
 - {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
@@ -405,11 +366,10 @@ recommend: false
 - {% post_link 10面试技巧/从老家跳上海，如何做面试准备 %}
 - {% post_link 10面试技巧/2024的最新求职骗局 %}
 - {% post_link 10面试技巧/面试心法分享：如何判断，人事通知你去面试是不是刷人头 %}
-
-
-- [为什么元旦的时候，面试的人更多？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484482&idx=1&sn=eb198ee7232774d372955d8c6051fd8e&chksm=e96daf83de1a26950e5d2c59e6979f01c9252ad98bb134bcbecfda3cad91654c032b0d17a3b1&scene=21#wechat_redirect)
-- [面试前必杀技，搞定你的每一个面试](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484380&idx=1&sn=6142c6ad4bfd6fc36904d3cf1acec730&chksm=e96da81dde1a210b4ad9e522ee5ad91d248886aa6eace0d27caef23ed6a9a845456207638d7a&scene=21#wechat_redirect)
-- [突然接到面试电话，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486760&idx=1&sn=18e813f1919eb9bb85c53a8172b617d5&chksm=e96da6e9de1a2fff0f1ca9f3cf37c5a3668b13b039a13594e92316c0a6444532c6672a81dd06&scene=21#wechat_redirect)
+- {% post_link 10面试技巧/接到面试电话我问预算，但对方不愿意说，我还要不要去面试 %}
+- {% post_link 10面试技巧/颜值在求职中的作用 %}
+- {% post_link 10面试技巧/面试前必杀技，搞定你的每一个面试 %}
+- {% post_link 10面试技巧/突然接到面试电话，该怎么办 %}
 
 - [面试官问“你有没有女/男朋友”，怎么回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486117&idx=1&sn=71a39b1748b82ee8ad82532148bb1208&chksm=e96da164de1a2872285c19b5c221722221e95b63d2dacdee689146493dea9ee1e3cbe79473ca&scene=21#wechat_redirect)
 
@@ -418,8 +378,6 @@ recommend: false
 
 
 - [如何回答：你目前有没有其他家的面试/Offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487523&idx=1&sn=e576b3faec44e9f93f64e8ff986304a2&chksm=e96dbbe2de1a32f43c693e202934d6723db3624c53dc9014a00e9f5b6a1c12b134037b3856f2&scene=21#wechat_redirect)
-
-- [颜值在求职中的作用](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487826&idx=1&sn=d572041ec6b17ce1731aa3d33fd73a2e&chksm=e96dba93de1a33851c735ea46b3e75fd38984806834ee6a847092beb01e64499eefca0e44972&scene=21#wechat_redirect)
 
 
 - [填资料时要我写个“工作证明人”，写谁的名字为好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489607&idx=1&sn=aa28d44736a88c1154a9bb81fb7fd050&chksm=e96db386de1a3a90673c023559aa725143f81d55ebe21fbcd7bdba9cb4a8f58aa654813f41a4&scene=21#wechat_redirect)
@@ -526,14 +484,14 @@ recommend: false
 
 ## **【12, 辞职秘笈】**
 
-- 🔴 {% post_link 12辞职秘笈/冲动离职前，需要储备多少现金？ %}
-- 🔴[关于离职证明最重要的知识点](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486456&idx=1&sn=1e5a6cc0dd89142c4fb8f53bd3c2b4ff&chksm=e96da039de1a292fccae6b2f6f4ea8a8ea61ba4e178423006258e112d9073ce2307ad35c1882&scene=21#wechat_redirect)
-- 🔴[辞职，用什么理由？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488309&idx=2&sn=92651320cd9f31b8acd540771e380053&chksm=e96db8f4de1a31e23c3f90dc762a7df4d4de6c3807d2a42dbfa8a11941ba841278eb3d06c681&scene=21#wechat_redirect)
-- 🔴[如何拒绝 offer？有哪些技巧？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491607&idx=2&sn=2aad079691e1824ba630b7ebb29aba25&chksm=e96e4bd6de19c2c0f4a9baa99f77831bc10d729fe013cc39b7a91b4ed2b4c4eb986d4122d376&scene=21#wechat_redirect)
-- 🔴[什么人会特别纠结？已经据掉的 Offer 如何舔回来？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493265&idx=2&sn=aadad951dc01e99254def5fac240b99c&chksm=e96e4d50de19c4466d7284bc50e6d2cd7ea0ee750e84b917311c2afaefc12f8fa6e9c5f3a10a&scene=21#wechat_redirect)
-- 🔴[辞职，是什么样一个标准流程？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484497&idx=1&sn=1406dbf0ab9fc2705fe9825e1abffaca&chksm=e96daf90de1a2686348aff65b086924020d8f037dc3e500d42832a66e93fcf19661027529d47&scene=21#wechat_redirect)
+- 🔴 {% post_link 12辞职秘笈/冲动离职前，需要储备多少现金 %}
+- 🔴 {% post_link 12辞职秘笈/关于离职证明最重要的知识点 %}
+- 🔴 {% post_link 12辞职秘笈/辞职，是什么样一个标准流程 %}
+- 🔴 {% post_link 12辞职秘笈/辞职，用什么理由 %}
+- 🔴 {% post_link 12辞职秘笈/如何拒绝offer？有哪些技巧 %}
+- 🔴 {% post_link 12辞职秘笈/什么人会特别纠结？已经据掉的Offer如何舔回来 %}
+
 - {% post_link 12辞职秘笈/你根本不知道：跳槽是门技术活，要求还蛮高 %}
-- {% post_link 12辞职秘笈/冲动离职前，需要储备多少现金？ %}
 - {% post_link 12辞职秘笈/裸辞的五大硬伤：为什么要找到工作再辞职 %}
 - [什么情况下，你会毫不犹豫地辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484600&idx=1&sn=c336d12aa175f697fd7428bca1ad6ab2&chksm=e96daf79de1a266f66561ca1e162a9c4bb83de2a88aa764a5b4872585f6db8642d406c288bde&scene=21#wechat_redirect)
 - [提出辞职后，领导不让走，洗脑+戴高帽+打情感牌，我该如何招架？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484382&idx=1&sn=caa31253a2bf7a86916ea58d17cc8e2a&chksm=e96da81fde1a21095d169e6f9b059f9aa8593d63bbed180efcebde0d2345954668754527828f&scene=21#wechat_redirect)
@@ -559,15 +517,15 @@ recommend: false
 
 - 🔴 {% post_link 13背景调查/背景调查全攻略（不能听HR的，否则很惨） %}
 - 🔴 {% post_link 13背景调查/什么程度的简历造假，过不了背景调查？(背调珍藏版) %}
-- 🔴[我为什么拒绝回答背景调查问题？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485507&idx=1&sn=fbe24c9ff3ca7a8f44919137525129a6&chksm=e96da382de1a2a9466194572d247bb948c120baf24aabd7a1b60a35dbe58e0f7b5dd29962313&scene=21#wechat_redirect)
-- 🔴[如何应对背景调查？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487645&idx=1&sn=d19cfbf6bd841bd06b21d9f4b541d720&chksm=e96dbb5cde1a324a2a26c87bb3f1c147e4e522a5bb4a04d763cd93e4d7b95d1f07a3fd0df510&scene=21#wechat_redirect)
-- 🔴[第三方背景调查案例，真实路演](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489176&idx=1&sn=cba9c28694e5542163ec773b9c967be8&chksm=e96dbd59de1a344f4275f5bd9797f0fd827ae274f8fca5a099bbc908380e29602ae9708dfcb8&scene=21#wechat_redirect)
-- 🔴[无犯罪记录证明，是个什么东西？该怎么开？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491518&idx=1&sn=bdf2d1063f9af8d3201e324de2c2205a&chksm=e96db47fde1a3d69d601a3a0e7a33c55ab5e97407db3d96c5e0898127d6af60970384e100fce&scene=21#wechat_redirect)
-- 🔴[什么样的公司，会调查你的征信记录？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492476&idx=2&sn=f6007b0a5cbc0e7fc2f27d29402d7f00&chksm=e96e48bdde19c1ab5812657935ba89822eaa07f268059ed55e09ec58ebd24bf7336ab0fc50a0&scene=21#wechat_redirect)
-- 🔴[什么样的公司，会要你提交社保记录？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492504&idx=2&sn=d5f8896c06eaf4b194dfcf8c3536d4ba&chksm=e96e4859de19c14f89f518a953f695aa4a78a3f00f5f58155f147cdcbb8d71522193565526e1&scene=21#wechat_redirect)
-- 🔴[国企、事业单位，也有背景调查吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496108&idx=2&sn=7778caffb736c953ff7bbc4030a4abe6&chksm=e96e5a6dde19d37beabe3a64a7054abe89c68c55ce0ae2c42ee12651ab3cd6bbdbe6649bd6f2&scene=21#wechat_redirect)
+- 🔴 {% post_link 13背景调查/我为什么拒绝回答背景调查问题 %}
+- 🔴 {% post_link 13背景调查/如何应对背景调查 %}
+- 🔴 {% post_link 13背景调查/第三方背景调查案例，真实路演 %}
+- 🔴 {% post_link 13背景调查/无犯罪记录证明，是个什么东西？该怎么开 %}
+- 🔴 {% post_link 13背景调查/什么样的公司，会调查你的征信记录 %}
+- 🔴 {% post_link 13背景调查/什么样的公司，会要你提交社保记录 %}
+- 🔴 {% post_link 13背景调查/国企、事业单位，也有背景调查吗 %}
+
 - {% post_link 13背景调查/多写了半年经验，已收到的腾讯offer会被毙掉吗 %}
-- {% post_link 13背景调查/我为什么拒绝回答背景调查问题 %}
 - {% post_link 13背景调查/能不能自己做个离职证明 %}
 - {% post_link 13背景调查/HR问我要最近3个月的银行工资流水，怎么办 %}
 - {% post_link 13背景调查/简历上的工作经历，能不能合并 %}
@@ -592,10 +550,11 @@ recommend: false
 - 🔴 {% post_link 14试用期和转正/碰到“无法完成的任务”，我该怎么办 %}
 - 🔴 {% post_link 14试用期和转正/警惕：返聘的领导 %}
 - 🔴 {% post_link 14试用期和转正/刚入职又来了面试电话，我是说自己在职还是已离职 %}
-- 🔴[新工作入职指南](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487493&idx=1&sn=a9886da0367d33187794b9909753bf8d&chksm=e96dbbc4de1a32d2294275309ca9210e26c3aab7fb2d8e1f7d62016bb042837631c372c4c2dc&scene=21#wechat_redirect)
-- 🔴[入职不久就要换工作，怎样向面试官解释呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486579&idx=1&sn=2d684512a14a6801b8bc6b7191f3cb2e&chksm=e96da7b2de1a2ea4f43465a5e1f17be93fc22aebf955ceeb120bdb4e2ce16b84f2fe616b748a&scene=21#wechat_redirect)
-- 🔴[我刚入职 1 天，要不要考虑其他面试？如何使用倒逼法？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489324&idx=2&sn=8879ae07face39f04d3c5de69263f627&chksm=e96dbcedde1a35fb7dbb30bc7f29a5467a73271858d5878a7f622dc26e619c0d507fa285460e&scene=21#wechat_redirect)
-- 🔴[刚入职，就待不下去了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495272&idx=1&sn=804d229ea8773b2e125d56a783479c1d&chksm=e96e45a9de19ccbfdfd7676c3ce4d5d22ec5b9f4465b2bb5600d1909abb5e892142eb2c6b220&scene=21#wechat_redirect)
+- 🔴 {% post_link 14试用期和转正/新工作入职指南 %}
+- 🔴 {% post_link 14试用期和转正/入职不久就要换工作，怎样向面试官解释呢 %}
+- 🔴 {% post_link 14试用期和转正/我刚入职1天，要不要考虑其他面试？如何使用倒逼法 %}
+- 🔴 {% post_link 14试用期和转正/刚入职，就待不下去了，怎么办 %}
+
 - {% post_link 14试用期和转正/试用期内继续求职的话，简历如何写 %}
 - {% post_link 14试用期和转正/试用期内，为何一定要继续找工作 %}
 - {% post_link 14试用期和转正/公司2个月没发工资了，我怎么办 %}
@@ -642,10 +601,10 @@ recommend: false
 - 🔴 {% post_link 15辞退和裁员/应对被辞退的标准流程 %}
 - 🔴 {% post_link 15辞退和裁员/遭遇试用期被辞退，个人的操作策略 %}
 - 🔴 {% post_link 15辞退和裁员/被裁，是什么样一个标准流程 %}
-- 🔴[工作中出错导致公司受损，个人要承担损失不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486660&idx=1&sn=d80d9693197819e72fcf1601af540a94&chksm=e96da705de1a2e13411e6f491867a004ddf58129f410de4a9a51f8ddbf62855a4b014467ec50&scene=21#wechat_redirect)
-- 🔴[试用期就被辞退，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486726&idx=1&sn=c4cb3e963838d9c2458520d0fc1730e3&chksm=e96da6c7de1a2fd1c421ad8cda206c31882664fc62c348d08a3ef8ab657ae35624ff556bd537&scene=21#wechat_redirect)
-- 🔴[试用期被辞退，也有赔偿吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487726&idx=1&sn=405a39a3c1ffcdd6857f143e3ec2a263&chksm=e96dbb2fde1a323951db726692e7b105d544fddecbf7fd1e2c92285082d47911cffcc69c55c4&scene=21#wechat_redirect)
-- 🔴[工作做得好好的，为何突然被辞退？该如何应对？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487114&idx=1&sn=3c97af2cafa6da4f979db54eb1ab608c&chksm=e96da54bde1a2c5d4d8ea9793bc393dd10e25a9c92a52f21d566765fa9c4d7fc188506ade5b4&scene=21#wechat_redirect)
+- 🔴 {% post_link 15辞退和裁员/工作中出错导致公司受损，个人要承担损失不 %}
+- 🔴 {% post_link 15辞退和裁员/试用期就被辞退，该怎么办 %}
+- 🔴 {% post_link 15辞退和裁员/试用期被辞退，也有赔偿吗 %}
+
 - ￥🔴 {% post_link 15辞退和裁员/职场人必修课：系统学会反裁员or反辞退(从入门到精通) %}
 
 - {% post_link 15辞退和裁员/年底突然被辞退，如何解释裸辞原因？ %}
@@ -715,12 +674,13 @@ recommend: false
 
 - 🔴 {% post_link 19如何跟领导相处？/空降来了新领导，我该怎么办？ %}
 - 🔴 {% post_link 19如何跟领导相处？/总监跨过经理直接给我安排任务，我该听谁的 %}
-- 🔴[上司之道（一）：领导为难我怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485484&idx=1&sn=9c9d5f7c476bfc6c3a023b58da6c4884&chksm=e96da3edde1a2afb3e0fe4928b10b90856e55696acc384deac64345d68bbc1a3847b867ffe82&scene=21#wechat_redirect)
-- 🔴[上司之道（二）：如何搞定你的领导！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485489&idx=1&sn=0be171a7464927e2dcd0378339d70e40&chksm=e96da3f0de1a2ae6f00f3f1022a1bff9fdd21e251f3eefabd8094de62895857f00577520c921&scene=21#wechat_redirect)
-- 🔴[上司之道（三）：你如何对付你的领导](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485493&idx=1&sn=a1a799d08545654a19f97800a24039c1&chksm=e96da3f4de1a2ae2227a2efa44ca260b9686be6f45189377bed7ace75500d028a374794b9c47&scene=21#wechat_redirect)
-- 🔴[女领导为何特别难伺候？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488482&idx=1&sn=836e345f1d7c744e8a48e293912c4245&chksm=e96db823de1a313591a6b7c2a6f2330d36739a6ee6a8a7b47da9f085b773665725cb572aed4f&scene=21#wechat_redirect)
-- 🔴[为何老被领导批评，是我哪里做错了吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495373&idx=2&sn=421492ebe368c95d6e1d2965a0f885bd&chksm=e96e450cde19cc1a87a536667dbc9d1860852e34d4b8a09be7d3f940b89159bcde2efe8f8b6b&scene=21#wechat_redirect)
-- 🔴[工作中如何跟主管相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495857&idx=2&sn=b8c766a5837b474b908a25dce201a1c9&chksm=e96e5b70de19d26624c2a806d1cf52545aa366545d465ff45705289c5d976049253bc1b87433&scene=21#wechat_redirect)
+- 🔴 {% post_link 19如何跟领导相处？/上司之道一：领导为难我怎么办 %}
+- 🔴 {% post_link 19如何跟领导相处？/上司之道二：如何搞定你的领导 %}
+- 🔴 {% post_link 19如何跟领导相处？/上司之道三：你如何对付你的领导 %}
+- 🔴 {% post_link 19如何跟领导相处？/女领导为何特别难伺候 %}
+- 🔴 {% post_link 19如何跟领导相处？/为何老被领导批评，是我哪里做错了吗 %}
+- 🔴 {% post_link 19如何跟领导相处？/工作中如何跟主管相处 %}
+
 - {% post_link 19如何跟领导相处？/刚入职3个月，招我进来的经理被干掉了，我该怎么办？ %}
 - {% post_link 19如何跟领导相处？/空降领导，如何坐稳江山？ %}
 - {% post_link 19如何跟领导相处？/如何提前知道新领导好不好 %}
@@ -743,8 +703,9 @@ recommend: false
 ## **【20, 女性专场】**
 
 - 🔴 {% post_link 20女性专场/婚姻悲剧和杭州案件，对职场人的启示 %}
-- 🔴[女孩失意之时，应该做什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489433&idx=1&sn=a213488c84d5f1e0fe86c95781f925e4&chksm=e96dbc58de1a354ef338e6ba6158b9d26fcf4204dab5ec175d9108f7e30da478f955a20744f2&scene=21#wechat_redirect)
-- 🔴[女孩，要不要远嫁？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496978&idx=2&sn=6fc4fbf4895e32f7bde266b4a2269191&chksm=e96e5ed3de19d7c5fc5812bf018a124782aaa692abdfcbfa92a534e1a5c062eea7ac6ab4ef96&scene=21#wechat_redirect)
+- 🔴 {% post_link 20女性专场/女孩失意之时，应该做什么 %}
+- 🔴 {% post_link 20女性专场/女孩，要不要远嫁 %}
+
 - ￥ {% post_link 20女性专场/嫁给独生子好，还是嫁给家里有兄弟姐妹的更好 %}
 - ￥ {% post_link 20女性专场/女孩如何考虑婚姻和生育，才能获得更好的职业发展 %}
 - {% post_link 20女性专场/妈妈为什么喜欢伤害我？ %}
@@ -753,6 +714,7 @@ recommend: false
 - {% post_link 20女性专场/女生如何在相亲时，就避免以后的婚姻悲剧 %}
 - {% post_link 20女性专场/什么叫假独生女现象 %}
 - {% post_link 20女性专场/为何离婚的人越来越多 %}
+- {% post_link 20女性专场/姐弟恋的4大注意点 %}
 
 
 - [女孩如何考虑婚姻和生育，才能获得更好的职业发展？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)
@@ -792,6 +754,9 @@ recommend: false
 - 🔴 {% post_link 21同事如何相处？/领导如何搞走员工？（内心不强大者不要看） %}
 - 🔴 {% post_link 21同事如何相处？/工作中，如何让不配合的人配合？ %}
 - 🔴 {% post_link 21同事如何相处？/同事不配合我的工作，怎么办 %}
+- 🔴 {% post_link 21同事如何相处？/有个同事不干活，领导让我代劳，要答应吗 %}
+- 🔴 {% post_link 21同事如何相处？/领导让我帮关系户干活，怎么办 %}
+
 - {% post_link 21同事如何相处？/平级同事对我的工作指手画脚，我要配合吗 %}
 - {% post_link 21同事如何相处？/同事都比我学历高，我该怎么办？ %}
 - {% post_link 21同事如何相处？/对象说我没有诚意，什么意思 %}
@@ -844,8 +809,9 @@ recommend: false
 ## **【22, 汽车行业专题】**
 
 - 🔴 {% post_link 22汽车行业专题/汽车行业的工资，比其他行业大概高多少 %}
-- 🔴[汽车行业未来三十年预测（附企业名单）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484736&idx=1&sn=6df28618e0e22c45a8bbf3b540e1066a&chksm=e96dae81de1a279733bcc633f7f8652ca5e9f5dfe1ab1c3116161732657c4679cb4c06707176&scene=21#wechat_redirect)
-- 🔴[势商：接下来几年汽车是什么样子？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484775&idx=1&sn=ca2a94baf4ae3fa07807c52eecf2234e&chksm=e96daea6de1a27b012764e5774de9f72b0d47d11e8d5413d8f82fbfabe7391c678b05e3cef2d&scene=21#wechat_redirect)
+- 🔴 {% post_link 22汽车行业专题/汽车行业未来三十年预测 %}
+- 🔴 {% post_link 22汽车行业专题/势商：接下来几年汽车是什么样子 %}
+
 - [汽车行业是整个制造业的标杆](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484076&idx=1&sn=a7ee282121a9943207d5518958960ced&chksm=e96da96dde1a207b8ceb4bb05c94dd26319ca46272513be15efa09f53c8f066998f4d39ca5de&scene=21#wechat_redirect)
 - [说一下跳到德尔福的经历：进了汽车行业，也是工资增幅最大的一次](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484230&idx=1&sn=7cccb56cae8d8becf4da10327db8e754&chksm=e96da887de1a2191d46545dd99401ea82d61abc980fba94e9c54594d2a8f55210918dc306485&scene=21#wechat_redirect)
 - [两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484370&idx=1&sn=f58475b57a6a470e74b641caee8c5e54&chksm=e96da813de1a21059a18d14e547aaf577eeadabfc7e977a1a4af2c4e3a5a365272639ad46bf8&scene=21#wechat_redirect)
@@ -876,6 +842,7 @@ recommend: false
 - 🔴 {% post_link 24房产私房菜/南通会不会并入上海 %}
 - 🔴 {% post_link 24房产私房菜/没有当地户口，如何买房子 %}
 - 🔴 {% post_link 24房产私房菜/大城市真实的房价大概多少 %}
+- 🔴 {% post_link 03如何选择城市/看老家和就业双城记，聊影响一生的抉择 %}
 
 - ￥ {% post_link 24房产私房菜/到底如何买房 %}
 - {% post_link 24房产私房菜/父母为何不劝女儿买房 %}
@@ -932,26 +899,20 @@ recommend: false
 - {% post_link 25年代秀&真人秀/裸辞、失业、几年不上班了，现在如何做简历求职 %}
 - {% post_link 25年代秀&真人秀/身高2米虚称1米95：外企待了十年时的感言 %}
 - {% post_link 25年代秀&真人秀/转行，有没有什么捷径 %}
-
-
-- [年代秀：10 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484294&idx=1&sn=35ce071b9073a0b280b645e8398e4678&chksm=e96da847de1a2151c7032408f97726bba3cebd9cb31ba9a1a18959c3136d78d9d3f3d0c54c18&scene=21#wechat_redirect)
-- [年代秀：00 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484291&idx=1&sn=e3ea1585fef45024d8da88f5a82ca3d9&chksm=e96da842de1a215429c7667b7f208dac43f96caec35197d4fab450e55cdc79b2a51acd7ecf7c&scene=21#wechat_redirect)
-- [年代秀：90 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484289&idx=1&sn=4ed7976c9ddd636ed67354112dcf2de8&chksm=e96da840de1a21561d7f521ac374973e3fd3091bfea2971ea7926699c60cd5270bef5d670411&scene=21#wechat_redirect)
-- [年代秀：80 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484286&idx=1&sn=c62ffaa934b7ff41e82a7ffdbe7a8d0f&chksm=e96da8bfde1a21a9c4f1e440287f51be9a80db971e09f82caa8f45def387a890ea3763eb6b9b&scene=21#wechat_redirect)
-- [年代秀：70 后最大的特点，是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484275&idx=1&sn=680137b3a2dc31f43e4d99d27d61f809&chksm=e96da8b2de1a21a4260b388cebe57aa1241b6681fa8f38de664fe0b32874105339f3da13dc61&scene=21#wechat_redirect)
-- [职场秀：前台的逆袭之路，你才是花瓶](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483932&idx=1&sn=ada5b1d109a67948a97a844d672b2d91&scene=21#wechat_redirect)
-- [职场秀：我是菟子不是兔子](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483967&idx=1&sn=fb0564eaec88d9da3d3c5084bcdaa937&scene=21#wechat_redirect)
-- [职场秀：我 93 年的，我觉得，努力的才是真男人！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483958&idx=2&sn=f72d0a6cf6e2dcfad1764fe8aaaf4c3d&scene=21#wechat_redirect)
-- [职场秀：请叫我“分分钟翻盘”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483923&idx=3&sn=82f38f4afbb2af3e5edf730acd7895f9&scene=21#wechat_redirect)
-- [职场秀：我中专毕业 3 年踌躇了 3 年，第 4 年终于月薪过万了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483932&idx=3&sn=1d760fff2badc83599732462933b5b0f&scene=21#wechat_redirect)
-
-- [职场秀：92 小伙大专毕业， 副业达工资两倍用了 3 年，税后年入 50 万](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484480&idx=1&sn=18c715c2c640137d4737617953ea2f3c&chksm=e96daf81de1a269777d3174fef78435f3a9009d915c934e7b10eacd30582db749a0a7527d406&scene=21#wechat_redirect)
-
-- [职场秀：上海 IT 男月薪数万，却辞职去了西藏，抛弃妻子，一待六年](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484472&idx=1&sn=e3590327376f27bcdfaca1c49b951001&chksm=e96daff9de1a26effb74c4436a548dcbabe03910ff3e6858cab2dfc91054ba7a73a3ad97cab8&scene=21#wechat_redirect)
-
-- [职场秀：二本毕业 5 年，月薪才 6 千，求骂醒！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484412&idx=1&sn=180cde0bba37a16e3bc555a09a70f8e6&chksm=e96da83dde1a212b3196945aca044d5477a8d0350720f98321aa85e217a4585d9954c6ac4a9f&scene=21#wechat_redirect)
-
-- [职场秀：流氓焊工的心路历程，是什么样子的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484586&idx=1&sn=8848ecd3af3e3888018aae4eded42365&chksm=e96daf6bde1a267d918d6772ef521b793b16a62a178b7130e42842ed2fa2211bd8fdadf18f01&scene=21#wechat_redirect)
+- {% post_link 25年代秀&真人秀/10后最大的特点，是什么 %}
+- {% post_link 25年代秀&真人秀/00后最大的特点，是什么 %}
+- {% post_link 25年代秀&真人秀/年代秀：90后的最大特点，是什么 %}
+- {% post_link 25年代秀&真人秀/年代秀：80后最大特点是什么 %}
+- {% post_link 25年代秀&真人秀/年代秀：70后最大特点是什么 %}
+- {% post_link 25年代秀&真人秀/前台的逆袭之路：你才是花瓶 %}
+- {% post_link 25年代秀&真人秀/职场秀：我是菟子不是兔子 %}
+- {% post_link 25年代秀&真人秀/职场秀：我93年的，我觉得，努力的才是真男人 %}
+- {% post_link 25年代秀&真人秀/职场秀：请叫我“分分钟翻盘” %}
+- {% post_link 25年代秀&真人秀/职场秀：我中专毕业3年踌躇了3年，第4年终于月薪过万了 %}
+- {% post_link 25年代秀&真人秀/92小伙大专毕业，副业达工资两倍用了3年，税后年入50万 %}
+- {% post_link 25年代秀&真人秀/上海IT男月薪数万，却辞职去了西藏，抛弃妻子，一待六年 %}
+- {% post_link 25年代秀&真人秀/二本毕业5年，月薪才6千，求骂醒 %}
+- {% post_link 25年代秀&真人秀/流氓焊工的心路历程，是什么样子的 %}
 
 - [职场秀：大学生在酒吧打工，是什么样的亲身体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484764&idx=1&sn=8bcccb7780a3c16efd3901987a54d632&chksm=e96dae9dde1a278b60b815ca79d701e0ea18447b0f3dc75e56abeb2ce61a9a4cb09837dd50bc&scene=21#wechat_redirect)
 
@@ -1068,6 +1029,7 @@ recommend: false
 
 ## **【27, 职场生活技艺】**
 
+- 🔴 {% post_link 27职场生活技艺/缘分就是这么奇妙，你别着急 %}
 - 🔴 {% post_link 27职场生活技艺/什么是三季人，如何应对三季人？ %}
 - 🔴 {% post_link 27职场生活技艺/没有管过人，如何证明自己管过人？ %}
 - 🔴 {% post_link 27职场生活技艺/普通职员到主管或领导的标志 %}
@@ -1082,6 +1044,8 @@ recommend: false
 - 🔴 {% post_link 27职场生活技艺/如何判断一个男生能否结婚 %}
 - 🔴 {% post_link 27职场生活技艺/男孩如何挑老婆 %}
 - 🔴 {% post_link 27职场生活技艺/挑对象最重要的标准，有哪些 %}
+- 🔴 {% post_link 27职场生活技艺/人性里的核心科技 %}
+- 🔴 {% post_link 27职场生活技艺/经济发展了，这一现象已经且必将愈演愈烈 %}
 
 - {% post_link 27职场生活技艺/女孩找什么样的对象为好 %}
 
@@ -1099,7 +1063,6 @@ recommend: false
 - {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
 - {% post_link 27职场生活技艺/相亲对象为何急着要你确认恋爱甚至婚姻关系 %}
 - {% post_link 27职场生活技艺/中秋国庆之间的3天想请假，为何领导不批 %}
-
 
 - ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 
@@ -1170,7 +1133,6 @@ recommend: false
 
 ## **【29, 势商和人生规划】**
 
-“我被央企裁员后1个月找到工作”（深度点评版）
 - 🔴 {% post_link 29势商和人生规划/普通人年薪突破30万的6个方法 %}
 - 🔴 {% post_link 29势商和人生规划/成为百万年薪职业经理人的5个步骤eg1 %}
 - 🔴 {% post_link 29势商和人生规划/普通职场人达到年薪100万的8个方法eg2 %}
@@ -1192,7 +1154,9 @@ recommend: false
 - 🔴 {% post_link 29势商和人生规划/月薪6800，处于什么水平，兼谈要不要考研 %}
 - 🔴 {% post_link 29势商和人生规划/势商，是什么？如何提高 %}
 - 🔴 {% post_link 29势商和人生规划/事业逆袭这最后一公里，如何打通？ %}
-- 🔴 {% post_link 29势商和人生规划/2024我的跳槽心法分享！ %}
+- 🔴 {% post_link 29势商和人生规划/2024我的跳槽心法分享 %}
+- 🔴 {% post_link 29势商和人生规划/“我被央企裁员后1个月找到工作”（深度点评版） %}
+- 🔴 {% post_link 29势商和人生规划/职场想要触摸到更高的权利，得往中央靠近 %}
 
 - ￥🔴 {% post_link 29势商和人生规划/男女求职思维的不同点 %}
 - {% post_link 29势商和人生规划/50岁还可以跳槽进大城市吗 %}
@@ -1212,7 +1176,7 @@ recommend: false
 - {% post_link 29势商和人生规划/独生女的6条职业之路，第6条最差 %}
 - {% post_link 29势商和人生规划/工作期间家里不太平，怎么办 %}
 - {% post_link 29势商和人生规划/40岁的人如何找工作？（真实路演） %}
-
+- {% post_link 29势商和人生规划/上海女孩的职业开化之旅 %}
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
 

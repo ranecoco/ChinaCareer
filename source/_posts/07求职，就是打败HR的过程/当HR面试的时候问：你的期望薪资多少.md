@@ -17,7 +17,7 @@ place:
 
 ![图片](http://mmbiz.qpic.cn/mmbiz_jpg/9tafYP0AaTTjgj407ozJcJYcJp4xgIvM1ewupxJGqLdMIa8YVnVZickDf1eaZ1m5LRv9blmX96zmibvd81AwarGw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
-如果想获得一份**免费**的​**求职和职业规划指南**​（电子版本，3M大小），可在公众号内回复“​**指南**​”，我们立刻给您秒送。
+如果想获得一份**免费**的**求职和职业规划指南**（电子版本，3M大小），可在公众号内回复“**指南**”，我们立刻给您秒送。
 
 ---
 

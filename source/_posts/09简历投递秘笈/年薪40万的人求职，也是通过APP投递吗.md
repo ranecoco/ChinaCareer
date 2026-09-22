@@ -1,15 +1,17 @@
 ---
-date: 2024-1-25 23:57
+date: Sep 10, 2019, 4:19 PM
 update: 2026-08-31 11:24
-title: 年薪40万的人求职，也是通过APP投递吗？
-description: 
+title: 年薪40万的人求职，也是通过前程无忧、智联招聘吗？
+description: 年薪40万的人求职，也是通过APP投递吗？
 tags: [Career]
 categories: [ 09. 简历投递秘笈 ]
 copyright_author: 幽哥
-copyright_url: https://mp.weixin.qq.com/s/z1FSXA1Sc4xysU4uQk-ysg
-place: Shanghai
+copyright_url: https://mp.weixin.qq.com/s/4pl9Rt16VOdrMFjVtv9Isg
+                # 2024-1-25 23:57 JumpFrog Shanghai
+copyright_url1: https://mp.weixin.qq.com/s/z1FSXA1Sc4xysU4uQk-ysg
+place: 
 account: JumpFrog
-cover: img/auto_cover/c0808524df69.svg
+cover: img/auto_cover/996cc6491283.svg
 ---
 
 **分享了**那么多职场干货，也到了提升的时候了，别老在低薪阶段徘徊。
@@ -31,9 +33,9 @@ cover: img/auto_cover/c0808524df69.svg
 
 - 收到，方便问下工资如何构成的?
 - 月薪base在20k-25k,bonus和base是五五分的。
-- 您目前的薪资情况如何呢
+  您目前的薪资情况如何呢
 - 目前9k每月，您说的base就是基本工资吧，bonus是base的一半?
-- 年总收入是五五分的，就是年薪能到48W-60W
+- **年总收入是五五分的，就是年薪能到48W-60W**
   那您年总收入能到多少?
 
 **通过猎头来求职，有什么好处呢？**
@@ -66,8 +68,6 @@ cover: img/auto_cover/c0808524df69.svg
 **继续说猎头渠道，既然这么好，那如何行动呢？**
 
 如下，你**通过猎聘网**，**选择“职位类型”时，你点选那个“猎头职位”，求职期间，每个月投递出去10份这种职位即可**。猎聘网就是猎头出生的人创立的，他们有很多猎头合作资源。
-
-![Image](https://mmbiz.qpic.cn/mmbiz_png/t5Q7hjE2iasoomsq0NGANUAiamOZ8hSjj4xAFOibxm1Tib96VgywU5IF801nRbmYYF7icia7jibcsolEm2lgCJ9wColng/640?wx_fmt=png&random=0.4838857103276186&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2)
 
 继续，你同时还可以**自己寻找猎头**，现在自媒体那么多，就不要我教你了，你甚至在QQ里、自己的微信朋友圈里，都直接搜索“猎头”二字，身边很多猎头就出来了。
 
@@ -105,7 +105,9 @@ cover: img/auto_cover/c0808524df69.svg
 
 祝大家开始学习并利用起来这个求职方法--猎头渠道，薪水高高。
 
-如下我做个**简单调查**，你点选下，也让你心中有数。
+<center>End</center>
+
+---
 
 集中说明下，公账号日常更新和管理以及自媒体平台维护，都要成本，包括每个月发给群友的红包和稿费也不少，所以会接一些广告。大家看如下这个标识，某篇文章有“**原创：幽哥**”的，才是我写的文章，其他是广告。
 
@@ -115,15 +117,13 @@ cover: img/auto_cover/c0808524df69.svg
 
 本文不需要转发给同学，否则他们很快工资超过你。
 
-<center>End</center>
-
 ---
 
 更多干货文章可如下点击阅读：
 
 1，[幽哥精华干货汇总](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247497282&idx=2&sn=d9841b4ec3396e09d57152f0970a2c99&chksm=fbf95633cc8edf256bfe6cc79ce79ad12c93bfaf6aebbfe5cc147b91a2c5b995db1de16dad46&scene=21#wechat_redirect)
 
-2，[普通人，如何发展事业（深度总结）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247527379&idx=1&sn=45821cd2fdf150ecafacde5780b23d14&chksm=e96ec012de194904e80f96a74a2ec3fbe2102902b416a64ffbc3106007b7eec3051debc7f266&scene=21#wechat_redirect)
+2，{% post_link 29势商和人生规划/普通人，如何发展事业 %})
 
 3[，](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)[到底如何买房？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247484265&idx=1&sn=49e4e45aa75c9a44fbca223673d70f6a&chksm=fbfaa318cc8d2a0e9244626dc2813c37dc4ffc347bc998450530ec550a3eb6df9c223f3953ab&scene=21#wechat_redirect)
 
@@ -139,93 +139,9 @@ cover: img/auto_cover/c0808524df69.svg
 
 今天报名继续，报名门槛为99，将不定时涨价，类似连续剧直播结束后，将恢复原价199，大家可以找涂灵子报名，公众号后台回复“涂灵子”即可。
 
-![](http://mmbiz.qpic.cn/mmbiz_png/t5Q7hjE2iasotLAwMYjjZR8ZTde4SdOBh31eXWH3vzcjKaaFI4FrpEEicP3p2XnqwejhKDibAynwAA6lxm57CQ2rA/300?wx_fmt=png&wxfrom=19)
-
 **职场蛙**
 
 中国本土职业规划理论的开拓者和践行者。 专注于职场人士在三个阶段（求职前、中、后）的全方位能力开发。 目的是，真正帮助求职者找到“打工”和“创业”之外的第三条道路。 使命：发展您的事业，就是我最好的事业！
 
 2784篇原创内容
 
-**8 Comments**
-
-Comment
-
-* ![]()
-  
-  陈老师
-  
-  山西Jan 26, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like9
-  
-  微信里边一大堆猎头了，递进去的简历，都石沉大海了。![[流泪]](//res.wx.qq.com/t/wx_fed/we-emoji/res/assets/Expression/Expression_6@2x.png)
-* ![]()
-  
-  D律师🏮
-  
-  山西Jan 26, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like8
-  
-  看来要多加一些猎头划分个小组
-* ![]()
-  
-  佳轶 Joyee
-  
-  上海Jan 26, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like3
-  
-  幽哥赶上了好时候
-* ![]()
-  
-  小糖豆
-  
-  上海Feb 1, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like2
-  
-  做医药的猎头，欢迎来聊🙋‍♀️
-  
-  ![]()
-  
-  C吴家大少
-  
-  广东Feb 14, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like
-  
-  有没有广东省茂名市这边的医疗器械维修岗位？
-* <iframe data-v-45da8554="" src="https://wxa.wxs.qq.com/tmpl/px/base_tmpl.html" class="iframe_ad_container iframe_adv_ad_container"></iframe>
-* ![]()
-  
-  对方正在输入......
-  
-  安徽Jan 26, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like2
-  
-  幽哥，已经差不多四年没有工作了，该如何找工作，薪资待遇如何呢
-* ![]()
-  
-  这TM什么人间疾苦
-  
-  上海Jan 26, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like2
-  
-  幽哥，上海月薪税后过2万是不是个坎啊？
-  
-  First comment
-* ![]()
-  
-  💍落日浪人
-  
-  上海Jan 26, 2024
-  
-  <span data-type="inline-memo" data-inline-memo-content="Reply"></span>Like1
-  
-  还2019年呢
-
-No more data

@@ -27,6 +27,8 @@ recommend: false
 - {% post_link 00必知必会/中华人民共和国劳动合同法 %}
 - {% post_link 00必知必会/中华人民共和国劳动法 %}
 - {% post_link 00必知必会/中华人民共和国民法典 %}
+- {% post_link 00必知必会/中文面试100问 %}
+- {% post_link 00必知必会/Hundrred_Question4Interview %}
 
 ## **【01, 学历不重要？能力更重要？】**
 
@@ -261,6 +263,7 @@ recommend: false
 - {% post_link 06如何选职务/如何从简历中挖掘自己可投递的岗位，提高找工作的效率 %}
 - {% post_link 06如何选职务/我是那种“不带人的主管”，有些尴尬，如何向人解释？ %}
 - {% post_link 06如何选职务/HR说这职位是“contractor”，啥意思？说待遇跟正式工一样，能接受吗 %}
+- {% post_link 06如何选职务/什么人闲得可以写书 %}
 
 
 - [英语好，找工作就一定是外贸、英语老师或翻译？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486883&idx=1&sn=cd8623a513b5c5d50f8508dc28afb7da&chksm=e96da662de1a2f742e10127d462f0da799fff51803da0c02dcea285276cd298447aa3d28893e&scene=21#wechat_redirect)
@@ -1095,6 +1098,7 @@ recommend: false
 - {% post_link 27职场生活技艺/《职场宝典》的正确打开方式 %}
 - {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
 - {% post_link 27职场生活技艺/相亲对象为何急着要你确认恋爱甚至婚姻关系 %}
+- {% post_link 27职场生活技艺/中秋国庆之间的3天想请假，为何领导不批 %}
 
 
 - ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}

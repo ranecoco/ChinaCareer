@@ -643,13 +643,15 @@ recommend: false
 
 - 🔴 {% post_link 17如何解决失业危机/过年前被动求职的要点 %}
 - 🔴 {% post_link 17如何解决失业危机/几年换一次工作比较好？ %}
+
+- {% post_link 17如何解决失业危机/笑侃“周力波”--你所不知道的40岁职业转折点 %}
+
 - [裸辞，你得做好这三个准备](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484302&idx=1&sn=6e7718eb381baa678415eb7390bcaa45&chksm=e96da84fde1a215989187b8e04f548a5cc36944f636a6e4cdb2b50beffa1650b9fa6cafe6596&scene=21#wechat_redirect)
 - [裸辞的五大硬伤：为什么要找到工作再辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484439&idx=1&sn=d3ed9d7f31f5f06a99597cd5a0f84a66&chksm=e96dafd6de1a26c0134dce3809933742488b9796ab4b14821f6aad93e574e971601d6039eda6&scene=21#wechat_redirect)
 - [年轻人，如何防范失业危机？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484559&idx=1&sn=782701106a37c0eb32c4130328b89943&chksm=e96daf4ede1a26580e05dac4532912f448245fa24557c95c892b901b85e8845cccc2d4cb6a14&scene=21#wechat_redirect)
 - [30 岁了，如何职业规划？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484670&idx=1&sn=6c74a6b2d8fe47a0531bfdd15ab1294a&chksm=e96daf3fde1a26293e2c74a04b12265aee3ebaac00963541bb482c9ea37922c1902e868ce9ea&scene=21#wechat_redirect)
 - [你的 35 岁，是个什么样子？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484507&idx=1&sn=3e2ec6fce62e89739af11edc12d51c02&chksm=e96daf9ade1a268c5d18865fe550693db97d17fdb2e467d524df4451a9c9d1a6fa68115aab2b&scene=21#wechat_redirect)
 - [被裁员，对求职有影响吗？对未来的整个职业生涯呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484466&idx=1&sn=d4ccd2d333a1ce26b1b0125fd4c9e32a&chksm=e96daff3de1a26e549f70213a6a6f5f42bfec453247a43d4b8123cfb9717aa21116e77f13549&scene=21#wechat_redirect)
-- [笑侃“周力波”--你所不知道的 40 岁职业转折点](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484376&idx=1&sn=86d84abc02464a834ec6bfa1e26f5f15&chksm=e96da819de1a210f0c179987bce9a6f803ce5bb7d7c394581779f439455f5013439ea3d67129&scene=21#wechat_redirect)
 - [失业一年，是一种什么样的体验?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484347&idx=1&sn=6a79d3dcab341bd9bd46d241652836bc&chksm=e96da87ade1a216c4d6804696e1c929ae0dfb428a9e973163db6ec5ea671544cb33dfdf2c8e4&scene=21#wechat_redirect)
 - [35 岁后，职场人都到哪里去了?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487503&idx=1&sn=db9136422cc4c19b88b4a0dc1bce4fb9&chksm=e96dbbcede1a32d8331faec8e14388c35f8109a8fd339e4fbfc072e76f77c5343dcfa629ed7b&scene=21#wechat_redirect)
 
@@ -823,9 +825,10 @@ recommend: false
 - 🔴 {% post_link 23采购职位入门/女孩是做人事，会计，还是做采购好 %}
 - 🔴 {% post_link 23采购职位入门/采购员入职指南 %}
 - 🔴 {% post_link 23采购职位入门/为何这么多人改行做了采购 %}
+- {% post_link 23采购职位入门/如何改行去面试采购岗位 %}
+- {% post_link 23采购职位入门/他，是如何转行做采购的 %}
 
 - [刚毕业时，我为何打死也不做采购员？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484623&idx=1&sn=2d5f006a8f446cc298208bfa32d5c0c6&chksm=e96daf0ede1a2618da180afba385bf46020ae56367f682b0c386f57ec95d151d738cbd4559b9&scene=21#wechat_redirect)
-- [他，是如何转行做采购的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486092&idx=1&sn=96522ada6770eafa67227fb6a0774bc5&chksm=e96da14dde1a285b492920e7b9c086546734a1cc58f15f7764dc04ceed115bf4870ba03fc890&scene=21#wechat_redirect)
 - [采购和供应链，是啥关系？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484655&idx=1&sn=57643e6459bdfd9f3476b5690f2a7f2c&chksm=e96daf2ede1a2638271336c88ec1bd2d0b2749c7099084325efce373aaffbffcba26683add96&scene=21#wechat_redirect)
 - [采购是如何分工的，采购是不是都有回扣？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484837&idx=1&sn=ea635267c41b1f80e6be9819b2606bbb&chksm=e96dae64de1a27721c20b0238d5557bcae7f03f6341385d298c4611701a2b7b4c9d535a5945a&scene=21#wechat_redirect)
 - [采购岗位，优先录用哪些专业背景和工作经验的人？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484335&idx=1&sn=6901af1d0e582e7a1dc951d27f08f686&chksm=e96da86ede1a217865ce073eb7562252c4b176323c35e46bc8b4085fab0696e5a868986a0cc1&scene=21#wechat_redirect)
@@ -876,43 +879,44 @@ recommend: false
 
 ## **【25, 年代秀&**真人秀**】**
 
-- 🔴 {% post_link 25年代秀&真人秀/年薪300万的师兄，在聚会时分享了什么 %}
-- 🔴 {% post_link 25年代秀&真人秀/十八年的上海外企白领之路 %}
-- 🔴 {% post_link 25年代秀&真人秀/武汉的工资，为何这么低 %}
-- 🔴 {% post_link 25年代秀&真人秀/职场头3年的三大认知偏差 %}
-- 🔴 {% post_link 25年代秀&真人秀/《群友逆袭100人》之第一例 %}
-- 🔴 {% post_link 25年代秀&真人秀/大专学历月薪5000到年薪30万+的过程 %}
-- 🔴 {% post_link 25年代秀&真人秀/幽哥理论PPT分享 %}
-- {% post_link 25年代秀&真人秀/我是这样度过中年危机的 %}
-- {% post_link 25年代秀&真人秀/33岁江西群友营业额突破5000万，《逆袭时代》男三号赖北金 %}
-- {% post_link 25年代秀&真人秀/10分钟就能让你谈出翻倍的工资 %}
-- {% post_link 25年代秀&真人秀/「直播回放」解答所有百度找不到答案的职场问题 %}
-- {% post_link 25年代秀&真人秀/八神帅哥毕业后迷茫了2年，第3年内部转岗居然做了副厂长 %}
-- {% post_link 25年代秀&真人秀/周一到周五哪天更适合面试？上午还是下午更容易面试成功 %}
-- {% post_link 25年代秀&真人秀/如何搞定你的顶头上司 %}
-- {% post_link 25年代秀&真人秀/如何迅速制作一份适合跳槽的好简历 %}
-- {% post_link 25年代秀&真人秀/工作围绕房子转？还是房子围绕工作转 %}
-- {% post_link 25年代秀&真人秀/收到Offer之后做什么 %}
-- {% post_link 25年代秀&真人秀/根本不知道找什么工作时，如何找工作 %}
-- {% post_link 25年代秀&真人秀/究竟通过什么渠道，往哪里投简历 %}
-- {% post_link 25年代秀&真人秀/能不能根据兴趣爱好去找工作 %}
-- {% post_link 25年代秀&真人秀/裸辞、失业、几年不上班了，现在如何做简历求职 %}
-- {% post_link 25年代秀&真人秀/身高2米虚称1米95：外企待了十年时的感言 %}
-- {% post_link 25年代秀&真人秀/转行，有没有什么捷径 %}
-- {% post_link 25年代秀&真人秀/10后最大的特点，是什么 %}
-- {% post_link 25年代秀&真人秀/00后最大的特点，是什么 %}
-- {% post_link 25年代秀&真人秀/年代秀：90后的最大特点，是什么 %}
-- {% post_link 25年代秀&真人秀/年代秀：80后最大特点是什么 %}
-- {% post_link 25年代秀&真人秀/年代秀：70后最大特点是什么 %}
-- {% post_link 25年代秀&真人秀/前台的逆袭之路：你才是花瓶 %}
-- {% post_link 25年代秀&真人秀/职场秀：我是菟子不是兔子 %}
-- {% post_link 25年代秀&真人秀/职场秀：我93年的，我觉得，努力的才是真男人 %}
-- {% post_link 25年代秀&真人秀/职场秀：请叫我“分分钟翻盘” %}
-- {% post_link 25年代秀&真人秀/职场秀：我中专毕业3年踌躇了3年，第4年终于月薪过万了 %}
-- {% post_link 25年代秀&真人秀/92小伙大专毕业，副业达工资两倍用了3年，税后年入50万 %}
-- {% post_link 25年代秀&真人秀/上海IT男月薪数万，却辞职去了西藏，抛弃妻子，一待六年 %}
-- {% post_link 25年代秀&真人秀/二本毕业5年，月薪才6千，求骂醒 %}
-- {% post_link 25年代秀&真人秀/流氓焊工的心路历程，是什么样子的 %}
+- 🔴 {% post_link 25年代秀真人秀/年薪300万的师兄，在聚会时分享了什么 %}
+- 🔴 {% post_link 25年代秀真人秀/十八年的上海外企白领之路 %}
+- 🔴 {% post_link 25年代秀真人秀/武汉的工资，为何这么低 %}
+- 🔴 {% post_link 25年代秀真人秀/职场头3年的三大认知偏差 %}
+- 🔴 {% post_link 25年代秀真人秀/《群友逆袭100人》之第一例 %}
+- 🔴 {% post_link 25年代秀真人秀/大专学历月薪5000到年薪30万+的过程 %}
+- 🔴 {% post_link 25年代秀真人秀/幽哥理论PPT分享 %}
+- {% post_link 25年代秀真人秀/我是这样度过中年危机的 %}
+- {% post_link 25年代秀真人秀/33岁江西群友营业额突破5000万，《逆袭时代》男三号赖北金 %}
+- {% post_link 25年代秀真人秀/10分钟就能让你谈出翻倍的工资 %}
+- {% post_link 25年代秀真人秀/「直播回放」解答所有百度找不到答案的职场问题 %}
+- {% post_link 25年代秀真人秀/八神帅哥毕业后迷茫了2年，第3年内部转岗居然做了副厂长 %}
+- {% post_link 25年代秀真人秀/周一到周五哪天更适合面试？上午还是下午更容易面试成功 %}
+- {% post_link 25年代秀真人秀/如何搞定你的顶头上司 %}
+- {% post_link 25年代秀真人秀/如何迅速制作一份适合跳槽的好简历 %}
+- {% post_link 25年代秀真人秀/工作围绕房子转？还是房子围绕工作转 %}
+- {% post_link 25年代秀真人秀/收到Offer之后做什么 %}
+- {% post_link 25年代秀真人秀/根本不知道找什么工作时，如何找工作 %}
+- {% post_link 25年代秀真人秀/究竟通过什么渠道，往哪里投简历 %}
+- {% post_link 25年代秀真人秀/能不能根据兴趣爱好去找工作 %}
+- {% post_link 25年代秀真人秀/裸辞、失业、几年不上班了，现在如何做简历求职 %}
+- {% post_link 25年代秀真人秀/身高2米虚称1米95：外企待了十年时的感言 %}
+- {% post_link 25年代秀真人秀/转行，有没有什么捷径 %}
+- {% post_link 25年代秀真人秀/10后最大的特点，是什么 %}
+- {% post_link 25年代秀真人秀/00后最大的特点，是什么 %}
+- {% post_link 25年代秀真人秀/年代秀：90后的最大特点，是什么 %}
+- {% post_link 25年代秀真人秀/年代秀：80后最大特点是什么 %}
+- {% post_link 25年代秀真人秀/年代秀：70后最大特点是什么 %}
+- {% post_link 25年代秀真人秀/前台的逆袭之路：你才是花瓶 %}
+- {% post_link 25年代秀真人秀/职场秀：我是菟子不是兔子 %}
+- {% post_link 25年代秀真人秀/职场秀：我93年的，我觉得，努力的才是真男人 %}
+- {% post_link 25年代秀真人秀/职场秀：请叫我“分分钟翻盘” %}
+- {% post_link 25年代秀真人秀/职场秀：我中专毕业3年踌躇了3年，第4年终于月薪过万了 %}
+- {% post_link 25年代秀真人秀/92小伙大专毕业，副业达工资两倍用了3年，税后年入50万 %}
+- {% post_link 25年代秀真人秀/上海IT男月薪数万，却辞职去了西藏，抛弃妻子，一待六年 %}
+- {% post_link 25年代秀真人秀/二本毕业5年，月薪才6千，求骂醒 %}
+- {% post_link 25年代秀真人秀/流氓焊工的心路历程，是什么样子的 %}
+- {% post_link 25年代秀真人秀/我在班上成绩最好，但却上了中专，如今下岗做苦力，你说能怪谁 %}
 
 - [职场秀：大学生在酒吧打工，是什么样的亲身体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484764&idx=1&sn=8bcccb7780a3c16efd3901987a54d632&chksm=e96dae9dde1a278b60b815ca79d701e0ea18447b0f3dc75e56abeb2ce61a9a4cb09837dd50bc&scene=21#wechat_redirect)
 
@@ -947,18 +951,25 @@ recommend: false
 - 🔴 {% post_link 26副业和财务自由/职场人士可以开发哪些副业？ %}
 - 🔴 {% post_link 26副业和财务自由/开发副业的基本原则 %}
 - 🔴 {% post_link 26副业和财务自由/辞职后不上班，在家专门搞副业，行不行 %}
+- {% post_link 26副业和财务自由/手把手教你开拓副业：打工，能否实现财务自由8 %}
+- {% post_link 26副业和财务自由/什么人适合副业：打工，能否实现财务自由7 %}
+- {% post_link 26副业和财务自由/副业如何成为主业：打工，能否实现财务自由6 %}
+- {% post_link 26副业和财务自由/副业是工资十倍：打工，能否实现财务自由5 %}
+- {% post_link 26副业和财务自由/你的样子：打工，能否实现财务自由4 %}
+- {% post_link 26副业和财务自由/副业分类：打工，能否实现财务自由3 %}
+- {% post_link 26副业和财务自由/打工，能否实现财务自由2 %}
+- {% post_link 26副业和财务自由/打工，能否实现财务自由1 %}
 
 - {% post_link 26副业和财务自由/你是如何通过副业挣钱的 %}
-- {% post_link 26副业和财务自由/什么人适合副业：打工，能否实现财务自由(7) %}
 - {% post_link 26副业和财务自由/接下来哪些行业是风口 %}
 
 - {% post_link 26副业和财务自由/如何劝说父母不再投资做生意 %}
 - {% post_link 26副业和财务自由/毕业几年，适合发展副业 %}
 - {% post_link 26副业和财务自由/为什么轻易不要“开个小店” %}
-
-- [为什么轻易不要“开个小店”？](https://mp.weixin.qq.com/s/rzH4viIVm9ABe4chHVryyw)
-
-
+- {% post_link 26副业和财务自由/工资外收入如何从0到月入10万 %}
+- {% post_link 26副业和财务自由/告诉你几个适合创业也适合打工的风口 %}
+- {% post_link 26副业和财务自由/工作之余做自媒体，如何获取月入2万的稳定收益 %}
+- {% post_link 26副业和财务自由/财务自由之路离我们有多远 %}
 
 - [申请信用贷款，居然是这样的，千万要注意！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484510&idx=1&sn=6bd31a303c52cffe3947c39cb4833eca&chksm=e96daf9fde1a2689afd3a4d70edd5c191e4ce2bd4ba48ed7b14d0097a265d099b354994d76e6&scene=21#wechat_redirect)
 - [分期手续费大不同：微粒贷万五，借呗万三，工行、建行万几呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484609&idx=1&sn=0b2c74e5289a51e9f853bd2ab124bdbc&chksm=e96daf00de1a2616b372b58eb6b32b9ab22f1543952b490797802e9bc2967fcc417f7f805314&scene=21#wechat_redirect)
@@ -994,8 +1005,6 @@ recommend: false
 - [副业是工资十倍：打工，能否实现财务自由？(5/8)](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484257&idx=1&sn=61f387ab869e7b873e9e77598ba55683&chksm=e96da8a0de1a21b6a1691342653932f19dfc663b51d5372b674d38621f84b37dc7bb15823d1d&scene=21#wechat_redirect)
 
 - [副业如何成为主业：打工，能否实现财务自由？(6/8)](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484260&idx=1&sn=c74868cd0ad5fbc16efdc10170cdb258&chksm=e96da8a5de1a21b30ef228090d67e17118770ea5e6aed22fdd71e67a856c2b1dd787eadcd18e&scene=21#wechat_redirect)
-- [手把手开拓副业：打工，能否实现财务自由？(8/8)](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484266&idx=1&sn=d901e90880c9f23fd8f7f505740aa17b&chksm=e96da8abde1a21bd321be20ff74aa03f9f9806d7bfd0e1d6f982c271304953122846f0ff4454&scene=21#wechat_redirect)
-
 - [这四类人暂时不能创业](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484778&idx=1&sn=f5bce501e4628190f37d91ce116c6346&chksm=e96daeabde1a27bdcbfd15a28c86c83c1c857e59692ab1b8e2093f5561608fed8cb0cb46dd16&scene=21#wechat_redirect)
 
 - [工资外收入如何从 0 到月入 10 万？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484951&idx=1&sn=9e4f8a031f041e8a43dd1ad0be3c5b39&chksm=e96dadd6de1a24c0b9705150f157bd37e89438d9e22802d81214f8a77f942f735e0604e3d89d&scene=21#wechat_redirect)
@@ -1034,7 +1043,6 @@ recommend: false
 - 🔴 {% post_link 27职场生活技艺/没有管过人，如何证明自己管过人？ %}
 - 🔴 {% post_link 27职场生活技艺/普通职员到主管或领导的标志 %}
 - 🔴 {% post_link 27职场生活技艺/同事跟领导吵架，大领导来找我调查，我如何应对 %}
-- 🔴 {% post_link 27职场生活技艺/在大城市找什么样的男孩为好 %}
 - 🔴 {% post_link 27职场生活技艺/当你没事可做之时，你应该做什么事 %}
 - 🔴 {% post_link 27职场生活技艺/女人，究竟想要什么 %}
 - 🔴 {% post_link 27职场生活技艺/女人，到底需要什么 %}
@@ -1043,11 +1051,13 @@ recommend: false
 - 🔴 {% post_link 27职场生活技艺/不花成本但可以控制一个人的三步骤 %}
 - 🔴 {% post_link 27职场生活技艺/如何判断一个男生能否结婚 %}
 - 🔴 {% post_link 27职场生活技艺/男孩如何挑老婆 %}
+
+- 🔴 {% post_link 27职场生活技艺/女孩找什么样的对象为好 %}
 - 🔴 {% post_link 27职场生活技艺/挑对象最重要的标准，有哪些 %}
 - 🔴 {% post_link 27职场生活技艺/人性里的核心科技 %}
 - 🔴 {% post_link 27职场生活技艺/经济发展了，这一现象已经且必将愈演愈烈 %}
 
-- {% post_link 27职场生活技艺/女孩找什么样的对象为好 %}
+- ￥🔴 {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 
 - {% post_link 27职场生活技艺/心得分享：在上海工作生活了4年，我从未损失过一天的房租 %}
 - {% post_link 27职场生活技艺/租房心得 %}
@@ -1056,6 +1066,7 @@ recommend: false
 - {% post_link 27职场生活技艺/非211，985毕业，如何在职场中实现弯道超车 %}
 - {% post_link 27职场生活技艺/分手分不掉，怎么办 %}
 - {% post_link 27职场生活技艺/婚姻对女孩的好处有哪些 %}
+- {% post_link 27职场生活技艺/找对象，是不是找房子越多的越好 %}
 - {% post_link 27职场生活技艺/什么是假独生子女 %}
 - {% post_link 27职场生活技艺/想买个洗碗机，但家人反对，怎么办 %}
 - {% post_link 27职场生活技艺/突然生病了，怎么办 %}
@@ -1063,8 +1074,9 @@ recommend: false
 - {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
 - {% post_link 27职场生活技艺/相亲对象为何急着要你确认恋爱甚至婚姻关系 %}
 - {% post_link 27职场生活技艺/中秋国庆之间的3天想请假，为何领导不批 %}
+- {% post_link 27职场生活技艺/职业人生中的既要、又要、还要 %}
+- {% post_link 27职场生活技艺/市场中的八大“求职困难户”，看看你在不在其中 %}
 
-- ￥ {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
 - [学会取名：你的英文名叫什么？网名呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484643&idx=1&sn=6499e4dc1427fd983c17cda0761ddc04&chksm=e96daf22de1a2634dbb0eb3742522f4689be351a5937c776814be8ab97ef4c56b30e7e6dbf0c&scene=21#wechat_redirect)
@@ -1082,8 +1094,6 @@ recommend: false
 - [年终奖，一般是几万块？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484618&idx=1&sn=36d91982507669cb7304d025f2bae294&chksm=e96daf0bde1a261d6c5d1ef22fb6479e2b4a67544826a2b463503773ec5743634a8d74b2a6fc&scene=21#wechat_redirect)
 
 - [为何说“穷人无社交”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484750&idx=1&sn=39344596d54713021ade103b42353cae&chksm=e96dae8fde1a279976f852e1a92b2a74517555d024cf8088e11bff4f05cb3bfeb5e32eff5a1e&scene=21#wechat_redirect)
-
-- [市场中的八大“求职困难户”，看看你在不在其中？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484307&idx=1&sn=877248c47e0bb1cfe54f558cbbfeda3d&chksm=e96da852de1a21448c09d13a19df1bb8680d386502f93afa223d4cd8f2270f2db1ddf6794ed1&scene=21#wechat_redirect)
 
 - [中国明明男的比女的多，为何总是剩女更多被挂在嘴边、花式吊打？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484267&idx=1&sn=585745ff5a629531ec95c76d08ed961d&chksm=e96da8aade1a21bcc2e4b0e535aec58d1b512435de9899f333cabbeafd355f070d34f547c9b0&scene=21#wechat_redirect)
 
@@ -1157,6 +1167,7 @@ recommend: false
 - 🔴 {% post_link 29势商和人生规划/2024我的跳槽心法分享 %}
 - 🔴 {% post_link 29势商和人生规划/“我被央企裁员后1个月找到工作”（深度点评版） %}
 - 🔴 {% post_link 29势商和人生规划/职场想要触摸到更高的权利，得往中央靠近 %}
+- 🔴 {% post_link 29势商和人生规划/如何识别谁是我生命中的贵人 %}
 
 - ￥🔴 {% post_link 29势商和人生规划/男女求职思维的不同点 %}
 - {% post_link 29势商和人生规划/50岁还可以跳槽进大城市吗 %}
@@ -1190,14 +1201,17 @@ recommend: false
 ## **【30, 职场互动】**
 
 - 🔴[职场蛙和幽哥职业咨询流程（2020 年中版）](https://mp.weixin.qq.com/s/mmhAKPLDgASkwPC9OhRejg)
-- {% post_link 30职场互动/一生的旅程 %}
+
+- 🔴 {% post_link 30职场互动/《激荡三十年》和三年后的一场大课：我的认知刷新历程 %}
+- 🔴 {% post_link 30职场互动/一生的旅程 %}
+
+- {% post_link 30职场互动/要不要建个相亲群 %}
 
 - [职场信息交流，算不算社交？（互动版本）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484756&idx=1&sn=b5574891d79a4e50dea92ae8cf2c0df5&chksm=e96dae95de1a278342e2308c100b95c82f6a8f489810e7b5e241438ce2e8f22be55ccf11e9f7&scene=21#wechat_redirect)
 - [第一次视频互动，分享职场干货！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484760&idx=1&sn=91b5b3b6818eb906df28a91e93decf03&chksm=e96dae99de1a278f5eb5d925a805afec2bbe9635f2c6f22070b1ed11913bbaf84df729055c2a&scene=21#wechat_redirect)
 - [幽哥答疑专用贴 2018](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484614&idx=1&sn=f4133d973ed86e974e3a74e52f8f94e5&chksm=e96daf07de1a26118cff4b2e5456b78caf44a35372529783e1a840b39083d4f6be2e89abac5e&scene=21#wechat_redirect)
 - [今年第一次线下聚会：周末适合当面聊人生](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484971&idx=1&sn=336c9ffd813de1a5fbb1d5c2c6509cf6&chksm=e96dadeade1a24fc09c1ca743a9266bbfac9335d07c9adc62f4991679909abbc417d291d2ca8&scene=21#wechat_redirect)
 - [你的青春，并不孤单！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485109&idx=1&sn=40a0d58391f95fc5aa5cedb7af24c8ee&chksm=e96dad74de1a2462461ed1b35c6e2878cccf162a55618a3b39c041f0f53278285614ceb561be&scene=21#wechat_redirect)
-- [要不要建个相亲群？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486014&idx=1&sn=9b99f8666bf48a4ab45a352413d9d9fa&chksm=e96da1ffde1a28e9de713f2771badc718e93f6ef18698e96952389352f3095cf0a8a8ce4192f&scene=21#wechat_redirect)
 - [广州到深圳，有多远？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486072&idx=1&sn=e31ab605f307757b97c57acae711bf58&chksm=e96da1b9de1a28af47901304a06a50fd880ed18bdaf41e07d013221823017088182cc01540c6&scene=21#wechat_redirect)
 - [从宝洁的退市，来看势商发展和北京交友群](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486145&idx=1&sn=dd350f8985b165422f2cfd1463ebab28&chksm=e96da100de1a2816ec788ff65230ed81ef84334c1f1289b6e20a7d12564bb188cb496a99e754&scene=21#wechat_redirect)
 - [如果你做公众号，为了什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486392&idx=1&sn=35080e57efbb5fb2d5153ffab5ba8a72&chksm=e96da079de1a296fb281f1b9eef8226b2c99337a3671595ef4d0e5830e3c1f2ba50fbb7ed087&scene=21#wechat_redirect)
@@ -1238,6 +1252,7 @@ recommend: false
 - [20231128幽哥精华干货汇总](https://mp.weixin.qq.com/s/Ly4t5dLkks9vJ1uOkVU1Rw)
 
 - [从打工到财务自由，到底有多远？](https://mp.weixin.qq.com/s/GgmT6D_RLiAOkOG81n5v1g)
+- [2018-4-17职场秘籍分类汇总](https://mp.weixin.qq.com/s/z8rhXQ2C8GhUWjc881Cysg)
 - [中国职场宝典](https://mp.weixin.qq.com/s/wDGw0Xf4jtk1T0dOUnmBLQ)
 - [中国职场宝典3.0（2019年中版）](https://mp.weixin.qq.com/s/sjegJlqME6VCBY4FQXHvWg)
 - [中国职场宝典4.0（2020年初版）](https://mp.weixin.qq.com/s/s4zk9vwBq3UGlEbSadm1lA)
@@ -1249,4 +1264,4 @@ recommend: false
 
 ---
 
-[**职场秘籍分类汇总**](https://mp.weixin.qq.com/s/z8rhXQ2C8GhUWjc881Cysg)
+

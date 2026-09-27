@@ -48,6 +48,8 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/多大岁数提升学历算来不及了，或者叫做“晚了” %}
 - {% post_link 01学历不重要？能力更重要？/考研成绩出来了，下一步怎么办 %}
 - {% post_link 01学历不重要？能力更重要？/你大学选的什么专业？为什么 %}
+- {% post_link 01学历不重要？能力更重要？/考研二战三战失败了，怎么办 %}
+- {% post_link 01学历不重要？能力更重要？/毕业后能不能先花一两年考公考编考研，然后再求职 %}
 
 
 - [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)
@@ -60,7 +62,7 @@ recommend: false
 
 - [到底如何填志愿，选专业？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486705&idx=1&sn=9145c455c1b63f1db8750d7c1e49cebe&chksm=e96da730de1a2e26713e193f47a301f8c35dce586e54a6169530fa1dd0b8859abc35745b8e33&scene=21#wechat_redirect)
 
-- [考研二战三战失败了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486079&idx=1&sn=e7c1893645ed608a6e2676d1d08e0667&chksm=e96da1bede1a28a80371bccd63eb33a44669f9aa92bdb12156b9c5fc6b33c0a442bdf91799b9&scene=21#wechat_redirect)
+- {% post_link 01学历不重要？能力更重要？/考研二战三战失败了，怎么办 %}
 - [本科毕业，简历上能不能写“硕士在读”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486262&idx=1&sn=33733235b615b6d3fcb3bf0f9250fad7&chksm=e96da0f7de1a29e1f769043211e526a04621df5db3d7930eb75bb139baace14362a57aabc0f5&scene=21#wechat_redirect)
 
 - [非 211, 985 毕业，如何在职场中实现弯道超车？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486926&idx=1&sn=fc582cf7fd8edc02462fc88cad5a9a01&chksm=e96da60fde1a2f19617bed8dcfe7e427066040cce1c6ad4ec448309f9b5e01417b92aa917eb2&scene=21#wechat_redirect)
@@ -222,6 +224,7 @@ recommend: false
 - {% post_link 05如何选企业/小公司，要不要托关系进去 %}
 - {% post_link 05如何选企业/为什么说“离职见人品” %}
 - {% post_link 05如何选企业/通用电气（GE）为何被踢出了道琼斯 %}
+- {% post_link 05如何选企业/从几号发工资，就能看出一家企业的好坏 %}
 
 ## **【06, 如何选职务？】**
 
@@ -370,6 +373,8 @@ recommend: false
 - {% post_link 10面试技巧/颜值在求职中的作用 %}
 - {% post_link 10面试技巧/面试前必杀技，搞定你的每一个面试 %}
 - {% post_link 10面试技巧/突然接到面试电话，该怎么办 %}
+- {% post_link 10面试技巧/毕业后考公考研2年职业空档，如何解释 %}
+- {% post_link 10面试技巧/读研之前工作过，该如何求职 %}
 
 - [面试官问“你有没有女/男朋友”，怎么回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486117&idx=1&sn=71a39b1748b82ee8ad82532148bb1208&chksm=e96da164de1a2872285c19b5c221722221e95b63d2dacdee689146493dea9ee1e3cbe79473ca&scene=21#wechat_redirect)
 
@@ -432,9 +437,9 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/为何新人比我这师父工资高 %}
 - {% post_link 11工资行情和Offer谈判/俩Offer比较时，打分差不多，选哪一家 %}
 - {% post_link 11工资行情和Offer谈判/这家央企为何周六周日都要加班 %}
+- {% post_link 11工资行情和Offer谈判/真相：为什么跳槽加薪会比内部调薪高 %}
 
 
-- [真相：为什么跳槽加薪会比内部调薪高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484160&idx=1&sn=ddcc0b5520db9890f994bed8f8ee1a5e&chksm=e96da8c1de1a21d7491b0cf7e5e1cb66eb46096a55b9cbd3f1f4fa4397116c874d476b123a29&scene=21#wechat_redirect)
 - [海归硕士的工资行情如何？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484872&idx=1&sn=60bc9495af643a6edf231568387cc1c6&chksm=e96dae09de1a271f0dea65c844339cb8b3043ea48175690819d2277c23364c7e2f749f12d84d&scene=21#wechat_redirect)
 - [面试谈薪资，先开价你就输了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487876&idx=2&sn=bbe7be73d00bfc121b11f87e325966a0&chksm=e96dba45de1a3353956cb14362b43885b9087f5cc82ab79653285edaeb501c313e6da37d38c2&scene=21#wechat_redirect)
 - [哪种性质的企业工资高](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484874&idx=1&sn=9becfbda4d0c0e3aef78a300475c3cef&chksm=e96dae0bde1a271dee35abdce7dda9476253d1051ec614a21fe3b0c91236facc9c90a2e1ff77&scene=21#wechat_redirect)
@@ -645,6 +650,7 @@ recommend: false
 - 🔴 {% post_link 17如何解决失业危机/几年换一次工作比较好？ %}
 
 - {% post_link 17如何解决失业危机/笑侃“周力波”--你所不知道的40岁职业转折点 %}
+- {% post_link 17如何解决失业危机/失业超过3个月的人，有这个共性 %}
 
 - [裸辞，你得做好这三个准备](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484302&idx=1&sn=6e7718eb381baa678415eb7390bcaa45&chksm=e96da84fde1a215989187b8e04f548a5cc36944f636a6e4cdb2b50beffa1650b9fa6cafe6596&scene=21#wechat_redirect)
 - [裸辞的五大硬伤：为什么要找到工作再辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484439&idx=1&sn=d3ed9d7f31f5f06a99597cd5a0f84a66&chksm=e96dafd6de1a26c0134dce3809933742488b9796ab4b14821f6aad93e574e971601d6039eda6&scene=21#wechat_redirect)
@@ -688,6 +694,7 @@ recommend: false
 - {% post_link 19如何跟领导相处？/如何提前知道新领导好不好 %}
 - {% post_link 19如何跟领导相处？/必修课：如何跟女领导相处 %}
 - {% post_link 19如何跟领导相处？/领导跟自己不在同一个地方上班，是好是坏 %}
+- {% post_link 19如何跟领导相处？/三招，搞定你的领导（原创，非厚黑学） %}
 
 - [跟对领导，选对平台，哪个更重要？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484576&idx=1&sn=4861a830aa426e5f67ec562662ca6a04&chksm=e96daf61de1a2677f85825ea80dbb8bbd4ba2b1f8a1e0f92f4d5965efa4812b6105dec95f905&scene=21#wechat_redirect)
 - [过来人分享职场秘笈：如何向领导汇报](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486782&idx=1&sn=cb071ee27c8637875102f1cfbe79581b&chksm=e96da6ffde1a2fe9402ff52106fd2636752dec5c0db56b54c4ae94e629f27392407d94b4c65a&scene=21#wechat_redirect)
@@ -770,7 +777,8 @@ recommend: false
 - {% post_link 21同事如何相处？/如何应对身边发脾气的人 %}
 - {% post_link 21同事如何相处？/关系好的同事突然对我凶了起来，是什么原因 %}
 - {% post_link 21同事如何相处？/平级的人成了你的领导，怎么办 %}
-- {% post_link 21同事如何相处？/小主管，算不算领导？ %}
+- {% post_link 21同事如何相处？/小主管，算不算领导 %}
+- {% post_link 21同事如何相处？/这个小习惯，让我的职场连续加薪晋级 %}
 
 
 - [同事之间，该如何相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484734&idx=1&sn=555c5fde943c945406a220c733f0224b&chksm=e96daeffde1a27e98833908cb0bef7eb77ad43af74d7f0902139f5741eddd1f4acc327f96a0d&scene=21#wechat_redirect)
@@ -778,7 +786,6 @@ recommend: false
 - [毕业十五年，你懂得了什么职场潜规则？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484634&idx=1&sn=1ffb500343ee66c548b5e274dbbf5352&chksm=e96daf1bde1a260d5032b707d64d2814fb2e4036882d4ff16a9f2f23f5f956303d6f8d2c32c4&scene=21#wechat_redirect)
 - [我 30 岁，都习惯单身了，“八卦”女同事们老给我安排女朋友，这咋回事？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484420&idx=1&sn=780d5462e9847ebb4786debf4625be40&chksm=e96dafc5de1a26d349696c5f59d9750a83cef83390e9069b45e97bd57e3f480ad94bbcd2ec35&scene=21#wechat_redirect)
 - [除了潜规则，玩转职场还有哪些“套路”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484388&idx=1&sn=8e31d9acbdbaac1e47760879a007cde5&chksm=e96da825de1a21334fb86dcd797cd2a897bc87064bf89c3c9dcfe80d86235cac6891585ac218&scene=21#wechat_redirect)
-- [这个小习惯，让我的职场连续加薪晋级](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484357&idx=1&sn=7f235995a2ff35048689216076492ed1&chksm=e96da804de1a2112e578a85d258b8fa8254393a73afb4885273aa93c70e86c13a112a342f29f&scene=21#wechat_redirect)
 
 - [为什么都说工作之后真心朋友却变少了？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483865&idx=1&sn=c18724a8a09f52cbbdcd9a707c5f13bd&scene=21#wechat_redirect)
 
@@ -1076,6 +1083,8 @@ recommend: false
 - {% post_link 27职场生活技艺/中秋国庆之间的3天想请假，为何领导不批 %}
 - {% post_link 27职场生活技艺/职业人生中的既要、又要、还要 %}
 - {% post_link 27职场生活技艺/市场中的八大“求职困难户”，看看你在不在其中 %}
+- {% post_link 27职场生活技艺/代价高昂的建议，能不能听 %}
+- {% post_link 27职场生活技艺/影响职业发展的六大因素，哪个最重要 %}
 
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)

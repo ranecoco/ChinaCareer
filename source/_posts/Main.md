@@ -61,8 +61,6 @@ recommend: false
 - [创业成了大老板，为何还去读个学历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485890&idx=1&sn=1b081e117debabd067a5afbf514b11ee&chksm=e96da203de1a2b15c9db991502a49138ede394e055783f6fcaf5c4d1bce5bb3be88d13d3d93b&scene=21#wechat_redirect)
 
 - [到底如何填志愿，选专业？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486705&idx=1&sn=9145c455c1b63f1db8750d7c1e49cebe&chksm=e96da730de1a2e26713e193f47a301f8c35dce586e54a6169530fa1dd0b8859abc35745b8e33&scene=21#wechat_redirect)
-
-- {% post_link 01学历不重要？能力更重要？/考研二战三战失败了，怎么办 %}
 - [本科毕业，简历上能不能写“硕士在读”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486262&idx=1&sn=33733235b615b6d3fcb3bf0f9250fad7&chksm=e96da0f7de1a29e1f769043211e526a04621df5db3d7930eb75bb139baace14362a57aabc0f5&scene=21#wechat_redirect)
 
 - [非 211, 985 毕业，如何在职场中实现弯道超车？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486926&idx=1&sn=fc582cf7fd8edc02462fc88cad5a9a01&chksm=e96da60fde1a2f19617bed8dcfe7e427066040cce1c6ad4ec448309f9b5e01417b92aa917eb2&scene=21#wechat_redirect)
@@ -122,13 +120,14 @@ recommend: false
 - {% post_link 03如何选择城市/刚毕业，留在广州好还是回梅州好 %}
 - {% post_link 03如何选择城市/女孩刚毕业，为何不留武汉却毅然选择了十堰 %}
 - {% post_link 03如何选择城市/女硕士毕业后是留在上海，还是回老家 %}
+- {% post_link 03如何选择城市/男人42岁事业单位辞职，去异地打拼，值还是不值 %}
+- {% post_link 03如何选择城市/要不要逃离"北上广"？一起看看他们的故事吧 %}
 
 
 - [从北上广回二三线求职，是什么体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484747&idx=1&sn=d3b8b61e714d57606aaf5d47c3d6ae8e&chksm=e96dae8ade1a279c658f865e3ee0fb7f82cbbfbd952ae65a7d0808b578dafb12840abd8ba6df&scene=21#wechat_redirect)
 - [看老家和就业双城记，聊影响一生的抉择](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484607&idx=1&sn=ea82c93f048a31ebb37993ef9ce19657&chksm=e96daf7ede1a2668c102b571a84aaa344a042e9b8b62a793e8c828f0d40598be5a1d73fd8332&scene=21#wechat_redirect)
 - [毕业 3 年，在合肥，女友让我去上海，不然分手！真是纠结死......](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484588&idx=1&sn=f610456acf73f8741ae9a3299a6b9518&chksm=e96daf6dde1a267b3e8984bd20b1484ed7c402bff7329b0254489ddb270687bb54aa3226b483&scene=21#wechat_redirect)
 - [究竟回不回老家，啥时回？来看下哪个地方最纠结](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484470&idx=1&sn=6f115a594b990b19afeef782f3fb13e9&chksm=e96daff7de1a26e116134387053bf68be2f7c941eecb0847b7e7e02d34a4386a780003554c9c&scene=21#wechat_redirect)
-- [男人 42 岁事业单位辞职，去异地打拼，值还是不值？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484456&idx=1&sn=8a105504d0c106e3919abb634e83782f&chksm=e96dafe9de1a26ffecfa04548d60956b6ca39d1ce356ec04c3a470222ec7ff26dfc56b754df9&scene=21#wechat_redirect)
 - [毕业后的前三年，你是怎么在北上广深活下来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484363&idx=1&sn=fd61f4e235d6f996e5a674f4f5f85ece&chksm=e96da80ade1a211cd81f778eaeaa6d95e7a137f59bf3f02557450bb98139cfa01a8748eb3227&scene=21#wechat_redirect)
 - [泰州和常州，选哪个？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484851&idx=1&sn=1dd3f85f54ff8b46a3de1c8f0a3d02de&chksm=e96dae72de1a27647af8f5830258198238053372e4bcd10f0088a47af2b3d4d176e95f1696d0&scene=21#wechat_redirect)
 - [你在上海的同学，工资大概多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484829&idx=1&sn=13f4d90fb59ca33f7115b6c99737dbc5&chksm=e96dae5cde1a274a41a53cc8117364e5f9819402289c96c8e434578fd57a89d0701be2758d66&scene=21#wechat_redirect)
@@ -438,6 +437,8 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/俩Offer比较时，打分差不多，选哪一家 %}
 - {% post_link 11工资行情和Offer谈判/这家央企为何周六周日都要加班 %}
 - {% post_link 11工资行情和Offer谈判/真相：为什么跳槽加薪会比内部调薪高 %}
+- {% post_link 11工资行情和Offer谈判/9月底入职和10月8号入职，哪个好 %}
+- {% post_link 11工资行情和Offer谈判/应对拖欠工资的具体方法 %}
 
 
 - [海归硕士的工资行情如何？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484872&idx=1&sn=60bc9495af643a6edf231568387cc1c6&chksm=e96dae09de1a271f0dea65c844339cb8b3043ea48175690819d2277c23364c7e2f749f12d84d&scene=21#wechat_redirect)
@@ -498,6 +499,8 @@ recommend: false
 
 - {% post_link 12辞职秘笈/你根本不知道：跳槽是门技术活，要求还蛮高 %}
 - {% post_link 12辞职秘笈/裸辞的五大硬伤：为什么要找到工作再辞职 %}
+- {% post_link 12辞职秘笈/刚辞职，新单位却取消了Offer，怎么破 %}
+
 - [什么情况下，你会毫不犹豫地辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484600&idx=1&sn=c336d12aa175f697fd7428bca1ad6ab2&chksm=e96daf79de1a266f66561ca1e162a9c4bb83de2a88aa764a5b4872585f6db8642d406c288bde&scene=21#wechat_redirect)
 - [提出辞职后，领导不让走，洗脑+戴高帽+打情感牌，我该如何招架？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484382&idx=1&sn=caa31253a2bf7a86916ea58d17cc8e2a&chksm=e96da81fde1a21095d169e6f9b059f9aa8593d63bbed180efcebde0d2345954668754527828f&scene=21#wechat_redirect)
 - [刚辞职，新单位取消了 Offer，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485893&idx=2&sn=16750f255fde729304b2764797aae092&chksm=e96da204de1a2b12c615ee7239cd5001a61fb8b8ba867ed0cdb5e887e28423196dffc8acf669&scene=21#wechat_redirect)
@@ -779,6 +782,7 @@ recommend: false
 - {% post_link 21同事如何相处？/平级的人成了你的领导，怎么办 %}
 - {% post_link 21同事如何相处？/小主管，算不算领导 %}
 - {% post_link 21同事如何相处？/这个小习惯，让我的职场连续加薪晋级 %}
+- {% post_link 21同事如何相处？/上班为什么会勾心斗角的？跳槽能解决问题不 %}
 
 
 - [同事之间，该如何相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484734&idx=1&sn=555c5fde943c945406a220c733f0224b&chksm=e96daeffde1a27e98833908cb0bef7eb77ad43af74d7f0902139f5741eddd1f4acc327f96a0d&scene=21#wechat_redirect)
@@ -856,11 +860,9 @@ recommend: false
 
 - ￥ {% post_link 24房产私房菜/到底如何买房 %}
 - {% post_link 24房产私房菜/父母为何不劝女儿买房 %}
-
-
+- {% post_link 24房产私房菜/昆山的房子，能不能买 %}
 
 - [房产税，能遏制高房价吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484726&idx=1&sn=6929f7742992e6575ef81a53b5a7c8ae&chksm=e96daef7de1a27e139c792d9fde05b041406f0f28999f336a072f2d30e51a6b24889d2ca9707&scene=21#wechat_redirect)
-- [昆山的房子，能不能买？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484431&idx=1&sn=93e96b01c5336fcc7ca41a95a5cf1337&chksm=e96dafcede1a26d8bff4494cd465e6a32529f8de8d5b4c73540e7938e4d022712bb3247d93a0&scene=21#wechat_redirect)
 - [接下来，房子还能买不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484843&idx=1&sn=b7ca212d09919bcb25a3ca991fb6efd0&chksm=e96dae6ade1a277c406a894aa0902b1c1628cd7af832c9445fa1d039aac158d9bc4d10052473&scene=21#wechat_redirect)
 - [扬州属于苏南还是苏北？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484992&idx=1&sn=89043233fb7bc7e76e63298ebe685fcf&chksm=e96dad81de1a24970125ebc606a1c001224adff6251e0f39fab44ecba5313ffcb6f2ba38e976&scene=21#wechat_redirect)
 - [你觉得房价会崩盘吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485045&idx=1&sn=218b8c167c09a0ebbffcdca22c279921&chksm=e96dadb4de1a24a2be3d683ff8edd5af4bbd93c8ef135f2f44c23eea562bf3e36561ab089b11&scene=21#wechat_redirect)
@@ -977,6 +979,7 @@ recommend: false
 - {% post_link 26副业和财务自由/告诉你几个适合创业也适合打工的风口 %}
 - {% post_link 26副业和财务自由/工作之余做自媒体，如何获取月入2万的稳定收益 %}
 - {% post_link 26副业和财务自由/财务自由之路离我们有多远 %}
+- {% post_link 26副业和财务自由/要奋斗多少年才能达到富裕阶层 %}
 
 - [申请信用贷款，居然是这样的，千万要注意！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484510&idx=1&sn=6bd31a303c52cffe3947c39cb4833eca&chksm=e96daf9fde1a2689afd3a4d70edd5c191e4ce2bd4ba48ed7b14d0097a265d099b354994d76e6&scene=21#wechat_redirect)
 - [分期手续费大不同：微粒贷万五，借呗万三，工行、建行万几呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484609&idx=1&sn=0b2c74e5289a51e9f853bd2ab124bdbc&chksm=e96daf00de1a2616b372b58eb6b32b9ab22f1543952b490797802e9bc2967fcc417f7f805314&scene=21#wechat_redirect)
@@ -1085,6 +1088,9 @@ recommend: false
 - {% post_link 27职场生活技艺/市场中的八大“求职困难户”，看看你在不在其中 %}
 - {% post_link 27职场生活技艺/代价高昂的建议，能不能听 %}
 - {% post_link 27职场生活技艺/影响职业发展的六大因素，哪个最重要 %}
+- {% post_link 27职场生活技艺/普通职场男，能否找富家女 %}
+- {% post_link 27职场生活技艺/普通职场女，能否找富家男 %}
+- {% post_link 27职场生活技艺/为何小说以男女主人公的结婚作为结局？而不是开端 %}
 
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
@@ -1117,7 +1123,6 @@ recommend: false
 - [结婚后，你生不生二胎？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486463&idx=1&sn=c0c65ba15bb54a410ded5eb6e72b17d7&chksm=e96da03ede1a2928c546ce6caf99401fe5a613e9939f0df1154c7fce7aa2131fe20ce2fbb3aa&scene=21#wechat_redirect)
 
 - [正值事业上升期，怀孕了该怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486746&idx=1&sn=fdbb0c4f58efec0b20c8bb83ac9842e0&chksm=e96da6dbde1a2fcdf94f771c171ab5d9a7adc1da44d4d9d722023661c90e1cd8795dc230f671&scene=21#wechat_redirect)
-- [为何小说以男女主人公的结婚作为结局？而不是开端？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487429&idx=1&sn=f9c751f7db7844f2ce72d0eb805deb17&chksm=e96da404de1a2d12b94007eadce0788c657a902a20604181754ea1613b92ca4bf7dda4ed1a24&scene=21#wechat_redirect)
 - [父母为何要买按摩椅？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488100&idx=2&sn=b936a7ee4f8f330ee6824a792a09282f&chksm=e96db9a5de1a30b3fc91c60354da2a713c4f93452c2ac6f96870282f5e5392971843b323e2c0&scene=21#wechat_redirect)
 
 - [如何判别一个人的真实财富情况？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488171&idx=2&sn=7707bd6d1ac72cc58b604593d76f3612&chksm=e96db96ade1a307c09f8d9470793e232218078c7864b8b1c7c847b1018e2a92d3816fb1ce739&scene=21#wechat_redirect)
@@ -1197,6 +1202,8 @@ recommend: false
 - {% post_link 29势商和人生规划/工作期间家里不太平，怎么办 %}
 - {% post_link 29势商和人生规划/40岁的人如何找工作？（真实路演） %}
 - {% post_link 29势商和人生规划/上海女孩的职业开化之旅 %}
+- {% post_link 29势商和人生规划/多少钱叫托举，独生子女都会得到家里托举吗 %}
+- {% post_link 29势商和人生规划/有房跟无房的相亲对象，要区别对待吗 %}
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
 

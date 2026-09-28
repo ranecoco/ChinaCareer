@@ -195,8 +195,8 @@ Contractor你看看，这是个英文单词，本来自然就是外国叫法，C
 * **[换工作到一线城市，薪水一般涨多少倍？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483885&idx=1&sn=22673a535e3165e86320489dd6989589&scene=21#wechat_redirect)**
 * **[看不到前途的工作，还有必要继续吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483867&idx=1&sn=e70b9c65180ae625dee3d928b982df9c&scene=21#wechat_redirect)**
 * **[你根本不知道：跳槽是门技术活，要求还蛮高。](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483789&idx=3&sn=dc430f1ea452b0351f79b1634eb718f6&scene=21#wechat_redirect)**
-* **[昆山的房子，能不能买？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484431&idx=1&sn=93e96b01c5336fcc7ca41a95a5cf1337&chksm=e96dafcede1a26d8bff4494cd465e6a32529f8de8d5b4c73540e7938e4d022712bb3247d93a0&scene=21#wechat_redirect)**
-* **[女生跟男生，谁更倾向于定居大城市？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484425&idx=1&sn=8efe1926e4ea3947005592a45962b890&chksm=e96dafc8de1a26deddf6d29fe97e324171bcb75707b16985293d38701485e27acdc481825f02&scene=21#wechat_redirect)**
+* **{% post_link 24房产私房菜/昆山的房子，能不能买 %}**
+* **{% post_link 03如何选择城市/女生跟男生，谁更倾向于定居大城市 %}**
 * **[毕业后的前三年，你是怎么在北上广深活下来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484363&idx=1&sn=fd61f4e235d6f996e5a674f4f5f85ece&chksm=e96da80ade1a211cd81f778eaeaa6d95e7a137f59bf3f02557450bb98139cfa01a8748eb3227&scene=21#wechat_redirect)**
 
 ---

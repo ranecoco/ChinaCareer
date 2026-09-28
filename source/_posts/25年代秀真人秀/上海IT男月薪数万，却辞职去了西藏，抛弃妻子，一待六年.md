@@ -419,12 +419,12 @@ Always find your way, swim against the stream！
 几篇​**推荐文章​**​，大家可以点击看这里：
 
 * [**公司要倒闭，我一下子投出去1000份简历！**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484042&idx=1&sn=3329b7e6f388c6bad4873bde3e48c19e&scene=21#wechat_redirect)
-* **[刚辞职，新单位却取消了Offer，怎么破？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483839&idx=1&sn=39b8ac36d73150c4044784349e86a429&scene=21#wechat_redirect)**
+* **{% post_link 12辞职秘笈/刚辞职，新单位却取消了Offer，怎么破 %}**
 * **{% post_link 05如何选企业/去哪公司，哪公司倒闭，是人品问题吗 %}**
-* **[女生跟男生，谁更倾向于定居大城市？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484425&idx=1&sn=8efe1926e4ea3947005592a45962b890&chksm=e96dafc8de1a26deddf6d29fe97e324171bcb75707b16985293d38701485e27acdc481825f02&scene=21#wechat_redirect)**
+* **{% post_link 03如何选择城市/女生跟男生，谁更倾向于定居大城市 %}**
 * **[毕业后的前三年，你是怎么在北上广深活下来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484363&idx=1&sn=fd61f4e235d6f996e5a674f4f5f85ece&chksm=e96da80ade1a211cd81f778eaeaa6d95e7a137f59bf3f02557450bb98139cfa01a8748eb3227&scene=21#wechat_redirect)**
 * **[30岁我在老家做到了上市公司高管年薪30万，去年差点在大城市要饭](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484390&idx=1&sn=d6c98a6dcdcfa8d68a534afd4b71eb7d&chksm=e96da827de1a2131552dedc949e44fa2ffcc99fa540cd2076980ccbdfd0d8f91f71386e55ba7&scene=21#wechat_redirect)**
-* **[要不要逃离"北上广"？一起看看他们的故事吧](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484189&idx=1&sn=aa7c709dd063f7993cc9d9626288b22f&chksm=e96da8dcde1a21ca56863db6a9b1e6e952ddde9aa9c99970e9c4bd51ef73623a1b7c00bbd187&scene=21#wechat_redirect)**
+* **{% post_link 03如何选择城市/要不要逃离"北上广"？一起看看他们的故事吧 %}**
 
 ---
 

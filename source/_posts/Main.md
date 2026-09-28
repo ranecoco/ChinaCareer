@@ -620,6 +620,7 @@ recommend: false
 - {% post_link 15辞退和裁员/人事高管叫嚣：我就违法辞退，不服上诉 %}
 - {% post_link 15辞退和裁员/国庆前被通知辞退，怎么办 %}
 - {% post_link 15辞退和裁员/我被央企裁员后1个月找到工作 %}
+- {% post_link 15辞退和裁员/网易事件之后，辞退员工的情况会不会好转 %}
 
 
 - [？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488489&idx=1&sn=e19587c4eece78e9b251a80619c99b75&chksm=e96db828de1a313e5275c6058bf90c75fb1f0e7dbc03e6ba0e13895d993381b80fc4fe39629c&scene=21#wechat_redirect)

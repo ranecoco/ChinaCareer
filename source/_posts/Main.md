@@ -20,6 +20,7 @@ recommend: false
 
 所有文章的语境都是中国二字，总计如下【三十大类】660 篇文章，每篇都包含 3-10 个其他地方你看不到的知识点。如果你碰到职场困惑，任意挑选**50 篇**研读，大多可迎刃而解。低于 50 篇阅读量，则基础职场知识不够，基本不会求职，也请别提问。
 
+🔴 {% post_link 26副业和财务自由/职场蛙，不是职业蛙 %}
 🔴**红色**为标志性文章。尽量全部看完。
 
 ## **【00, 必知必会】**
@@ -169,12 +170,11 @@ recommend: false
 - {% post_link 04如何选行业/不想做采购工作了，改行做什么好 %}
 - {% post_link 04如何选行业/文科类工作如何改行做工程师 %}
 - {% post_link 04如何选行业/毕业多年，如何改行 %}
-- {% post_link 22汽车行业专题/汽车行业未来三十年预测 %}
-- {% post_link 22汽车行业专题/转行真的穷三年吗 %}
-- {% post_link 22汽车行业专题/往届生，如何选工作 %}
-- {% post_link 22汽车行业专题/选择好行业重要，还是好公司，或者好岗位更重要 %}
-- {% post_link 22汽车行业专题/在银行工作的好日子，到头了 %}
-- {% post_link 22汽车行业专题/对职场人的影响：这个行业的利润，超过了其他所有行业之和 %}
+- {% post_link 04如何选行业/转行真的穷三年吗 %}
+- {% post_link 04如何选行业/往届生，如何选工作 %}
+- {% post_link 04如何选行业/选择好行业重要，还是好公司，或者好岗位更重要 %}
+- {% post_link 04如何选行业/在银行工作的好日子，到头了 %}
+- {% post_link 04如何选行业/对职场人的影响：这个行业的利润，超过了其他所有行业之和 %}
 
 ## **【05, 如何选企业？】**
 
@@ -280,6 +280,8 @@ recommend: false
 - {% post_link 07求职，就是打败HR的过程/HR说我职业方向不明确，怎么办 %}
 - {% post_link 07求职，就是打败HR的过程/如何回答“你现在还在职吗” %}
 - {% post_link 07求职，就是打败HR的过程/HR问“你这次为什么要换工作”，如何回答 %}
+- {% post_link 07求职，就是打败HR的过程/愤青，为什么不会求职 %}
+
 
 ## **【08, 简历制作秘笈】**
 
@@ -299,6 +301,8 @@ recommend: false
 - {% post_link 08简历制作秘笈/简历上是否应该写意向职位 %}
 - {% post_link 08简历制作秘笈/简历应该如何修改，才更漂亮 %}
 - {% post_link 08简历制作秘笈/如何写出一份优秀的英文简历 %}
+- {% post_link 08简历制作秘笈/求职失败最大的原因是，自己没招过人 %}
+
 
 ## **【09, 简历投递秘笈】**
 
@@ -348,9 +352,11 @@ recommend: false
 - 🔴 {% post_link 10面试技巧/面试三大必答题，你准备好了没有？ %}
 - 🔴 {% post_link 10面试技巧/面试官问“你的缺点是什么？”该如何回答 %}
 - 🔴 {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
+- 🔴 {% post_link 10面试技巧/面谈工资的四大方法（不外传干货） %}
 - 🔴 {% post_link 10面试技巧/面试后，一般几天有答复 %}
 - 🔴 {% post_link 10面试技巧/有哪些公司，你去面试会给你报销车旅费 %}
 - 🔴 {% post_link 10面试技巧/明天有个面试，谁能给我做个面试辅导 %}
+- 🔴 {% post_link 10面试技巧/明天有个面试，今天能做什么 %}
 - 🔴 {% post_link 10面试技巧/真正的面试技巧，是什么样子的 %}
 - 🔴 {% post_link 10面试技巧/最厉害的面试技巧，是什么样子的 %}
 - 🔴 {% post_link 10面试技巧/菜鸟如何应付英语面试 %}
@@ -374,11 +380,13 @@ recommend: false
 - {% post_link 10面试技巧/突然接到面试电话，该怎么办 %}
 - {% post_link 10面试技巧/毕业后考公考研2年职业空档，如何解释 %}
 - {% post_link 10面试技巧/读研之前工作过，该如何求职 %}
+- {% post_link 10面试技巧/面试官一直不提工资，怎么办 %}
+- {% post_link 10面试技巧/为什么之前学习效率，如此低下 %}
 
 - [面试官问“你有没有女/男朋友”，怎么回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486117&idx=1&sn=71a39b1748b82ee8ad82532148bb1208&chksm=e96da164de1a2872285c19b5c221722221e95b63d2dacdee689146493dea9ee1e3cbe79473ca&scene=21#wechat_redirect)
 
 - [出去面试被领导发现了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485820&idx=2&sn=1c4492b59402d44d370fd6de85bee284&chksm=e96da2bdde1a2babd82241bfc606f0bfc63d95697a112a8745aeb2885042fa4986445227348d&scene=21#wechat_redirect)
-- [面试官一直不提工资，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486229&idx=1&sn=2518528ea0440233a22688aadbe37fe5&chksm=e96da0d4de1a29c23d769d0fa5eb36cf494af5ac9052e0c7e4933c9d50180c606dbac6046986&scene=21#wechat_redirect)
+- {% post_link 10面试技巧/面试官一直不提工资，怎么办 %}
 
 
 - [如何回答：你目前有没有其他家的面试/Offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487523&idx=1&sn=e576b3faec44e9f93f64e8ff986304a2&chksm=e96dbbe2de1a32f43c693e202934d6723db3624c53dc9014a00e9f5b6a1c12b134037b3856f2&scene=21#wechat_redirect)
@@ -400,7 +408,6 @@ recommend: false
 - 🔴 {% post_link 11工资行情和Offer谈判/谈判入门四：一打一拉 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/谈判入门五：如何才能拿完年终奖后，再去新公司报道？ %}
 - 🔴 {% post_link 11工资行情和Offer谈判/谈判入门六：高端局 %}
-- 🔴 {% post_link 11工资行情和Offer谈判/面谈工资的四大方法（不外传干货） %}
 - 🔴 {% post_link 11工资行情和Offer谈判/到底怎样谈工资 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/什么是时间倒逼法，什么是工资倒逼法？那什么又是过早倒逼法呢 %}
 - 🔴 {% post_link 11工资行情和Offer谈判/A和B俩公司我更心仪B，该如何运用倒逼法 %}
@@ -438,7 +445,6 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/真相：为什么跳槽加薪会比内部调薪高 %}
 - {% post_link 11工资行情和Offer谈判/9月底入职和10月8号入职，哪个好 %}
 - {% post_link 11工资行情和Offer谈判/应对拖欠工资的具体方法 %}
-
 
 - [海归硕士的工资行情如何？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484872&idx=1&sn=60bc9495af643a6edf231568387cc1c6&chksm=e96dae09de1a271f0dea65c844339cb8b3043ea48175690819d2277c23364c7e2f749f12d84d&scene=21#wechat_redirect)
 - [面试谈薪资，先开价你就输了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487876&idx=2&sn=bbe7be73d00bfc121b11f87e325966a0&chksm=e96dba45de1a3353956cb14362b43885b9087f5cc82ab79653285edaeb501c313e6da37d38c2&scene=21#wechat_redirect)
@@ -570,6 +576,7 @@ recommend: false
 - {% post_link 14试用期和转正/公司说不跟我签劳动合同，但签劳务合同，行不行 %}
 - {% post_link 14试用期和转正/入职时的《不生娃承诺书》能签吗 %}
 - {% post_link 14试用期和转正/求职碰到“划小核算”“人单合一”“阿米巴”等字眼，绕着走 %}
+- {% post_link 14试用期和转正/入职后，为什么会被放养一段时间 %}
 
 
 - [找工作，要拆掉思维里的墙！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484945&idx=1&sn=5fd5271f063d11192a2b01ff7dad5bff&chksm=e96dadd0de1a24c6ede06b5eed4912686542ccebc68c5d1402535e744d7ba4097842b0d0569c&scene=21#wechat_redirect)
@@ -577,8 +584,6 @@ recommend: false
 - [第一个 Offer 下周一报到，第二家说下周发 Offer，我怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485700&idx=2&sn=2f50f2f8935be9e0a79bfeff0cac2e37&chksm=e96da2c5de1a2bd317c6f15cb02cb8c5280631ec01788c17a97473b3f7b18256a83e36ad876d&scene=21#wechat_redirect)
 - [这 4 种情况下，得赶紧找工作](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484821&idx=1&sn=a4fa0e52c5f7d79b6241d7f7db9f74d6&chksm=e96dae54de1a274253d600daa8d951785ac7f99f5c2ebf9e9dd44eb4352e6d668d5999fc20bf&scene=21#wechat_redirect)
 - [什么样的新人容易留下来?](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487088&idx=1&sn=c6e30a53c1712aaf01d7aef7cf6ca45f&chksm=e96da5b1de1a2ca76024b2488c8d26a9ec8127a7a6bcb0941f846385341264daa5a0e9497fad&scene=21#wechat_redirect)
-
-- [入职后，为什么会被放养一段时间？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485654&idx=2&sn=1dc7562fc8de6608ebf22baf9a11d918&chksm=e96da317de1a2a0104a2e21c00ea2162eafe0cab6a908276d2aea6f624261e0299a8398f22c5&scene=21#wechat_redirect)
 
 - [跳槽的最大风险，实际上在入职之后：试用期通过率正节节走低！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484398&idx=1&sn=a5da771053a62fe80959653bc8f222ed&chksm=e96da82fde1a2139e51db2fb8eb25bd1a18f67f6de9e28836e9a1bfcf271e239f7cad36b1e56&scene=21#wechat_redirect)
 
@@ -959,12 +964,15 @@ recommend: false
 
 ## **【26, 副业和财务自由】**
 
+- 🔴 {% post_link 26副业和财务自由/职场蛙，不是职业蛙 %}
 - 🔴 {% post_link 26副业和财务自由/接下来56个风口行业，让你受益终生 %}
 - 🔴 {% post_link 26副业和财务自由/准备借20万加盟一个奶茶店，行不行 %}
 - 🔴 {% post_link 26副业和财务自由/毕业生如何在三年赚到100万？要举例子摆事实通用的，拒绝鸡汤！违法的也不算 %}
 - 🔴 {% post_link 26副业和财务自由/职场人士可以开发哪些副业？ %}
 - 🔴 {% post_link 26副业和财务自由/开发副业的基本原则 %}
 - 🔴 {% post_link 26副业和财务自由/辞职后不上班，在家专门搞副业，行不行 %}
+- 🔴 {% post_link 26副业和财务自由/做副业，选什么领域好 %}
+
 - {% post_link 26副业和财务自由/手把手教你开拓副业：打工，能否实现财务自由8 %}
 - {% post_link 26副业和财务自由/什么人适合副业：打工，能否实现财务自由7 %}
 - {% post_link 26副业和财务自由/副业如何成为主业：打工，能否实现财务自由6 %}
@@ -1098,6 +1106,7 @@ recommend: false
 - {% post_link 27职场生活技艺/为何小说以男女主人公的结婚作为结局？而不是开端 %}
 - {% post_link 27职场生活技艺/如何在职场和人生中都做个“显眼包”（聚会感悟） %}
 - {% post_link 27职场生活技艺/懒人，如何提升学历 %}
+- {% post_link 27职场生活技艺/总监的生存法则 %}
 
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
@@ -1231,6 +1240,8 @@ recommend: false
 - 🔴 {% post_link 30职场互动/一生的旅程 %}
 
 - {% post_link 30职场互动/要不要建个相亲群 %}
+- {% post_link 30职场互动/“陆干”职业道路的跨年启发 %}
+
 
 - [职场信息交流，算不算社交？（互动版本）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484756&idx=1&sn=b5574891d79a4e50dea92ae8cf2c0df5&chksm=e96dae95de1a278342e2308c100b95c82f6a8f489810e7b5e241438ce2e8f22be55ccf11e9f7&scene=21#wechat_redirect)
 - [第一次视频互动，分享职场干货！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484760&idx=1&sn=91b5b3b6818eb906df28a91e93decf03&chksm=e96dae99de1a278f5eb5d925a805afec2bbe9635f2c6f22070b1ed11913bbaf84df729055c2a&scene=21#wechat_redirect)
@@ -1282,6 +1293,26 @@ recommend: false
 - [中国职场宝典3.0（2019年中版）](https://mp.weixin.qq.com/s/sjegJlqME6VCBY4FQXHvWg)
 - [中国职场宝典4.0（2020年初版）](https://mp.weixin.qq.com/s/s4zk9vwBq3UGlEbSadm1lA)
 - [中国职场宝典5.0（2021年初版）](https://mp.weixin.qq.com/s/JF2Y60p9vz6Zf6mBshuLiA)
+
+## qiaoliaoknow
+
+- 🔴 {% post_link 26副业和财务自由/做副业，选什么领域好 %}
+- 2026年5月23日[势商在职业、人生与婚姻中的运用](https://m1.qianliaoknow.com/live/channel/channelPage/2000025496092881.htm?shareKey=c5b46af5945a21d91a7db26a5fc3ee90&pro_cl=sharecard)
+- 2026年1月17日13:00-20:00[2025-2026幽学年会视频（闭门）](https://m1.qianliaoknow.com/live/channel/channelPage/2000024907770538.htm?shareKey=ecedf0a9a96fab10667cf5206083e60e&pro_cl=sharecard)
+- 2024年12月14日10:00-18:00[2024-2025幽学年会视频（闭门）](https://m1.qianliaoknow.com/live/channel/channelPage/2000023064755511.htm?shareKey=ee337e72e2339980a1b7dfb3a5b64cd7&pro_cl=sharecard)
+- [职业经理人的婚恋观](https://m1.qianliaoknow.com/live/channel/channelPage/2000021252147296.htm?shareKey=848ddcccfbb528d2113495cd956d4eb3&pro_cl=sharecard)
+- 2023年10月22日[转行做HR的成功经验&HR视角下的几大关键面试技巧！](https://m1.qianliaoknow.com/live/channel/channelPage/2000020743779916.htm?shareKey=fcd4a7a825fa57fc2fbbfa5473b51004&pro_cl=sharecard)
+- 2023年9月24日[9月24日幽哥上海线下聚会视频](https://m1.qianliaoknow.com/live/channel/channelPage/2000020682984235.htm?shareKey=66ddd5f2d872bddd4bf3a6daeeb8532f&pro_cl=sharecard)
+- 2023年9月2日[9月2日幽哥深圳线下聚会视频](https://m1.qianliaoknow.com/live/channel/channelPage/2000020502299469.htm?shareKey=7f5a32b8fed70f567d4643a975ca2ffc&pro_cl=sharecard)
+- 2023年8月12日[采购入门系统课：全面解决44个采购工作问题](https://m1.qianliaoknow.com/live/channel/channelPage/2000020339900928.htm?shareKey=201acc379842f993071dcffe02ece0ae&pro_cl=sharecard)
+- 2023年7月15号（星期六）下午13:30[7月15日幽哥上海静安区线下聚会视频](https://m1.qianliaoknow.com/live/channel/channelPage/2000020199994771.htm?shareKey=629de946391b109f5fccaea3e63f2b1f&pro_cl=sharecard)
+
+- [20240325 16:56 2024如何升职、加薪、跳槽？（幽哥头马演讲视频）](https://m1.qianliaoknow.com/topic/2000021706058977.htm?shareKey=09661becacf2420093192f48a1766645&pro_cl=sharecard&auditStatus=pass)
+- [20230721 20:00婚后有娃后，还想去大城市，合适吗？](https://m1.qianliaoknow.com/topic/2000020189513457.htm?shareKey=4be0454f4fc7733117482bcab2538a69&pro_cl=sharecard&auditStatus=pass)
+
+- [20201015 19:30跨城市求职秘笈](https://m1.qianliaoknow.com/topic/2000011826603521.htm?shareKey=a40fabd52a1112b51356b62c5dee934a&pro_cl=sharecard&auditStatus=pass)
+- [20201007 19:30面试后，如何谈工资？什么是倒逼法？](https://m1.qianliaoknow.com/topic/2000011781599258.htm?shareKey=a46d775938945faf61c4f3a0049a10e8&pro_cl=sharecard&auditStatus=pass)
+- [20200924 20:00接到面试电话时，如何谈工资？](https://m1.qianliaoknow.com/topic/2000011618965311.htm?shareKey=cee7b2370077b7fb49b6ced4da84fef6&pro_cl=sharecard&auditStatus=pass)
 
 ---
 

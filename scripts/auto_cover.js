@@ -979,6 +979,29 @@ function write_cover_to_post(post, cover_path) {
   }
 }
 /**
+ * 删除某个 source 文件对应的路由。
+ *
+ * Hexo 7 的 _generate() 在 load() 阶段就会触发 after_generate，
+ * 此时静态资源路由（source/img/auto_cover/*.svg）已经注册、但还没有写入 public。
+ * 如果这里直接把源文件删掉，后面写文件时 createReadStream 就会 ENOENT 导致构建崩溃。
+ * 所以务必先移除路由，再删除文件。
+ */
+function removeRouteFor(routePath) {
+  if (!hexo.route || typeof hexo.route.remove !== 'function') {
+    return;
+  }
+
+  const target = routePath.replace(/^\/+/, '').replace(/\\/g, '/');
+
+  hexo.route.list().forEach((item) => {
+    const normalized = String(item).replace(/^\/+/, '').replace(/\\/g, '/');
+    if (normalized === target || normalized.endsWith('/' + target)) {
+      hexo.route.remove(item);
+    }
+  });
+}
+
+/**
  * 清理没有被任何 post.cover 引用的自动生成 SVG
  */
 function cleanup_unused_covers() {
@@ -1010,6 +1033,10 @@ function cleanup_unused_covers() {
 
     if (!used_covers.has(filename)) {
       const filepath = path.join(cover_dir, filename);
+
+      // 先摘掉路由，避免出现 ENOENT（详见 removeRouteFor 注释）
+      removeRouteFor(path.posix.join('img', TAG, filename));
+
       fs.unlinkSync(filepath);
       hexo.log.info(
         `[${TAG}] removed unused: ${filename}`

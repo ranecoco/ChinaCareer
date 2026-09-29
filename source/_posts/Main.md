@@ -424,7 +424,6 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/同时来了3个入职意向，该如何谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/公司为何只跟我签1年的合同？ %}
 - {% post_link 11工资行情和Offer谈判/工资要低了，后悔了，怎么办？ %}
-- {% post_link 11工资行情和Offer谈判/提出加薪后，领导一般是答应还是拒绝 %}
 - {% post_link 11工资行情和Offer谈判/跳槽涨薪50%甚至翻倍，为何他们能做到 %}
 - {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
 - {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
@@ -621,6 +620,7 @@ recommend: false
 - {% post_link 15辞退和裁员/国庆前被通知辞退，怎么办 %}
 - {% post_link 15辞退和裁员/我被央企裁员后1个月找到工作 %}
 - {% post_link 15辞退和裁员/网易事件之后，辞退员工的情况会不会好转 %}
+- {% post_link 15辞退和裁员/如何写投诉信 %}
 
 
 - [？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488489&idx=1&sn=e19587c4eece78e9b251a80619c99b75&chksm=e96db828de1a313e5275c6058bf90c75fb1f0e7dbc03e6ba0e13895d993381b80fc4fe39629c&scene=21#wechat_redirect)
@@ -699,6 +699,10 @@ recommend: false
 - {% post_link 19如何跟领导相处？/必修课：如何跟女领导相处 %}
 - {% post_link 19如何跟领导相处？/领导跟自己不在同一个地方上班，是好是坏 %}
 - {% post_link 19如何跟领导相处？/三招，搞定你的领导（原创，非厚黑学） %}
+- {% post_link 19如何跟领导相处？/新领导为何要将老员工赶尽杀绝？很多老员工很忠心的 %}
+- {% post_link 19如何跟领导相处？/提出转岗后，领导一般是答应还是拒绝 %}
+- {% post_link 19如何跟领导相处？/提出加薪后，领导一般是答应还是拒绝 %}
+- {% post_link 19如何跟领导相处？/离职后，如何举报领导 %}
 
 - [跟对领导，选对平台，哪个更重要？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484576&idx=1&sn=4861a830aa426e5f67ec562662ca6a04&chksm=e96daf61de1a2677f85825ea80dbb8bbd4ba2b1f8a1e0f92f4d5965efa4812b6105dec95f905&scene=21#wechat_redirect)
 - [过来人分享职场秘笈：如何向领导汇报](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486782&idx=1&sn=cb071ee27c8637875102f1cfbe79581b&chksm=e96da6ffde1a2fe9402ff52106fd2636752dec5c0db56b54c4ae94e629f27392407d94b4c65a&scene=21#wechat_redirect)
@@ -730,7 +734,7 @@ recommend: false
 - {% post_link 20女性专场/姐弟恋的4大注意点 %}
 
 
-- [女孩如何考虑婚姻和生育，才能获得更好的职业发展？](http://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247489019&idx=1&sn=751a606470db42de81eeecde58630d66&chksm=fbfab58acc8d3c9ca6ec28dd4f0b7c413ea9e5182cbad8ff535bbe4f3772262b9ce90639dc3c&scene=21#wechat_redirect)
+-  {% post_link 29势商和人生规划/男女求职思维的不同点 %}
 - [女孩，如何才能不做“伏地魔”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488458&idx=2&sn=778b78c7ebdd076af1709053788ceba9&chksm=e96db80bde1a311d373ce2cc4f0084c839348a67056e8a5e58544e28ab87cff5f7e7c7f78370&scene=21#wechat_redirect)
 - [生娃，对职业生涯到底有多大影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488408&idx=1&sn=114625a3470145b7957daaaa122b4408&chksm=e96db859de1a314fe70a7ad62304c93a487e66a9bba5a298a2cc4b1d7a81daa776eea2d9f371&scene=21#wechat_redirect)
 - [过年回家被父母催婚，如何应对？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488762&idx=2&sn=5caa93089cc6ed0c8992eb3ad834fae8&chksm=e96dbf3bde1a362d1277457d20c881c75f36db419f16bea9bb4a08bb39dfda3b5cd35bba39bc&scene=21#wechat_redirect)
@@ -1092,6 +1096,8 @@ recommend: false
 - {% post_link 27职场生活技艺/普通职场男，能否找富家女 %}
 - {% post_link 27职场生活技艺/普通职场女，能否找富家男 %}
 - {% post_link 27职场生活技艺/为何小说以男女主人公的结婚作为结局？而不是开端 %}
+- {% post_link 27职场生活技艺/如何在职场和人生中都做个“显眼包”（聚会感悟） %}
+- {% post_link 27职场生活技艺/懒人，如何提升学历 %}
 
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
@@ -1134,12 +1140,13 @@ recommend: false
 
 - [遇到重大的人生挫折时，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491912&idx=2&sn=e1dbfcbf07620eb2e3639b8ee9db2db2&chksm=e96e4a89de19c39fad0c84ea3ba2fa5581c45ac27d1f7fd1fdf09e833b03ac6bc77923be998a&scene=21#wechat_redirect)
 
-- [懒人，如何提升学历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496917&idx=2&sn=a1b4f28d83a157cbb515e7f1be1c9c4f&chksm=e96e5f14de19d602e80040f41adb101705891472adba93fc20287d56a804f1400b33d38e1a4c&scene=21#wechat_redirect)
-
 ## **【28, 宏观职场】**
 
 - 🔴 {% post_link 28宏观职场/拜登若当选，对普通中国职场人，有什么影响 %}
 - 🔴 {% post_link 28宏观职场/孙跟女明星的纠葛，对职场人的4个启示 %}
+- {% post_link 28宏观职场/拜和特，最终谁能当选 %}
+- {% post_link 28宏观职场/你听过“特朗普”吗？（DonaldJTrump）巅峰对决：看下你选谁 %}
+
 - [中美贸易战，对普通职场人有什么影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484703&idx=1&sn=d1ad51e905effdb506c90f20716a43ab&chksm=e96daedede1a27c898f3ab5dc7563a44199c5b5c31ae8b862f26a8c208bcc5b0c88c9eb899a7&scene=21#wechat_redirect)
 - [亚洲的贫富差距，在全球处于什么位置？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484573&idx=1&sn=d14ff7eb0dcb0e0e742705e92264d793&chksm=e96daf5cde1a264a5bc5cb0a993ed598cac24d5933178dae85e4bd169e98a3f455554ec1108a&scene=21#wechat_redirect)
 - [S-400 是啥，中文名叫什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484555&idx=1&sn=556fdcf347d00111ce4d287f7d32b238&chksm=e96daf4ade1a265c410e2dd9fc3a814440a20fd8c6f15ea8889fa02e399a736cc0e1fe2e7e87&scene=21#wechat_redirect)
@@ -1205,6 +1212,7 @@ recommend: false
 - {% post_link 29势商和人生规划/上海女孩的职业开化之旅 %}
 - {% post_link 29势商和人生规划/多少钱叫托举，独生子女都会得到家里托举吗 %}
 - {% post_link 29势商和人生规划/有房跟无房的相亲对象，要区别对待吗 %}
+- {% post_link 29势商和人生规划/二本机械、生化环材等劝退专业，如何在毕业3年时达成年薪30万 %}
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
 

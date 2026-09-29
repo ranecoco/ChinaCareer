@@ -1294,7 +1294,7 @@ recommend: false
 - [中国职场宝典4.0（2020年初版）](https://mp.weixin.qq.com/s/s4zk9vwBq3UGlEbSadm1lA)
 - [中国职场宝典5.0（2021年初版）](https://mp.weixin.qq.com/s/JF2Y60p9vz6Zf6mBshuLiA)
 
-## qiaoliaoknow
+## qianliaoknow
 
 - 🔴 {% post_link 26副业和财务自由/做副业，选什么领域好 %}
 - 2026年5月23日[势商在职业、人生与婚姻中的运用](https://m1.qianliaoknow.com/live/channel/channelPage/2000025496092881.htm?shareKey=c5b46af5945a21d91a7db26a5fc3ee90&pro_cl=sharecard)

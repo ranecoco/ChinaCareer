@@ -51,31 +51,22 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/你大学选的什么专业？为什么 %}
 - {% post_link 01学历不重要？能力更重要？/考研二战三战失败了，怎么办 %}
 - {% post_link 01学历不重要？能力更重要？/毕业后能不能先花一两年考公考编考研，然后再求职 %}
-
-
-- [学校不教的职场知识，有哪些？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487613&idx=1&sn=083866d3ba6bb239e4776e10f50d5016&chksm=e96dbbbcde1a32aa236f8e3db24acc440acab01e73bdf56cd587faa611666efb3c0b673a4bcd&scene=21#wechat_redirect)
-- [我和男友都全职在家考公务员，我俩会有结果吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484579&idx=1&sn=1dd3bafef4c2ef295d548fc133cc7b9a&chksm=e96daf62de1a26745a4dd97e0ae9e3fcf1e74f241980d98176cc2955e31a740f011e15e4c7da&scene=21#wechat_redirect)
-- [为什么我劝你千万不要考异地公务员](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487660&idx=1&sn=f4c2eb973a47d23ed380ea2930c2dae6&chksm=e96dbb6dde1a327b3f58c84930aeeaecebdcad9239ad6ca9983fb6b50c97443b3e0fdf390a98&scene=21#wechat_redirect)
-- [体制外和体制内哪个更有前途？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487958&idx=2&sn=294527d747d98be93e3f782610dfc2ee&chksm=e96dba17de1a3301561c92996dc58f1ccb6202609ff6971da821ddc316a4ddbc5253ed390d8e&scene=21#wechat_redirect)
-- [为何父母都觉得体制内工作才叫工作 ？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488171&idx=1&sn=3c73d6e4d99c9cf395a6c19ca036c1dc&chksm=e96db96ade1a307c049d0b7964e4ce274276b9b084f5ec19a9e6727d2e31e5ea490aae9ab331&scene=21#wechat_redirect)
-
-- [创业成了大老板，为何还去读个学历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485890&idx=1&sn=1b081e117debabd067a5afbf514b11ee&chksm=e96da203de1a2b15c9db991502a49138ede394e055783f6fcaf5c4d1bce5bb3be88d13d3d93b&scene=21#wechat_redirect)
-
-- [到底如何填志愿，选专业？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486705&idx=1&sn=9145c455c1b63f1db8750d7c1e49cebe&chksm=e96da730de1a2e26713e193f47a301f8c35dce586e54a6169530fa1dd0b8859abc35745b8e33&scene=21#wechat_redirect)
-- [本科毕业，简历上能不能写“硕士在读”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486262&idx=1&sn=33733235b615b6d3fcb3bf0f9250fad7&chksm=e96da0f7de1a29e1f769043211e526a04621df5db3d7930eb75bb139baace14362a57aabc0f5&scene=21#wechat_redirect)
-
-- [非 211, 985 毕业，如何在职场中实现弯道超车？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486926&idx=1&sn=fc582cf7fd8edc02462fc88cad5a9a01&chksm=e96da60fde1a2f19617bed8dcfe7e427066040cce1c6ad4ec448309f9b5e01417b92aa917eb2&scene=21#wechat_redirect)
-
-- [非 211 毕业，校招拿了 7 份 offer，现身说法！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487302&idx=1&sn=9952380a0bb739e195967a887f64535c&chksm=e96da487de1a2d9103964d13b8bf6bdbd6a93fa30a5c55fb458a9bd3d4bdd0974a68e26cd07b&scene=21#wechat_redirect)
-
-- [大学生面临哪些挑战和机遇？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488316&idx=2&sn=07e73935181a9b62adcc06be5b1a1113&chksm=e96db8fdde1a31eb516da2e8d6ac82d4221ef0598e48c522225e203d9a1ecb1139b113160f7e&scene=21#wechat_redirect)
-- [海归本科回国，有竞争力不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489586&idx=2&sn=e81b3755a2c4397a564eda7fae253dd3&chksm=e96db3f3de1a3ae5c4ade497b50bcd5336b7cf19d4f36facf5dcce213421b9fd271d20eb2349&scene=21#wechat_redirect)
-
-- [想考公务员，我是辞职后全力奋战，还是在职备考？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490328&idx=2&sn=804f34dcb5a0dbe26f0d8de4e5605f5b&chksm=e96db0d9de1a39cf18dc1683a4b7847d462064b1d13cd2d5b138dfabefd46d38da354e59faca&scene=21#wechat_redirect)
-
-- [刚毕业，是选择体制内工作，还是出去闯一闯？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490452&idx=1&sn=35f5177f9240b9e4063f9ec8ab7a28df&chksm=e96db055de1a39430ddbf77f22f271f363330aea23ef68c6d7c268679f8b66c42a2ce8d1ffc9&scene=21#wechat_redirect)
-- [本科毕业两年了，今年要不要考研？或者考教师编？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493547&idx=2&sn=844cfe9e9a77bd5feecb265988bf231e&chksm=e96e4c6ade19c57c1594b8e37029438667b3ff439ac316cd3fcd7cb90356895d4846f9244d64&scene=21#wechat_redirect)
-- [女朋友为何不支持我考研？老公为什么反对我读 MBA？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495522&idx=1&sn=12563a64d40eda5c050d7d661d77bb95&chksm=e96e44a3de19cdb53916d8c269493dd533f352bd1b80707fd979762805ad9a8e850db1767d53&scene=21#wechat_redirect)
+- {% post_link 01学历不重要？能力更重要？/学校不教的职场知识，有哪些 %}
+- {% post_link 01学历不重要？能力更重要？/我和男友都全职在家考公务员，我俩会有结果吗 %}
+- {% post_link 01学历不重要？能力更重要？/为什么我劝你千万不要考异地公务员 %}
+- {% post_link 01学历不重要？能力更重要？/体制外和体制内哪个更有前途 %}
+- {% post_link 01学历不重要？能力更重要？/为何父母都觉得体制内工作才叫工作 %}
+- {% post_link 01学历不重要？能力更重要？/创业成了大老板，为何还去读个学历 %}
+- {% post_link 01学历不重要？能力更重要？/到底如何填志愿，选专业 %}
+- {% post_link 01学历不重要？能力更重要？/本科毕业，简历上能不能写“硕士在读” %}
+- {% post_link 27职场生活技艺/非211，985毕业，如何在职场中实现弯道超车 %}
+- {% post_link 01学历不重要？能力更重要？/非211毕业，校招拿了7份offer，现身说法 %}
+- {% post_link 01学历不重要？能力更重要？/大学生面临哪些挑战和机遇 %}
+- {% post_link 01学历不重要？能力更重要？/海归本科回国，有竞争力不 %}
+- {% post_link 01学历不重要？能力更重要？/想考公务员，我是辞职后全力奋战，还是在职备考 %}
+- {% post_link 01学历不重要？能力更重要？/刚毕业，是选择体制内工作，还是出去闯一闯 %}
+- {% post_link 01学历不重要？能力更重要？/本科毕业两年了，今年要不要考研？或者考教师编 %}
+- {% post_link 01学历不重要？能力更重要？/女朋友为何不支持我考研？老公为什么反对我读MBA %}
 
 ## **【02, 什么是中国的职业规划？】**
 
@@ -85,13 +76,12 @@ recommend: false
 - {% post_link 02什么是中国的职业规划？/独生女的职业规划 %}
 - {% post_link 02什么是中国的职业规划？/所谓的职业规划，大多数是骗人的 %}
 - {% post_link 02什么是中国的职业规划？/MBTI测试，真的有用吗 %}
+- {% post_link 02什么是中国的职业规划？/违约金，到底要不要交 %}
+- {% post_link 02什么是中国的职业规划？/应届生，为何愿意交违约金？那Offer中的违约金呢 %}
+- {% post_link 02什么是中国的职业规划？/假如我是应届生，我会这样找工作 %}
+- {% post_link 07求职，就是打败HR的过程/愤青，为什么不会求职 %}
+- {% post_link 02什么是中国的职业规划？/“谁的青春不迷茫”，解药是什么 %}
 
-- [违约金，到底要不要交？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484766&idx=1&sn=6c6631c58a248c5b6ca84a79a5fd30cd&chksm=e96dae9fde1a27892111d50c3abb275c2269010689245482f65b18f041ab3ef8c5df79da43c9&scene=21#wechat_redirect)
-- [应届生，为何愿意交违约金？那 Offer 中的违约金呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485401&idx=1&sn=a0df10258802e7b2aac59c8860e92189&chksm=e96dac18de1a250e08cb6162633ed28d85c272ca0dc0e8cad67265cf363e207e84bd44b233e0&scene=21#wechat_redirect)
-- [MBTI 测试，真的有用吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484786&idx=1&sn=74910de92aecc9c2dbcf221400192876&chksm=e96daeb3de1a27a54f04f7e3ca9842e79df993c1ba53d670afc9eb5fbc00a961a18639a1c5b0&scene=21#wechat_redirect)
-- [假如我是应届生，我会这样找工作！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484674&idx=1&sn=6bc85f496fe2e5b7c7347618eaed8fe5&chksm=e96daec3de1a27d520719978b7891fcfa0d68b2fc5b965dd1fbeaf9912a48bccec81bb6f2aa0&scene=21#wechat_redirect)
-- [“谁的青春不迷茫”，解药是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484667&idx=1&sn=7fe9d3f54f99dae9ff54c1bb137f4922&chksm=e96daf3ade1a262c95d9f6c8ac177af9e8e9159a95fb93131ea201aa937d98a6297628a42d52&scene=21#wechat_redirect)
-- [愤青，为什么不会求职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486488&idx=1&sn=9ad9fb30840061bb118ee4079b62001d&chksm=e96da7d9de1a2ecfa2cd2b4d3747ec66bc03d76be0d7b78ec6e8a198443304cc182b29bee3c4&scene=21#wechat_redirect)
 - [宁静而致远：窗外三更雨，灯前万里心](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486617&idx=1&sn=ff636db54d1ff614a1638d5b889aee30&chksm=e96da758de1a2e4edf0685c75353d8e576ffafab8854fdda478c130b857e965752a0f0218f07&scene=21#wechat_redirect)
 
 - [鸡汤，为何是自媒体时代的硬通货？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486630&idx=1&sn=5d9008fa65ca8811d9ece6142fa25a28&chksm=e96da767de1a2e7196b1989aeec263748d05ceeb310d26d992cf488fb289c5c0e92c528d1782&scene=21#wechat_redirect)

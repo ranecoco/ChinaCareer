@@ -9,7 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/nWT3WMX_8imaYcEWm_qvOw
 description: 
 account: JumpFrog
 place: 
-cover: 0.jpg
+cover: img/auto_cover/611afb06df9f.svg
 ---
 
 **如题**，是常有人发来的疑问。在讲原因以及共性规律之前，我们还是尊重事实本身，看下大多数人的取舍。

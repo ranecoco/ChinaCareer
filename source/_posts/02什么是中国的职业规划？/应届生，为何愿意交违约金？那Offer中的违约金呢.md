@@ -9,7 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/MBNaXrr_Oja6Y-_WOD2Ywg
 description: 
 account: JumpFrog
 place: 
-cover: 0.jpg
+cover: img/auto_cover/d5127b92cfa1.svg
 ---
 
 **一开始**签了一家公司，现在后悔了，想改签，这里一般会碰到一个**违约金**的问题。

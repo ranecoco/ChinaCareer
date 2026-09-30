@@ -81,12 +81,9 @@ recommend: false
 - {% post_link 02什么是中国的职业规划？/假如我是应届生，我会这样找工作 %}
 - {% post_link 07求职，就是打败HR的过程/愤青，为什么不会求职 %}
 - {% post_link 02什么是中国的职业规划？/“谁的青春不迷茫”，解药是什么 %}
-
-- [宁静而致远：窗外三更雨，灯前万里心](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486617&idx=1&sn=ff636db54d1ff614a1638d5b889aee30&chksm=e96da758de1a2e4edf0685c75353d8e576ffafab8854fdda478c130b857e965752a0f0218f07&scene=21#wechat_redirect)
-
-- [鸡汤，为何是自媒体时代的硬通货？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486630&idx=1&sn=5d9008fa65ca8811d9ece6142fa25a28&chksm=e96da767de1a2e7196b1989aeec263748d05ceeb310d26d992cf488fb289c5c0e92c528d1782&scene=21#wechat_redirect)
-
-- [体制内跳出来，进入体制外，有哪些特点？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497581&idx=2&sn=00f7ba4b17086c905dcfdc0f9f0cbe61&chksm=e96e5cacde19d5ba2a091821e9ebcd154dffdf748c678857a27d42429e79c54c3d55658e6ebe&scene=21#wechat_redirect)
+- {% post_link 02什么是中国的职业规划？/宁静而致远：窗外三更雨，灯前万里心 %}
+- {% post_link 02什么是中国的职业规划？/鸡汤，为何是自媒体时代的硬通货 %}
+- {% post_link 02什么是中国的职业规划？/体制内跳出来，进入体制外，有哪些特点 %}
 
 ## **【03, 如何选城市？】**
 
@@ -115,37 +112,27 @@ recommend: false
 - {% post_link 03如何选择城市/要不要逃离"北上广"？一起看看他们的故事吧 %}
 - {% post_link 03如何选择城市/选哪个城市就业，如何决策 %}
 - {% post_link 03如何选择城市/都说老家体制内的工作最好，那么多大范围叫老家 %}
+- {% post_link 03如何选择城市/从北上广回二三线求职，是什么体验 %}
+- {% post_link 03如何选择城市/毕业3年，在合肥，女友让我去上海，不然分手！真是纠结死 %}
+- {% post_link 03如何选择城市/究竟回不回老家，啥时回？来看下哪个地方最纠结 %}
+- {% post_link 03如何选择城市/泰州和常州，选哪个 %}
+- {% post_link 03如何选择城市/你在上海的同学，工资大概多少 %}
+- {% post_link 03如何选择城市/这5个城市，最不建议去就业 %}
+- {% post_link 03如何选择城市/毕业后是留在北京好，还是回石家庄进银行好 %}
+- {% post_link 03如何选择城市/武汉男上海女异地恋5年，下一步谁该做出妥协 %}
+- {% post_link 03如何选择城市/武汉南京杭州苏州成都重庆天津，谁才是真正的“发达二线” %}
+- {% post_link 03如何选择城市/武汉跳进上海，应该怎么跳 %}
+- {% post_link 03如何选择城市/早点回老家发展，是好是坏 %}
+- {% post_link 03如何选择城市/杭州的工资怎么样 %}
+- {% post_link 03如何选择城市/广州的工资为何没有杭州高 %}
+- {% post_link 03如何选择城市/小城市，如何找工作 %}
+- {% post_link 03如何选择城市/职场蛙和幽哥的哪些文章，不受待见 %}
+- {% post_link 03如何选择城市/招聘过程中挑选候选者时，为何本地人优先 %}
 
-
-- [从北上广回二三线求职，是什么体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484747&idx=1&sn=d3b8b61e714d57606aaf5d47c3d6ae8e&chksm=e96dae8ade1a279c658f865e3ee0fb7f82cbbfbd952ae65a7d0808b578dafb12840abd8ba6df&scene=21#wechat_redirect)
-- [看老家和就业双城记，聊影响一生的抉择](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484607&idx=1&sn=ea82c93f048a31ebb37993ef9ce19657&chksm=e96daf7ede1a2668c102b571a84aaa344a042e9b8b62a793e8c828f0d40598be5a1d73fd8332&scene=21#wechat_redirect)
-- [毕业 3 年，在合肥，女友让我去上海，不然分手！真是纠结死......](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484588&idx=1&sn=f610456acf73f8741ae9a3299a6b9518&chksm=e96daf6dde1a267b3e8984bd20b1484ed7c402bff7329b0254489ddb270687bb54aa3226b483&scene=21#wechat_redirect)
-- [究竟回不回老家，啥时回？来看下哪个地方最纠结](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484470&idx=1&sn=6f115a594b990b19afeef782f3fb13e9&chksm=e96daff7de1a26e116134387053bf68be2f7c941eecb0847b7e7e02d34a4386a780003554c9c&scene=21#wechat_redirect)
-- [毕业后的前三年，你是怎么在北上广深活下来的？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484363&idx=1&sn=fd61f4e235d6f996e5a674f4f5f85ece&chksm=e96da80ade1a211cd81f778eaeaa6d95e7a137f59bf3f02557450bb98139cfa01a8748eb3227&scene=21#wechat_redirect)
-- [泰州和常州，选哪个？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484851&idx=1&sn=1dd3f85f54ff8b46a3de1c8f0a3d02de&chksm=e96dae72de1a27647af8f5830258198238053372e4bcd10f0088a47af2b3d4d176e95f1696d0&scene=21#wechat_redirect)
-- [你在上海的同学，工资大概多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484829&idx=1&sn=13f4d90fb59ca33f7115b6c99737dbc5&chksm=e96dae5cde1a274a41a53cc8117364e5f9819402289c96c8e434578fd57a89d0701be2758d66&scene=21#wechat_redirect)
-
-- [这 5 个城市，最不建议去就业！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484803&idx=1&sn=160fc7fc277bab7b40871ffe66872063&chksm=e96dae42de1a2754d2ffa7b3df1717335604592f112d23294cc612555ac912b54c54b2ba2176&scene=21#wechat_redirect)
-
-- [毕业后是留在北京好，还是回石家庄进银行好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485293&idx=1&sn=72afc730883f5a710415b9902cbe6761&chksm=e96dacacde1a25baf27265415bcb916be942d58435da013585339034556e118fbe7c2f79ed07&scene=21#wechat_redirect)
-- [女硕士毕业后是留在上海，还是回老家？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485330&idx=1&sn=6669770910cfaa56f5d4ff22df55bbad&chksm=e96dac53de1a2545b8bc60fc09ec09e37bc5e87b2a64e21f0100ab329a13269a6283b9d1e6fd&scene=21#wechat_redirect)
-
-- [武汉男上海女异地恋 5 年，下一步谁该做出妥协？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485353&idx=1&sn=c87532f9691169dba5972fcb51f43c01&chksm=e96dac68de1a257efabee66ffa53f31030acae0dbf0768298a3dfaba63773b0f95d0ad5fe103&scene=21#wechat_redirect)
-- [武汉南京杭州苏州成都重庆天津，谁才是真正的“发达二线”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486222&idx=1&sn=afb57e7fda937d62844461fcde4d71a5&chksm=e96da0cfde1a29d92037f922128e797a457378437e2b7b6ac2265f49305fcf2e1fb6d852a683&scene=21#wechat_redirect)
-
-- [武汉跳进上海，应该怎么跳？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486551&idx=1&sn=367294b055ba9c8e22f15976ce24ea92&chksm=e96da796de1a2e80e19930db89148e47e36217ef8c7e703df65bc87caec8e61e1816f3aa571f&scene=21#wechat_redirect)
-
-- [早点回老家发展，是好是坏？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486613&idx=1&sn=fc02631124e97b86184df2cf5bc6c899&chksm=e96da754de1a2e42c668ea3820d293d461db6813e2591c28920dcdc997659091a6a84ab0e575&scene=21#wechat_redirect)
-
-- [杭州的工资怎么样？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487898&idx=1&sn=c8758f4af80f96874b18cd505aa3b194&chksm=e96dba5bde1a334d250c6c876f2c04ccd22b5e63aaf199cfe8b5a58923e5aa5925bf56938792&scene=21#wechat_redirect)
-
-- [广州的工资为何没有杭州高？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487918&idx=1&sn=1b8b61809b11086c7056c805fc9ecad6&chksm=e96dba6fde1a3379b6ab1042b1ede0ec2cd6d7a35917d7cf490d00ce0991ad36bedc97ba00fa&scene=21#wechat_redirect)
-- [第一次跨城市跳槽进上海的经历](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490986&idx=2&sn=754d475710fb77d18102e5a181101184&chksm=e96db66bde1a3f7d0ce1d8c8d4f04ddb326b87667a3c64add053a5e96159a3de398857ee6680&scene=21#wechat_redirect)
-
-- [小城市，如何找工作？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493728&idx=1&sn=fc4bcceadb7e56fab16ecb84f97e2ccb&chksm=e96e43a1de19cab7d6aac43a19bc448860624d1552b39afe4e55e7ebc764339e47dba9e67b46&scene=21#wechat_redirect)
-- [职场蛙和幽哥的哪些文章，不受待见？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493793&idx=1&sn=9f188432a9203e4f6dd46ff93c4094ad&chksm=e96e4360de19ca760eefca4670b2c5ff7741f2b078782837998fd34b1db6e941a1ed3e471a83&scene=21#wechat_redirect)
-
-- [招聘过程中挑选候选者时，为何本地人优先？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495648&idx=1&sn=864a9f279842f331642a173d734b06c4&chksm=e96e4421de19cd3783d2cc1f0b597d00aa3cb09dee504c258b9875f782580e215da6a909f116&scene=21#wechat_redirect)
+@t
+s��Hma1.mdoiyx	jjf[��5la03	GpD6k$p08jwD12k$p14j0f*��5ldt*��5ggj$pI# 9jwwDjjjd4j10kwwvt ��5y:w|bd��Hmm�kb�kb�kb�kb+.md��L
+@w
+kpkyypjDkf/��5lvt ��5pjj
 
 ## **【04, 如何选行业？】**
 
@@ -987,6 +974,7 @@ recommend: false
 - {% post_link 26副业和财务自由/工作之余做自媒体，如何获取月入2万的稳定收益 %}
 - {% post_link 26副业和财务自由/财务自由之路离我们有多远 %}
 - {% post_link 26副业和财务自由/要奋斗多少年才能达到富裕阶层 %}
+- {% post_link 26副业和财务自由/能不能将职场蛙和幽哥的文章，打包后出售、卖了 %}
 
 - [申请信用贷款，居然是这样的，千万要注意！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484510&idx=1&sn=6bd31a303c52cffe3947c39cb4833eca&chksm=e96daf9fde1a2689afd3a4d70edd5c191e4ce2bd4ba48ed7b14d0097a265d099b354994d76e6&scene=21#wechat_redirect)
 - [分期手续费大不同：微粒贷万五，借呗万三，工行、建行万几呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484609&idx=1&sn=0b2c74e5289a51e9f853bd2ab124bdbc&chksm=e96daf00de1a2616b372b58eb6b32b9ab22f1543952b490797802e9bc2967fcc417f7f805314&scene=21#wechat_redirect)

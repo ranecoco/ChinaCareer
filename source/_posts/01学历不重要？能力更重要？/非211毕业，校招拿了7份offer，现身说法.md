@@ -9,7 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/2bGUqYCaKHKVUHsspA2m-w
 description: 
 account: JumpFrog
 place: 
-cover: 0.jpg
+cover: img/auto_cover/0d93fa4aed57.svg
 ---
 
 ![Image](https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWjfl5d0J5NiaNZMO5oYkQnMquLWlXiaobghMhE9ib6QByXdUbxicILEd0WJlYRqkLfkL8YOERWj8Dj2Wg/640?wx_fmt=png&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=0)

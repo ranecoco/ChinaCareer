@@ -123,6 +123,8 @@ recommend: false
 - {% post_link 03如何选择城市/女硕士毕业后是留在上海，还是回老家 %}
 - {% post_link 03如何选择城市/男人42岁事业单位辞职，去异地打拼，值还是不值 %}
 - {% post_link 03如何选择城市/要不要逃离"北上广"？一起看看他们的故事吧 %}
+- {% post_link 03如何选择城市/选哪个城市就业，如何决策 %}
+- {% post_link 03如何选择城市/都说老家体制内的工作最好，那么多大范围叫老家 %}
 
 
 - [从北上广回二三线求职，是什么体验？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484747&idx=1&sn=d3b8b61e714d57606aaf5d47c3d6ae8e&chksm=e96dae8ade1a279c658f865e3ee0fb7f82cbbfbd952ae65a7d0808b578dafb12840abd8ba6df&scene=21#wechat_redirect)
@@ -616,6 +618,7 @@ recommend: false
 - 🔴 {% post_link 15辞退和裁员/工作中出错导致公司受损，个人要承担损失不 %}
 - 🔴 {% post_link 15辞退和裁员/试用期就被辞退，该怎么办 %}
 - 🔴 {% post_link 15辞退和裁员/试用期被辞退，也有赔偿吗 %}
+- 🔴 {% post_link 15辞退和裁员/年底了，公司“不讲武德”，该怎么办 %}
 
 - ￥🔴 {% post_link 15辞退和裁员/职场人必修课：系统学会反裁员or反辞退(从入门到精通) %}
 
@@ -708,6 +711,7 @@ recommend: false
 - {% post_link 19如何跟领导相处？/提出转岗后，领导一般是答应还是拒绝 %}
 - {% post_link 19如何跟领导相处？/提出加薪后，领导一般是答应还是拒绝 %}
 - {% post_link 19如何跟领导相处？/离职后，如何举报领导 %}
+- {% post_link 19如何跟领导相处？/领导问我借钱怎么办 %}
 
 - [跟对领导，选对平台，哪个更重要？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484576&idx=1&sn=4861a830aa426e5f67ec562662ca6a04&chksm=e96daf61de1a2677f85825ea80dbb8bbd4ba2b1f8a1e0f92f4d5965efa4812b6105dec95f905&scene=21#wechat_redirect)
 - [过来人分享职场秘笈：如何向领导汇报](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486782&idx=1&sn=cb071ee27c8637875102f1cfbe79581b&chksm=e96da6ffde1a2fe9402ff52106fd2636752dec5c0db56b54c4ae94e629f27392407d94b4c65a&scene=21#wechat_redirect)
@@ -793,10 +797,10 @@ recommend: false
 - {% post_link 21同事如何相处？/小主管，算不算领导 %}
 - {% post_link 21同事如何相处？/这个小习惯，让我的职场连续加薪晋级 %}
 - {% post_link 21同事如何相处？/上班为什么会勾心斗角的？跳槽能解决问题不 %}
+- {% post_link 21同事如何相处？/同事问我借钱，能不能借 %}
 
 
 - [同事之间，该如何相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484734&idx=1&sn=555c5fde943c945406a220c733f0224b&chksm=e96daeffde1a27e98833908cb0bef7eb77ad43af74d7f0902139f5741eddd1f4acc327f96a0d&scene=21#wechat_redirect)
-- [同事问我借钱，能不能借？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484730&idx=1&sn=d0b20941296d7cc740956013fc773f0a&chksm=e96daefbde1a27ed9ee385ec264600d4df7958f05200fccc760d42e2b4ed89b7374525fe9300&scene=21#wechat_redirect)
 - [毕业十五年，你懂得了什么职场潜规则？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484634&idx=1&sn=1ffb500343ee66c548b5e274dbbf5352&chksm=e96daf1bde1a260d5032b707d64d2814fb2e4036882d4ff16a9f2f23f5f956303d6f8d2c32c4&scene=21#wechat_redirect)
 - [我 30 岁，都习惯单身了，“八卦”女同事们老给我安排女朋友，这咋回事？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484420&idx=1&sn=780d5462e9847ebb4786debf4625be40&chksm=e96dafc5de1a26d349696c5f59d9750a83cef83390e9069b45e97bd57e3f480ad94bbcd2ec35&scene=21#wechat_redirect)
 - [除了潜规则，玩转职场还有哪些“套路”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484388&idx=1&sn=8e31d9acbdbaac1e47760879a007cde5&chksm=e96da825de1a21334fb86dcd797cd2a897bc87064bf89c3c9dcfe80d86235cac6891585ac218&scene=21#wechat_redirect)
@@ -871,6 +875,7 @@ recommend: false
 - ￥ {% post_link 24房产私房菜/到底如何买房 %}
 - {% post_link 24房产私房菜/父母为何不劝女儿买房 %}
 - {% post_link 24房产私房菜/昆山的房子，能不能买 %}
+- {% post_link 24房产私房菜/借钱，有没有什么优先顺序 %}
 
 - [房产税，能遏制高房价吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484726&idx=1&sn=6929f7742992e6575ef81a53b5a7c8ae&chksm=e96daef7de1a27e139c792d9fde05b041406f0f28999f336a072f2d30e51a6b24889d2ca9707&scene=21#wechat_redirect)
 - [接下来，房子还能买不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484843&idx=1&sn=b7ca212d09919bcb25a3ca991fb6efd0&chksm=e96dae6ade1a277c406a894aa0902b1c1628cd7af832c9445fa1d039aac158d9bc4d10052473&scene=21#wechat_redirect)
@@ -891,8 +896,6 @@ recommend: false
 - [刚需买房计算器以及苏州买房分析](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489642&idx=3&sn=363178e94e24016d439c90a9f9f9f787&chksm=e96db3abde1a3abd3f61751d1053f6c807d14680bd5e160d8c9c91ffb9e19eae5287350a45bf&scene=21#wechat_redirect)
 
 - [女孩买婚前第一套房，如何向亲戚借钱才能提高成功概率？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489980&idx=2&sn=e0ad36fe9b9e2fc5f7b4d766f522daba&chksm=e96db27dde1a3b6bc806a0f6c15db0d389c0307fa569d5d5016b002194fa0da44bbdc8f237fa&scene=21#wechat_redirect)
-
-- [借钱，有没有什么优先顺序？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496019&idx=2&sn=c46c571fde32085f9874c7b493a21861&chksm=e96e5a92de19d3842bc98b26b623a0bcf739cf74f4f03db4941469a10121d5441dbba0e05bfc&scene=21#wechat_redirect)
 
 - [贷款尚未还清的房子，可以卖吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496304&idx=1&sn=03326263b9e844675509733fa913e0da&chksm=e96e59b1de19d0a78caadafccae88c9e2ea844d20ca958c5b1ca1869edbcfc4a0e280c088803&scene=21#wechat_redirect)
 
@@ -965,6 +968,7 @@ recommend: false
 ## **【26, 副业和财务自由】**
 
 - 🔴 {% post_link 26副业和财务自由/职场蛙，不是职业蛙 %}
+- 🔴 {% post_link 26副业和财务自由/幽哥具体什么时候退休？退休后还会做职场指导吗 %}
 - 🔴 {% post_link 26副业和财务自由/接下来56个风口行业，让你受益终生 %}
 - 🔴 {% post_link 26副业和财务自由/准备借20万加盟一个奶茶店，行不行 %}
 - 🔴 {% post_link 26副业和财务自由/毕业生如何在三年赚到100万？要举例子摆事实通用的，拒绝鸡汤！违法的也不算 %}
@@ -1107,6 +1111,7 @@ recommend: false
 - {% post_link 27职场生活技艺/如何在职场和人生中都做个“显眼包”（聚会感悟） %}
 - {% post_link 27职场生活技艺/懒人，如何提升学历 %}
 - {% post_link 27职场生活技艺/总监的生存法则 %}
+- {% post_link 27职场生活技艺/遇到重大的人生挫折时，怎么办 %}
 
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
@@ -1146,8 +1151,6 @@ recommend: false
 - [低调做人，高调做事？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490458&idx=1&sn=cd78be6504e0a62e347f32e090334c42&chksm=e96db05bde1a394dd8558400378cbc92490c40cc5723dc5c1c326898517c8f9646b07f7ce827&scene=21#wechat_redirect)
 
 - [有时感觉很痛苦，活着没意思，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491837&idx=2&sn=cae5582095cc332c6de20186c46f4685&chksm=e96e4b3cde19c22abacb098ee8283fb57a6a1a81386331e51cfc69e08dd98bd01a1427782311&scene=21#wechat_redirect)
-
-- [遇到重大的人生挫折时，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491912&idx=2&sn=e1dbfcbf07620eb2e3639b8ee9db2db2&chksm=e96e4a89de19c39fad0c84ea3ba2fa5581c45ac27d1f7fd1fdf09e833b03ac6bc77923be998a&scene=21#wechat_redirect)
 
 ## **【28, 宏观职场】**
 
@@ -1222,6 +1225,7 @@ recommend: false
 - {% post_link 29势商和人生规划/多少钱叫托举，独生子女都会得到家里托举吗 %}
 - {% post_link 29势商和人生规划/有房跟无房的相亲对象，要区别对待吗 %}
 - {% post_link 29势商和人生规划/二本机械、生化环材等劝退专业，如何在毕业3年时达成年薪30万 %}
+- {% post_link 29势商和人生规划/个人缺钱时如何借钱？（兼谈北京证交所的建立） %}
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
 

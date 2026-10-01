@@ -129,11 +129,6 @@ recommend: false
 - {% post_link 03如何选择城市/职场蛙和幽哥的哪些文章，不受待见 %}
 - {% post_link 03如何选择城市/招聘过程中挑选候选者时，为何本地人优先 %}
 
-@t
-s��Hma1.mdoiyx	jjf[��5la03	GpD6k$p08jwD12k$p14j0f*��5ldt*��5ggj$pI# 9jwwDjjjd4j10kwwvt ��5y:w|bd��Hmm�kb�kb�kb�kb+.md��L
-@w
-kpkyypjDkf/��5lvt ��5pjj
-
 ## **【04, 如何选行业？】**
 
 - 🔴 {% post_link 04如何选行业/这样选行业，能少走10年弯路 %}
@@ -341,6 +336,7 @@ kpkyypjDkf/��5lvt ��5pjj
 - 🔴 {% post_link 10面试技巧/菜鸟如何应付英语面试 %}
 - 🔴 {% post_link 10面试技巧/面试了15家，为何没有一个offer %}
 - 🔴 {% post_link 10面试技巧/这家公司的终面我都通过了，最终为何还被淘汰？ %}
+- 🔴 {% post_link 10面试技巧/无死角搞定面试 %}
 
 - {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
@@ -361,6 +357,7 @@ kpkyypjDkf/��5lvt ��5pjj
 - {% post_link 10面试技巧/读研之前工作过，该如何求职 %}
 - {% post_link 10面试技巧/面试官一直不提工资，怎么办 %}
 - {% post_link 10面试技巧/为什么之前学习效率，如此低下 %}
+- {% post_link 10面试技巧/已经离职了，还能说自己仍然在职吗 %}
 
 - [面试官问“你有没有女/男朋友”，怎么回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486117&idx=1&sn=71a39b1748b82ee8ad82532148bb1208&chksm=e96da164de1a2872285c19b5c221722221e95b63d2dacdee689146493dea9ee1e3cbe79473ca&scene=21#wechat_redirect)
 
@@ -689,6 +686,8 @@ kpkyypjDkf/��5lvt ��5pjj
 - {% post_link 19如何跟领导相处？/提出加薪后，领导一般是答应还是拒绝 %}
 - {% post_link 19如何跟领导相处？/离职后，如何举报领导 %}
 - {% post_link 19如何跟领导相处？/领导问我借钱怎么办 %}
+- {% post_link 19如何跟领导相处？/领导让我“除本职工作外多搞搞内外部关系，别天天只做事务性工作”，什么意思 %}
+- {% post_link 19如何跟领导相处？/领导让我违规操作，怎么办 %}
 
 - [跟对领导，选对平台，哪个更重要？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484576&idx=1&sn=4861a830aa426e5f67ec562662ca6a04&chksm=e96daf61de1a2677f85825ea80dbb8bbd4ba2b1f8a1e0f92f4d5965efa4812b6105dec95f905&scene=21#wechat_redirect)
 - [过来人分享职场秘笈：如何向领导汇报](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486782&idx=1&sn=cb071ee27c8637875102f1cfbe79581b&chksm=e96da6ffde1a2fe9402ff52106fd2636752dec5c0db56b54c4ae94e629f27392407d94b4c65a&scene=21#wechat_redirect)
@@ -1090,6 +1089,7 @@ kpkyypjDkf/��5lvt ��5pjj
 - {% post_link 27职场生活技艺/懒人，如何提升学历 %}
 - {% post_link 27职场生活技艺/总监的生存法则 %}
 - {% post_link 27职场生活技艺/遇到重大的人生挫折时，怎么办 %}
+- {% post_link 27职场生活技艺/工作中出现失误了，该怎么办 %}
 
 
 - [你多我少：人生不仅仅是工作和远方](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484679&idx=1&sn=4eaa830c8088368831a9770d94abde19&chksm=e96daec6de1a27d0f7e5b5bae7437c03d883e2ba712972d16b8a850f90459e4cbaed9ae32f73&scene=21#wechat_redirect)
@@ -1136,6 +1136,7 @@ kpkyypjDkf/��5lvt ��5pjj
 - 🔴 {% post_link 28宏观职场/孙跟女明星的纠葛，对职场人的4个启示 %}
 - {% post_link 28宏观职场/拜和特，最终谁能当选 %}
 - {% post_link 28宏观职场/你听过“特朗普”吗？（DonaldJTrump）巅峰对决：看下你选谁 %}
+- {% post_link 28宏观职场/为何出生人口下降这么多 %}
 
 - [中美贸易战，对普通职场人有什么影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484703&idx=1&sn=d1ad51e905effdb506c90f20716a43ab&chksm=e96daedede1a27c898f3ab5dc7563a44199c5b5c31ae8b862f26a8c208bcc5b0c88c9eb899a7&scene=21#wechat_redirect)
 - [亚洲的贫富差距，在全球处于什么位置？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484573&idx=1&sn=d14ff7eb0dcb0e0e742705e92264d793&chksm=e96daf5cde1a264a5bc5cb0a993ed598cac24d5933178dae85e4bd169e98a3f455554ec1108a&scene=21#wechat_redirect)
@@ -1204,6 +1205,8 @@ kpkyypjDkf/��5lvt ��5pjj
 - {% post_link 29势商和人生规划/有房跟无房的相亲对象，要区别对待吗 %}
 - {% post_link 29势商和人生规划/二本机械、生化环材等劝退专业，如何在毕业3年时达成年薪30万 %}
 - {% post_link 29势商和人生规划/个人缺钱时如何借钱？（兼谈北京证交所的建立） %}
+- {% post_link 29势商和人生规划/如何预防婚后的巨大经济压力 %}
+- {% post_link 29势商和人生规划/跳槽的目的是什么 %}
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
 
@@ -1223,7 +1226,9 @@ kpkyypjDkf/��5lvt ��5pjj
 
 - {% post_link 30职场互动/要不要建个相亲群 %}
 - {% post_link 30职场互动/“陆干”职业道路的跨年启发 %}
-
+- {% post_link 30职场互动/一个中层管理者的述职与团建感悟 %}
+- {% post_link 30职场互动/跳槽涨薪五成甚至翻倍，为何他们能做到 %}
+- {% post_link 30职场互动/从宝洁的退市，来看势商发展和北京交友群 %}
 
 - [职场信息交流，算不算社交？（互动版本）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484756&idx=1&sn=b5574891d79a4e50dea92ae8cf2c0df5&chksm=e96dae95de1a278342e2308c100b95c82f6a8f489810e7b5e241438ce2e8f22be55ccf11e9f7&scene=21#wechat_redirect)
 - [第一次视频互动，分享职场干货！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484760&idx=1&sn=91b5b3b6818eb906df28a91e93decf03&chksm=e96dae99de1a278f5eb5d925a805afec2bbe9635f2c6f22070b1ed11913bbaf84df729055c2a&scene=21#wechat_redirect)
@@ -1295,6 +1300,8 @@ kpkyypjDkf/��5lvt ��5pjj
 - [20201015 19:30跨城市求职秘笈](https://m1.qianliaoknow.com/topic/2000011826603521.htm?shareKey=a40fabd52a1112b51356b62c5dee934a&pro_cl=sharecard&auditStatus=pass)
 - [20201007 19:30面试后，如何谈工资？什么是倒逼法？](https://m1.qianliaoknow.com/topic/2000011781599258.htm?shareKey=a46d775938945faf61c4f3a0049a10e8&pro_cl=sharecard&auditStatus=pass)
 - [20200924 20:00接到面试电话时，如何谈工资？](https://m1.qianliaoknow.com/topic/2000011618965311.htm?shareKey=cee7b2370077b7fb49b6ced4da84fef6&pro_cl=sharecard&auditStatus=pass)
+
+- [职场想少走弯路，有什么好办法？](https://mp.weixin.qq.com/s/zoS8sPKLUEAfddfpJ70YQA)
 
 ---
 

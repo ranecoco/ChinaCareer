@@ -189,6 +189,7 @@ recommend: false
 - {% post_link 05如何选企业/帮助解决户口的工作，好不好 %}
 - {% post_link 05如何选企业/什么样的工作，可以给应届本科生五天八小时月薪一万 %}
 - {% post_link 05如何选企业/刚毕业，进特斯拉工作，月薪大概多少 %}
+- {% post_link 05如何选企业/刚毕业，进苹果公司，工资多少 %}
 - {% post_link 05如何选企业/为何很多公司喜欢试用期工资打八折 %}
 - {% post_link 05如何选企业/公司老总开始直播带货，意味着什么 %}
 - {% post_link 05如何选企业/为什么有人一心要离开体制内 %}
@@ -421,23 +422,18 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/真相：为什么跳槽加薪会比内部调薪高 %}
 - {% post_link 11工资行情和Offer谈判/9月底入职和10月8号入职，哪个好 %}
 - {% post_link 11工资行情和Offer谈判/应对拖欠工资的具体方法 %}
+- {% post_link 11工资行情和Offer谈判/长假之后，看你的工资行情 %}
+- {% post_link 11工资行情和Offer谈判/海归硕士的工资行情如何 %}
+- {% post_link 11工资行情和Offer谈判/哪种性质的企业工资高，一目了然 %}
+- {% post_link 11工资行情和Offer谈判/同班同学毕业5年，为何有人月薪1万有人2万 %}
 
-- [海归硕士的工资行情如何？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484872&idx=1&sn=60bc9495af643a6edf231568387cc1c6&chksm=e96dae09de1a271f0dea65c844339cb8b3043ea48175690819d2277c23364c7e2f749f12d84d&scene=21#wechat_redirect)
 - [面试谈薪资，先开价你就输了](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487876&idx=2&sn=bbe7be73d00bfc121b11f87e325966a0&chksm=e96dba45de1a3353956cb14362b43885b9087f5cc82ab79653285edaeb501c313e6da37d38c2&scene=21#wechat_redirect)
-- [哪种性质的企业工资高](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484874&idx=1&sn=9becfbda4d0c0e3aef78a300475c3cef&chksm=e96dae0bde1a271dee35abdce7dda9476253d1051ec614a21fe3b0c91236facc9c90a2e1ff77&scene=21#wechat_redirect)
-- [同班同学毕业 5 年，为何有人月薪 1 万有人 2 万？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485080&idx=1&sn=267c3e81899b96e7aef241315e15fb16&chksm=e96dad59de1a244fc8b3673bce041969837049e8c02aa340681ac38e08e2a2c79e184bac1487&scene=21#wechat_redirect)
 - [月薪 4 千如何在几个月内达到 1 万 5？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485317&idx=1&sn=8ec5be729ddf17ce29eb5387d81ca37f&chksm=e96dac44de1a255253faac2cdac6a93a90a2a0f93b54b94e76c3847fb3c2a3eb57deab7cfd9f&scene=21#wechat_redirect)
 
 
 - [看下你自己的工资行情](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485461&idx=1&sn=42c4b06e2c8563b81188f7d24f8ce26f&chksm=e96da3d4de1a2ac28537c3861481f9b67c99fe38cc11b0363d92998c8337f942035dc23c82f7&scene=21#wechat_redirect)
-
-- [谈工资的筹码有哪些？毕业 1 年时能谈到多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486696&idx=1&sn=7fed74814a3c28b3cc9f7e7590aa22bf&chksm=e96da729de1a2e3f647970cfc280fa0d2e358a8121accc70c189242d4487a5690d68ca8354d9&scene=21#wechat_redirect)
-
-
 - [收到 Offer 后，要做什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485809&idx=1&sn=dcbfcab5b96ca10ae2c941b3124f1c62&chksm=e96da2b0de1a2ba61c253b8df650d83889487a85de91d04b4bbf3dcc174c53b07c53c8764a73&scene=21#wechat_redirect)
 
-
-- [谈薪资时，HR 说我上家工资太低，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486055&idx=1&sn=6b3658f2fa8afb95645f4e57c6841972&chksm=e96da1a6de1a28b00ef392789cf461e704ad05442b68260ecec92e41a478b7af48795d874278&scene=21#wechat_redirect)
 
 - [面试哪些公司时，不能用倒逼法谈工资？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487763&idx=2&sn=dcedf2269c2f78426f7f6596a47d523d&chksm=e96dbad2de1a33c4fa40eddc33a7a3b911d59787693d307cd4d799fe2a22df865d079f848f82&scene=21#wechat_redirect)
 
@@ -553,6 +549,7 @@ recommend: false
 - {% post_link 14试用期和转正/入职时的《不生娃承诺书》能签吗 %}
 - {% post_link 14试用期和转正/求职碰到“划小核算”“人单合一”“阿米巴”等字眼，绕着走 %}
 - {% post_link 14试用期和转正/入职后，为什么会被放养一段时间 %}
+- {% post_link 14试用期和转正/HR让我下周一入职，答应还是再拖一拖 %}
 
 
 - [找工作，要拆掉思维里的墙！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484945&idx=1&sn=5fd5271f063d11192a2b01ff7dad5bff&chksm=e96dadd0de1a24c6ede06b5eed4912686542ccebc68c5d1402535e744d7ba4097842b0d0569c&scene=21#wechat_redirect)
@@ -572,8 +569,6 @@ recommend: false
 
 
 - [还没报到，就被拉进了工作群，是好是坏？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489693&idx=1&sn=c7eb09debaaa1b05ade24a777c203b00&chksm=e96db35cde1a3a4a1c4409697eaa81aa3c216dd787615bbaa2dc7ac3708e552059bbbf046186&scene=21#wechat_redirect)
-
-- [HR 让我下周一入职，答应还是再拖一拖？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490134&idx=2&sn=e10ff64585e1137af8470b0390a8a8bd&chksm=e96db197de1a38813153e233add8db6df5276a399daa8f55c4a6434dfd772adcc333c6e45078&scene=21#wechat_redirect)
 
 - [放养期如何度过？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490162&idx=3&sn=aa4ae0f0bd87bcf4f665e04b5af116a8&chksm=e96db1b3de1a38a575ebbc5c5ecf88d7f34236829e3c688d417139ca5ffc333fdcdb4bf453ce&scene=21#wechat_redirect)
 
@@ -717,10 +712,10 @@ recommend: false
 - {% post_link 20女性专场/什么叫假独生女现象 %}
 - {% post_link 20女性专场/为何离婚的人越来越多 %}
 - {% post_link 20女性专场/姐弟恋的4大注意点 %}
+- {% post_link 20女性专场/女孩，如何才能不做“伏地魔” %}
 
 
 -  {% post_link 29势商和人生规划/男女求职思维的不同点 %}
-- [女孩，如何才能不做“伏地魔”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488458&idx=2&sn=778b78c7ebdd076af1709053788ceba9&chksm=e96db80bde1a311d373ce2cc4f0084c839348a67056e8a5e58544e28ab87cff5f7e7c7f78370&scene=21#wechat_redirect)
 - [生娃，对职业生涯到底有多大影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488408&idx=1&sn=114625a3470145b7957daaaa122b4408&chksm=e96db859de1a314fe70a7ad62304c93a487e66a9bba5a298a2cc4b1d7a81daa776eea2d9f371&scene=21#wechat_redirect)
 - [过年回家被父母催婚，如何应对？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488762&idx=2&sn=5caa93089cc6ed0c8992eb3ad834fae8&chksm=e96dbf3bde1a362d1277457d20c881c75f36db419f16bea9bb4a08bb39dfda3b5cd35bba39bc&scene=21#wechat_redirect)
 - [两个女人一台戏](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489712&idx=2&sn=650974b079c4509494622ab5cf1003e3&chksm=e96db371de1a3a6708af4fd93e69f9a426dc9d545786bd31f6f6b978587d918b60943817e162&scene=21#wechat_redirect)

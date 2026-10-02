@@ -76,7 +76,7 @@ TA问你哪天能来面试，你可能记不来是哪一家公司，你就装作
 **2\.  [关于投递简历，我的几点感悟](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488143&idx=2&sn=138d4bf7ad055abc50caee059248221b&chksm=e96db94ede1a30589dd29705c304fa1b2262296bc65f66afdf7963d40ba087fb68a19daae349&scene=21#wechat_redirect)
 **
 
-**3\. [HR让我下周一入职，答应还是再拖一拖？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490134&idx=2&sn=e10ff64585e1137af8470b0390a8a8bd&chksm=e96db197de1a38813153e233add8db6df5276a399daa8f55c4a6434dfd772adcc333c6e45078&scene=21#wechat_redirect)**
+**3\. {% post_link 14试用期和转正/HR让我下周一入职，答应还是再拖一拖 %}**
 
 **4\. [短暂的工作经历，要不要写进简历中去？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493193&idx=2&sn=5ee74cc81c2ce41b444f9d8e98af3709&chksm=e96e4d88de19c49e954da54e829acef6c1b93a9a7ad1b85470f47d402fae599db7ab711b0063&scene=21#wechat_redirect)
 **

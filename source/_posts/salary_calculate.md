@@ -1,7 +1,7 @@
 ---
 title: 上海2026五险一金及个税计算器
 description: 用个税申报单反推社保基数、公积金基数与比例，计算到手工资。计算器已迁移到独立页面。
-tags: [ Calculator ]
+sticky: 98
 cover: img/auto_cover/a383d13664e9.svg
 ---
 

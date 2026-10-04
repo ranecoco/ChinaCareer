@@ -110,6 +110,7 @@ recommend: false
 - {% post_link 03如何选择城市/女硕士毕业后是留在上海，还是回老家 %}
 - {% post_link 03如何选择城市/男人42岁事业单位辞职，去异地打拼，值还是不值 %}
 - {% post_link 03如何选择城市/要不要逃离"北上广"？一起看看他们的故事吧 %}
+
 - {% post_link 03如何选择城市/选哪个城市就业，如何决策 %}
 - {% post_link 03如何选择城市/都说老家体制内的工作最好，那么多大范围叫老家 %}
 - {% post_link 03如何选择城市/从北上广回二三线求职，是什么体验 %}
@@ -702,6 +703,11 @@ recommend: false
 - 🔴 {% post_link 20女性专场/婚姻悲剧和杭州案件，对职场人的启示 %}
 - 🔴 {% post_link 20女性专场/女孩失意之时，应该做什么 %}
 - 🔴 {% post_link 20女性专场/女孩，要不要远嫁 %}
+- 🔴 {% post_link 20女性专场/我是如何遇到这样的老公并被吃干抹净的 %}
+- 🔴 {% post_link 20女性专场/女生30岁之前要做的事情 %}
+- 🔴 {% post_link 20女性专场/女孩，如何树立正确的婚恋观 %}
+- 🔴 {% post_link 20女性专场/女孩，如何考虑后半生和养老 %}
+
 
 - ￥ {% post_link 20女性专场/嫁给独生子好，还是嫁给家里有兄弟姐妹的更好 %}
 - ￥ {% post_link 20女性专场/女孩如何考虑婚姻和生育，才能获得更好的职业发展 %}
@@ -1055,6 +1061,7 @@ recommend: false
 - 🔴 {% post_link 27职场生活技艺/挑对象最重要的标准，有哪些 %}
 - 🔴 {% post_link 27职场生活技艺/人性里的核心科技 %}
 - 🔴 {% post_link 27职场生活技艺/经济发展了，这一现象已经且必将愈演愈烈 %}
+- 🔴 {% post_link 27职场生活技艺/谈恋爱谈的是什么？你可能并不懂如何谈恋爱 %}
 
 - ￥🔴 {% post_link 27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么 %}
 
@@ -1202,6 +1209,9 @@ recommend: false
 - {% post_link 29势商和人生规划/个人缺钱时如何借钱？（兼谈北京证交所的建立） %}
 - {% post_link 29势商和人生规划/如何预防婚后的巨大经济压力 %}
 - {% post_link 29势商和人生规划/跳槽的目的是什么 %}
+- {% post_link 29势商和人生规划/单亲家庭的人，如何选择职业道路 %}
+- {% post_link 29势商和人生规划/单亲家庭的人，如何选择城市 %}
+
 
 - [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
 
@@ -1211,6 +1221,12 @@ recommend: false
 - [职场人，多大岁数最幸福？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497067&idx=1&sn=47bdf068384021f9981f6095a08661ee&chksm=e96e5eaade19d7bc17e8d4b61c6df61807cab4996981e3f2d8de404c2964cf99d0db0d7f4a7f&scene=21#wechat_redirect)
 
 - [事业逆袭这最后一公里，如何打通？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486602&idx=1&sn=1fa0a91c7cdb84e4fe08e9ea97abb2c9&chksm=e96da74bde1a2e5d190d223ef90044ad63481cb08d247fc11de49fab8d591ae0d426bc0c492f&scene=21#wechat_redirect)
+
+### 老家
+
+- 🔴 {% post_link 29势商和人生规划/与老家亲戚如何处理关系？能断亲吗 %}
+- 🔴 {% post_link 29势商和人生规划/老家的老宅，我该不该要 %}
+- {% post_link 29势商和人生规划/老家的房子，该如何处理 %}
 
 ## **【30, 职场互动】**
 

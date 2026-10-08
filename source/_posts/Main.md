@@ -31,7 +31,7 @@ recommend: false
 - {% post_link 00必知必会/中文面试100问 %}
 - {% post_link 00必知必会/Hundrred_Question4Interview %}
 
-## **【01，学历不重要？能力更重要？】**
+## 【01，学历不重要？能力更重要？】
 
 - 🔴 {% post_link 01学历不重要？能力更重要？/哪种学历是否有竞争力，如何判断？（深度分析） %}
 - 🔴 {% post_link 01学历不重要？能力更重要？/我先就业，以后边工作边考研，行不行？ %}
@@ -41,6 +41,7 @@ recommend: false
 
 
 - {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
+- {% post_link 01学历不重要？能力更重要？/毕业几年后，怎样去加拿大留学 %}
 - {% post_link 01学历不重要？能力更重要？/为何每年都是最难就业季 %}
 - {% post_link 01学历不重要？能力更重要？/读个第二学位，有没有帮助 %}
 - {% post_link 01学历不重要？能力更重要？/念MBA到底有没有用？价值体现在哪些方面 %}
@@ -69,6 +70,17 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/女朋友为何不支持我考研？老公为什么反对我读MBA %}
 - {% post_link 01学历不重要？能力更重要？/本科生年入百万的康庄大道 %}
 
+
+4.  [在职硕士获取难度加大，个人谨慎评估再报名！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484906&idx=1&sn=aa37e3cb868b071a9010d25924674025&chksm=e96dae2bde1a273dcadac3621fbeb811a7d6ffbeae92116b22e78b414d0e983a68751733190a&scene=21#wechat_redirect)
+
+13.  [工作多年后，该不该去脱产读研、深造、提升学历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247500613&idx=2&sn=aca8af544922a92e530919e7c4c46e72&chksm=e96e6884de19e1920ac03313425d757a85299ac7649c598e9683bd4335ffe025d441ea8c8460&scene=21#wechat_redirect)
+
+15.  [学历的飞跃](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247510576&idx=1&sn=40ef2c8988321c585735dbe24650a252&chksm=e96e01f1de1988e7b2aafbbe72915c25e9a56c4dd47da9b55f34fc9c40e2ac606199da28b694&scene=21#wechat_redirect)
+
+[获得硕士学位的7种方法](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247508571&idx=1&sn=ad0e97dce7934a5d49c7d84da0ac1558&chksm=e96e099ade19808c1579f81bda1e93769dd90432aa3fd8bd158091add99e582795ee0b63df4a&scene=21#wechat_redirect)
+[哪一年报考公务员，以硕士研究生为主？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247512930&idx=1&sn=e99df015b7e3901666f0d0fe5c95daf3&chksm=e96e18a3de1991b5f31a100b6e342ad4949853110c662c3ae29bb5f1a69eb8ca86a0b89bd985&scene=21#wechat_redirect)
+    [有没有性价比最高的留学选择？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247511343&idx=2&sn=bdadcccd9514a8243cb3e828d9f967f1&chksm=e96e06eede198ff830cccfe4d25be1057c2729b443385eeb5c41d648e2b08b0d895cef7bdac3&scene=21#wechat_redirect)
+[留学如何选学校？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247509985&idx=1&sn=ca1d82048a010031d6e846b8e22ff1e2&chksm=e96e0c20de19853611c8251a42f8eea3bd4ab35d39182d2a73a39706ce21cc6c599e4c2f5f8b&scene=21#wechat_redirect)
 
 ## **【02，什么是中国的职业规划？】**
 
@@ -259,7 +271,7 @@ recommend: false
 - {% post_link 07求职，就是打败HR的过程/如何回答“你现在还在职吗” %}
 - {% post_link 07求职，就是打败HR的过程/HR问“你这次为什么要换工作”，如何回答 %}
 - {% post_link 07求职，就是打败HR的过程/愤青，为什么不会求职 %}
-
+[人事要你先辞职，再发Offer，要答应吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537349&idx=1&sn=62caecc85a75c4e327bef0de17cb1307&scene=21#wechat_redirect)
 
 ## **【08，简历制作秘笈】**
 
@@ -474,6 +486,8 @@ recommend: false
 - {% post_link 12辞职秘笈/裸辞的五大硬伤：为什么要找到工作再辞职 %}
 - {% post_link 12辞职秘笈/刚辞职，新单位却取消了Offer，怎么破 %}
 
+
+[新公司突然发来《取消录用通知》，我怎么办？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247519788&idx=2&sn=bb723be3e0d235d71acdd56d8d006ae3&scene=21#wechat_redirect)
 - [什么情况下，你会毫不犹豫地辞职？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484600&idx=1&sn=c336d12aa175f697fd7428bca1ad6ab2&chksm=e96daf79de1a266f66561ca1e162a9c4bb83de2a88aa764a5b4872585f6db8642d406c288bde&scene=21#wechat_redirect)
 - [提出辞职后，领导不让走，洗脑+戴高帽+打情感牌，我该如何招架？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484382&idx=1&sn=caa31253a2bf7a86916ea58d17cc8e2a&chksm=e96da81fde1a21095d169e6f9b059f9aa8593d63bbed180efcebde0d2345954668754527828f&scene=21#wechat_redirect)
 - [刚辞职，新单位取消了 Offer，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485893&idx=2&sn=16750f255fde729304b2764797aae092&chksm=e96da204de1a2b12c615ee7239cd5001a61fb8b8ba867ed0cdb5e887e28423196dffc8acf669&scene=21#wechat_redirect)

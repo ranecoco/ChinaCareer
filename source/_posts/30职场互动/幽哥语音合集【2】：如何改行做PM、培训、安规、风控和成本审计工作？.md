@@ -23,8 +23,7 @@ place: Shanghai
 
 **阶段二：研发（Research and Development）**
 
-**阶段三：运营（Operation）
-**
+**阶段三：运营（Operation）**
 
 **阶段四：售后服务（After market）**
 
@@ -37,7 +36,7 @@ ___
 
 **二，如何改行做项目经理？**
 
-{% aplayer "如何改行做项目经理月7千跳2万" "youge" "2.mp3" %}
+{% post_link 10面试技巧/如何改行做项目经理月7千跳2万 %}
 
 ___
 

@@ -362,17 +362,11 @@ recommend: false
 - {% post_link 10面试技巧/面试官一直不提工资，怎么办 %}
 - {% post_link 10面试技巧/为什么之前学习效率，如此低下 %}
 - {% post_link 10面试技巧/已经离职了，还能说自己仍然在职吗 %}
-
-- [面试官问“你有没有女/男朋友”，怎么回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486117&idx=1&sn=71a39b1748b82ee8ad82532148bb1208&chksm=e96da164de1a2872285c19b5c221722221e95b63d2dacdee689146493dea9ee1e3cbe79473ca&scene=21#wechat_redirect)
-
-- [出去面试被领导发现了，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485820&idx=2&sn=1c4492b59402d44d370fd6de85bee284&chksm=e96da2bdde1a2babd82241bfc606f0bfc63d95697a112a8745aeb2885042fa4986445227348d&scene=21#wechat_redirect)
-
-
-- [如何回答：你目前有没有其他家的面试/Offer？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487523&idx=1&sn=e576b3faec44e9f93f64e8ff986304a2&chksm=e96dbbe2de1a32f43c693e202934d6723db3624c53dc9014a00e9f5b6a1c12b134037b3856f2&scene=21#wechat_redirect)
-
-
-- [填资料时要我写个“工作证明人”，写谁的名字为好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489607&idx=1&sn=aa28d44736a88c1154a9bb81fb7fd050&chksm=e96db386de1a3a90673c023559aa725143f81d55ebe21fbcd7bdba9cb4a8f58aa654813f41a4&scene=21#wechat_redirect)
-- [如何改行做项目经理月 7 千跳 2 万](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491115&idx=3&sn=1ea5d153c42b8d550de59bf8792223f6&chksm=e96db5eade1a3cfc0caf5a310a91aedfcf261d2fed2ec9b2449e7ae99ad6e8314778bf42582b&scene=21#wechat_redirect)
+- {% post_link 10面试技巧/面试官问“你有没有女／男朋友”，怎么回答 %}
+- {% post_link 10面试技巧/出去面试被领导发现了，怎么办 %}
+- {% post_link 10面试技巧/如何回答：你目前有没有其他家的面试／Offer %}
+- {% post_link 10面试技巧/填资料时要我写个“工作证明人”，写谁的名字为好 %}
+- {% post_link 10面试技巧/如何改行做项目经理月7千跳2万 %}
 
 - [HR 问“你到底想从事哪个行业”，怎么回答？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493479&idx=2&sn=407a8c165ed84687f0fb554902bedde1&chksm=e96e4ca6de19c5b05a0d21690e5def596d23d3a9d83c291f0f800bf8cee3a654e01011b2b5f4&scene=21#wechat_redirect)
 

@@ -675,7 +675,7 @@ recommend: false
 - {% post_link 20女性专场/怎样识别渣男？恋爱前识人更重要 %}
 - {% post_link 20女性专场/男朋友想分手的征兆有哪些？女朋友会怎样提出分手呢 %}
 - {% post_link 20女性专场/失恋了，怎么办 %}
-[女孩，为何长大了想做医生？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247494159&idx=1&sn=111bea43eaba019b9fe74055306c3fc1&chksm=e96e41cede19c8d8e08d785fed4f5539dcb2dc65a45f19953682fbae702951ce6ab5fc084623&scene=21#wechat_redirect)
+- {% post_link 20女性专场/女孩，为何长大了想做医生 %}
 
 ## **【21，同事如何相处？】**
 
@@ -701,51 +701,34 @@ recommend: false
 - {% post_link 21同事如何相处？/这个小习惯，让我的职场连续加薪晋级 %}
 - {% post_link 21同事如何相处？/上班为什么会勾心斗角的？跳槽能解决问题不 %}
 - {% post_link 21同事如何相处？/同事问我借钱，能不能借 %}
-
-
-- [同事之间，该如何相处？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484734&idx=1&sn=555c5fde943c945406a220c733f0224b&chksm=e96daeffde1a27e98833908cb0bef7eb77ad43af74d7f0902139f5741eddd1f4acc327f96a0d&scene=21#wechat_redirect)
-- [毕业十五年，你懂得了什么职场潜规则？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484634&idx=1&sn=1ffb500343ee66c548b5e274dbbf5352&chksm=e96daf1bde1a260d5032b707d64d2814fb2e4036882d4ff16a9f2f23f5f956303d6f8d2c32c4&scene=21#wechat_redirect)
-- [我 30 岁，都习惯单身了，“八卦”女同事们老给我安排女朋友，这咋回事？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484420&idx=1&sn=780d5462e9847ebb4786debf4625be40&chksm=e96dafc5de1a26d349696c5f59d9750a83cef83390e9069b45e97bd57e3f480ad94bbcd2ec35&scene=21#wechat_redirect)
-- [除了潜规则，玩转职场还有哪些“套路”？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484388&idx=1&sn=8e31d9acbdbaac1e47760879a007cde5&chksm=e96da825de1a21334fb86dcd797cd2a897bc87064bf89c3c9dcfe80d86235cac6891585ac218&scene=21#wechat_redirect)
-
-- [为什么都说工作之后真心朋友却变少了？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483865&idx=1&sn=c18724a8a09f52cbbdcd9a707c5f13bd&scene=21#wechat_redirect)
-
-- [日常工作中，你有没有被老员工刁难过啊？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247483764&idx=1&sn=90c42e2a06688e3d375e905e5bd782bd&scene=21#wechat_redirect)
-
-- [如何判断一个人是否靠谱？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484799&idx=1&sn=93a524acddb591fc6e7ddb481c978cdc&chksm=e96daebede1a27a8c555fd50849ae8325bff0b940877129dade1b3186c653aa905d73d0ed087&scene=21#wechat_redirect)
-
-- [回家的路上，同事发来消息让回去，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486002&idx=1&sn=1974e8e1dccd29233a2bb1c8f57b40a6&chksm=e96da1f3de1a28e5c57553d4952e1c683919e4662aecedbeb5b67006f86239dd6e3400903e2d&scene=21#wechat_redirect)
-
-- [同事，能不能算是朋友？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486192&idx=1&sn=f38c05a8746638eb56c82d0688ef4a34&chksm=e96da131de1a28271e545d21a7b9b2b1ad4003a1183e5841db723da87539ead7819b02919a15&scene=21#wechat_redirect)
-- [同事让我帮忙，如何才能优雅地拒绝？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487368&idx=1&sn=edcf6f23d15445a6648a218d2a0e7117&chksm=e96da449de1a2d5fa631d1d7885dd8a3a6211c9e37480a9c5ebeca4632c7aced27a80ffe0a80&scene=21#wechat_redirect)
-
-- [在体制内经常被人坑？我这里有一份“鉴婊指南”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487534&idx=1&sn=03ef055b50c4c1cbbc760776484b4cd8&chksm=e96dbbefde1a32f938710cf58305df07879f79d1b10ea334c025e669b3ff71c4a90fd310a836&scene=21#wechat_redirect)
-
-- [做人太老实，总被同事随意使唤， 4 个方法对抗职场“老油条”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488762&idx=1&sn=d2267b7663c70aa3869fccd20bf68ffc&chksm=e96dbf3bde1a362d7a1f9c394daf75f030b009d66c1e163db2b0d554d877d07d7e7b87bc5fdd&scene=21#wechat_redirect)
-
-- [单位女同事靠潜规则上位，我感到心理极度不平衡](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489502&idx=1&sn=1b46965043ef36d5b41315ae6af591d0&chksm=e96dbc1fde1a3509833efac533d23e65c18a0d4567356b53e2c270cf23532d14965422129f40&scene=21#wechat_redirect)
-
-- [饭局上，要不要给领导、老员工敬酒？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490247&idx=1&sn=5e1c5d458bc665b8da7543620ed47b6f&chksm=e96db106de1a38108118169df30df0927d7b08f2b179e06350099bfda1a2abc2ca23f6f68601&scene=21#wechat_redirect)
-
-- [饭局上，要不要给领导、老员工敬酒？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490247&idx=1&sn=5e1c5d458bc665b8da7543620ed47b6f&chksm=e96db106de1a38108118169df30df0927d7b08f2b179e06350099bfda1a2abc2ca23f6f68601&scene=21#wechat_redirect)
-- [为何有人一直说自己想换工作、要跳槽？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247493144&idx=3&sn=f00fc000f912e82dab41c4b6db9166ac&chksm=e96e4dd9de19c4cf690cb3433c56a7cba08b64838e908c2b672aa4f0335970373d99a3d28a69&scene=21#wechat_redirect)
-
-- [要不要内推前同事进自己目前的公司？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247494843&idx=2&sn=5635bfbfb3b9dcbaebb501e5a7cb890e&chksm=e96e477ade19ce6ce3e020cd0d075d552cf4e8e59c3d19af4ad0224203806bdd9a511c33e32a&scene=21#wechat_redirect)
-
-- [总被“老油条”同事随意使唤，该怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495086&idx=1&sn=3dfc85bae3b6608283dfc5a6ba3fe037&chksm=e96e466fde19cf79ef7379fe008df1e777323dbe97950065da6e71f5df8064e31da953b18df4&scene=21#wechat_redirect)
-- [同事请假，让我帮忙代班，我帮不帮？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495249&idx=2&sn=44d8449eb75d19ce04ef52c18f619c22&chksm=e96e4590de19cc8633b257037b11f8eef2f1e3e2c19fded0fec1b0b67a34c22163ee69476744&scene=21#wechat_redirect)
-- [在体制内经常被人坑？我这里有一份“鉴婊指南”](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487534&idx=1&sn=03ef055b50c4c1cbbc760776484b4cd8&chksm=e96dbbefde1a32f938710cf58305df07879f79d1b10ea334c025e669b3ff71c4a90fd310a836&scene=21#wechat_redirect)
+- {% post_link 21同事如何相处？/同事之间，该如何相处 %}
+- {% post_link 21同事如何相处？/毕业十五年，你懂得了什么职场潜规则 %}
+- {% post_link 21同事如何相处？/我30岁，都习惯单身了，“八卦”女同事们老给我安排女朋友，这咋回事 %}
+- {% post_link 21同事如何相处？/除了潜规则，玩转职场还有哪些“套路” %}
+- {% post_link 21同事如何相处？/为什么都说工作之后真心朋友却变少了 %}
+- {% post_link 21同事如何相处？/日常工作中，你有没有被老员工刁难过啊 %}
+- {% post_link 21同事如何相处？/如何判断一个人是否靠谱 %}
+- {% post_link 21同事如何相处？/回家的路上，同事发来消息让回去，怎么办 %}
+- {% post_link 21同事如何相处？/同事，能不能算是朋友 %}
+- {% post_link 21同事如何相处？/同事让我帮忙，如何才能优雅地拒绝 %}
+- {% post_link 21同事如何相处？/在体制内经常被人坑？我这里有一份“鉴婊指南” %}
+- {% post_link 21同事如何相处？/做人太老实，总被同事随意使唤，4个方法对抗职场“老油条” %}
+- {% post_link 21同事如何相处？/单位女同事靠潜规则上位，我感到心理极度不平衡 %}
+- {% post_link 21同事如何相处？/饭局上，要不要给领导、老员工敬酒 %}
+- {% post_link 21同事如何相处？/为何有人一直说自己想换工作、要跳槽 %}
+- {% post_link 21同事如何相处？/要不要内推前同事进自己目前的公司 %}
+- {% post_link 21同事如何相处？/总被“老油条”同事随意使唤，该怎么办 %}
+- {% post_link 21同事如何相处？/同事请假，让我帮忙代班，我帮不帮 %}
 
 ## **【22，汽车行业专题】**
 
 - 🔴 {% post_link 22汽车行业专题/汽车行业的工资，比其他行业大概高多少 %}
 - 🔴 {% post_link 22汽车行业专题/汽车行业未来三十年预测 %}
 - 🔴 {% post_link 22汽车行业专题/势商：接下来几年汽车是什么样子 %}
-
-- [汽车行业是整个制造业的标杆](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484076&idx=1&sn=a7ee282121a9943207d5518958960ced&chksm=e96da96dde1a207b8ceb4bb05c94dd26319ca46272513be15efa09f53c8f066998f4d39ca5de&scene=21#wechat_redirect)
-- [说一下跳到德尔福的经历：进了汽车行业，也是工资增幅最大的一次](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484230&idx=1&sn=7cccb56cae8d8becf4da10327db8e754&chksm=e96da887de1a2191d46545dd99401ea82d61abc980fba94e9c54594d2a8f55210918dc306485&scene=21#wechat_redirect)
-- [两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484370&idx=1&sn=f58475b57a6a470e74b641caee8c5e54&chksm=e96da813de1a21059a18d14e547aaf577eeadabfc7e977a1a4af2c4e3a5a365272639ad46bf8&scene=21#wechat_redirect)
-- [苹果会收购特斯拉吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485886&idx=1&sn=9b2ea5a831a52c19e87a9c96539f0f0b&chksm=e96da27fde1a2b6972222e757e5db6be4f58787daa7601a9d3990532efa4c146eb3af64e1430&scene=21#wechat_redirect)
+- {% post_link 22汽车行业专题/汽车行业是整个制造业的标杆 %}
+- {% post_link 05如何选企业/两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢 %}
+- {% post_link 22汽车行业专题/说一下跳到德尔福的经历：进了汽车行业，也是工资增幅最大的一次 %}
+- {% post_link 22汽车行业专题/苹果会收购特斯拉吗 %}
 
 ## **【23，采购职位入门】**
 
@@ -755,16 +738,15 @@ recommend: false
 - 🔴 {% post_link 23采购职位入门/为何这么多人改行做了采购 %}
 - {% post_link 23采购职位入门/如何改行去面试采购岗位 %}
 - {% post_link 23采购职位入门/他，是如何转行做采购的 %}
+- {% post_link 23采购职位入门/刚毕业时，我为何打死也不做采购员 %}
+- {% post_link 23采购职位入门/采购和供应链，是啥关系 %}
+- {% post_link 23采购职位入门/采购，有没有回扣 %}
+- {% post_link 23采购职位入门/采购岗位，优先录用哪些专业背景和工作经验的人 %}
+- {% post_link 23采购职位入门/中秋节供应商送来月饼，收不收 %}
+- {% post_link 23采购职位入门/做采购，需要考哪些证书 %}
+- [采购并不只是买东西，采购群的建立](https://mp.weixin.qq.com/s/mcNelMM2POxe9ivI_nbw0g)
 
-- [刚毕业时，我为何打死也不做采购员？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484623&idx=1&sn=2d5f006a8f446cc298208bfa32d5c0c6&chksm=e96daf0ede1a2618da180afba385bf46020ae56367f682b0c386f57ec95d151d738cbd4559b9&scene=21#wechat_redirect)
-- [采购和供应链，是啥关系？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484655&idx=1&sn=57643e6459bdfd9f3476b5690f2a7f2c&chksm=e96daf2ede1a2638271336c88ec1bd2d0b2749c7099084325efce373aaffbffcba26683add96&scene=21#wechat_redirect)
-- [采购是如何分工的，采购是不是都有回扣？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484837&idx=1&sn=ea635267c41b1f80e6be9819b2606bbb&chksm=e96dae64de1a27721c20b0238d5557bcae7f03f6341385d298c4611701a2b7b4c9d535a5945a&scene=21#wechat_redirect)
-- [采购岗位，优先录用哪些专业背景和工作经验的人？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484335&idx=1&sn=6901af1d0e582e7a1dc951d27f08f686&chksm=e96da86ede1a217865ce073eb7562252c4b176323c35e46bc8b4085fab0696e5a868986a0cc1&scene=21#wechat_redirect)
-- [采购并不只是买东西，采购群的建立](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486355&idx=1&sn=3bb0e83918bf5352d4638cdca21e7e89&chksm=e96da052de1a2944c67aa3232cac75fa4c2640588f01684fd06c8de4821cb161302f056a31a9&scene=21#wechat_redirect)
-- [中秋节供应商送来月饼，收不收？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487339&idx=1&sn=e2bf750e22738900982e5af6de5e7c5a&chksm=e96da4aade1a2dbca465a1e0aa818b20aed1bc218dbee35221a68cde65b1691e373bd4167b2c&scene=21#wechat_redirect)
-- [做采购，需要考哪些证书？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247494891&idx=1&sn=59fabd9215c693994caa041d0ceb040e&chksm=e96e472ade19ce3cca24f759ac887bb496d1eafe5a129f3b3bf07907aee0b3c60128bb09881f&scene=21#wechat_redirect)
-
-## **【24，房产私房菜】**
+## 【24，房产私房菜】
 
 - 🔴 {% post_link 24房产私房菜/为什么不要贸然投资房产 %}
 - 🔴 {% post_link 24房产私房菜/房贷最长40年，相较于30年，是好是坏 %}
@@ -779,28 +761,19 @@ recommend: false
 - {% post_link 24房产私房菜/父母为何不劝女儿买房 %}
 - {% post_link 24房产私房菜/昆山的房子，能不能买 %}
 - {% post_link 24房产私房菜/借钱，有没有什么优先顺序 %}
-
-- [房产税，能遏制高房价吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484726&idx=1&sn=6929f7742992e6575ef81a53b5a7c8ae&chksm=e96daef7de1a27e139c792d9fde05b041406f0f28999f336a072f2d30e51a6b24889d2ca9707&scene=21#wechat_redirect)
-- [接下来，房子还能买不？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484843&idx=1&sn=b7ca212d09919bcb25a3ca991fb6efd0&chksm=e96dae6ade1a277c406a894aa0902b1c1628cd7af832c9445fa1d039aac158d9bc4d10052473&scene=21#wechat_redirect)
-- [扬州属于苏南还是苏北？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484992&idx=1&sn=89043233fb7bc7e76e63298ebe685fcf&chksm=e96dad81de1a24970125ebc606a1c001224adff6251e0f39fab44ecba5313ffcb6f2ba38e976&scene=21#wechat_redirect)
-- [你觉得房价会崩盘吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485045&idx=1&sn=218b8c167c09a0ebbffcdca22c279921&chksm=e96dadb4de1a24a2be3d683ff8edd5af4bbd93c8ef135f2f44c23eea562bf3e36561ab089b11&scene=21#wechat_redirect)
-- [三线城市的房价还会再翻倍？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485217&idx=1&sn=d50542ef4c86fd8f1dbe9209779e1983&chksm=e96dace0de1a25f66fdd6295dd928125daf74da20c4ba6a9525fd69344371f453f2d8aee47a9&scene=21#wechat_redirect)
-- [嘉兴的房子，能不能买？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485744&idx=1&sn=295c32d02f65994b483ecb2e9583906a&chksm=e96da2f1de1a2be78862547d36e5eedfda046ffad865d20ac5d32dc60451891f7af7effcf020&scene=21#wechat_redirect)
-
-
-- [上海租房攻略](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247487710&idx=1&sn=d871e23b985fdf3fe9ad65fdf249facb&chksm=e96dbb1fde1a320998d4f4ef0d11f8a800cae410e54679e17b42a7b63011d1b5354ecefe489c&scene=21#wechat_redirect)
-
-- [刚毕业，父母就出首付给你买了房，你还贷，好不好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488138&idx=1&sn=4f4ecf5b2610c3b20ed8334c22d0241e&chksm=e96db94bde1a305df881d09ae79a0fb4110bd002a970e229976a4b269abbc8be1e74238fbb45&scene=21#wechat_redirect)
-
-- [谈下疫情下的房产以及购房心得](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489378&idx=2&sn=f23579258f739ec6911e42c08ede26d0&chksm=e96dbca3de1a35b57025513cbdcffbc58c03e8e3faf1578a9a5e0d0607a890ba120ded490d77&scene=21#wechat_redirect)
-
-- [南京买房攻略](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489438&idx=2&sn=2e40fee8cfcc502c6733208e7418904c&chksm=e96dbc5fde1a3549863b14d0761a28b2705641cc05f4d3a95ed4071f0ce4cda3ef1dc7ee7da3&scene=21#wechat_redirect)
-
-- [刚需买房计算器以及苏州买房分析](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489642&idx=3&sn=363178e94e24016d439c90a9f9f9f787&chksm=e96db3abde1a3abd3f61751d1053f6c807d14680bd5e160d8c9c91ffb9e19eae5287350a45bf&scene=21#wechat_redirect)
-
-- [女孩买婚前第一套房，如何向亲戚借钱才能提高成功概率？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489980&idx=2&sn=e0ad36fe9b9e2fc5f7b4d766f522daba&chksm=e96db27dde1a3b6bc806a0f6c15db0d389c0307fa569d5d5016b002194fa0da44bbdc8f237fa&scene=21#wechat_redirect)
-
-- [贷款尚未还清的房子，可以卖吗？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247496304&idx=1&sn=03326263b9e844675509733fa913e0da&chksm=e96e59b1de19d0a78caadafccae88c9e2ea844d20ca958c5b1ca1869edbcfc4a0e280c088803&scene=21#wechat_redirect)
+- {% post_link 24房产私房菜/房产税，能遏制高房价吗 %}
+- {% post_link 24房产私房菜/接下来，房子还能买不 %}
+- {% post_link 24房产私房菜/扬州属于苏南还是苏北 %}
+- {% post_link 24房产私房菜/你觉得房价会崩盘吗 %}
+- {% post_link 24房产私房菜/希望三线城市房价别再翻番 %}
+- {% post_link 24房产私房菜/嘉兴的房子，能不能买 %}
+- {% post_link 24房产私房菜/上海租房攻略 %}
+- {% post_link 24房产私房菜/刚毕业，父母就出首付给你买了房，你还贷，好不好 %}
+- {% post_link 24房产私房菜/谈下疫情下的房产以及购房心得 %}
+- {% post_link 24房产私房菜/南京买房攻略 %}
+- {% post_link 24房产私房菜/刚需买房计算器以及苏州买房分析 %}
+- {% post_link 24房产私房菜/女孩买婚前第一套房，如何向亲戚借钱才能提高成功概率 %}
+- {% post_link 24房产私房菜/贷款尚未还清的房子，可以卖吗 %}
 
 ## **【25，年代秀&**真人秀**】**
 

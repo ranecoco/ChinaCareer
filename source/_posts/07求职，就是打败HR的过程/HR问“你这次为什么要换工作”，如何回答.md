@@ -85,6 +85,6 @@ cover: img/auto_cover/a11a518ee0c5.svg
 1. [面试官问你“有没有女朋友/男朋友”，怎么回答](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486117&idx=1&sn=71a39b1748b82ee8ad82532148bb1208&chksm=e96da164de1a2872285c19b5c221722221e95b63d2dacdee689146493dea9ee1e3cbe79473ca&scene=21#wechat_redirect)？
 2. [投外企，是用中文简历还是英文简历](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486338&idx=1&sn=e1e7072221c560e6eb97e124c2a60156&chksm=e96da043de1a295521a1370bfdd2cef5e02e2b87f5188f4d0fab3ddff429ed9f68509931fbc9&scene=21#wechat_redirect)？
 3. [“谁的青春不迷茫”，解药是什么](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484667&idx=1&sn=7fe9d3f54f99dae9ff54c1bb137f4922&chksm=e96daf3ade1a262c95d9f6c8ac177af9e8e9159a95fb93131ea201aa937d98a6297628a42d52&scene=21#wechat_redirect)？
-4. [我因为爱情而换了城市](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484700&idx=1&sn=35219ed32495334a375a48877b4b1dcc&chksm=e96daeddde1a27cb5f9e05f28455ebedc36e72153e2985170188a37e5ba3b026b67a26787efa&scene=21#wechat_redirect)
+4. {% post_link 03如何选择城市/我因为爱情而换了城市 %}
 5. [究竟是选择高工资，还是大公司](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486436&idx=1&sn=635903247b0dc05c20e160c709412c4d&chksm=e96da025de1a29339183257fc2481af59f70052e21b76a1883516e858dffc60787cf3f881bf1&scene=21#wechat_redirect)？
 

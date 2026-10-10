@@ -97,6 +97,7 @@ recommend: false
 - {% post_link 02什么是中国的职业规划？/宁静而致远：窗外三更雨，灯前万里心 %}
 - {% post_link 02什么是中国的职业规划？/鸡汤，为何是自媒体时代的硬通货 %}
 - {% post_link 02什么是中国的职业规划？/体制内跳出来，进入体制外，有哪些特点 %}
+[老公年薪百万，我该如何职业规划？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537988&idx=1&sn=ca4f951e148008b5a71e56eb62b34629&scene=21#wechat_redirect)
 
 ## 【03，如何选城市？】
 
@@ -252,6 +253,7 @@ recommend: false
 - {% post_link 06如何选职务/讲师和培训师属于企业的哪个部门 %}
 - {% post_link 06如何选职务/单位里升职最快的，是哪个部门 %}
 - {% post_link 06如何选职务/如何内部转岗 %}
+[曾做过总监，有必要低就主管甚至职员岗位吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247542573&idx=1&sn=4fb6de518c1085e2a935c7ee98c05998&scene=21#wechat_redirect)
 
 ## **【07，求职，就是打败 HR 的过程】**
 
@@ -355,7 +357,7 @@ recommend: false
 - 🔴 {% post_link 10面试技巧/面试了15家，为何没有一个offer %}
 - 🔴 {% post_link 10面试技巧/这家公司的终面我都通过了，最终为何还被淘汰？ %}
 - 🔴 {% post_link 10面试技巧/无死角搞定面试 %}
-
+离职原因总回答得不好，怎么办
 - {% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}
 - {% post_link 10面试技巧/还没面试,就让我做性格测试交方案做PPT，要不要做？ %}
 - {% post_link 10面试技巧/在加拿大边留学边找工作的经验 %}
@@ -384,6 +386,12 @@ recommend: false
 - {% post_link 10面试技巧/HR问“你到底想从事哪个行业”，怎么回答 %}
 - {% post_link 10面试技巧/怎么回答：“你在目前公司待了好多年，为何没有升职” %}
 - {% post_link 10面试技巧/“感觉你对我们这个职位不是太感兴趣，是不是这样” %}
+[被辞退，在求职时说什么离职原因？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247545010&idx=1&sn=ea6d6c5e12878513b0b0da7fc20f3909&scene=21#wechat_redirect)
+[离职原因能说“工作职责不清，两个领导不合”吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247545328&idx=1&sn=97ab577d4dc3dd6c3686b83d155ec0a4&scene=21#wechat_redirect)
+[入职11个月，出去面试说什么离职原因呢？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544369&idx=1&sn=bbf44e82235f047b2458d99db2b50f51&scene=21#wechat_redirect)
+[“家人生病”可以作为离职原因吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247533126&idx=2&sn=bf293af4b252da05102e0385944735f2&scene=21#wechat_redirect)
+[离职原因能不能说自己要搬家？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247509228&idx=2&sn=2d0b47fffe79547f080776d8d1890bbc&scene=21#wechat_redirect)
+[几年前被裁员/辞退，那次离职原因该如何解释？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247503631&idx=2&sn=72e6131a12645e4f7a3fd24936326187&scene=21#wechat_redirect)
 
 ## **【11，工资行情和 Offer 谈判】**
 
@@ -446,6 +454,7 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/五天八小时工作制，究竟是朝九晚五，还是朝九晚六 %}
 - {% post_link 11工资行情和Offer谈判/谈工资时，是跟对方谈月薪，还是谈年薪 %}
 - {% post_link 11工资行情和Offer谈判/工资，一般讲税前还是税后 %}
+[为何有人在上海 工资才5000？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544817&idx=1&sn=78110448e08f0f3380dc3a7cfb908e7f&scene=21#wechat_redirect)
 
 ## **【12，辞职秘笈】**
 
@@ -1084,11 +1093,13 @@ recommend: false
 - {% post_link 30职场互动/南京的工资怎么样 %}
 - {% post_link 30职场互动/湖北人印象 %}
 - {% post_link 30职场互动/幽哥群友聚会全程记录 %}
-
+工作内容没什么沉淀，怎么办
 - [今年第一次线下聚会：周末适合当面聊人生](https://mp.weixin.qq.com/s/DSY4xPMgKth6akUwN3H2Sw)
 - [五一长假线下聚会](https://mp.weixin.qq.com/s/FdYWnqI6BuYMQsUqMYk_wQ)
 - [聚会兼谈 11 月 23 号出生是什么样的职业性格](https://mp.weixin.qq.com/s/2eudsvXMfz1e39sNZruPeA)
 - [我为什么平时不收红包？](https://mp.weixin.qq.com/s/uwbMKDbsa7OPF-UzWzv-CQ)
+
+[阳澄湖之旅](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247533507&idx=2&sn=ab7aac06a6e3e05924b6d4320ac2a10e&scene=21#wechat_redirect)
 
 ## 31，付费高价值干货汇总
 

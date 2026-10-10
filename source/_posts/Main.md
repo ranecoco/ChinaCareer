@@ -45,6 +45,7 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/为何每年都是最难就业季 %}
 - {% post_link 01学历不重要？能力更重要？/读个第二学位，有没有帮助 %}
 - {% post_link 01学历不重要？能力更重要？/念MBA到底有没有用？价值体现在哪些方面 %}
+  <!-- 在职硕士获取难度加大，个人谨慎评估再报名 -->
 - {% post_link 01学历不重要？能力更重要？/在职硕士，为何就是个大坑 %}
 - {% post_link 01学历不重要？能力更重要？/读研的七种方法 %}
 - {% post_link 01学历不重要？能力更重要？/多大岁数提升学历算来不及了，或者叫做“晚了” %}
@@ -69,14 +70,11 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/本科毕业两年了，今年要不要考研？或者考教师编 %}
 - {% post_link 01学历不重要？能力更重要？/女朋友为何不支持我考研？老公为什么反对我读MBA %}
 - {% post_link 01学历不重要？能力更重要？/本科生年入百万的康庄大道 %}
-
-
-4.  [在职硕士获取难度加大，个人谨慎评估再报名！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484906&idx=1&sn=aa37e3cb868b071a9010d25924674025&chksm=e96dae2bde1a273dcadac3621fbeb811a7d6ffbeae92116b22e78b414d0e983a68751733190a&scene=21#wechat_redirect)
-
-13.  [工作多年后，该不该去脱产读研、深造、提升学历？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247500613&idx=2&sn=aca8af544922a92e530919e7c4c46e72&chksm=e96e6884de19e1920ac03313425d757a85299ac7649c598e9683bd4335ffe025d441ea8c8460&scene=21#wechat_redirect)
+- {% post_link 01学历不重要？能力更重要？/工作多年后，该不该去脱产读研、深造、提升学历 %}
+- {% post_link 01学历不重要？能力更重要？/看下影响：今年硕士扩招18.9万人，专升本扩招32.3万人 %}
 
 15.  [学历的飞跃](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247510576&idx=1&sn=40ef2c8988321c585735dbe24650a252&chksm=e96e01f1de1988e7b2aafbbe72915c25e9a56c4dd47da9b55f34fc9c40e2ac606199da28b694&scene=21#wechat_redirect)
-
+[申请港澳全日制硕士研究生，流程分解！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495839&idx=2&sn=d09afe36730c1f7057841480c4270f13&chksm=e96e5b5ede19d24869d4e44bf7cc5c2ca3b7ac561b1b149b21af6d121bd258bfe65c768b144f&scene=21#wechat_redirect)
 [获得硕士学位的7种方法](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247508571&idx=1&sn=ad0e97dce7934a5d49c7d84da0ac1558&chksm=e96e099ade19808c1579f81bda1e93769dd90432aa3fd8bd158091add99e582795ee0b63df4a&scene=21#wechat_redirect)
 [哪一年报考公务员，以硕士研究生为主？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247512930&idx=1&sn=e99df015b7e3901666f0d0fe5c95daf3&chksm=e96e18a3de1991b5f31a100b6e342ad4949853110c662c3ae29bb5f1a69eb8ca86a0b89bd985&scene=21#wechat_redirect)
     [有没有性价比最高的留学选择？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247511343&idx=2&sn=bdadcccd9514a8243cb3e828d9f967f1&chksm=e96e06eede198ff830cccfe4d25be1057c2729b443385eeb5c41d648e2b08b0d895cef7bdac3&scene=21#wechat_redirect)
@@ -84,6 +82,7 @@ recommend: false
 
 ## **【02，什么是中国的职业规划？】**
 
+    <!-- 一个领悟，少走十年弯路 -->
 - 🔴 {% post_link 02什么是中国的职业规划？/你是刘备，但你也是诸葛亮 %}
 - 🔴 {% post_link 02什么是中国的职业规划？/刚毕业，你别跟我谈年薪 %}
 - 🔴 {% post_link 02什么是中国的职业规划？/中国，到底有没有职业规划 %}
@@ -273,7 +272,8 @@ recommend: false
 - {% post_link 07求职，就是打败HR的过程/如何回答“你现在还在职吗” %}
 - {% post_link 07求职，就是打败HR的过程/HR问“你这次为什么要换工作”，如何回答 %}
 - {% post_link 07求职，就是打败HR的过程/愤青，为什么不会求职 %}
-[人事要你先辞职，再发Offer，要答应吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537349&idx=1&sn=62caecc85a75c4e327bef0de17cb1307&scene=21#wechat_redirect)
+- {% post_link 07求职，就是打败HR的过程/人事要我先辞职，再发Offer，要答应吗 %}
+- {% post_link 07求职，就是打败HR的过程/面试时向部门报低价，向人事报高价，是不是有矛盾 %}
 
 ## **【08，简历制作秘笈】**
 
@@ -458,10 +458,11 @@ recommend: false
 
 - {% post_link 12辞职秘笈/你根本不知道：跳槽是门技术活，要求还蛮高 %}
 - {% post_link 12辞职秘笈/裸辞的五大硬伤：为什么要找到工作再辞职 %}
-- {% post_link 12辞职秘笈/刚辞职，新单位却取消了Offer，怎么破 %}
 - {% post_link 12辞职秘笈/什么情况下，你会毫不犹豫地辞职 %}
 - {% post_link 12辞职秘笈/提出辞职后，领导不让走，洗脑+戴高帽+打情感牌，我该如何招架 %}
-[新公司突然发来《取消录用通知》，我怎么办？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247519788&idx=2&sn=bb723be3e0d235d71acdd56d8d006ae3&scene=21#wechat_redirect)
+- {% post_link 12辞职秘笈/新公司突然取消了Offer怎么办 %}
+- {% post_link 12辞职秘笈/刚辞职，新单位却取消了Offer，怎么破 %}
+- {% post_link 12辞职秘笈/新公司突然发来《取消录用通知》，我怎么办 %}
 - {% post_link 12辞职秘笈/刚辞职，新单位取消了Offer，怎么办 %}
 - {% post_link 12辞职秘笈/职场蛙｜离职证明，是个什么鬼 %}
 - {% post_link 12辞职秘笈/求职、面试、辞职后，你告诉父母不 %}
@@ -729,7 +730,6 @@ recommend: false
 - {% post_link 05如何选企业/两个“通用”哪个好？是进通用电气（GE）还是通用汽车（GM）呢 %}
 - {% post_link 22汽车行业专题/说一下跳到德尔福的经历：进了汽车行业，也是工资增幅最大的一次 %}
 - {% post_link 22汽车行业专题/苹果会收购特斯拉吗 %}
-[**势商：接下来几年汽车行业是什么样子？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484775&idx=1&sn=ca2a94baf4ae3fa07807c52eecf2234e&chksm=e96daea6de1a27b012764e5774de9f72b0d47d11e8d5413d8f82fbfabe7391c678b05e3cef2d&scene=21#wechat_redirect)
 
 ## **【23，采购职位入门】**
 
@@ -959,21 +959,13 @@ recommend: false
 - {% post_link 27职场生活技艺/第1次买车，为何不买二手车 %}
 - {% post_link 27职场生活技艺/上海为何没有六年级 %}
 - {% post_link 27职场生活技艺/李娜为何不让老公做自己的教练 %}
-
-- [李娜为何不让老公做自己的教练？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484911&idx=1&sn=395adeff57e00e720add37a5e0857362&chksm=e96dae2ede1a27386ad7c2198a6dfa906113bcc38544f8ffc147749f3f931a947eec610360da&scene=21#wechat_redirect)
-
-- [大学同学聚会，你去不去？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485617&idx=1&sn=8371c491a3f4825ddf4a3c59455c07f4&chksm=e96da370de1a2a66ca91523a59fbd8e709429ff8bdf6b4ddc94b63e7aaddd44201f668599e75&scene=21#wechat_redirect)
-
-- [结婚后，你生不生二胎？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486463&idx=1&sn=c0c65ba15bb54a410ded5eb6e72b17d7&chksm=e96da03ede1a2928c546ce6caf99401fe5a613e9939f0df1154c7fce7aa2131fe20ce2fbb3aa&scene=21#wechat_redirect)
-
-- [正值事业上升期，怀孕了该怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486746&idx=1&sn=fdbb0c4f58efec0b20c8bb83ac9842e0&chksm=e96da6dbde1a2fcdf94f771c171ab5d9a7adc1da44d4d9d722023661c90e1cd8795dc230f671&scene=21#wechat_redirect)
-- [父母为何要买按摩椅？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488100&idx=2&sn=b936a7ee4f8f330ee6824a792a09282f&chksm=e96db9a5de1a30b3fc91c60354da2a713c4f93452c2ac6f96870282f5e5392971843b323e2c0&scene=21#wechat_redirect)
-
-- [如何判别一个人的真实财富情况？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488171&idx=2&sn=7707bd6d1ac72cc58b604593d76f3612&chksm=e96db96ade1a307c09f8d9470793e232218078c7864b8b1c7c847b1018e2a92d3816fb1ce739&scene=21#wechat_redirect)
-
-- [低调做人，高调做事？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490458&idx=1&sn=cd78be6504e0a62e347f32e090334c42&chksm=e96db05bde1a394dd8558400378cbc92490c40cc5723dc5c1c326898517c8f9646b07f7ce827&scene=21#wechat_redirect)
-
-- [有时感觉很痛苦，活着没意思，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491837&idx=2&sn=cae5582095cc332c6de20186c46f4685&chksm=e96e4b3cde19c22abacb098ee8283fb57a6a1a81386331e51cfc69e08dd98bd01a1427782311&scene=21#wechat_redirect)
+- {% post_link 27职场生活技艺/大学同学聚会，你去不去 %}
+- {% post_link 27职场生活技艺/结婚后，你生不生二胎 %}
+- {% post_link 27职场生活技艺/正值事业上升期，怀孕了该怎么办 %}
+- {% post_link 27职场生活技艺/父母为何要买按摩椅 %}
+- {% post_link 27职场生活技艺/如何判别一个人的真实财富情况 %}
+- {% post_link 27职场生活技艺/低调做人，高调做事 %}
+- {% post_link 27职场生活技艺/有时感觉很痛苦，活着没意思，怎么办 %}
 
 ## **【28，宏观职场】**
 
@@ -982,22 +974,19 @@ recommend: false
 - {% post_link 28宏观职场/拜和特，最终谁能当选 %}
 - {% post_link 28宏观职场/你听过“特朗普”吗？（DonaldJTrump）巅峰对决：看下你选谁 %}
 - {% post_link 28宏观职场/为何出生人口下降这么多 %}
-
-- [中美贸易战，对普通职场人有什么影响？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484703&idx=1&sn=d1ad51e905effdb506c90f20716a43ab&chksm=e96daedede1a27c898f3ab5dc7563a44199c5b5c31ae8b862f26a8c208bcc5b0c88c9eb899a7&scene=21#wechat_redirect)
-- [亚洲的贫富差距，在全球处于什么位置？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484573&idx=1&sn=d14ff7eb0dcb0e0e742705e92264d793&chksm=e96daf5cde1a264a5bc5cb0a993ed598cac24d5933178dae85e4bd169e98a3f455554ec1108a&scene=21#wechat_redirect)
-- [S-400 是啥，中文名叫什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484555&idx=1&sn=556fdcf347d00111ce4d287f7d32b238&chksm=e96daf4ade1a265c410e2dd9fc3a814440a20fd8c6f15ea8889fa02e399a736cc0e1fe2e7e87&scene=21#wechat_redirect)
-- [东北人与山东人，谁的官本位思想更重？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484698&idx=1&sn=e8f64d769099128fde58364a1547ca2a&chksm=e96daedbde1a27cdd3730ee949299d8aa1d9e3f583ccf29c1ec8dd85a7ae572b3545699211a8&scene=21#wechat_redirect)
-- [男性为何每月也要交生育保险？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484845&idx=1&sn=e9edab7a0416084c81520da63b37fd95&chksm=e96dae6cde1a277a6457f8f7c3ef0fa752c5039db3c939d2f153e5a934c17fea849572961c76&scene=21#wechat_redirect)
-- [生活中充满违约金，该上还得上！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484768&idx=1&sn=9b286d55a23c993a0bd47e87e1cb688e&chksm=e96daea1de1a27b74c26d813aa526236910c2807f9d4820ee892255cf2213c372012b8d8ded1&scene=21#wechat_redirect)
-- [2040 年的超级大国是谁？印度？澳大利亚？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484770&idx=1&sn=d8abbeccbaeac7ebefb0c0d297f99d1b&chksm=e96daea3de1a27b507eaf6f88de4e2f39e2fb42e28d306bb4f3496e12c77b23c66e39d5b46cb&scene=21#wechat_redirect)
-- [职场老是焦虑，怎么办？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484835&idx=1&sn=5d9d9c366dfcce351818adbd80538389&chksm=e96dae62de1a277497926f88aa1e8ff096b477685af6733ce1777f272c2447317724a0026c05&scene=21#wechat_redirect)
-- [你每月到手工资即将增加 2%，是喜是忧？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484832&idx=1&sn=23531c5844db90648cc5116829b1679c&chksm=e96dae61de1a27772c771f5ec2c0a8c4eb36e35435d2c84df0d380e7068eb69e42750c1a1b38&scene=21#wechat_redirect)
-- [小米这次为何没能在 A 股上市？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485013&idx=1&sn=81371c664e94ac676e238558aabab501&chksm=e96dad94de1a248252ef17bc07491318f1833bd861bd47e06bdbb5e90c669d614f688072aa1c&scene=21#wechat_redirect)
-
-- [从客观的角度，看非典的影响](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489106&idx=2&sn=fc38bc8f635c8d645a0a2ac8bdfaa4e5&chksm=e96dbd93de1a3485408f546dfff5238592ab7e68dcb464f1d11380544350427f473f3afb28b6&scene=21#wechat_redirect)
-
-- [2020 中国经济增长率，大概多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490106&idx=2&sn=2ba6679234e7c6c82f678534043a0470&chksm=e96db1fbde1a38ed9167aa9bac0c6960299f7e9f3b203e26c2be7df043859b8cfe706bb391bc&scene=21#wechat_redirect)
-- [看下海归回国以及当前国内的宏观就业情况](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495868&idx=1&sn=9686c14748df61ff59fd2818eb1eda26&chksm=e96e5b7dde19d26b2af73eaf0fdf2cd563515c5b8632c5644543cc3df956783da468efda7f55&scene=21#wechat_redirect)
+- {% post_link 28宏观职场/中美贸易战，对普通职场人有什么影响 %}
+- {% post_link 28宏观职场/亚洲的贫富差距，在全球处于什么位置 %}
+- {% post_link 28宏观职场/S-400是啥，中文名叫什么 %}
+- {% post_link 28宏观职场/东北人与山东人，谁的官本位思想更重 %}
+- {% post_link 28宏观职场/男性为何每月也要交生育保险 %}
+- {% post_link 28宏观职场/生活中充满违约金，该上还得上 %}
+- {% post_link 28宏观职场/2040年的超级大国是谁？印度？澳大利亚 %}
+- {% post_link 28宏观职场/职场老是焦虑，怎么办 %}
+- {% post_link 28宏观职场/你每月到手工资即将增加2％，是喜是忧 %}
+- {% post_link 28宏观职场/小米这次为何没能在A股上市 %}
+- {% post_link 28宏观职场/从客观的角度，看非典的影响 %}
+- {% post_link 28宏观职场/2020中国经济增长率，大概多少 %}
+- {% post_link 28宏观职场/看下海归回国以及当前国内的宏观就业情况 %}
 
 ## **【29，势商和人生规划】**
 
@@ -1058,16 +1047,11 @@ recommend: false
 - {% post_link 29势商和人生规划/跳槽的目的是什么 %}
 - {% post_link 29势商和人生规划/单亲家庭的人，如何选择职业道路 %}
 - {% post_link 29势商和人生规划/单亲家庭的人，如何选择城市 %}
-
-
-- [我同学开了个 30 来人的公司，他一年大概赚多少？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247491458&idx=1&sn=65e71003773e15755404f2067e82d159&chksm=e96db443de1a3d55bd052b89e47bbca2b0935b9dea170c3fdf7242986902c0a9a4b8ef1dcb46&scene=21#wechat_redirect)
-
-- [毕业后工作 5 年了，再去读研，是不是不太好？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495744&idx=1&sn=12a4e71a500e507145574d394ce15a72&chksm=e96e5b81de19d297175f0deabb18a434474b414cbc556f041e0c047944c7367bcc99bdbbb8dd&scene=21#wechat_redirect)
-
-
-- [职场人，多大岁数最幸福？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497067&idx=1&sn=47bdf068384021f9981f6095a08661ee&chksm=e96e5eaade19d7bc17e8d4b61c6df61807cab4996981e3f2d8de404c2964cf99d0db0d7f4a7f&scene=21#wechat_redirect)
-
-- [事业逆袭这最后一公里，如何打通？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486602&idx=1&sn=1fa0a91c7cdb84e4fe08e9ea97abb2c9&chksm=e96da74bde1a2e5d190d223ef90044ad63481cb08d247fc11de49fab8d591ae0d426bc0c492f&scene=21#wechat_redirect)
+- {% post_link 29势商和人生规划/我同学开了个30来人的公司，他一年大概赚多少 %}
+- {% post_link 29势商和人生规划/毕业后工作5年了，再去读研，是不是不太好 %}
+- {% post_link 29势商和人生规划/职场人，多大岁数最幸福 %}
+- {% post_link 29势商和人生规划/找老公，挑家里有弟弟的还是家里有哥哥的，哪个更好一点 %}
+- {% post_link 29势商和人生规划/挑女朋友，是找家里有哥哥的好，有弟弟的好，有妹妹的好，还是独生女好 %}
 
 ### 老家
 
@@ -1087,31 +1071,24 @@ recommend: false
 - {% post_link 30职场互动/一个中层管理者的述职与团建感悟 %}
 - {% post_link 30职场互动/跳槽涨薪五成甚至翻倍，为何他们能做到 %}
 - {% post_link 30职场互动/从宝洁的退市，来看势商发展和北京交友群 %}
+- {% post_link 30职场互动/职场信息交流，算不算社交 %}
+- {% post_link 30职场互动/第一次视频互动，分享职场干货 %}
+- {% post_link 30职场互动/幽哥答疑专用贴2018 %}
+- {% post_link 30职场互动/你的青春，并不孤单 %}
+- {% post_link 30职场互动/广州到深圳，有多远 %}
+- {% post_link 30职场互动/如果你做公众号，为了什么 %}
+- {% post_link 30职场互动/幽哥2019线下聚会，我的几点感悟 %}
+- {% post_link 30职场互动/职场蛙资料和幽哥咨询小结 %}
+- {% post_link 30职场互动/十八年群管理心得分享 %}
+- {% post_link 30职场互动/成都十年 %}
+- {% post_link 30职场互动/南京的工资怎么样 %}
+- {% post_link 30职场互动/湖北人印象 %}
+- {% post_link 30职场互动/幽哥群友聚会全程记录 %}
 
-- [职场信息交流，算不算社交？（互动版本）](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484756&idx=1&sn=b5574891d79a4e50dea92ae8cf2c0df5&chksm=e96dae95de1a278342e2308c100b95c82f6a8f489810e7b5e241438ce2e8f22be55ccf11e9f7&scene=21#wechat_redirect)
-- [第一次视频互动，分享职场干货！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484760&idx=1&sn=91b5b3b6818eb906df28a91e93decf03&chksm=e96dae99de1a278f5eb5d925a805afec2bbe9635f2c6f22070b1ed11913bbaf84df729055c2a&scene=21#wechat_redirect)
-- [幽哥答疑专用贴 2018](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484614&idx=1&sn=f4133d973ed86e974e3a74e52f8f94e5&chksm=e96daf07de1a26118cff4b2e5456b78caf44a35372529783e1a840b39083d4f6be2e89abac5e&scene=21#wechat_redirect)
-- [今年第一次线下聚会：周末适合当面聊人生](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484971&idx=1&sn=336c9ffd813de1a5fbb1d5c2c6509cf6&chksm=e96dadeade1a24fc09c1ca743a9266bbfac9335d07c9adc62f4991679909abbc417d291d2ca8&scene=21#wechat_redirect)
-- [你的青春，并不孤单！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485109&idx=1&sn=40a0d58391f95fc5aa5cedb7af24c8ee&chksm=e96dad74de1a2462461ed1b35c6e2878cccf162a55618a3b39c041f0f53278285614ceb561be&scene=21#wechat_redirect)
-- [广州到深圳，有多远？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486072&idx=1&sn=e31ab605f307757b97c57acae711bf58&chksm=e96da1b9de1a28af47901304a06a50fd880ed18bdaf41e07d013221823017088182cc01540c6&scene=21#wechat_redirect)
-- [从宝洁的退市，来看势商发展和北京交友群](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486145&idx=1&sn=dd350f8985b165422f2cfd1463ebab28&chksm=e96da100de1a2816ec788ff65230ed81ef84334c1f1289b6e20a7d12564bb188cb496a99e754&scene=21#wechat_redirect)
-- [如果你做公众号，为了什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486392&idx=1&sn=35080e57efbb5fb2d5153ffab5ba8a72&chksm=e96da079de1a296fb281f1b9eef8226b2c99337a3671595ef4d0e5830e3c1f2ba50fbb7ed087&scene=21#wechat_redirect)
-- [五一长假线下聚会](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247486397&idx=1&sn=3c2cf6cb8992b36b9f9876b694ad770c&chksm=e96da07cde1a296abeb7ce2fb4f93560c8174d22b74cd0cd5c2e9d882d57a9dc31b34e35367c&scene=21#wechat_redirect)
-
-- [聚会兼谈 11 月 23 号出生是什么样的职业性格](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488015&idx=2&sn=91e6fc9f460f102026a5a2ef521c84df&chksm=e96db9cede1a30d8c07aac310616e0ced88bec8f43da91b12ad461561f55109aef49e68a3d9f&scene=21#wechat_redirect)
-
-- [幽哥 2019 线下聚会，我的几点感悟](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488054&idx=1&sn=b8593d6c76cdbd5ddef35283ed2c04f2&chksm=e96db9f7de1a30e132461ddefd7fc02da4c2dc5db6569515dd240d590231dec4b08fde3fb9b4&scene=21#wechat_redirect)
-
-- [我为什么平时不收红包？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488889&idx=1&sn=5c2f6edaadb93b7587e3baf49151164c&chksm=e96dbeb8de1a37aecfcacbf80b1e5ba182602fd4cc762231613a124a6012e32859bfdbc2b837&scene=21#wechat_redirect)
-
-- [职场蛙资料和幽哥咨询小结](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247488949&idx=2&sn=2f9c590d74208b3f1e18e80e1f6c8313&chksm=e96dbe74de1a37620a7ac12f2ca56009250cce48aa9e05c27728448490bef1128b97f6f503e4&scene=21#wechat_redirect)
-
-- [十八年群管理心得分享？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247489541&idx=1&sn=92e1fe9c5588c6b490603a22aa617344&chksm=e96db3c4de1a3ad215ea5ef69ba6d21709dd5910f60e7ff3875578e673ed8f5849f7439344e6&scene=21#wechat_redirect)
-
-- [成都十年](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247490201&idx=3&sn=8aef12ba49ed8d578fc3de50bf9952a2&chksm=e96db158de1a384ebe1638610c45bd71c53a1521c28c5d60e1b2b2735e6001d914033c988dd8&scene=21#wechat_redirect)
-- [南京的工资怎么样？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247492548&idx=2&sn=82e08b837c20eafd94180f4eba068eaf&chksm=e96e4805de19c113f2843f8e6025b51c569b57b373ee856112396194099d56810f411c867d82&scene=21#wechat_redirect)
-- [湖北人印象](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247494247&idx=2&sn=21f0a485f0d8ec0b404e112672a967b6&chksm=e96e41a6de19c8b0c774a45390c0ec31c5f108fe0d4f5bab1d79b78aedbf63f9683a6d4b2ffc&scene=21#wechat_redirect)
-- [幽哥群友聚会全程记录](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247497118&idx=2&sn=c9cf4297d5b00cd18c0713553da231bb&chksm=e96e5e5fde19d74986981ef09f6718756936fa9a56fb6d541419e5fe8615b65cad3198a9917f&scene=21#wechat_redirect)
+- [今年第一次线下聚会：周末适合当面聊人生](https://mp.weixin.qq.com/s/DSY4xPMgKth6akUwN3H2Sw)
+- [五一长假线下聚会](https://mp.weixin.qq.com/s/FdYWnqI6BuYMQsUqMYk_wQ)
+- [聚会兼谈 11 月 23 号出生是什么样的职业性格](https://mp.weixin.qq.com/s/2eudsvXMfz1e39sNZruPeA)
+- [我为什么平时不收红包？](https://mp.weixin.qq.com/s/uwbMKDbsa7OPF-UzWzv-CQ)
 
 ## 31，付费高价值干货汇总
 

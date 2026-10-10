@@ -12,31 +12,31 @@ place:
 cover: img/auto_cover/559351926991.svg
 ---
 
-**前天我们用双语介绍了**​**“权力的游戏”，“Game of thrones”，今天我们不良费时间，直接来看下现实版的。**
+**前天我们用双语介绍了****“权力的游戏”，“Game of thrones”，今天我们不良费时间，直接来看下现实版的。**
 
 预测：谁将成为美国下届总统？ 单选
 
 ![](http://mmbiz.qpic.cn/mmbiz/fz30ZSHjl8YNjBcRia2TvFfebaicUTrDhqxicZsqHWDSPaYXIbyYWOpAyMhsWa3aGtf8sJmGT9iaWKXiahU1RNEPOicQ/300?wxfrom=101&wx_fmt=jpeg)
 
-希拉里​
+希拉里
 
 16票43%
 
 ![](http://mmbiz.qpic.cn/mmbiz/fz30ZSHjl8YNjBcRia2TvFfebaicUTrDhq2DToVeARdCs8AYd8av58tNMeGSOwhEIAz8WroQYZFiaiccv3oqEuRvEw/300?wxfrom=101&wx_fmt=jpeg)
 
-特朗普​
+特朗普
 
 12票32%
 
 ![](http://mmbiz.qpic.cn/mmbiz/fz30ZSHjl8YNjBcRia2TvFfebaicUTrDhqFxWZibxhJ3YNGl4SFMJOibibib7PYlC2azJiakzXS9GxvialzcZdCdzJuIWQ/300?wxfrom=101&wx_fmt=jpeg)
 
-这俩都不行，换人！​
+这俩都不行，换人！
 
 9票24%
 
 投票已过期
 
-无论你是否关心，这人从今天开始将不断在你的手机上刷屏，可能刷一年，也可能超过十一年。他叫做​**唐纳德·特朗普（Donald Trump）**​，1946年6月14日生于美国纽约，是个商人。我们给大家做个最简单的科普，3分钟即可，以后你也不会再去问别人了。
+无论你是否关心，这人从今天开始将不断在你的手机上刷屏，可能刷一年，也可能超过十一年。他叫做**唐纳德·特朗普（Donald Trump）**，1946年6月14日生于美国纽约，是个商人。我们给大家做个最简单的科普，3分钟即可，以后你也不会再去问别人了。
 
 > 好笑的是，因为此人迅速成了名人，且可能明年初就入主美国白宫，早在去年初中国人就用人家的中文名注册公司了，武汉特朗普电器，长沙特朗普游戏机，深圳特朗普投资，运城特朗普纺织有限公司，长治特朗普碳刷公司，等等，估计上百家企业名被注册了。
 
@@ -60,7 +60,7 @@ cover: img/auto_cover/559351926991.svg
 
 ![Image]()
 
-​**另一位总统候选者是谁？美国民主党候选人，希拉里**​，不必多说了，希拉里·克林顿（Hillary Diane Rodham Clinton，1947年10月26日-），美国第67任国务卿，前联邦参议员，美国第42届43届总统比尔·克林顿的妻子。
+**另一位总统候选者是谁？美国民主党候选人，希拉里**，不必多说了，希拉里·克林顿（Hillary Diane Rodham Clinton，1947年10月26日-），美国第67任国务卿，前联邦参议员，美国第42届43届总统比尔·克林顿的妻子。
 
 ![Image]()
 
@@ -74,7 +74,7 @@ cover: img/auto_cover/559351926991.svg
 
 ![Image]()
 
-这可能又是一场远比预期更加激烈的巅峰对决。这份在线民调的结果，势必让希拉里(Hillary Clinton)阵营提高警觉，而不敢再对特朗普(Donald Trump)之前所谓的不专一和非典型选战掉以轻心。这份全国性民调显示，​**41%的美国人支持希拉里，40%支持特朗普**​，尚有19%的人未做判断。
+这可能又是一场远比预期更加激烈的巅峰对决。这份在线民调的结果，势必让希拉里(Hillary Clinton)阵营提高警觉，而不敢再对特朗普(Donald Trump)之前所谓的不专一和非典型选战掉以轻心。这份全国性民调显示，**41%的美国人支持希拉里，40%支持特朗普**，尚有19%的人未做判断。
 
 美国建国差不多240年，政治体制已经成熟，无论谁做总统，对大趋势不会做出改变，也许对我们中国的个人关系并不大。但或许影响也不小，你试试看，假如你来选，你投谁？本文开头选题，请你参与一下，也许结果出人意料。
 

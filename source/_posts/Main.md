@@ -39,7 +39,6 @@ recommend: false
 - 🔴 {% post_link 01学历不重要？能力更重要？/本科毕业和研究生毕业，有什么区别 %}
 - 🔴 {% post_link 01学历不重要？能力更重要？/普通人，要不要考公务员 %}
 
-
 - {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
 - {% post_link 01学历不重要？能力更重要？/毕业几年后，怎样去加拿大留学 %}
 - {% post_link 01学历不重要？能力更重要？/为何每年都是最难就业季 %}
@@ -47,6 +46,7 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/念MBA到底有没有用？价值体现在哪些方面 %}
   <!-- 在职硕士获取难度加大，个人谨慎评估再报名 -->
 - {% post_link 01学历不重要？能力更重要？/在职硕士，为何就是个大坑 %}
+  <!-- 获得硕士学位的7种方法 -->
 - {% post_link 01学历不重要？能力更重要？/读研的七种方法 %}
 - {% post_link 01学历不重要？能力更重要？/多大岁数提升学历算来不及了，或者叫做“晚了” %}
 - {% post_link 01学历不重要？能力更重要？/考研成绩出来了，下一步怎么办 %}
@@ -72,13 +72,11 @@ recommend: false
 - {% post_link 01学历不重要？能力更重要？/本科生年入百万的康庄大道 %}
 - {% post_link 01学历不重要？能力更重要？/工作多年后，该不该去脱产读研、深造、提升学历 %}
 - {% post_link 01学历不重要？能力更重要？/看下影响：今年硕士扩招18.9万人，专升本扩招32.3万人 %}
-
-15.  [学历的飞跃](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247510576&idx=1&sn=40ef2c8988321c585735dbe24650a252&chksm=e96e01f1de1988e7b2aafbbe72915c25e9a56c4dd47da9b55f34fc9c40e2ac606199da28b694&scene=21#wechat_redirect)
-[申请港澳全日制硕士研究生，流程分解！](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495839&idx=2&sn=d09afe36730c1f7057841480c4270f13&chksm=e96e5b5ede19d24869d4e44bf7cc5c2ca3b7ac561b1b149b21af6d121bd258bfe65c768b144f&scene=21#wechat_redirect)
-[获得硕士学位的7种方法](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247508571&idx=1&sn=ad0e97dce7934a5d49c7d84da0ac1558&chksm=e96e099ade19808c1579f81bda1e93769dd90432aa3fd8bd158091add99e582795ee0b63df4a&scene=21#wechat_redirect)
-[哪一年报考公务员，以硕士研究生为主？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247512930&idx=1&sn=e99df015b7e3901666f0d0fe5c95daf3&chksm=e96e18a3de1991b5f31a100b6e342ad4949853110c662c3ae29bb5f1a69eb8ca86a0b89bd985&scene=21#wechat_redirect)
-    [有没有性价比最高的留学选择？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247511343&idx=2&sn=bdadcccd9514a8243cb3e828d9f967f1&chksm=e96e06eede198ff830cccfe4d25be1057c2729b443385eeb5c41d648e2b08b0d895cef7bdac3&scene=21#wechat_redirect)
-[留学如何选学校？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247509985&idx=1&sn=ca1d82048a010031d6e846b8e22ff1e2&chksm=e96e0c20de19853611c8251a42f8eea3bd4ab35d39182d2a73a39706ce21cc6c599e4c2f5f8b&scene=21#wechat_redirect)
+- {% post_link 01学历不重要？能力更重要？/学历的飞跃 %}
+- {% post_link 01学历不重要？能力更重要？/申请港澳全日制硕士研究生，流程分解 %}
+- {% post_link 01学历不重要？能力更重要？/哪一年报考公务员，以硕士研究生为主 %}
+- {% post_link 01学历不重要？能力更重要？/被裁后去读个研究生怎么样？有没有性价比最高的留学选择 %}
+- {% post_link 01学历不重要？能力更重要？/留学如何选学校 %}
 
 ## **【02，什么是中国的职业规划？】**
 
@@ -143,8 +141,9 @@ recommend: false
 - {% post_link 03如何选择城市/小城市，如何找工作 %}
 - {% post_link 03如何选择城市/职场蛙和幽哥的哪些文章，不受待见 %}
 - {% post_link 03如何选择城市/招聘过程中挑选候选者时，为何本地人优先 %}
-3. [你在一座城市做过最孤独的事是什么？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484636&idx=1&sn=d739946492b2301a4a926aee7023d62c&chksm=e96daf1dde1a260baf32b486fb03bea1f83821a0e3a98866610d24e8ff726e73df4c908fa69f&scene=21#wechat_redirect)
-20. [青岛、日照、景德镇、哈尔滨，哪里更宜居？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485366&idx=1&sn=0edbbcb294cee6b3d088e878ba589e35&chksm=e96dac77de1a25619d49cf0331065108623e9d5731c01828ad9c225a90b144cf6bb63a3ded21&scene=21#wechat_redirect)
+- {% post_link 03如何选择城市/独生子女，如何选择定居城市 %}
+- {% post_link 03如何选择城市/你在一座城市做过最孤独的事是什么 %}
+- {% post_link 03如何选择城市/青岛、日照、景德镇、哈尔滨，哪里更宜居 %}
 
 ## **【04，如何选行业？】**
 
@@ -216,6 +215,7 @@ recommend: false
 - {% post_link 05如何选企业/为什么说“离职见人品” %}
 - {% post_link 05如何选企业/通用电气（GE）为何被踢出了道琼斯 %}
 - {% post_link 05如何选企业/从几号发工资，就能看出一家企业的好坏 %}
+- {% post_link 05如何选企业/去一线城市是进国企好，还是外企好，民企私企呢 %}
 
 ## **【06，如何选职务？】**
 
@@ -296,7 +296,6 @@ recommend: false
 - {% post_link 08简历制作秘笈/简历应该如何修改，才更漂亮 %}
 - {% post_link 08简历制作秘笈/如何写出一份优秀的英文简历 %}
 - {% post_link 08简历制作秘笈/求职失败最大的原因是，自己没招过人 %}
-
 
 ## **【09，简历投递秘笈】**
 
@@ -656,7 +655,6 @@ recommend: false
 - 🔴 {% post_link 20女性专场/女生30岁之前要做的事情 %}
 - 🔴 {% post_link 20女性专场/女孩，如何树立正确的婚恋观 %}
 - 🔴 {% post_link 20女性专场/女孩，如何考虑后半生和养老 %}
-
 
 - ￥ {% post_link 20女性专场/嫁给独生子好，还是嫁给家里有兄弟姐妹的更好 %}
 - ￥ {% post_link 20女性专场/女孩如何考虑婚姻和生育，才能获得更好的职业发展 %}

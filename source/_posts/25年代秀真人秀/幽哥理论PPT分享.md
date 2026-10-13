@@ -12,6 +12,11 @@ place: Shanghai
 cover: img/auto_cover/146f4d25aed6.svg
 ---
 
+## 2021-5-18 
+
+第五章：背景调查攻略
+{% dplayer "url=招聘流程中的背景调查.mp4" %}
+
 ##  2020-11-25 23:28
 
 [猎头不都是免费了吗？怎么会有收费的猎头呢？](https://www.zhihu.com/zvideo/1315069293508505600)

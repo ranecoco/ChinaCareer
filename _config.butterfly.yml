@@ -978,9 +978,9 @@ CDN:
   custom_format:
 
   option:
-    # Butterfly 4.5 用的是 mermaid.mermaidAPI.render(id, def, cb)，v10+ 已移除，
-    # 所以必须锁 9.x，否则 CDN.version: false 会拉到 latest(v11) 直接报错
-    mermaid: https://cdn.jsdelivr.net/npm/mermaid@9.1.5/dist/mermaid.min.js
+    # 用大版本范围（@12），jsDelivr 会自动解析到最新的 12.x，随 mermaid 小版本/补丁自动升级。
+    # 若要彻底锁定，改成 mermaid@12.2.0；若要永远追最新（含跨大版本，有破坏风险），改成 @latest。
+    mermaid: https://cdn.jsdelivr.net/npm/mermaid@12/dist/mermaid.min.js
     # main_css:
     # main:
     # utils:

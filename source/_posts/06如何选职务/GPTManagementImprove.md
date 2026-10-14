@@ -10,7 +10,7 @@ description:
 account: 
 recommend: false
 place: Shanghai
-cover: im
+cover: img/auto_cover/57121a239be2.svg
 ---
 
 > 适用方向：软件项目经理、技术项目经理、研发项目经理、游戏项目管理

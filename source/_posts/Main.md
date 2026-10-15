@@ -405,6 +405,9 @@ recommend: false
 - {% post_link 10面试技巧/几年前被裁员／辞退，那次离职原因该如何解释 %}
 - {% post_link 10面试技巧/接了很多面试电话，却为何没有面试机会 %}
 - {% post_link 10面试技巧/Offer多了后，怎么办 %}
+- {% post_link 10面试技巧/突然接到外企面试，一般人如何在短时间内提升口语能力 %}
+
+[突然接到外企面试，一般人如何在短时间内提升口语能力？（干货-建议收藏）](https://mp.weixin.qq.com/s/LrC60GVPsb8XFHqQZWTNeg)
 
 ## **【11，工资行情和 Offer 谈判】**
 
@@ -1008,6 +1011,12 @@ recommend: false
 - {% post_link 27职场生活技艺/如何判别一个人的真实财富情况 %}
 - {% post_link 27职场生活技艺/低调做人，高调做事 %}
 - {% post_link 27职场生活技艺/有时感觉很痛苦，活着没意思，怎么办 %}
+- {% post_link 27职场生活技艺/我为什么要学习精益 %}
+- {% post_link 27职场生活技艺/笨、傻、蠢有什么区别 %}
+- {% post_link 27职场生活技艺/原来花里胡哨的职业生涯，和按部就班没差 %}
+[我为什么要学习精益？](https://mp.weixin.qq.com/s/DIz0XiPrAqB6EizuHZ9MnQ)
+[笨、傻、蠢有什么区别？](https://mp.weixin.qq.com/s/L_2SinkiFZL37CFOHGLmQg)
+[原来花里胡哨的职业生涯，和按部就班没差](https://mp.weixin.qq.com/s/pJsJDt1OOgS8_evexUITtA)
 
 ## **【28，宏观职场】**
 
@@ -1138,7 +1147,7 @@ recommend: false
 - {% post_link 30职场互动/幽哥群友聚会全程记录 %}
 - {% post_link 30职场互动/工作内容没什么沉淀，怎么办 %}
 - {% post_link 30职场互动/阳澄湖之旅 %}
-
+[原来花里胡哨的职业生涯，和按部就班没差](https://mp.weixin.qq.com/s/pJsJDt1OOgS8_evexUITtA)
 - [今年第一次线下聚会：周末适合当面聊人生](https://mp.weixin.qq.com/s/DSY4xPMgKth6akUwN3H2Sw)
 - [五一长假线下聚会](https://mp.weixin.qq.com/s/FdYWnqI6BuYMQsUqMYk_wQ)
 - [聚会兼谈 11 月 23 号出生是什么样的职业性格](https://mp.weixin.qq.com/s/2eudsvXMfz1e39sNZruPeA)

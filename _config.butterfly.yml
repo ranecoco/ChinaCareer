@@ -678,7 +678,10 @@ blog_title_font:
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
   enable: true
-  icon: '\3423' # the unicode value of Font Awesome icon, such as '\3423'
+  # 必须是 Font Awesome 的码位（U+F000–U+F8FF）。原来写的 '\3423' 是汉字「㐣」，
+  # FA6 里根本没有这个字形，所以分隔线上的图标显示不出来。
+  # '\f0c4' = fa-scissors（主题默认值）。想换别的图标去 fontawesome.com 查 unicode 填这里。
+  icon: '\f0c4'
   icon-top:
 
 # the subtitle on homepage (主頁subtitle)
@@ -982,6 +985,10 @@ CDN:
     # 用大版本范围（@12），jsDelivr 会自动解析到最新的 12.x，随 mermaid 小版本/补丁自动升级。
     # 若要彻底锁定，改成 mermaid@12.2.0；若要永远追最新（含跨大版本，有破坏风险），改成 @latest。
     mermaid: https://cdn.jsdelivr.net/npm/mermaid@12/dist/mermaid.min.js
+    # 本地自托管 Font Awesome 6.7.2（source/fontawesome/），不再依赖 jsDelivr。
+    # 必须用 6.x：主题 function.styl 把 .fontawesomeIcon 的 font-family 写死成
+    # 'Font Awesome 6 Free'，用 FA7 时分隔线等走 CSS content 的图标会全部失效。
+    fontawesomeV6: /fontawesome/css/all.min.css
     # main_css:
     # main:
     # utils:

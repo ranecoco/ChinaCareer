@@ -63,6 +63,9 @@ marked:
   prependRoot: true
   postAsset: true
 
+# ECharts CDN（```echarts 围栏用，改版本/换源改这里）
+echarts_cdn: https://cdn.jsdelivr.net/npm/echarts@6/dist/echarts.min.js
+
 relative_link: false
 future: true
 highlight:

@@ -91,8 +91,9 @@ search:
 # (false 需要時加載，須在使用的 Markdown Front-matter 加上 mathjax: true)
 
 # MathJax
+# per_page: false 表示按需加载 —— 需要公式的文章在 front-matter 加一行 mathjax: true
 mathjax:
-  enable: false
+  enable: true
   per_page: false
 
 # KaTeX

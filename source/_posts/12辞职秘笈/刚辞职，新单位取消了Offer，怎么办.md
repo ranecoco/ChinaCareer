@@ -9,7 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/EI66zkU-ahG4EMvEj2I2aw
 description: 
 account: JumpFrog
 place: 
-cover: img/aut
+cover: img/auto_cover/038d346b3441.svg
 ---
 
 **人类**发展至今，科技日新月异，人文也到了高深莫测的时候。

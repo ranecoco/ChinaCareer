@@ -9,7 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/P2N5LuZAgWItqN7zMXbCjg
 description: 
 account: JumpFrog
 place: 
-cover: img/aut
+cover: img/auto_cover/eaeaa5a63b8e.svg
 ---
 
 **本**篇只讲一个知识，这个知识点很简单，但是比较容易出错，大家要注意下。

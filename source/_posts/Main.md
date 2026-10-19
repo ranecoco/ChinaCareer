@@ -306,6 +306,7 @@ recommend: false
 - {% post_link 08简历制作秘笈/如何写出一份优秀的英文简历 %}
 - {% post_link 08简历制作秘笈/求职失败最大的原因是，自己没招过人 %}
 - {% post_link 08简历制作秘笈/非全本科在简历上能直接写“本科”吗 %}
+- {% post_link 08简历制作秘笈/简历上要不要写期望职位 %}
 
 ## **【09，简历投递秘笈】**
 
@@ -408,7 +409,7 @@ recommend: false
 - {% post_link 10面试技巧/Offer多了后，怎么办 %}
 - {% post_link 10面试技巧/突然接到外企面试，一般人如何在短时间内提升口语能力 %}
 - {% post_link 10面试技巧/明天有个视频面试，今天准备什么 %}
-[如何准备面试和开头的自我介绍？](https://mp.weixin.qq.com/s/zIWv52EXtfot6mWxb-lo5Q)
+- {% post_link 10面试技巧/如何准备面试和开头的自我介绍 %}
 
 ## **【11，工资行情和 Offer 谈判】**
 
@@ -512,7 +513,7 @@ recommend: false
 <!-- 新公司要我2月底报到，但老公司要拖到3月中才放我走，怎么办？ -->
 - {% post_link 12辞职秘笈/领导拖着我不让我离职，怎么办 %}
 - {% post_link 12辞职秘笈/新公司要月初报到，但领导要拖我到月底，我怎么办 %}
-[什么情况下你该换工作了](https://mp.weixin.qq.com/s/H8fgjkxzxktG27qP3jq08A)
+- {% post_link 12辞职秘笈/什么情况下你该换工作了 %}
 
 ## **【13，背景调查】**
 
@@ -694,7 +695,9 @@ recommend: false
 - {% post_link 19如何跟领导相处？/有没有必要给领导送礼 %}
 - {% post_link 19如何跟领导相处？/给领导送礼，有何讲究 %}
 - {% post_link 19如何跟领导相处？/职场解密：领导通过别人给我传达工作任务，到底什么意思 %}
-[如何应对刁钻难搞的女领导](https://mp.weixin.qq.com/s/oPGDn3rXrj69HE4XxI5TsQ)
+- {% post_link 19如何跟领导相处？/如何提出加薪 %}
+- {% post_link 19如何跟领导相处？/如何应对刁钻难搞的女领导 %}
+
 ## **【20，女性专场】**
 
 - 🔴 {% post_link 20女性专场/婚姻悲剧和杭州案件，对职场人的启示 %}
@@ -715,7 +718,7 @@ recommend: false
 - {% post_link 20女性专场/什么叫假独生女现象 %}
 - {% post_link 20女性专场/为何离婚的人越来越多 %}
 - {% post_link 20女性专场/姐弟恋的4大注意点 %}
-- {% post_link 20女性专场/女孩，如何才能不做“伏地魔” %}
+- {% post_link 20女性专场/女孩，如何才能不做“伏弟魔”、“伏哥魔” %}
 - {% post_link 20女性专场/生娃，对职业生涯到底有多大影响 %}
 - {% post_link 20女性专场/过年回家被父母催婚，如何应对 %}
 - {% post_link 20女性专场/两个女人一台戏 %}
@@ -742,6 +745,7 @@ recommend: false
 - 🔴 {% post_link 21同事如何相处？/同事不配合我的工作，怎么办 %}
 - 🔴 {% post_link 21同事如何相处？/有个同事不干活，领导让我代劳，要答应吗 %}
 - 🔴 {% post_link 21同事如何相处？/领导让我帮关系户干活，怎么办 %}
+- 🔴 {% post_link 21同事如何相处？/女孩，如何才能不做“伏弟魔”、“伏哥魔” %}
 
 - {% post_link 21同事如何相处？/平级同事对我的工作指手画脚，我要配合吗 %}
 - {% post_link 21同事如何相处？/同事都比我学历高，我该怎么办？ %}
@@ -977,6 +981,7 @@ recommend: false
 - 🔴 {% post_link 27职场生活技艺/如何判断一个男生能否结婚 %}
 - 🔴 {% post_link 27职场生活技艺/男孩如何挑老婆 %}
 <!-- 女孩找什么样的男孩为好, 在大城市找什么样的男孩为好？ -->
+<!-- 女孩如何找对象 女孩，如何挑老公 -->
 - 🔴 {% post_link 27职场生活技艺/女孩找什么样的对象为好 %}
 - 🔴 {% post_link 27职场生活技艺/挑对象最重要的标准，有哪些 %}
 - 🔴 {% post_link 27职场生活技艺/人性里的核心科技 %}
@@ -987,17 +992,19 @@ recommend: false
 
 - {% post_link 27职场生活技艺/心得分享：在上海工作生活了4年，我从未损失过一天的房租 %}
 - {% post_link 27职场生活技艺/租房心得 %}
+- {% post_link 27职场生活技艺/《职场宝典》的正确打开方式 %}
+- {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
+
 - {% post_link 27职场生活技艺/职业人生中的情绪成本 %}
 - {% post_link 27职场生活技艺/办公室搞政治斗争，我要不要参与站队 %}
 - {% post_link 27职场生活技艺/非211，985毕业，如何在职场中实现弯道超车 %}
 - {% post_link 27职场生活技艺/分手分不掉，怎么办 %}
+- {% post_link 27职场生活技艺/如何找对象 %}
 - {% post_link 27职场生活技艺/婚姻对女孩的好处有哪些 %}
 - {% post_link 27职场生活技艺/找对象，是不是找房子越多的越好 %}
 - {% post_link 27职场生活技艺/什么是假独生子女 %}
 - {% post_link 27职场生活技艺/想买个洗碗机，但家人反对，怎么办 %}
 - {% post_link 27职场生活技艺/突然生病了，怎么办 %}
-- {% post_link 27职场生活技艺/《职场宝典》的正确打开方式 %}
-- {% post_link 27职场生活技艺/PUA究竟是搭讪艺术家，还是精神控制法 %}
 - {% post_link 27职场生活技艺/相亲对象为何急着要你确认恋爱甚至婚姻关系 %}
 - {% post_link 27职场生活技艺/中秋国庆之间的3天想请假，为何领导不批 %}
 - {% post_link 27职场生活技艺/市场中的八大“求职困难户”，看看你在不在其中 %}
@@ -1009,10 +1016,10 @@ recommend: false
 - {% post_link 27职场生活技艺/如何在职场和人生中都做个“显眼包”（聚会感悟） %}
 - {% post_link 27职场生活技艺/懒人，如何提升学历 %}
 - {% post_link 27职场生活技艺/总监的生存法则 %}
-[在民企的生存法则一](https://mp.weixin.qq.com/s/uLrMZ-Prx-v8hqlfCwyP-Q)
-[在外企的生存法则一](https://mp.weixin.qq.com/s/Kf6zmidVDplBhd_zN_rCIA)
-[为什么我业绩好却不能升职加薪？](https://mp.weixin.qq.com/s/524P7U3XnC9jo3lAVAYjSA)
-[职场“避坑”指南](https://mp.weixin.qq.com/s/y6SFSBuC3UflwVVVyXeYpg)
+- {% post_link 27职场生活技艺/在民企的生存法则一 %}
+- {% post_link 27职场生活技艺/在外企的生存法则一 %}
+- {% post_link 27职场生活技艺/为什么我业绩好却不能升职加薪 %}
+- {% post_link 27职场生活技艺/职场“避坑”指南 %}
 - {% post_link 27职场生活技艺/遇到重大的人生挫折时，怎么办 %}
 - {% post_link 27职场生活技艺/工作中出现失误了，该怎么办 %}
 - {% post_link 27职场生活技艺/你多我少：人生不仅仅是工作和远方 %}
@@ -1041,6 +1048,7 @@ recommend: false
 - {% post_link 27职场生活技艺/我为什么要学习精益 %}
 - {% post_link 27职场生活技艺/笨、傻、蠢有什么区别 %}
 - {% post_link 27职场生活技艺/原来花里胡哨的职业生涯，和按部就班没差 %}
+
 - {% post_link 27职场生活技艺/规则反噬：所成就你的，必将毁灭你 %}
 - {% post_link 27职场生活技艺/职场规律：我们终将被人性毁灭，被时代抛弃 %}
 - {% post_link 27职场生活技艺/职场黑洞：你不能只把自己当人，把别人当狗 %}
@@ -1053,8 +1061,11 @@ recommend: false
 - {% post_link 27职场生活技艺/FindYourTruelove，如何准确锁定你的“灵魂伴侣” %}
 - {% post_link 27职场生活技艺/一个“完美情人”的自我修养 %}
 - {% post_link 27职场生活技艺/第一次相亲约会时应该聊什么 %}
+
 - {% post_link 27职场生活技艺/在约会交往时，如何判断一个人的人品 %}
-[五年不跳槽，实现内部涨薪翻倍的经历与感悟](https://mp.weixin.qq.com/s/RdMA2yPT8Wk5JDT5MQyo0A)
+- {% post_link 27职场生活技艺/过年期间不让回老家，怎么办 %}
+- {% post_link 27职场生活技艺/五年不跳槽，实现内部涨薪翻倍的经历与感悟 %}
+- {% post_link 27职场生活技艺/被忽视的“高大上”技能：InterculturalCompetence %}
 
 ## **【28，宏观职场】**
 
@@ -1190,12 +1201,13 @@ recommend: false
 - {% post_link 30职场互动/阳澄湖之旅 %}
 - {% post_link 30职场互动/谈价值投资 %}
 - {% post_link 30职场互动/生涯经营（聚会感悟下） %}
-[时间套利：不在惯性中沉沦](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544859&idx=1&sn=74c24956bff34f827a6835e4acc0744a&scene=21#wechat_redirect)
-[非标任务拆解：用工成本测算](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544771&idx=1&sn=fa58306b736e7851ad26fa9b5fd49ad0&scene=21#wechat_redirect)
-[AI多线程：你在焦虑中等待，他在排程中心流](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544692&idx=1&sn=60a18dbe6891c26311f5e9fb81251c0c&scene=21#wechat_redirect)
-[用“庖丁”法打磨出一份好简历！](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544624&idx=1&sn=3e4521557939e470cf64d498040497c6&scene=21#wechat_redirect)
-[从精益生产谈精力管理](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544609&idx=1&sn=07f45b64c5319ac8f23ee10d0fc84336&scene=21#wechat_redirect)
-[用质量管理的方法，拆解一次你的焦虑](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544559&idx=1&sn=08098f9d228230d2e32b5b9aa75f789b&scene=21#wechat_redirect)
+- {% post_link 30职场互动/时间套利：不在惯性中沉沦 %}
+- {% post_link 30职场互动/非标任务拆解：用工成本测算 %}
+- {% post_link 30职场互动/AI多线程：你在焦虑中等待，他在排程中心流 %}
+- {% post_link 30职场互动/用“庖丁”法打磨出一份好简历 %}
+- {% post_link 30职场互动/从精益生产谈精力管理 %}
+- {% post_link 30职场互动/用质量管理的方法，拆解一次你的焦虑 %}
+
 - [今年第一次线下聚会：周末适合当面聊人生](https://mp.weixin.qq.com/s/DSY4xPMgKth6akUwN3H2Sw)
 - [五一长假线下聚会](https://mp.weixin.qq.com/s/FdYWnqI6BuYMQsUqMYk_wQ)
 - [聚会兼谈 11 月 23 号出生是什么样的职业性格](https://mp.weixin.qq.com/s/2eudsvXMfz1e39sNZruPeA)

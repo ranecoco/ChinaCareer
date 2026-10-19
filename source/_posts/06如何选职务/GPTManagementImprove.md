@@ -2210,3 +2210,447 @@ HR：不能调人
 核心目标：
 
 > 从“我做过项目”升级为“我理解项目如何被规划、推进、控制风险并最终交付”。
+
+# Schneider PM
+
+## 130173
+
+工作描述
+Description - External
+
+> Manage the development of all project activities from the initiation to the closure, covering the scope of all Functions.
+
+> Develop, with the agile mindset and ways of working, the project execution to meet KPIs during the iteration of the project lifecycle.
+
+> Is responsible for defining & managing the project budget, resources and schedule.
+
+> Organize, build, lead, align and motivate the project team and synchronize the project team with the other teams.
+
+> Challenge the functions (including marketing) to take ownership of the project objectives
+
+> Get commitment from Project Stakeholders (Countries, Business Departments and/or BUs) to achieve Time to Market & Profit targets (resources, M€).
+
+> Lead the decision-making process at the project level and at the right time.
+
+> Identify the risks, issues and manage the associated corrective action plans.
+
+> Manage the overall project planning, organize arbitration and, in event of deviation, propose and implement corrective actions.
+
+> Provide the project evaluation and project status to management on a regular basis.
+
+> Potential to extend to lead league portfolio management and/or people management.
+
+ 
+
+Qualifications - External
+
+> Rich experience in offer creation project management; experience in 2 or more functions (Marketing or other positions with customer exposure, Design, Quality, Industrialization etc.) , or portofolio management would be a plus.
+
+> Agile mindsets and practices will be another plus. 
+
+> Competencies in project management, scheduling, finance in projects (ROI, COGS) and marketing; broad view on all discipline process
+
+> Knowledge in Electrical Distribution and its associated business model; knowledge in Low Voltage electrical products would be a plus.
+
+> Able to work with remote team members
+
+> Proactive leadership with international mindset
+
+> Entrepreneurship behavior
+
+> Strong communication skills
+
+> Fluent in English
+
+## 129712
+
+工作描述
+Job Responsibilities:
+
+> Manage the development of all project activities from the initiation to the closure, covering the scope of all Functions.
+
+> Develop, with the agile mindset and ways of working, the project execution to meet KPIs during the iteration of the project lifecycle.
+
+> Is responsible for defining & managing the project budget, resources and schedule.
+
+> Organize, build, lead, align and motivate the project team and synchronize the project team with the other teams.
+
+> Challenge the functions (including marketing) to take ownership of the project objectives
+
+> Get commitment from Project Stakeholders (Countries, Business Departments and/or BUs) to achieve Time to Market & Profit targets (resources, M€).
+
+> Lead the decision making process at the project level and at the right time.
+
+> Identify the risks, issues and manage the associated corrective action plans.
+
+> Manage the overall project planning, organize arbitration and, in event of deviation, propose and implement corrective actions.
+
+> Provide the project evaluation and project status to management on a regular basis.
+
+> Potential to extend to lead league portfolio management and/or people management.
+
+ 
+
+Quafilications:
+
+> Rich experience in offer creation project management; experience in 2 or more functions (Marketing or other positions with customer exposure, Design, Quality, Industrialization etc.) , or portofolio management would be a plus.
+
+> Agile mindsets and practices will be another plus. 
+
+> Competencies in project management, scheduling, finance in projects (ROI, COGS) and marketing; broad view on all discipline process
+
+> Knowledge in Electrical Distribution and its associated business model; knowledge in Low Voltage electrical products would be a plus.
+
+> Able to work with remote team members
+
+> Proactive leadership with international mindset
+
+> Entrepreneurship behavior
+
+> Strong communication skills
+
+> Fluent in English
+
+## 134640
+
+工作描述
+岗位职责：
+1.遵循公司新产品开发流程，负责全球跨职能团队，推动新产品和解决方案上市
+2.管理施耐德电气内部新产品开发及质量文档流程，确保工作符合新产品开发流程要求
+3.向团队传授敏捷新产品开发流程知识
+4.管理涉及部门或跨职能团队的项目，负责产品从概念到上市的全流程交付
+5.管理全球分布在多个时区和大陆的项目团队
+6.识别问题根源，提供解决方案以解决问题
+7.同时处理多个项目（最多三个或更多处于不同执行阶段的项目）
+8.与职能管理部门合作，为项目配备合适人员
+9.建立信任和共识，促进项目有效协作
+10.独立工作，无需或仅需少量监督
+11.提升企业竞争力
+
+任职要求：
+1.统招本科及以上学历
+2.5-10年工作经验
+3.具备普通话、英语语言能力
+4.熟悉新产品开发流程，有PMO相关经验
+
+## 131883
+
+工作描述
+Responsibilities:
+
+Manage the development of all project activities from the initiation to the closure, covering the scope of all Functions
+Develop, with the project team, the project management plan and keep it up to date during the life of the project.
+Is responsible for defining & managing the project budget, resources and schedule
+Organize, lead and motivate the project team and synchronize his team with the other teams.
+Lead the team to understand marketing requirements, implement it and validate it with the project team
+Challenge the functions to take ownership of the project objectives
+Lead the decision making process at the project level and at the right time
+Identify the risks, issues, and manage the associated corrective action plans
+Manage the overall project planning, participate arbitration and, in event of deviation, propose and implement corrective actions
+Provide the project evaluation and project status to management on a regular basis
+Requirements:
+
+1. Leadership: The ability to convince, encourage, influence people in cross-functions to achieve project target
+2. Sense of responsibility
+3. Excellent communication skills: Fluent in both oral & written English.
+4. Collaborative: Work well in a team with good interpersonal skills
+5. Self motivation: Be able to work under no supervision
+6. Commit to achieve results
+7. Always run towards problems, highlight the issues with no compromise
+8. Cross-Function: Sufficient knowledge on R&D, extended knowledge on marketing, Industrial & Purchasing. Basic knowledge on finance, people management and other relative knowledge.
+9. Technical background. Experience in project management for more than 5 years.
+
+## 137955
+
+Senior Scrum Master II
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+137955
+现场
+工作描述
+加入我们，担任高级敏捷教练，在充满活力的协作环境中带领敏捷团队交付高价值产品。你将主持仪式、指导团队、推动持续改进，同时管理复杂的跨职能依赖关系。
+
+
+你将做什么？
+
+领导敏捷仪式，包括冲刺规划、每日站会、评审和回顾会议，保持团队专注和动力
+与产品负责人协作，将战略愿景与冲刺执行对齐，确保按时交付承诺的工作
+与多个团队的敏捷教练和项目经理协调，管理依赖关系并创建集成交付计划
+通过指导团队掌握敏捷原则并跟踪速度和范围管理等关键指标，推动持续改进
+我们在寻找哪些关键技能？
+
+敏捷框架 — 高级水平；应用Scrum实践指导团队完成高价值产品发布
+持续改进 — 高级水平；指导团队反思流程并提升效率
+设计思维 — 高级水平；引导问题解决方法，推动创新和价值交付
+利益相关者管理 — 高级水平；协调产品负责人、领导层和跨职能团队的执行优先级
+教练辅导 — 中级水平；培养团队成员的技能并促进团队内部的自组织
+变革管理 — 中级水平；引导团队完成流程转型和敏捷采用
+冲突管理 — 中级水平；解决团队障碍并促进高效决策
+财务知识 — 中级水平；准备和管理项目预算，包括运营支出和资本支出的协调
+什么资质会让你成功？
+
+出色的引导技能，能够营造心理安全感并鼓励开放协作
+能够在模糊情况下独立做出明智决策
+具备服务型领导思维，专注于清除障碍并赋能团队
+卓越的沟通能力，能够影响组织各级利益相关者
+
+## 127594
+
+高级项目管理工程师-海事项目
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+127594
+现场
+工作描述
+OBJECTIVES / KEY RESPONSIBILITIES
+
+
+1. Manage schedule to make sure project on-time delivery. 
+2. Project P&L management and ensure cost and profit performance.
+3. Keep continuous communication with customer to well understand customer’s needs and ensure good customer satisfaction.
+4. Evaluate and well manage all potential risk to deliver the project smoothly. 
+5. Identify and manage change order to maximize Schneider benefit.
+6. Follow corporate policy and QMS in align with ISO quality requirements and other interested parties’ requirement strictly. 
+
+REQUIREMENT OF PROFESSIONAL EXPERIENCE
+
+
+1. Bachelor’s degree or above, electrical major, +5 years’ experience in marine segment. 
+2. Good power distribution system knowledge and marine requirement (Class regulation). 
+3. Good communication and convincing skills.
+4. Excellent interpersonal – relationship.
+5. Basic financial literacy. 
+6. Strong leadership within cross functional background.
+7. Project management certificate is preferred
+
+## 130369
+
+Incubation Project Manager
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+130369
+现场
+工作描述
+As the Incubation Project Manager, you will oversee the strategic alignment, prioritization, and execution of incubated product portfolios, combining Agile methodologies with end-to-end lifecycle management. Focused on incubation in protection and conversion products development, you will ensure optimal investment allocation, risk mitigation, and market competitiveness, and value delivery covering offer end to end lifecycle, driving innovation and market competitiveness in New Electrical Distribution business.
+
+Key Responsibilities: ​
+
+Leadership & Vision Alignment
+Champion the incubation project vision by translating strategic objectives into actionable Agile initiatives
+Foster an innovation-driven culture that balances rapid experimentation with disciplined execution
+Team Facilitation & Coaching
+Adapt Agile ceremonies to accommodate the unique needs of incubation projects (e.g., rapid prototyping cycles)
+Coach teams in lean startup methodologies alongside traditional Agile practices
+Stakeholder Management
+Manage expectations between corporate stakeholders and entrepreneurial project teams
+Develop dual-track roadmaps for both incubation validation and potential commercialization
+Adaptive Planning & Execution
+Implement lightweight governance for fast decision-making while maintaining investment oversight
+Design flexible resource allocation models to support pivots in project direction
+Risk & Performance Management
+Develop specific metrics for incubation success beyond traditional Agile KPIs (e.g., market validation signals)
+Implement stage-gate processes to assess project viability at key development milestones
+Continuous Improvement
+Institutionalize learnings from both successful and discontinued incubation projects
+Evolve the incubation playbook by incorporating best practices from venture-building methodologies
+Requirements​
+
+Ability to influence senior leadership in matrixed organizations.
+Global mindset to navigate cross-cultural teams.
+Short-term domestic and international travel (up to 20%) is required to align with vendors and stakeholders.
+
+## 134545
+
+HR Knowledge Management Program Leader
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+134545
+现场
+工作描述
+Key Responsibilities
+
+Define and Execute Global HR Knowledge Management Strategy
+Define the global KM vision, roadmap, operating model, maturity path, and success measures.
+Align KM priorities with HR transformation, employee experience, self-service, Process Excellence, and AI strategies.
+Prioritize investments and coordinate delivery across regions, functions, and technology partners; own business requirements, product backlog priorities, platform adoption, vendor contribution, and benefits realization.
+Drive Knowledge Governance and Compliance
+Own and evolve KM policies, standards, and operating procedures covering knowledge ownership, taxonomy, quality, approval, lifecycle, review cadence, access, and compliance.
+Clarify accountability with HR leaders and process owners and ensure alignment with regulatory and enterprise requirements.
+Use analytics and automation to identify stale, duplicate, conflicting, or missing content and trigger accountable remediation.
+Enhance Knowledge-Centered Service (KCS) Adoption
+Embed KCS or comparable knowledge-centered practices that promote creation in the flow of work, reuse, feedback, and continuous improvement.
+Build contributor and manager capability through training, coaching, communications, and communities of practice.
+Build an AI-Ready Knowledge Ecosystem and Lead Innovation
+Create trusted, structured, searchable, and reusable knowledge using fit-for-purpose taxonomy, metadata, semantic layers, ontologies, or knowledge graphs.
+Translate generative AI, retrieval-augmented generation, copilots, agents, semantic search, and virtual assistants into practical HR use cases embedded in employee workflows.
+Establish human oversight, output validation, privacy, security, and responsible-AI controls.
+Manage an innovation portfolio; test, learn, and scale solutions based on user value, feasibility, risk, and measurable outcomes.
+Measure Value and Drive Continuous Improvement
+Define dashboards and targets for quality, coverage, findability, usage, self-service, ownership, KCS maturity, AI readiness, employee satisfaction, and operational value.
+Convert performance trends and user feedback into prioritized improvements and executive recommendations.
+Stakeholders Management and Change Leadership
+Align HR leaders, knowledge owners, HR Services, Employee Experience, regional teams, and digital partners around common outcomes and accountabilities.
+Lead global change, communication, and adoption; influence senior stakeholders without direct authority.
+Key Responsibilities
+
+Define and Execute Global HR Knowledge Management Strategy
+Define the global KM vision, roadmap, operating model, maturity path, and success measures.
+Align KM priorities with HR transformation, employee experience, self-service, Process Excellence, and AI strategies.
+Prioritize investments and coordinate delivery across regions, functions, and technology partners; own business requirements, product backlog priorities, platform adoption, vendor contribution, and benefits realization.
+Drive Knowledge Governance and Compliance
+Own and evolve KM policies, standards, and operating procedures covering knowledge ownership, taxonomy, quality, approval, lifecycle, review cadence, access, and compliance.
+Clarify accountability with HR leaders and process owners and ensure alignment with regulatory and enterprise requirements.
+Use analytics and automation to identify stale, duplicate, conflicting, or missing content and trigger accountable remediation.
+Enhance Knowledge-Centered Service (KCS) Adoption
+Embed KCS or comparable knowledge-centered practices that promote creation in the flow of work, reuse, feedback, and continuous improvement.
+Build contributor and manager capability through training, coaching, communications, and communities of practice.
+Build an AI-Ready Knowledge Ecosystem and Lead Innovation
+Create trusted, structured, searchable, and reusable knowledge using fit-for-purpose taxonomy, metadata, semantic layers, ontologies, or knowledge graphs.
+Translate generative AI, retrieval-augmented generation, copilots, agents, semantic search, and virtual assistants into practical HR use cases embedded in employee workflows.
+Establish human oversight, output validation, privacy, security, and responsible-AI controls.
+Manage an innovation portfolio; test, learn, and scale solutions based on user value, feasibility, risk, and measurable outcomes.
+Measure Value and Drive Continuous Improvement
+Define dashboards and targets for quality, coverage, findability, usage, self-service, ownership, KCS maturity, AI readiness, employee satisfaction, and operational value.
+Convert performance trends and user feedback into prioritized improvements and executive recommendations.
+Stakeholders Management and Change Leadership
+Align HR leaders, knowledge owners, HR Services, Employee Experience, regional teams, and digital partners around common outcomes and accountabilities.
+Lead global change, communication, and adoption; influence senior stakeholders without direct authority.
+
+## 130540
+
+Scrum Master
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+130540
+现场
+工作描述
+Role & Responsibilities
+
+Ensure smooth execution of backlog within the agreed timebox in compliance with the OLM Milestones
+Guide the Squad focusing on creating high value releases within committed time and provide scheduling
+Partner with Product Owner to ensure strategy and execution alignment with League's and Squad's visions. Ensure together cross team collaboration.
+Coach and ensure that the Squad gains efficiency, increase performance and autonomy by understanding and applying OLM, and drive change and dependency management
+Ensure DoD and guardrails are created and relevant for the Squad/Team to drive proper execution
+Make sure a Squad lives the values and practices of Agility with mindset of embracing Change, be transparent and practice inspect and adapt relentlessly
+Facilitates all the Squad rituals and key events such as Sprint planning, Squad updates ( Daily or Weekly standup/ loop-in meeting/ Collaboration/ Short interval meetings etc.), Review & Retrospection and ensures all these are efficient & fruitful.
+Make sure the PPM is updated with latest info on Epic and data quality and manage the operational budget collaboratively with the PO.
+Provide progress status and escalate impediments on a regular basis
+Identify, escalate, and help find resolutions to Squad impediments
+Drive the decision-making process and Risk Management for the Squad
+Is accountable for ensuring the execution of tasks assigned to Offer Team of offer withdrawal along with PO
+Qualifications and Experience
+
+Bachelor’s degree
+5 years of product or project development experience would be advantageous
+Strong facilitation techniques
+Ability to build and lead in a matrix
+Outstanding communication, facilitation, negotiation, and coaching skills
+Knowledge of an Project management & Agile Framework  (i.e. Scrum, Kanban), and knowledge of at Agile at Scale frameworks (i.e. SAFe, Scrum at Scale, Nexus)
+Planning and problem solving with product management and delivery Squads
+
+## 134328
+
+China Hub PMO
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+现场
+工作描述
+加入我们担任项目总监,领导推动组织成功的变革性举措。如果你是一位在复杂环境中茁壮成长的战略思考者,热衷于将雄心勃勃的愿景转化为现实,这个职位就是为你准备的。
+
+
+你将做什么?
+
+负责完整的项目生命周期,从定义范围和目标到执行、风险缓解和最终交付
+担任利益相关者的关键联系人,确保协调并提供关于进展和挑战的透明更新
+领导和协调跨职能团队,分配任务和资源以实现项目目标和截止日期
+监督项目预算并根据需要调整计划,在财务约束内保持并交付高质量成果
+我们在寻找哪些关键技能?
+
+项目领导力 — 专家级；在不确定的环境中引导多元化团队实现雄心勃勃的目标
+利益相关者管理 — 专家级；与高级领导和外部合作伙伴建立信任和协调
+项目管理方法论 — 专家级；应用框架来构建具有长期影响的复杂举措
+变革管理 — 专家级；推动组织采纳并确保可持续转型
+优先级排序 — 专家级；平衡竞争性需求,将资源集中在最高价值的成果上
+责任担当 — 专家级；对结果负责并在团队中培养责任文化
+客户导向 — 专家级；确保交付成果满足利益相关者需求并超越期望
+预算管理 — 高级水平；在管理财务约束的同时最大化项目价值
+
+## 137954
+
+Senior Scrum Master I
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+现场
+工作描述
+我们正在寻找一位高级敏捷教练来领导敏捷团队，促进协作，推动高质量的产品交付。如果你热衷于指导团队、清除障碍并倡导持续改进，这个职位将为你提供所期待的能见度和影响力。
+
+
+你将做什么？
+
+领导敏捷仪式，包括冲刺规划、每日站会、评审和回顾会议，确保团队协调一致并保持动力
+与产品负责人合作，将战略与执行对齐，有效管理冲刺待办事项
+与跨职能团队协调，解决依赖关系并创建集成交付时间表
+在敏捷方法论中指导团队，跟踪绩效指标，推动提升效率的流程改进
+我们在寻找哪些关键技能？
+
+敏捷框架 — 高级水平；应用Scrum实践引导团队完成高价值发布
+利益相关者管理 — 中级水平；与产品负责人和跨职能团队合作以协调执行
+责任心 — 中级水平；确保团队遵循敏捷原则并在时间盒内交付
+设计思维 — 中级水平；主持问题解决会议以提升团队效率
+持续改进 — 中级水平；指导团队反思并调整流程以获得更好的成果
+风险管理 — 中级水平；识别并上报可能影响交付的障碍
+辅导能力 — 发展水平；支持团队成员提升技能和绩效
+变革管理 — 发展水平；引导团队适应流程调整和组织变革
+什么资质会让你成功？
+
+出色的引导技能，能够带领多元化团队应对复杂挑战
+主动的问题解决者，能够预见障碍并自信地推动解决方案
+优秀的沟通者，能够建立信任并促进各层级的协作
+成长型思维，热衷于指导他人并倡导团队发展
+
+## 124696
+
+Project Manager
+Shanghai, Shanghai, China
+Shanghai, China
+Project Management
+现场
+工作描述
+加入我们担任高级项目管理专员，负责塑造我们业务的高影响力项目。你将领导跨职能团队，从头到尾管理复杂项目，并成为利益相关者信赖的合作伙伴，交付成果。
+
+
+你将做什么?
+
+负责完整的项目生命周期，包括规划、执行、风险管理和项目后评估
+制定详细的项目计划，明确范围、目标、时间表、资源和成功指标
+担任利益相关者的主要联系人，提供定期更新并促进清晰的沟通
+通过协调任务、管理预算并确保交付成果符合质量标准来领导跨职能团队
+我们在寻找哪些关键技能?
+
+项目管理方法论 — 高级水平；应用框架来构建和交付复杂项目
+项目管理软件 — 高级水平；使用工具跟踪进度、管理资源并报告状态
+项目规划 — 高级水平；制定详细计划，明确范围、目标、时间表和依赖关系
+责任心 — 高级水平；对结果负责并确保在所有项目阶段履行承诺
+适应能力 — 高级水平；根据不断变化的优先级和不确定性调整计划和方法
+预算管理 — 中级水平；管理项目财务并确保在预算约束内完成交付
+风险管理 — 中级水平；及早识别潜在问题并实施缓解策略
+利益相关者管理 — 中级水平；与不同的项目合作伙伴建立信任并保持一致
+什么资质会让你成功?
+
+强大的领导力，能够在没有正式职权的情况下引导团队
+出色的沟通能力，能将复杂的项目细节转化为清晰可执行的见解
+战略思维，能够平衡相互竞争的优先事项并独立做出明智决策
+协作方式，能够建立信任并推动跨职能部门的协同
+这对我有什么好处?
+
+领导具有高度可见性和对组织成功产生直接影响的重要项目
+职业发展机会,可获得培训、导师指导和专业发展支持
+重视多元视角和创新思维的协作包容文化
+支持你的健康和工作生活平衡的灵活工作安排

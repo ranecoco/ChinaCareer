@@ -261,6 +261,7 @@ recommend: false
 - {% post_link 06如何选职务/如何内部转岗 %}
 - {% post_link 06如何选职务/曾做过总监，有必要低就主管甚至职员岗位吗 %}
 - {% post_link 06如何选职务/29岁，没有任何技能，请问除了销售还能做什么工作 %}
+- {% post_link 06如何选职务/那种人工智能、大数据技术培训班，能不能去 %}
 
 ## **【07，求职，就是打败 HR 的过程】**
 
@@ -406,6 +407,8 @@ recommend: false
 - {% post_link 10面试技巧/接了很多面试电话，却为何没有面试机会 %}
 - {% post_link 10面试技巧/Offer多了后，怎么办 %}
 - {% post_link 10面试技巧/突然接到外企面试，一般人如何在短时间内提升口语能力 %}
+- {% post_link 10面试技巧/明天有个视频面试，今天准备什么 %}
+[如何准备面试和开头的自我介绍？](https://mp.weixin.qq.com/s/zIWv52EXtfot6mWxb-lo5Q)
 
 ## **【11，工资行情和 Offer 谈判】**
 
@@ -509,6 +512,7 @@ recommend: false
 <!-- 新公司要我2月底报到，但老公司要拖到3月中才放我走，怎么办？ -->
 - {% post_link 12辞职秘笈/领导拖着我不让我离职，怎么办 %}
 - {% post_link 12辞职秘笈/新公司要月初报到，但领导要拖我到月底，我怎么办 %}
+[什么情况下你该换工作了](https://mp.weixin.qq.com/s/H8fgjkxzxktG27qP3jq08A)
 
 ## **【13，背景调查】**
 
@@ -690,7 +694,7 @@ recommend: false
 - {% post_link 19如何跟领导相处？/有没有必要给领导送礼 %}
 - {% post_link 19如何跟领导相处？/给领导送礼，有何讲究 %}
 - {% post_link 19如何跟领导相处？/职场解密：领导通过别人给我传达工作任务，到底什么意思 %}
-
+[如何应对刁钻难搞的女领导](https://mp.weixin.qq.com/s/oPGDn3rXrj69HE4XxI5TsQ)
 ## **【20，女性专场】**
 
 - 🔴 {% post_link 20女性专场/婚姻悲剧和杭州案件，对职场人的启示 %}
@@ -1005,6 +1009,10 @@ recommend: false
 - {% post_link 27职场生活技艺/如何在职场和人生中都做个“显眼包”（聚会感悟） %}
 - {% post_link 27职场生活技艺/懒人，如何提升学历 %}
 - {% post_link 27职场生活技艺/总监的生存法则 %}
+[在民企的生存法则一](https://mp.weixin.qq.com/s/uLrMZ-Prx-v8hqlfCwyP-Q)
+[在外企的生存法则一](https://mp.weixin.qq.com/s/Kf6zmidVDplBhd_zN_rCIA)
+[为什么我业绩好却不能升职加薪？](https://mp.weixin.qq.com/s/524P7U3XnC9jo3lAVAYjSA)
+[职场“避坑”指南](https://mp.weixin.qq.com/s/y6SFSBuC3UflwVVVyXeYpg)
 - {% post_link 27职场生活技艺/遇到重大的人生挫折时，怎么办 %}
 - {% post_link 27职场生活技艺/工作中出现失误了，该怎么办 %}
 - {% post_link 27职场生活技艺/你多我少：人生不仅仅是工作和远方 %}
@@ -1046,6 +1054,7 @@ recommend: false
 - {% post_link 27职场生活技艺/一个“完美情人”的自我修养 %}
 - {% post_link 27职场生活技艺/第一次相亲约会时应该聊什么 %}
 - {% post_link 27职场生活技艺/在约会交往时，如何判断一个人的人品 %}
+[五年不跳槽，实现内部涨薪翻倍的经历与感悟](https://mp.weixin.qq.com/s/RdMA2yPT8Wk5JDT5MQyo0A)
 
 ## **【28，宏观职场】**
 
@@ -1074,6 +1083,7 @@ recommend: false
 
 ## **【29，势商和人生规划】**
 
+- ￥🔴 {% post_link 29势商和人生规划/男女求职思维的不同点 %}
 - 🔴 {% post_link 29势商和人生规划/普通人年薪突破30万的6个方法 %}
 - 🔴 {% post_link 29势商和人生规划/成为百万年薪职业经理人的5个步骤eg1 %}
 - 🔴 {% post_link 29势商和人生规划/普通职场人达到年薪100万的8个方法eg2 %}
@@ -1101,7 +1111,7 @@ recommend: false
 - 🔴 {% post_link 29势商和人生规划/如何识别谁是我生命中的贵人 %}
 - 🔴 {% post_link 29势商和人生规划/职场人士找对象的注意点 %}
 - 🔴 {% post_link 29势商和人生规划/职业人生中的既要、又要、还要 %}
-- ￥🔴 {% post_link 29势商和人生规划/男女求职思维的不同点 %}
+- 🔴 {% post_link 29势商和人生规划/跳槽的目的是什么 %}
 - {% post_link 29势商和人生规划/50岁还可以跳槽进大城市吗 %}
 - {% post_link 29势商和人生规划/普通职员如何在2年内做到经理，并实现工资翻番？ %}
 - {% post_link 29势商和人生规划/在国企工作，找什么样的对象为好 %}
@@ -1130,7 +1140,6 @@ recommend: false
 - {% post_link 29势商和人生规划/二本机械、生化环材等劝退专业，如何在毕业3年时达成年薪30万 %}
 - {% post_link 29势商和人生规划/个人缺钱时如何借钱？（兼谈北京证交所的建立） %}
 - {% post_link 29势商和人生规划/如何预防婚后的巨大经济压力 %}
-- {% post_link 29势商和人生规划/跳槽的目的是什么 %}
 - {% post_link 29势商和人生规划/单亲家庭的人，如何选择职业道路 %}
 - {% post_link 29势商和人生规划/单亲家庭的人，如何选择城市 %}
 - {% post_link 29势商和人生规划/我同学开了个30来人的公司，他一年大概赚多少 %}
@@ -1179,6 +1188,14 @@ recommend: false
 - {% post_link 30职场互动/幽哥群友聚会全程记录 %}
 - {% post_link 30职场互动/工作内容没什么沉淀，怎么办 %}
 - {% post_link 30职场互动/阳澄湖之旅 %}
+- {% post_link 30职场互动/谈价值投资 %}
+- {% post_link 30职场互动/生涯经营（聚会感悟下） %}
+[时间套利：不在惯性中沉沦](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544859&idx=1&sn=74c24956bff34f827a6835e4acc0744a&scene=21#wechat_redirect)
+[非标任务拆解：用工成本测算](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544771&idx=1&sn=fa58306b736e7851ad26fa9b5fd49ad0&scene=21#wechat_redirect)
+[AI多线程：你在焦虑中等待，他在排程中心流](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544692&idx=1&sn=60a18dbe6891c26311f5e9fb81251c0c&scene=21#wechat_redirect)
+[用“庖丁”法打磨出一份好简历！](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544624&idx=1&sn=3e4521557939e470cf64d498040497c6&scene=21#wechat_redirect)
+[从精益生产谈精力管理](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544609&idx=1&sn=07f45b64c5319ac8f23ee10d0fc84336&scene=21#wechat_redirect)
+[用质量管理的方法，拆解一次你的焦虑](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247544559&idx=1&sn=08098f9d228230d2e32b5b9aa75f789b&scene=21#wechat_redirect)
 - [今年第一次线下聚会：周末适合当面聊人生](https://mp.weixin.qq.com/s/DSY4xPMgKth6akUwN3H2Sw)
 - [五一长假线下聚会](https://mp.weixin.qq.com/s/FdYWnqI6BuYMQsUqMYk_wQ)
 - [聚会兼谈 11 月 23 号出生是什么样的职业性格](https://mp.weixin.qq.com/s/2eudsvXMfz1e39sNZruPeA)
@@ -1207,6 +1224,7 @@ recommend: false
 - [从打工到财务自由，到底有多远？](https://mp.weixin.qq.com/s/GgmT6D_RLiAOkOG81n5v1g)
 - [2018-4-17职场秘籍分类汇总](https://mp.weixin.qq.com/s/z8rhXQ2C8GhUWjc881Cysg)
 - [中国职场宝典](https://mp.weixin.qq.com/s/wDGw0Xf4jtk1T0dOUnmBLQ)
+- [中国职场宝典2.0](https://mp.weixin.qq.com/s/kKjeak9LMi5IkIdeINswOg)
 - [中国职场宝典3.0（2019年中版）](https://mp.weixin.qq.com/s/sjegJlqME6VCBY4FQXHvWg)
 - [中国职场宝典4.0（2020年初版）](https://mp.weixin.qq.com/s/s4zk9vwBq3UGlEbSadm1lA)
 - [中国职场宝典5.0（2021年初版）](https://mp.weixin.qq.com/s/JF2Y60p9vz6Zf6mBshuLiA)

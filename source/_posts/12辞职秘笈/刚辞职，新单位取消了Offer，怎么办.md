@@ -1,15 +1,15 @@
 ---
-# date: Jan 7, 2019, 2:43 PM
+date: Jan 7, 2019, 2:43 PM
 update: 2026-10-09 09:36
 title: 刚辞职，新单位取消了Offer，怎么办 ？
 tags: [Career]
-categories: [ 11. 工资行情和 Offer 谈判 ]
+categories: [ 12. 辞职秘笈 ]
 copyright_author: 幽哥
 copyright_url: https://mp.weixin.qq.com/s/EI66zkU-ahG4EMvEj2I2aw
 description: 
 account: JumpFrog
 place: 
-cover: img/auto_cover/ae9dac0ed3e6.svg
+cover: img/aut
 ---
 
 **人类**发展至今，科技日新月异，人文也到了高深莫测的时候。
@@ -28,11 +28,18 @@ cover: img/auto_cover/ae9dac0ed3e6.svg
 
 以上是从一个大视野让大家聚焦你目前所见文字的领域位置，这个小点上也布满荆棘，知识点太多，我能讲的尽量用**加粗红色字体**标出来。
 
-回到刚刚的调查，在去年此刻我写过这篇文章，《[为什么元旦的时候，面试的人更多？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484482&idx=1&sn=eb198ee7232774d372955d8c6051fd8e&chksm=e96daf83de1a26950e5d2c59e6979f01c9252ad98bb134bcbecfda3cad91654c032b0d17a3b1&scene=21#wechat_redirect)》，你一看就明白了为什么，也知道了世俗是如何忽悠你的，简直高深莫测。
+回到刚刚的调查，在去年此刻我写过这篇文章，《{% post_link 10面试技巧/为什么元旦的时候，面试的人更多 %}》，你一看就明白了为什么，也知道了世俗是如何忽悠你的，简直高深莫测。
 
 如下群友的亲身感受，也是她毕业五六年后才能细心体验后总结出来的，刚毕业的新人根本不懂。
 
-![Image]()
+- 1我觉得年底真的是很好找工作的
+- 2为啥这么说
+- 1**就是年关这一个月**
+- 3**因为市场比较活跃**
+- 1我之前找工作把简历挂上去了，最近就有好几个电话进来了，面试邀约，可是我已经上班了~
+  比之前好多了
+  早知道我就不该这么快上班的
+  应该再挑一下
 
 这里面的道理很多，第一个就是求职旺季淡季这个宏观概念，**宏观概念对个人微观的求职并没有什么影响**，但世俗和你二十几年来所能看到的任何文字、报道，都是在告诉你“影响极其巨大”。实际情况是：**跳槽不分月份，换工作没有淡季旺季一说**。
 
@@ -44,7 +51,7 @@ cover: img/auto_cover/ae9dac0ed3e6.svg
 
 之前也讲过，几乎每一个上进的初中毕业生，在他她不情愿去读中专、技校时，世俗和父母都会告诉TA：“**先去读中专，将来也可以考大学。**”TA当然是信以为真，结果是什么？结果就是：**中专就是中专，一辈子中专，极少有能再去读大学的。**
 
-入职后就更多坑了，**“试用期工资八折”“转正后再给你交保险”“明年给你加工资”“刚毕业你要提升能力”“业绩说话”“你第一学历不高”“还要看你自己的选择”“你想做什么工作”“你想成为什么样的人”......“我只跟你一个人说”“我对事不对人”“我这人不看重钱”“心有多大舞台就有多大”“坚持到底就是胜利”......**还有很多，我就不写了，免得文章被下架。
+入职后就更多坑了，**“试用期工资八折”“转正后再给你交保险”“明年给你加工资”“刚毕业你要提升能力”“业绩说话”“你第一学历不高”“还要看你自己的选择”“你想做什么工作”“你想成为什么样的人”......“我只跟你一个人说”“我对事不对人”“我这人不看重钱”“心有多大舞台就有多大”“坚持到底就是胜利”......** 还有很多，我就不写了，免得文章被下架。
 
 回到文章主旨，**刚辞职，新单位取消了Offer，怎么办？**
 
@@ -56,11 +63,9 @@ cover: img/auto_cover/ae9dac0ed3e6.svg
 
 是的，现实中大多数事情是不合理的。正规，叫做理想真空，但我们并不生活在真空中。
 
-![Image]()
-
 你能做的就是争取赔偿金，但大多一个月工资，且你毕竟失业了，后者才是你此刻需要关注的最大的问题，而不是啥一根筋的赔偿金。
 
-之前我讲“[试用期内也要继续找工作](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484938&idx=1&sn=ea3f019c543b3c70000602ff44531555&chksm=e96dadcbde1a24dd0f2ffba1718183f37baff7ed98174c2ec707ca2727a74ca68358e1d42709&scene=21#wechat_redirect)”，甚至写了“[试用期内继续求职的话，简历如何写？](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485151&idx=1&sn=400f30075247b9f65dbb40230d994025&chksm=e96dad1ede1a2408c60d432688cfe593de44129d361a859971aacc55161acaf50c69e98c0214&scene=21#wechat_redirect)”但这是**针对你刚入职发现上当的情况，而不是说你试用期非求职不可**。
+之前我讲“{% post_link 14试用期和转正/试用期内，为何一定要继续找工作 %}”，甚至写了“{% post_link 14试用期和转正/试用期内继续求职的话，简历如何写 %}”但这是**针对你刚入职发现上当的情况，而不是说你试用期非求职不可**。
 
 你新公司是大企业500强，BAT苹果亚马逊，或者新工作月薪翻番了，**不管多么苦，你也好歹待个一年半载**，拿到Offer后就屏蔽这家公司，入职后就不再投递简历了。这才是正解。
 
@@ -68,11 +73,7 @@ cover: img/auto_cover/ae9dac0ed3e6.svg
 
 当然，还有一部分人介于两者之间，新工作不是特别好，但也不至于那么坑，则你看下如下我的视频讲解。
 
-，时长07:29
-
-[ ]
-
-<video data-v-16437565="" src="https://omex.tc.qq.com/B_PcBEFZl47yT11XPyFgSQBjzhG36BSvbdzZtnexpw-Jexm56kUOBFwNeJOVJjOdrCS1K8hTXTa5provcsIjaQbVtBYwe5jD8qOKnbGkBgFAck-VYVF7psFxuw40yyuTxN/svp_50200/njc_1000195_0bc3oacewaaexyak33uvrfrry4gejnyais2a.f2.mp4?vkey=AE5CB93EA3B1237D6726B0A628712CD1FF2758A7B3CE205885DEC76248E61E7F5C966C27018A09E32D8EA8B3EF7CAB1AD6AB35B1DCB4FF6A94FD0396350D1168456F9A3919BC546629BC78DBF3677E01A396F053F9C9D8FBC249E9D16364F49F357D47F9E247A88ED2EDDFE894BBFC19CBAD0FC06678E0C9&amp;sdtfrom=&amp;type=mp4&amp;platform=&amp;fmt=%E9%AB%98%E6%B8%85&amp;level=0&amp;br=60&amp;sp=0&amp;vid=f03171k1h6j&amp;format_id=10003&amp;support_redirect=1&amp;mmversion=7.0.20.1781" poster="https://vpic.video.qq.com/43652326/f03171k1h6j.png?wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill"></video>
+{% post_link 25年代秀真人秀/收到Offer之后做什么 %}
 
 很多人看到了一两个矛盾点，就会犯迷糊：“**试用期究竟要不要求职？**”
 
@@ -82,6 +83,10 @@ cover: img/auto_cover/ae9dac0ed3e6.svg
 
 更常见的则是，自己都失业了且在只有一个Offer的情况下，还在担心、纠结、讨论“要不要去报到”。都没其他选项，口袋里银子也没那么多，还在担心那么多，学生心态很重。你是人，你咋不担心“我要不要做人”呢？
 
-元旦后短短几天，就收到很多群友的Offer报喜，我就不一一贴出来了，大家多看看《[中国职场宝典2.0](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485854&idx=2&sn=d474e365a74301e06b5fbbe1f7b7752c&chksm=e96da25fde1a2b4944403d7b774fefedc523bcf0aa78311069f61ecf142efa4ba1ced6ec64c0&scene=21#wechat_redirect)》，融汇贯通吧！
+<center>End</center>
+
+---
+
+元旦后短短几天，就收到很多群友的Offer报喜，我就不一一贴出来了，大家多看看《[中国职场宝典2.0](https://mp.weixin.qq.com/s/kKjeak9LMi5IkIdeINswOg)》，融汇贯通吧！
 
 留言和私信中，要求建立相亲情感群的呼声增多，我考虑下，过几天再说吧！

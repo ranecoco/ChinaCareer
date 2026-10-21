@@ -7,6 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
+    "echart": "node themes/butterfly/tools/echart-editor/server.js",
     "netlify": "npm run clean && npm run build"
   },
   "hexo": {

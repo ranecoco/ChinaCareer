@@ -10,7 +10,7 @@ description: 技术人转管理，缺的通常不是方法论，而是可验证�
 account: JumpFrog
 place: Shanghai
 recommend: false
-cover: 
+cover: img/auto_cover/313b3a713fd9.svg
 ---
 
 # 从技术转管理：用一年建立项目经理身份

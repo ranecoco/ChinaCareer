@@ -8,6 +8,7 @@ tags: [Career]
 categories: 00. 工作只需20年
 sticky: 100
 recommend: false
+related_posts: false
 ---
 
 > `🍭` 标记，都为云飞所书。
@@ -38,6 +39,7 @@ recommend: false
 - 🔴 {% post_link 01学历不重要？能力更重要？/如何提升学历 %}
 - 🔴 {% post_link 01学历不重要？能力更重要？/本科毕业和研究生毕业，有什么区别 %}
 - 🔴 {% post_link 01学历不重要？能力更重要？/普通人，要不要考公务员 %}
+- 🔴 {% post_link 01学历不重要？能力更重要？/大公司，为何都注重学历 %}
 
 - {% post_link 01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？ %}
 - {% post_link 01学历不重要？能力更重要？/毕业几年后，怎样去加拿大留学 %}
@@ -285,6 +287,11 @@ recommend: false
 - {% post_link 07求职，就是打败HR的过程/人事要我先辞职，再发Offer，要答应吗 %}
 - {% post_link 07求职，就是打败HR的过程/面试时向部门报低价，向人事报高价，是不是有矛盾 %}
 - {% post_link 07求职，就是打败HR的过程/人事为何盯着问我想换工作的原因 %}
+<!-- 人事是如何筛选简历的 -->
+- {% post_link 07求职，就是打败HR的过程/人事是如何收简历的 %}
+[**前同事给我内推了工作，但我还没报到他自己就要走了，我还要不要去报到？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247505524&idx=1&sn=8fb6a2160bd767baa0b019dc066e0427&chksm=e96e7db5de19f4a3e630c74a837a5eed9f49d80c5a5ee88430a9db8d11e5690f9d8d8a7d5a36&scene=21#wechat_redirect)
+[**HR/猎头让我修改简历，究竟要不要修改？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247524900&idx=2&sn=643016325859f7a51135fc94be3631af&chksm=e96ec9e5de1940f37d5116def46fa4ea9b5b962f31dea2a97489eeb65dd070ef3284b31a85e3&scene=21#wechat_redirect)
+[**猎头帮我推荐了一个工作，我发现我有熟人在里面，我要不要也将简历发给熟人帮我内推？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247505208&idx=2&sn=caf1ced8b0b4d9a198dede40b7c6fb86&chksm=e96e7ef9de19f7efce1d2c4a681915182657d04c183588bed157ad40de63add5caa4cd707246&scene=21#wechat_redirect)
 
 ## **【08，简历制作秘笈】**
 
@@ -307,6 +314,7 @@ recommend: false
 - {% post_link 08简历制作秘笈/求职失败最大的原因是，自己没招过人 %}
 - {% post_link 08简历制作秘笈/非全本科在简历上能直接写“本科”吗 %}
 - {% post_link 08简历制作秘笈/简历上要不要写期望职位 %}
+[**简历上的工资，到底该如何写？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247532891&idx=2&sn=55e918cbb0cd0971dfa26df0a18945c9&chksm=e96eea9ade19638c9e000e34d90e3edd8aa6ba81906ed7204903f611ec33089f58fe9c200a84&scene=21#wechat_redirect)
 
 ## **【09，简历投递秘笈】**
 
@@ -445,7 +453,7 @@ recommend: false
 - {% post_link 11工资行情和Offer谈判/同时来了3个入职意向，该如何谈工资？ %}
 - {% post_link 11工资行情和Offer谈判/公司为何只跟我签1年的合同？ %}
 - {% post_link 11工资行情和Offer谈判/工资要低了，后悔了，怎么办？ %}
-- {% post_link 11工资行情和Offer谈判/跳槽涨薪50%甚至翻倍，为何他们能做到 %}
+- {% post_link 11工资行情和Offer谈判/跳槽涨薪50％甚至翻倍，为何他们能做到 %}
 - {% post_link 11工资行情和Offer谈判/哪些人的工资不足3000 %}
 - {% post_link 11工资行情和Offer谈判/为何有人工资才2000多 %}
 - {% post_link 11工资行情和Offer谈判/谈薪资时，HR说我上家工资太低，怎么办 %}
@@ -514,6 +522,7 @@ recommend: false
 - {% post_link 12辞职秘笈/领导拖着我不让我离职，怎么办 %}
 - {% post_link 12辞职秘笈/新公司要月初报到，但领导要拖我到月底，我怎么办 %}
 - {% post_link 12辞职秘笈/什么情况下你该换工作了 %}
+- {% post_link 12辞职秘笈/最牛辞职信，你能看懂么 %}
 
 ## **【13，背景调查】**
 
@@ -622,6 +631,8 @@ recommend: false
 - {% post_link 15辞退和裁员/职场警告：即将被解雇的迹象有哪些 %}
 - {% post_link 15辞退和裁员/离职后患：保密协议，竞业限制协议，落户违约金该怎么办 %}
 - {% post_link 15辞退和裁员/面临被公司非法解雇时，该如何自救 %}
+- {% post_link 15辞退和裁员/公司要倒闭，我一下子投出去1000份简历 %}
+- {% post_link 17如何解决失业危机/被裁员，对求职有影响吗？对未来的整个职业生涯呢 %}
 
 ## **【16，宝妈求职秘笈】**
 
@@ -720,6 +731,7 @@ recommend: false
 - {% post_link 20女性专场/什么叫假独生女现象 %}
 - {% post_link 20女性专场/为何离婚的人越来越多 %}
 - {% post_link 20女性专场/姐弟恋的4大注意点 %}
+<!-- 女孩，如何才能不做“伏地魔” -->
 - {% post_link 20女性专场/女孩，如何才能不做“伏弟魔”、“伏哥魔” %}
 - {% post_link 20女性专场/生娃，对职业生涯到底有多大影响 %}
 - {% post_link 20女性专场/过年回家被父母催婚，如何应对 %}
@@ -903,6 +915,7 @@ recommend: false
 - {% post_link 25年代秀真人秀/95岁时，你还会奋斗不 %}
 - {% post_link 25年代秀真人秀/从昆山台资厂到跨国公司职业经理人，幽哥的逆袭之路 %}
 - {% post_link 25年代秀真人秀/英语不好的他是如何“蒙混”过关当上外企职业经理人的 %}
+- {% post_link 25年代秀真人秀/30岁我在老家做到了上市公司高管年薪30万，去年差点在大城市要饭 %}
 
 ## **【26，副业和财务自由】**
 
@@ -1068,6 +1081,7 @@ recommend: false
 - {% post_link 27职场生活技艺/过年期间不让回老家，怎么办 %}
 - {% post_link 27职场生活技艺/五年不跳槽，实现内部涨薪翻倍的经历与感悟 %}
 - {% post_link 27职场生活技艺/被忽视的“高大上”技能：InterculturalCompetence %}
+- {% post_link 27职场生活技艺/老实，算是优点还是缺点 %}
 
 ## **【28，宏观职场】**
 
@@ -1166,6 +1180,7 @@ recommend: false
 - {% post_link 29势商和人生规划/婆婆催我生二胎，要不要生 %}
 - {% post_link 29势商和人生规划/职场再升级1：像一个伟大的企业家一样去战斗 %}
 - {% post_link 29势商和人生规划/职场再升级2：不要以战术上的勤奋来掩盖战略上的懒惰 %}
+- {% post_link 29势商和人生规划/致所有职场人士：这是远比加薪晋级、职业规划都更重要的事 %}
 
 ### 老家
 
@@ -1184,7 +1199,6 @@ recommend: false
 - {% post_link 30职场互动/要不要建个相亲群 %}
 - {% post_link 30职场互动/“陆干”职业道路的跨年启发 %}
 - {% post_link 30职场互动/一个中层管理者的述职与团建感悟 %}
-- {% post_link 30职场互动/跳槽涨薪五成甚至翻倍，为何他们能做到 %}
 - {% post_link 30职场互动/从宝洁的退市，来看势商发展和北京交友群 %}
 - {% post_link 30职场互动/职场信息交流，算不算社交 %}
 - {% post_link 30职场互动/第一次视频互动，分享职场干货 %}

@@ -10,8 +10,171 @@ description: 持续记录交流中的英语语法 / 用词 / 表达问题，按�
 account: 
 place: 
 recommend: false
-cover: 0.jpg
+cover: img/auto_cover/f58b90194db1.svg
 ---
+
+## 2026-10-23
+
+### 速查
+
+| 原句 | 订正 |
+|---|---|
+| create **a** echart editing tool, edit with **broswer**, when editing sync data to code **at same time** | Build **an** ECharts editing tool I can use in the **browser**, and sync the data back to the code **as I edit**. |
+| npm run echart **can't reading** the echart.js file, fix that | `npm run echart` **can't read** `echart.js` — please fix it. |
+| the echarts server is **different with** hexo **rendered** fix that | The editor's preview **doesn't match** what Hexo **renders** — please fix that. |
+| **in echart feature**, I **got** a new bug. **when uncheck** Auto-sync **there still update** the md file | I **found** a new bug **in the ECharts editor**: **when I uncheck** Auto-sync, **it still updates** the markdown file. |
+| I want to drag the node ... change that position **which over left side** | ... change its position — **the one on the left side**. |
+| the render logic is **up-down wrong** | the **depth ordering is inverted**. |
+| the front tag **should solid and visible clearly** | the front tags **should be solid and clearly visible**. |
+| the back **should opacity lower** | the back ones **should be more transparent**（或 should have lower opacity）. |
+| now **is upset** | right now **it's the other way round**. |
+| add **a switch**, front **opacity 100** back lower | add **a toggle**: front **at 100% opacity** with the back faded, or the reverse. |
+| **\<correct me\>** | **correct me if I'm wrong** / feel free to correct me. |
+| correct my english **include ahead dialogue** today | correct my English — **including the earlier messages** from today. |
+
+### 逐条
+
+#### 1. 冠词与拼写
+
+> create **a** echart editing tool, edit with **broswer**, when editing sync data to code **at same time**
+
+→ Build **an** ECharts editing tool I can use in the **browser**, and sync the data back to the code **as I edit**.
+
+- `ECharts` 读作 /ˈiːtʃɑːts/，以元音**音**开头，冠词用 `an`（看读音，不看字母）。
+- `broswer` 是 `browser` 的笔误。
+- `at same time` 必须加冠词：`at the same time`；要表达"边编辑边同步"，`as I edit` 更自然。
+- 两个动作用 `and` 连成一句，别用逗号硬接。
+
+#### 2. 情态动词后面的动词形态
+
+> npm run echart **can't reading** the echart.js file, fix that
+
+→ `npm run echart` **can't read** `echart.js` — please fix it.
+
+- `can / can't / should / must / will` 后面一律接**动词原形**：`can't read`，不是 `can't reading`。
+- 代码里的命令、文件名、字段名要加反引号或斜体，不要混在句子主干里。
+- `fix that` 语法没错但偏命令式；`please fix it` 更顺。
+
+#### 3. different 的介词
+
+> the echarts server is **different with** hexo **rendered** fix that
+
+→ The editor's preview **doesn't match** what Hexo **renders** — please fix that.
+
+- `different **from**`，不是 `different with`。
+- `hexo rendered` 是"动词 + 过去式"硬塞进名词位置。要么 `what Hexo renders`（从句作名词），要么 `Hexo's rendering`。
+- 想更简洁就用 `doesn't match`，比 `is different from` 少一层结构。
+
+#### 4. 从句必须有主语
+
+> **in echart feature**, I **got** a new bug. **when uncheck** Auto-sync **there still update** the md file
+
+→ I **found** a new bug **in the ECharts editor**: **when I uncheck** Auto-sync, **it still updates** the markdown file.
+
+- `when uncheck` 缺主语 —— 英文从句不能像中文那样省略：`when **I** uncheck`。
+- `there still update` 是中文"它还照样更新"的直译。英文要说清是谁更新：`**it** still updates`。
+- `got a bug` 读起来像"领到一只虫子"，发现 bug 用 `found`。
+- `in echart feature` → `in the ECharts editor`（说"某个功能里"要加定冠词 + 具体名词）。
+- `md file` 正式一点写 `markdown file`。
+
+#### 5. 定语从句不能省谓语
+
+> I want to drag the echart viewer node to change that position **which over left side**
+
+→ I want to drag a node in the ECharts preview to change its position — the one **on** the left side.
+
+- `which over left side` 缺谓语：`which **is** on the left side`。
+- 方位介词是 `on the left side` / `on the left`，不是 `over`。`over` 表示"正上方/越过"。
+- 想指"左边那个"直接用 `the one on the left`，比从句轻。
+
+#### 6. 形容词不能当谓语用
+
+> the front tag **should solid and visible clearly**
+
+→ the front tags **should be solid and clearly visible**.
+
+- `should` 后面要 `be` + 形容词：`should be solid`。
+- 副词修饰形容词时放前面：`clearly visible`，不是 `visible clearly`。
+- 泛指一类标签用复数 `tags`。
+
+#### 7. opacity 是名词
+
+> the back **should opacity lower**
+
+→ the back ones **should be more transparent**（或 should **have** lower **opacity**）.
+
+- `opacity` 是名词，不能直接跟 `should`。要么 `have lower opacity`，要么换个形容词 `be more transparent`。
+- `the back` 指"背面"这块区域；指"背面的标签"用 `the back ones`。
+
+#### 8. "反了" 不是 upset
+
+> now **is upset**
+
+→ right now **it's the other way round**.
+
+- `upset` = 心情不好、肠胃不适、打翻（如 upset the cup），**不表示"反了"**。
+- 表达"正好相反"：
+  - `it's the other way round`（英式）/ `the other way around`（美式）
+  - `it's reversed` / `it's inverted`（用于方向、顺序、透明度这种被调反的情况）
+
+#### 9. 界面上的"开关"是 toggle
+
+> add **a switch**, front **opacity 100** back lower or front lower back 100
+
+→ add **a toggle**: front **at 100% opacity** with the back faded, or the reverse.
+
+- 界面里的开关控件叫 `toggle`（`switch` 更多指物理开关、切换动作、网络交换机）。
+- 数值要带介词：`at 100% opacity`。
+- "反过来"结尾用 `or the reverse` / `or vice versa`。
+
+#### 10. 固定说法
+
+> **\<correct me\>**
+
+→ **correct me if I'm wrong** / feel free to correct me.
+
+- 括号里那种简写英文里不这么用；要么完整句，要么 `please correct me`。
+
+> correct my english **include ahead dialogue** today
+
+→ correct my English — **including the earlier messages** from today.
+
+- `include` 是动词，这里需要介词 `including`。
+- `ahead` 只表示"在前方（空间/时间上还没到）"，指"上面聊过的"要用 `earlier` / `previous` / `the above`。
+- `English` 作语言名要大写。
+
+### 中文句子的英文说法
+
+| 中文 | 英文 |
+|---|---|
+| 我想用 LaTeX 居中 | I want to center that with LaTeX. |
+| 文章标题的图标不能正常渲染，帮忙修复 | The post title icon isn't rendering properly — please fix it. |
+| 让这一行靠右排 | Right-align line 27. |
+| 还是有些不方便，再加框选、取消框选、水平/垂直分布 | It's still a bit awkward to use — please add marquee select, clear selection, and horizontal/vertical distribution. |
+
+### 高频替换
+
+| 别写 | 写 |
+|---|---|
+| a ECharts / a URL / a HTML | **an** ECharts / **a** URL / **an** HTML |
+| can't reading | can't **read** |
+| should solid | should **be** solid |
+| different with | different **from** |
+| when uncheck | when **I** uncheck |
+| there still update | **it** still updates |
+| up-down wrong | **inverted** / reversed |
+| now is upset（表"反了"） | it's **the other way round** |
+| switch（界面开关） | **toggle** |
+| ahead dialogue | **earlier conversation** |
+| include（要介词时） | **including** |
+
+### 待养成
+
+1. **冠词看读音**：an ECharts、an HTML、an hour / a URL、a user。
+2. **情态动词后一律动词原形**：can't read、should be、must have。
+3. **先判断词性再写**：opacity 是名词，宾语位置才放它。
+4. **从句补主语**：中文能省的"我"，英文不能省。
+5. **别直译**：`up-down wrong`、`now is upset` 这类都是中文语序硬搬，英文里没有对应搭配。
 
 ## 2026-10-20
 
@@ -342,6 +505,48 @@ Missing capital letter at the start and a full stop at the end.
 - "Convert the wording of this commit message to UK English."
 
 **Note:** I cannot see the commit message, because your message does not include the text. Please paste it, and I will rewrite it in UK English. For example, I will use the UK spellings "colour", "initialise", "behaviour" and "customise".
+
+> "hey, I'm coco, how can I call you?"
+
+ *"Hey, I'm Coco. What should I call you?"*
+- "How can I call you?" sounds like asking about a phone call. For a name, use "What should I call you?"
+- Names start with a capital letter: Coco.
+
+> "If Cerebellum leak blood, after curable Is there maybe have other diesease"
+
+Corrected: *"If the cerebellum bleeds, can other diseases develop after it's cured?"*
+- "Cerebellum" doesn't need a capital letter, but it needs "the" before it.
+- "Leak blood" works, but "bleeds" is more natural. The medical term is "a cerebellar hemorrhage."
+- "After curable" should be "after it's cured" (curable means "able to be cured").
+- "Is there maybe have" mixes two structures. Use "can ... develop" or "is there a chance of ...".
+- "diesease" is spelled "diseases."
+
+> "ahu, Claude you forgot correct my English"
+
+Corrected: *"Ah, Claude, you forgot to correct my English."*
+- After "forgot," use "to" plus a verb: "forgot to correct."
+- "Ah" is the usual spelling for that sound.
+
+Your English is already easy to understand, and the mistakes are mostly small things like articles and verb forms. I'll correct your messages from now on.
+
+> “Okay, Thank you. And not this session--all new session too”
+
+“Okay, thank you. And not just this session, all new sessions too.”
+“Thank you” has a lowercase “t” after a comma.
+“Not this session” means “not in this session.” You want “not just this session” (this one and others).
+“Session” is plural here: “all new sessions.”
+
+> Help me turn this graph to MarkDown echart . json type
+
+Please help me turn this graph into a Markdown ECharts JSON.
+
+> This arrow link is not good to look, I want Sankey graph
+
+The arrow links don’t look good. I want a Sankey graph instead.
+
+> What type of this table suit for in EChart library
+
+Which ECharts chart type suits this table?
 
 ---
 

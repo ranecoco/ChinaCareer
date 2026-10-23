@@ -224,6 +224,7 @@ related_posts: false
 - {% post_link 05如何选企业/该不该找份“对能力提升有更大帮助”的工作 %}
 - {% post_link 05如何选企业/看不到前途的工作，还有必要继续吗 %}
 - {% post_link 05如何选企业/公司就我1个员工，这种工作能不能做 %}
+[**国企新成立的子公司，也算国企吗？能不能去？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247511363&idx=1&sn=855d53849fcf56d09e6dc363e32f28bc&chksm=e96e0682de198f944fb0463b722590f1b8cb0338f9a38f763d36b2253b3321fb6198faf772b8&scene=21#wechat_redirect)
 
 ## **【06，如何选职务？】**
 

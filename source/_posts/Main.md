@@ -224,7 +224,7 @@ related_posts: false
 - {% post_link 05如何选企业/该不该找份“对能力提升有更大帮助”的工作 %}
 - {% post_link 05如何选企业/看不到前途的工作，还有必要继续吗 %}
 - {% post_link 05如何选企业/公司就我1个员工，这种工作能不能做 %}
-[**国企新成立的子公司，也算国企吗？能不能去？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247511363&idx=1&sn=855d53849fcf56d09e6dc363e32f28bc&chksm=e96e0682de198f944fb0463b722590f1b8cb0338f9a38f763d36b2253b3321fb6198faf772b8&scene=21#wechat_redirect)
+- {% post_link 05如何选企业/国企新成立的子公司，也算国企吗？能不能去 %}
 
 ## **【06，如何选职务？】**
 
@@ -290,9 +290,9 @@ related_posts: false
 - {% post_link 07求职，就是打败HR的过程/人事为何盯着问我想换工作的原因 %}
 <!-- 人事是如何筛选简历的 -->
 - {% post_link 07求职，就是打败HR的过程/人事是如何收简历的 %}
-[**前同事给我内推了工作，但我还没报到他自己就要走了，我还要不要去报到？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247505524&idx=1&sn=8fb6a2160bd767baa0b019dc066e0427&chksm=e96e7db5de19f4a3e630c74a837a5eed9f49d80c5a5ee88430a9db8d11e5690f9d8d8a7d5a36&scene=21#wechat_redirect)
-[**HR/猎头让我修改简历，究竟要不要修改？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247524900&idx=2&sn=643016325859f7a51135fc94be3631af&chksm=e96ec9e5de1940f37d5116def46fa4ea9b5b962f31dea2a97489eeb65dd070ef3284b31a85e3&scene=21#wechat_redirect)
-[**猎头帮我推荐了一个工作，我发现我有熟人在里面，我要不要也将简历发给熟人帮我内推？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247505208&idx=2&sn=caf1ced8b0b4d9a198dede40b7c6fb86&chksm=e96e7ef9de19f7efce1d2c4a681915182657d04c183588bed157ad40de63add5caa4cd707246&scene=21#wechat_redirect)
+- {% post_link 07求职，就是打败HR的过程/前同事给我内推了工作，但我还没报到他自己就要走了，我还要不要去报到 %}
+- {% post_link 07求职，就是打败HR的过程/HR让我修改简历，究竟要不要修改 %}
+- {% post_link 07求职，就是打败HR的过程/猎头帮我推荐了一个工作，我发现我有熟人在里面，我要不要也将简历发给熟人帮我内推 %}
 
 ## **【08，简历制作秘笈】**
 
@@ -315,7 +315,7 @@ related_posts: false
 - {% post_link 08简历制作秘笈/求职失败最大的原因是，自己没招过人 %}
 - {% post_link 08简历制作秘笈/非全本科在简历上能直接写“本科”吗 %}
 - {% post_link 08简历制作秘笈/简历上要不要写期望职位 %}
-[**简历上的工资，到底该如何写？**](http://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247532891&idx=2&sn=55e918cbb0cd0971dfa26df0a18945c9&chksm=e96eea9ade19638c9e000e34d90e3edd8aa6ba81906ed7204903f611ec33089f58fe9c200a84&scene=21#wechat_redirect)
+- {% post_link 08简历制作秘笈/简历上的工资，到底该如何写 %}
 
 ## **【09，简历投递秘笈】**
 
@@ -663,6 +663,7 @@ related_posts: false
 - {% post_link 17如何解决失业危机/中年危机来了，怎么办 %}
 - {% post_link 17如何解决失业危机/各国退休年龄是什么样子的 %}
 - {% post_link 17如何解决失业危机/在一家公司工作了10年，一般能做到主管，还是经理 %}
+- {% post_link 17如何解决失业危机/目前行情求职换工作，需要多长时间 %}
 
 ## **【18，职业性格和星座】**
 

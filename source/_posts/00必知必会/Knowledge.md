@@ -4,7 +4,7 @@ update: 2026-09-30 21:08
 title: Knowledge
 tags: [Career]
 categories: [ 00. 必知必会 ]
-copyright_author: 幽
+copyright_author: 群友
 copyright_url: 
 description: 
 account: JumpFrog

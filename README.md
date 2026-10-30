@@ -45,6 +45,22 @@ npm run echart      # 浏览器里拖点、改数值，改动回写到源文件
 
 路径相对 `source/_posts`，扩展名可省。
 
+## 文风改写（口述稿 → 本人文风）
+
+把站内同一作者的文风建成可复用资产，再把口述/语音转写稿改写成接近他本人写法的文章草稿。
+
+```bash
+nvm use 20                        # 非交互 shell 里 node 可能不在 PATH
+
+npm run style:ingest              # 扫 source/_posts 建语料（自动剥离引用、他人投稿、营销尾巴）
+npm run style:profile             # 统计指纹 + 风格说明书（需 .env，见 .env.example）
+npm run style:rewrite -- --in draft.txt --out source/_drafts/xxx.md
+npm run style:eval -- --samples 10  # 盲测「像不像」
+```
+
+细节见 [`docs/style-pipeline.md`](docs/style-pipeline.md)：引用剥离规则、`>` 引用块处理、
+风格说明书怎么手改、如何接语音转写。
+
 # TODO
 
 - [ ] add article play in post front matter

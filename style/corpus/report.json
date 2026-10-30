@@ -1,0 +1,1246 @@
+{
+  "author": "幽哥",
+  "scanned": 1100,
+  "kept": 858,
+  "dropped": [
+    {
+      "source": "00必知必会/Hundrred_Question4Interview.md",
+      "reason": "qa-bank",
+      "evidence": "问答库结构（编号小标题 22 个 + 思路/范例）"
+    },
+    {
+      "source": "00必知必会/Knowledge.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 群友"
+    },
+    {
+      "source": "00必知必会/中华人民共和国劳动合同法.md",
+      "reason": "statute",
+      "evidence": "法条「第X条」出现 126 次"
+    },
+    {
+      "source": "00必知必会/中华人民共和国劳动法.md",
+      "reason": "statute",
+      "evidence": "法条「第X条」出现 116 次"
+    },
+    {
+      "source": "00必知必会/中华人民共和国民法典.md",
+      "reason": "statute",
+      "evidence": "法条「第X条」出现 1047 次"
+    },
+    {
+      "source": "00必知必会/中文面试100问.md",
+      "reason": "qa-bank",
+      "evidence": "问答库结构（编号小标题 99 个 + 思路/范例）"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/为什么我劝你千万不要考异地公务员.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 老秘书"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/为何父母都觉得体制内工作才叫工作.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 阿黄"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/哪一年报考公务员，以硕士研究生为主.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 8/23（35%）"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/大学生面临哪些挑战和机遇.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 21/55（38%）"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/学校不教的职场知识，有哪些.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 52/107（49%）"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/想出国留学，0基础如何考雅思？.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 安娜"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/本科生年入百万的康庄大道.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 喵喵"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/毕业几年后，怎样去加拿大留学.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 安娜"
+    },
+    {
+      "source": "01学历不重要？能力更重要？/留学如何选学校.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 山西小王"
+    },
+    {
+      "source": "02什么是中国的职业规划？/“谁的青春不迷茫”，解药是什么.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 18/55（33%）"
+    },
+    {
+      "source": "02什么是中国的职业规划？/所谓的职业规划，大多数是骗人的.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 65/129（50%）"
+    },
+    {
+      "source": "03如何选择城市/个人能不能在北上广深长期待下来，如何判断.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 15/48（31%）"
+    },
+    {
+      "source": "03如何选择城市/女孩刚毕业，为何不留武汉却毅然选择了十堰.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "03如何选择城市/换工作到一线城市，薪水一般涨多少倍.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 350 字"
+    },
+    {
+      "source": "03如何选择城市/毕业3年，在合肥，女友让我去上海，不然分手！真是纠结死.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 走国道回家"
+    },
+    {
+      "source": "03如何选择城市/省会城市的工资怎么样.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 42/77（55%）"
+    },
+    {
+      "source": "04如何选行业/0基础能改行做数据分析师吗.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Margret"
+    },
+    {
+      "source": "04如何选行业/职场蛙第一位女导师：如何改行做产品经理.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 喵喵喵"
+    },
+    {
+      "source": "05如何选企业/从几号发工资，就能看出一家企业的好坏.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 92 字"
+    },
+    {
+      "source": "05如何选企业/在私企生存的原则是什么.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 笔下有情"
+    },
+    {
+      "source": "05如何选企业/小公司可以学到东西？NO.md",
+      "reason": "coauthor",
+      "evidence": "合著：小饭 / 幽哥"
+    },
+    {
+      "source": "05如何选企业/看不到前途的工作，还有必要继续吗.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Viki女神"
+    },
+    {
+      "source": "05如何选企业/这就是传销！亲身经历，找工作的人注意了.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 凌溢安"
+    },
+    {
+      "source": "05如何选企业/金融行业标志性时刻：银行从业人员的好去处.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 46 字"
+    },
+    {
+      "source": "06如何选职务/GPTManagementDo.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 云飞"
+    },
+    {
+      "source": "06如何选职务/GPTManagementImprove.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 云飞"
+    },
+    {
+      "source": "06如何选职务/english-corrections.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Rane, Codebuddy, Claude"
+    },
+    {
+      "source": "06如何选职务/project-management-first-steps.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 云飞, Claude"
+    },
+    {
+      "source": "06如何选职务/主管和经理级别的岗位，工作几年可以投递.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 20/65（31%）"
+    },
+    {
+      "source": "06如何选职务/如何求职销售类岗位.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 大牛"
+    },
+    {
+      "source": "06如何选职务/求职压轴招：用“强势面试法”破掉面试官33问.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 峰video"
+    },
+    {
+      "source": "06如何选职务/讲师和培训师属于企业的哪个部门.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "06如何选职务/评估下自己适合不适合做销售.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Eric"
+    },
+    {
+      "source": "06如何选职务/那种人工智能、大数据技术培训班，能不能去.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 榆木"
+    },
+    {
+      "source": "07求职，就是打败HR的过程/两个岗位问我选哪个？如何选.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "07求职，就是打败HR的过程/央国企求职秘籍：极大提高成功率.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 阿帅学姐"
+    },
+    {
+      "source": "07求职，就是打败HR的过程/学会求职技巧，大概需要多长时间？.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 17/54（31%）"
+    },
+    {
+      "source": "07求职，就是打败HR的过程/当HR面试的时候问：你的期望薪资多少.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 乔布"
+    },
+    {
+      "source": "08简历制作秘笈/如何写出一份优秀的英文简历.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Mark带你进外企"
+    },
+    {
+      "source": "08简历制作秘笈/简历上是否应该写意向职位.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 498 字"
+    },
+    {
+      "source": "09简历投递秘笈/关于投递简历，我的几点感悟.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 大左"
+    },
+    {
+      "source": "09简历投递秘笈/如何才能引起猎头公司的注意.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 史蒂芬"
+    },
+    {
+      "source": "09简历投递秘笈/找工作时，自己投简历和熟人内推，先用哪个更好.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Jack Zhao"
+    },
+    {
+      "source": "09简历投递秘笈/求职很久，但一直没面试电话怎么办.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 敏敏"
+    },
+    {
+      "source": "09简历投递秘笈/跳槽，有没有淡季忘记之分.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 520 字"
+    },
+    {
+      "source": "10面试技巧/2024的最新求职骗局.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 林一"
+    },
+    {
+      "source": "10面试技巧/“感觉你对我们这个职位不是太感兴趣，是不是这样”.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 36/90（40%）"
+    },
+    {
+      "source": "10面试技巧/为什么元旦的时候，面试的人更多.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 21/50（42%）"
+    },
+    {
+      "source": "10面试技巧/从老家跳上海，如何做面试准备.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: GPT"
+    },
+    {
+      "source": "10面试技巧/你遇到过的最奇葩的面试经历是什么.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 蛙哥"
+    },
+    {
+      "source": "10面试技巧/在加拿大边留学边找工作的经验.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 安娜"
+    },
+    {
+      "source": "10面试技巧/如何准备面试和开头的自我介绍.md",
+      "reason": "coauthor",
+      "evidence": "合著：小苏 / 幽哥"
+    },
+    {
+      "source": "10面试技巧/怎么回答：“你在目前公司待了好多年，为何没有升职”.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 36/117（31%）"
+    },
+    {
+      "source": "10面试技巧/接了很多面试电话，却为何没有面试机会.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 26/61（43%）"
+    },
+    {
+      "source": "10面试技巧/明天有个视频面试，今天准备什么.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 199 字"
+    },
+    {
+      "source": "10面试技巧/有哪些公司，你去面试会给你报销车旅费.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 54/127（43%）"
+    },
+    {
+      "source": "10面试技巧/空窗期半年求职无果，顿悟后一个月上岸，我经历了什么？.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 岑宁"
+    },
+    {
+      "source": "10面试技巧/突然接到外企面试，一般人如何在短时间内提升口语能力.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "10面试技巧/突然接到面试电话，该怎么办.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小鱼"
+    },
+    {
+      "source": "10面试技巧/面试心法分享：如何判断，人事通知你去面试是不是刷人头.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 萱萱"
+    },
+    {
+      "source": "11工资行情和Offer谈判/到底怎样谈工资.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 36/113（32%）"
+    },
+    {
+      "source": "11工资行情和Offer谈判/应对拖欠工资的具体方法.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 行"
+    },
+    {
+      "source": "11工资行情和Offer谈判/签offer时，有哪些必须注意的大坑.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "11工资行情和Offer谈判/跳槽涨薪50%甚至翻倍，为何他们能做到.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 涂灵子"
+    },
+    {
+      "source": "11工资行情和Offer谈判/跳槽涨薪50％甚至翻倍，为何他们能做到.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 涂灵子"
+    },
+    {
+      "source": "11工资行情和Offer谈判/面试谈薪资，先开价你就输了.md",
+      "reason": "guest-author",
+      "evidence": "第 10 行「本文作者 | 群友小王」"
+    },
+    {
+      "source": "12辞职秘笈/什么情况下你该换工作了.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "12辞职秘笈/刚辞职，新单位却取消了Offer，怎么破.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 清韵"
+    },
+    {
+      "source": "12辞职秘笈/最牛辞职信，你能看懂么.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 杰文"
+    },
+    {
+      "source": "13背景调查/如何应对背景调查.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 59/105（56%）"
+    },
+    {
+      "source": "13背景调查/我为什么拒绝回答背景调查问题.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 29/96（30%）"
+    },
+    {
+      "source": "13背景调查/第三方背景调查案例，真实路演.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 30/99（30%）"
+    },
+    {
+      "source": "14试用期和转正/什么样的新人容易留下来.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 果佳"
+    },
+    {
+      "source": "14试用期和转正/试用期内，为何一定要继续找工作.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 62/196（32%）"
+    },
+    {
+      "source": "15辞退和裁员/人事高管叫嚣：我就违法辞退，不服上诉.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 涂灵子"
+    },
+    {
+      "source": "15辞退和裁员/公司以“能力不符合岗位要求”辞退员工时，能拿到多少赔偿.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/公司在套路员工自愿离职时，如何应对公司打出的“闪电五连鞭”.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/劳动仲裁的路上，会遇到哪些妖魔鬼怪？（仲裁篇）.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/劳动仲裁的路上，会遇到哪些妖魔鬼怪？（律师篇）.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/年底了，公司“不讲武德”，该怎么办.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/打工人最后的杀手锏.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/离职后患：保密协议，竞业限制协议，落户违约金该怎么办.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/离职谈判，到底谈什么？怎么谈.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/职场人必修课：系统学会反裁员or反辞退(从入门到精通).md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 涂灵子"
+    },
+    {
+      "source": "15辞退和裁员/职场解密：领导通过别人给我传达工作任务，到底什么意思.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/职场警告：即将被解雇的迹象有哪些.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/至暗时刻，唯有抗争，手无屠刀，何以成佛.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "15辞退和裁员/面临被公司非法解雇时，该如何自救.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "16宝妈求职秘笈/宝妈求职宝典5：宝妈重回职场，还能找到原来的工作吗.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 10/23（43%）"
+    },
+    {
+      "source": "17如何解决失业危机/35岁后，职场人都到哪里去了.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 彭小乐"
+    },
+    {
+      "source": "17如何解决失业危机/笑侃“周力波”--你所不知道的40岁职业转折点.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 秋水先生"
+    },
+    {
+      "source": "18职业性格和星座/秋天出生的人，适合什么工作？冬天呢.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 533 字"
+    },
+    {
+      "source": "19如何跟领导相处？/三招，搞定你的领导（原创，非厚黑学）.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 233 字"
+    },
+    {
+      "source": "19如何跟领导相处？/大领导越级找我谈工作：到底是好事，还是坏事.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 木沐"
+    },
+    {
+      "source": "19如何跟领导相处？/如何应对刁钻难搞的女领导.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "19如何跟领导相处？/如何拒绝领导的加班要求.md",
+      "reason": "guest-author",
+      "evidence": "第 10 行「作者：群友小宇」"
+    },
+    {
+      "source": "19如何跟领导相处？/如何正确构建自己与上级的关系，主动进行向上管理.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "19如何跟领导相处？/总监跨过经理直接给我安排任务，我该听谁的.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 243 字"
+    },
+    {
+      "source": "19如何跟领导相处？/跟大领导接触的要点，有哪些.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 人神共奋的李刚"
+    },
+    {
+      "source": "19如何跟领导相处？/过来人分享职场秘笈：如何向领导汇报.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 大宇"
+    },
+    {
+      "source": "19如何跟领导相处？/陪同领导出差，这些细节只有极少数人能做到.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 勤奋的叶子君"
+    },
+    {
+      "source": "19如何跟领导相处？/领导有几种类型？应该如何管理自己的领导.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 厂长大人"
+    },
+    {
+      "source": "20女性专场/女孩如何考虑婚姻和生育，才能获得更好的职业发展.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 涂灵子"
+    },
+    {
+      "source": "20女性专场/女孩，如何树立正确的婚恋观.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小Z"
+    },
+    {
+      "source": "20女性专场/女孩，如何考虑后半生和养老.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小Z"
+    },
+    {
+      "source": "20女性专场/女生30岁之前要做的事情.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 小z"
+    },
+    {
+      "source": "20女性专场/姐弟恋的4大注意点.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 42/130（32%）"
+    },
+    {
+      "source": "20女性专场/嫁给独生子好，还是嫁给家里有兄弟姐妹的更好.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "20女性专场/我是如何遇到这样的老公并被吃干抹净的.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 小郝"
+    },
+    {
+      "source": "20女性专场/父母难相处？不妨试试用谈判代替沟通.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 涂灵子"
+    },
+    {
+      "source": "20女性专场/生娃，对职业生涯到底有多大影响.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 职场蛙"
+    },
+    {
+      "source": "20女性专场/相亲约会时，该聊什么？如何聊.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 涂灵子"
+    },
+    {
+      "source": "21同事如何相处？/为什么同事不怕得罪我，而我总怕伤了和气.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "21同事如何相处？/做人太老实，总被同事随意使唤，4个方法对抗职场“老油条”.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 若水"
+    },
+    {
+      "source": "21同事如何相处？/关系好的同事突然对我凶了起来，是什么原因.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 57/133（43%）"
+    },
+    {
+      "source": "21同事如何相处？/加个好友，是你扫我还是我扫你？.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 走国道回家"
+    },
+    {
+      "source": "21同事如何相处？/单位女同事靠潜规则上位，我感到心理极度不平衡.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 老秘书"
+    },
+    {
+      "source": "21同事如何相处？/同事让我帮忙，如何才能优雅地拒绝.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "21同事如何相处？/在体制内经常被人坑？我这里有一份“鉴婊指南”.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 蒲公英"
+    },
+    {
+      "source": "21同事如何相处？/在职场中，该如何处理与同事之间的关系.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "21同事如何相处？/在职场中，该如何系统构建与同事的关系实战篇.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "21同事如何相处？/当有人跟你说“我对事不对人”时，你要小心了.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 26/69（38%）"
+    },
+    {
+      "source": "21同事如何相处？/总被“老油条”同事随意使唤，该怎么办.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 若水"
+    },
+    {
+      "source": "21同事如何相处？/新同事刚入职就发来结婚请帖，你去不去.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 逍遥禅师"
+    },
+    {
+      "source": "21同事如何相处？/日常工作中，你有没有被老员工刁难过啊.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 小七"
+    },
+    {
+      "source": "22汽车行业专题/汽车行业是整个制造业的标杆.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 史蒂芬"
+    },
+    {
+      "source": "23采购职位入门/为何这么多人改行做了采购.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 44/87（51%）"
+    },
+    {
+      "source": "23采购职位入门/如何改行去面试采购岗位.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "23采购职位入门/幽哥语音合集【1】：如何改行做采购？.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 265 字"
+    },
+    {
+      "source": "24房产私房菜/上海租房攻略.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 479 字；第 75 行起为他人正文（《毕业季），已截断"
+    },
+    {
+      "source": "24房产私房菜/刚需买房计算器以及苏州买房分析.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 房满仓"
+    },
+    {
+      "source": "24房产私房菜/普通人还可以继续投资房产吗?.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "24房产私房菜/谈下疫情下的房产以及购房心得.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 亮亮"
+    },
+    {
+      "source": "25年代秀真人秀/30岁我在老家做到了上市公司高管年薪30万，去年差点在大城市要饭.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 未知投稿"
+    },
+    {
+      "source": "25年代秀真人秀/33岁江西群友营业额突破5000万，《逆袭时代》男三号赖北金.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 赖北金"
+    },
+    {
+      "source": "25年代秀真人秀/92小伙大专毕业，副业达工资两倍用了3年，税后年入50万.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 23/66（35%）"
+    },
+    {
+      "source": "25年代秀真人秀/「直播回放」解答所有百度找不到答案的职场问题.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "25年代秀真人秀/上海IT男月薪数万，却辞职去了西藏，抛弃妻子，一待六年.md",
+      "reason": "coauthor",
+      "evidence": "合著：刘杰文 / 幽哥"
+    },
+    {
+      "source": "25年代秀真人秀/从昆山台资厂到跨国公司职业经理人，幽哥的逆袭之路.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 芬哥"
+    },
+    {
+      "source": "25年代秀真人秀/八神帅哥毕业后迷茫了2年，第3年内部转岗居然做了副厂长.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "25年代秀真人秀/前台的逆袭之路：你才是花瓶.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 申倩倩爱折腾"
+    },
+    {
+      "source": "25年代秀真人秀/周一到周五哪天更适合面试？上午还是下午更容易面试成功.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 216 字"
+    },
+    {
+      "source": "25年代秀真人秀/大专学历月薪5000到年薪30万+的过程.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "25年代秀真人秀/如何搞定你的顶头上司.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 48 字"
+    },
+    {
+      "source": "25年代秀真人秀/如何迅速制作一份适合跳槽的好简历.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 229 字"
+    },
+    {
+      "source": "25年代秀真人秀/工作围绕房子转？还是房子围绕工作转.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 51 字"
+    },
+    {
+      "source": "25年代秀真人秀/幽哥理论PPT分享.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 296 字"
+    },
+    {
+      "source": "25年代秀真人秀/我是这样度过中年危机的.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 麻辣小龙虾"
+    },
+    {
+      "source": "25年代秀真人秀/收到Offer之后做什么.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 108 字"
+    },
+    {
+      "source": "25年代秀真人秀/根本不知道找什么工作时，如何找工作.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 183 字"
+    },
+    {
+      "source": "25年代秀真人秀/流氓焊工的心路历程，是什么样子的.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 日照麦子"
+    },
+    {
+      "source": "25年代秀真人秀/职场头3年的三大认知偏差.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 和文zhwvhj"
+    },
+    {
+      "source": "25年代秀真人秀/职场秀：我93年的，我觉得，努力的才是真男人.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小泽"
+    },
+    {
+      "source": "25年代秀真人秀/职场秀：我中专毕业3年踌躇了3年，第4年终于月薪过万了.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 兰兮"
+    },
+    {
+      "source": "25年代秀真人秀/职场秀：我是菟子不是兔子.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 菟子"
+    },
+    {
+      "source": "25年代秀真人秀/职场秀：请叫我“分分钟翻盘”.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: violet9898"
+    },
+    {
+      "source": "25年代秀真人秀/能不能根据兴趣爱好去找工作.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "25年代秀真人秀/英语不好的他是如何“蒙混”过关当上外企职业经理人的.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 芬哥"
+    },
+    {
+      "source": "25年代秀真人秀/裸辞、失业、几年不上班了，现在如何做简历求职.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 68 字"
+    },
+    {
+      "source": "25年代秀真人秀/身高2米虚称1米95：外企待了十年时的感言.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "25年代秀真人秀/转行，有没有什么捷径.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 106 字"
+    },
+    {
+      "source": "26副业和财务自由/2021家庭理财及个人投资展望（上半年有效）.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "26副业和财务自由/做副业，选什么领域好.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 19/57（33%）"
+    },
+    {
+      "source": "26副业和财务自由/去越南买房行不？肯定能赚翻.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "26副业和财务自由/工作之余做自媒体，如何获取月入2万的稳定收益.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 591 字"
+    },
+    {
+      "source": "26副业和财务自由/思维方式都不同，看下，你适合创业还是打工.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 8/18（44%）"
+    },
+    {
+      "source": "26副业和财务自由/拥有好的创意，可以开个小店么.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 白菜打怪"
+    },
+    {
+      "source": "26副业和财务自由/申请信用贷款，居然是这样的，千万要注意.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 刘思佳"
+    },
+    {
+      "source": "26副业和财务自由/财务自由之路离我们有多远.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Jack"
+    },
+    {
+      "source": "27职场生活技艺/FindYourTruelove，如何准确锁定你的“灵魂伴侣”.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/《职场宝典》的正确打开方式.md",
+      "reason": "coauthor",
+      "evidence": "合著：十二 / 幽哥"
+    },
+    {
+      "source": "27职场生活技艺/一个“完美情人”的自我修养.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/为什么我业绩好却不能升职加薪.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "27职场生活技艺/五年不跳槽，实现内部涨薪翻倍的经历与感悟.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "27职场生活技艺/办公室搞政治斗争，我要不要参与站队.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 462 字"
+    },
+    {
+      "source": "27职场生活技艺/原来花里胡哨的职业生涯，和按部就班没差.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Andy Jin"
+    },
+    {
+      "source": "27职场生活技艺/嘿，剩男，请管理好女孩对你的第一印象.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/在外企的生存法则一.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "27职场生活技艺/在民企的生存法则一.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "27职场生活技艺/在约会交往时，如何判断一个人的人品.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/女友认为年薪50万是平均水平，怎么办.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 0 字"
+    },
+    {
+      "source": "27职场生活技艺/如何利索地拒绝别人给你添麻烦.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 峰"
+    },
+    {
+      "source": "27职场生活技艺/如何在职场和人生中都做个“显眼包”（聚会感悟）.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小杨"
+    },
+    {
+      "source": "27职场生活技艺/家族企业规则：肥水不流外人田，外人毕竟是外人.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/当有人跟你说“我对事不对人”时，你要小心了.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 26/69（38%）"
+    },
+    {
+      "source": "27职场生活技艺/影响职业发展的六大因素，哪个最重要.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Tiger"
+    },
+    {
+      "source": "27职场生活技艺/心得分享：在上海工作生活了4年，我从未损失过一天的房租.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 十二"
+    },
+    {
+      "source": "27职场生活技艺/总监的生存法则.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 乐乐"
+    },
+    {
+      "source": "27职场生活技艺/懒人，如何提升学历.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 33/96（34%）"
+    },
+    {
+      "source": "27职场生活技艺/我为什么要学习精益.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 光明"
+    },
+    {
+      "source": "27职场生活技艺/我整理了一张HRBP工作流表，它能为你做什么.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 十二"
+    },
+    {
+      "source": "27职场生活技艺/普通职员到主管或领导的标志.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 57/95（60%）"
+    },
+    {
+      "source": "27职场生活技艺/租房心得.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 十二"
+    },
+    {
+      "source": "27职场生活技艺/笨、傻、蠢有什么区别.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 吾庸FM"
+    },
+    {
+      "source": "27职场生活技艺/第一次相亲约会时应该聊什么.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/职场“避坑”指南.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小苏"
+    },
+    {
+      "source": "27职场生活技艺/职场因果律：舍不得发钱的公司都该倒闭.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/职场政治可以开夫妻店，但最好不要进夫妻店.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/职场箴言：只有把自己当神，你才能变成神一样的人物.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/职场规律：我们终将被人性毁灭，被时代抛弃.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/职场黑洞：你不能只把自己当人，把别人当狗.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/被忽视的“高大上”技能：InterculturalCompetence.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Eric"
+    },
+    {
+      "source": "27职场生活技艺/规则反噬：所成就你的，必将毁灭你.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/谈一个职场人不敢面对的话题：中国式职场官僚政治.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "27职场生活技艺/谈恋爱谈的是什么？你可能并不懂如何谈恋爱.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小Z"
+    },
+    {
+      "source": "27职场生活技艺/非211，985毕业，如何在职场中实现弯道超车.md",
+      "reason": "coauthor",
+      "evidence": "合著：小凤 / 幽哥"
+    },
+    {
+      "source": "28宏观职场/你听过“特朗普”吗？（DonaldJTrump）巅峰对决：看下你选谁.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 艾尔王"
+    },
+    {
+      "source": "29势商和人生规划/“我被央企裁员后1个月找到工作”深度点评版.md",
+      "reason": "coauthor",
+      "evidence": "合著：幽哥 / 牛牛Price"
+    },
+    {
+      "source": "29势商和人生规划/上海女孩的职业开化之旅.md",
+      "reason": "coauthor",
+      "evidence": "合著：小芒果 / 幽哥"
+    },
+    {
+      "source": "29势商和人生规划/事业逆袭这最后一公里，如何打通.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 19/47（40%）"
+    },
+    {
+      "source": "29势商和人生规划/拆解中国当下求职市场的新变化（2026年中版）.md",
+      "reason": "coauthor",
+      "evidence": "合著：涂灵子 / 幽哥"
+    },
+    {
+      "source": "29势商和人生规划/职场再升级1：像一个伟大的企业家一样去战斗.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "29势商和人生规划/职场再升级2：不要以战术上的勤奋来掩盖战略上的懒惰.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "29势商和人生规划/职场再升级3：不想当将军的士兵不是好士兵.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "29势商和人生规划/职场想要触摸到更高的权利，得往中央靠近.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 悟道"
+    },
+    {
+      "source": "29势商和人生规划/连赢6次，你的大脑结构就变了.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: YouCore官方"
+    },
+    {
+      "source": "30职场互动/AI多线程：你在焦虑中等待，他在排程中心流.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 一个制造业的HRBP"
+    },
+    {
+      "source": "30职场互动/“陆干”职业道路的跨年启发.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 乐乐"
+    },
+    {
+      "source": "30职场互动/《激荡三十年》和三年后的一场大课：我的认知刷新历程.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Nicole妮可"
+    },
+    {
+      "source": "30职场互动/一个中层管理者的述职与团建感悟.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 悟道"
+    },
+    {
+      "source": "30职场互动/一生的旅程.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 八神"
+    },
+    {
+      "source": "30职场互动/介绍几个找对象的途径.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 江河湖海"
+    },
+    {
+      "source": "30职场互动/从精益生产谈精力管理.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 十二"
+    },
+    {
+      "source": "30职场互动/幽哥2019线下聚会，我的几点感悟.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 涂灵子"
+    },
+    {
+      "source": "30职场互动/幽哥群友聚会全程记录.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 310 字；第 38 行起为他人正文（小成），已截断"
+    },
+    {
+      "source": "30职场互动/幽哥语音合集【2】：如何改行做PM、培训、安规、风控和成本审计工作？.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 260 字"
+    },
+    {
+      "source": "30职场互动/时间套利：不在惯性中沉沦.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 一个制造业HRBP"
+    },
+    {
+      "source": "30职场互动/用“庖丁”法打磨出一份好简历.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 一个爱动脑的HRBP"
+    },
+    {
+      "source": "30职场互动/用质量管理的方法，拆解一次你的焦虑.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 十二"
+    },
+    {
+      "source": "30职场互动/第一次视频互动，分享职场干货.md",
+      "reason": "too-short",
+      "evidence": "清洗后仅剩 248 字"
+    },
+    {
+      "source": "30职场互动/谈价值投资.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 上海的一名HRBP"
+    },
+    {
+      "source": "30职场互动/阳澄湖之旅.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: Lucy"
+    },
+    {
+      "source": "30职场互动/非标任务拆解：用工成本测算.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 制造业的HRBP"
+    },
+    {
+      "source": "30职场互动/高中毕业的我，是如何考上211大学研究生的.md",
+      "reason": "other-author",
+      "evidence": "copyright_author: 小薛"
+    },
+    {
+      "source": "Main.md",
+      "reason": "index-page",
+      "evidence": "post_link 行 1096/1193（92%）"
+    },
+    {
+      "source": "salary_calculate.md",
+      "reason": "list-dominant",
+      "evidence": "列表行 3/8（38%）"
+    }
+  ],
+  "rules": {
+    "qa-bank": 2,
+    "other-author": 146,
+    "statute": 3,
+    "B4": 798,
+    "list-dominant": 32,
+    "too-short": 37,
+    "coauthor": 19,
+    "guest-author": 2,
+    "index-page": 1
+  },
+  "quoteTrimmed": 1121,
+  "duplicateChunks": 56,
+  "totalChars": 2547733,
+  "residual": [],
+  "quoteSamples": [
+    "为什么年年都是所谓的“史上最难就业季”？",
+    "没有办法，怎么劝都没用，他们会认为专业至高无上；",
+    "🍭大闸蟹聚会详情点击标题查看",
+    "到了这里，大家都明白了吧！？",
+    "到了这里，大家都明白了吧！？",
+    "风沙cj 5小时前",
+    "男友29岁，比我大六岁，没工作，全职在家考公务员，我刚毕业，也准备考公，我们现在",
+    "就同一个职业问题的解释，专科应届毕业生大多会继续再问几个为什么；",
+    "{% post_link 05如何选企业/去一线城市是进国企好，还是外企好，民企",
+    "1. 先找个不是那么容易消失的行业，然后迅速实现就业，能利用之前的工作经验和技能",
+    "范小星 提问: 幽哥，面试官问：今后有何职业规划应该如何回答？",
+    "刚毕业不久，HR跟你谈年薪，则她忽悠你；"
+  ]
+}

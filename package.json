@@ -9,7 +9,15 @@
     "server": "node tools/serve.js",
     "server:hexo": "hexo server",
     "echart": "node themes/butterfly/tools/echart-editor/server.js",
-    "netlify": "npm run clean && npm run build"
+    "netlify": "npm run clean && npm run build",
+    "style:ingest": "node tools/style/cli.js ingest",
+    "style:index": "node tools/style/cli.js index",
+    "style:profile": "node tools/style/cli.js profile",
+    "style:rewrite": "node tools/style/cli.js rewrite",
+    "style:eval": "node tools/style/cli.js eval"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "hexo": {
     "version": "7.1.0"

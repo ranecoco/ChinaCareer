@@ -1,0 +1,24 @@
+{
+  "author": "幽哥",
+  "scanned": 1100,
+  "kept": 858,
+  "droppedCount": 242,
+  "chunks": 5652,
+  "totalChars": 2547733,
+  "avgChars": 451,
+  "medianChars": 464,
+  "duplicateChunks": 56,
+  "continuationLinesTrimmed": 1121,
+  "rules": {
+    "qa-bank": 2,
+    "other-author": 146,
+    "statute": 3,
+    "B4": 798,
+    "list-dominant": 32,
+    "too-short": 37,
+    "coauthor": 19,
+    "guest-author": 2,
+    "index-page": 1
+  },
+  "residualQuotes": 0
+}

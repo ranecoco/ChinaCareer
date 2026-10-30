@@ -6,3 +6,10 @@ db.json
 NERD*
 .DS_Store
 temp*
+
+# 文风管线（tools/style）
+style/.cache/
+style/index/
+style/corpus/chunks.jsonl
+/.codebuddy/plans
+/.env.example

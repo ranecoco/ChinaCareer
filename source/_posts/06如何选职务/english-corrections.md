@@ -562,6 +562,14 @@ Which ECharts chart type suits this table?
 - `europ palace` → `European palace`：名词是 `Europe`，形容词是 `European`。
 - `with ... style` → `in ... style`：固定搭配是 `in a ... style`（"以某种风格"）。
 
+### 15. "continu"
+
+❌ continu
+✅ **continue**
+
+- 拼写错误：正确词是 `continue`，词尾的 `e` 不能漏。
+- 作为一个指令单独使用时，通常写成完整句：`Continue.` 或 `Please continue.`，比单独丢一个词更清晰。
+
 ## 常用修正速查
 
 | 常见错误                | 正确表达                            |

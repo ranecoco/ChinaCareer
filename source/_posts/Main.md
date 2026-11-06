@@ -266,6 +266,7 @@ related_posts: false
 - {% post_link 06如何选职务/曾做过总监，有必要低就主管甚至职员岗位吗 %}
 - {% post_link 06如何选职务/29岁，没有任何技能，请问除了销售还能做什么工作 %}
 - {% post_link 06如何选职务/那种人工智能、大数据技术培训班，能不能去 %}
+- {% post_link 06如何选职务/工资相同，管理岗vs大头兵，选哪个 %}
 
 ## **【07，求职，就是打败 HR 的过程】**
 
@@ -294,6 +295,8 @@ related_posts: false
 - {% post_link 07求职，就是打败HR的过程/前同事给我内推了工作，但我还没报到他自己就要走了，我还要不要去报到 %}
 - {% post_link 07求职，就是打败HR的过程/HR让我修改简历，究竟要不要修改 %}
 - {% post_link 07求职，就是打败HR的过程/猎头帮我推荐了一个工作，我发现我有熟人在里面，我要不要也将简历发给熟人帮我内推 %}
+[**求职被拒，HR说“该岗位对我来说基础了些”，什么意思？**](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247518196&idx=1&sn=c7d3e52fa658286fdb175e6282e255e4&scene=21#wechat_redirect)
+[**HR让我提供一份“不带工资”的简历，是什么意思？**](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247503060&idx=2&sn=df0a2c5359f68d6ddf42ff5c540b554c&scene=21#wechat_redirect)
 
 ## **【08，简历制作秘笈】**
 
@@ -368,6 +371,7 @@ related_posts: false
 - 🔴 {% post_link 10面试技巧/面试三大必答题，你准备好了没有？ %}
 - 🔴 {% post_link 10面试技巧/面试官问“你的缺点是什么？”该如何回答 %}
 - 🔴 {% post_link 10面试技巧/“你的离职原因是什么”，该如何回答？ %}
+<!-- 如何回答“你的期望薪资是多少？” -->
 - 🔴 {% post_link 10面试技巧/面谈工资的四大方法（不外传干货） %}
 - 🔴 {% post_link 10面试技巧/面试后，一般几天有答复 %}
 - 🔴 {% post_link 10面试技巧/有哪些公司，你去面试会给你报销车旅费 %}
@@ -420,6 +424,10 @@ related_posts: false
 - {% post_link 10面试技巧/突然接到外企面试，一般人如何在短时间内提升口语能力 %}
 - {% post_link 10面试技巧/明天有个视频面试，今天准备什么 %}
 - {% post_link 10面试技巧/如何准备面试和开头的自我介绍 %}
+[面试官问我有没有学历提升计划，该如何回答？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247516601&idx=2&sn=509d10ce2c24f79226a7e0a2693ce84c&scene=21#wechat_redirect)
+[面试时如何回答“你为什么要换工作？”](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484065&idx=1&sn=477932177da29a4a8d4770afd501327a&scene=21#wechat_redirect)
+[怎样回答：你入职后如何平衡工作跟生活？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247495478&idx=2&sn=f2f8c67c42a4c45b83e7237a7939c368&scene=21#wechat_redirect)
+[如何回答面试时最难回答的18个问题？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247484126&idx=1&sn=f96d1718aff914a88461571d73e64723&scene=21#wechat_redirect)
 
 ## **【11，工资行情和 Offer 谈判】**
 
@@ -722,6 +730,28 @@ related_posts: false
 - {% post_link 19如何跟领导相处？/领导刚刚说的这句话，是什么意思 %}
 - {% post_link 19如何跟领导相处？/领导有几种类型？应该如何管理自己的领导 %}
 - {% post_link 19如何跟领导相处？/能不能主动提出升职要求 %}
+- {% post_link 19如何跟领导相处？/领导为何将资料先发给我，再让我转发到工作群 %}
+- {% post_link 19如何跟领导相处？/大领导说要请我们团队吃饭，他是什么意思 %}
+- {% post_link 19如何跟领导相处？/领导说我的工资是本部门最高的，真的如此吗 %}
+- {% post_link 19如何跟领导相处？/领导总说我不适合目前工作，怎么办 %}
+- {% post_link 19如何跟领导相处？/领导说老板说要裁了我，我该怎么办 %}
+- {% post_link 19如何跟领导相处？/“够努力但不够上进”，是什么意思 %}
+- {% post_link 19如何跟领导相处？/大领导的助理突然来找我谈话，究竟什么意思 %}
+- {% post_link 19如何跟领导相处？/男领导对我忽冷忽热，究竟是什么意思 %}
+
+[领导为啥对我忽冷忽热的？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537512&idx=2&sn=4f602ced4c9703a48a9dd7ccfbfb61e2&scene=21#wechat_redirect)
+[领导问我有没有参加公考的计划，如何回答？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247521557&idx=2&sn=a32456f6334244939e640474ceccce91&scene=21#wechat_redirect)
+[面试时，部门领导问我期望工资，应该咋回答才好？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247518577&idx=1&sn=9b359cc55f08abca80fdd852660fc787&scene=21#wechat_redirect)
+[领导有一笔20万元的费用先打我工资卡，再让我转给他，有问题吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247538758&idx=2&sn=9d83aa4c13afeb551f0835c356848350&scene=21#wechat_redirect)
+[领导给我招了个助手，是好事还是坏事？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247538284&idx=1&sn=9581269ca4bb6494bc280b61b2c09406&scene=21#wechat_redirect)
+[领导让我背锅，背不背？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247540048&idx=1&sn=cd652811d584ce4468228afb5f805cf1&scene=21#wechat_redirect)
+[领导让我监控部门同事们的考勤，我该怎么办？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537953&idx=1&sn=df7cc2cc44fdf07a379d36c35e4a67f4&scene=21#wechat_redirect)
+[领导总说我不适合目前工作，怎么办？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537707&idx=1&sn=40ffd90e5c1ffe98a94ebfbc0c347a9c&scene=21#wechat_redirect)
+[领导为什么老说我不适合目前工作？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247535595&idx=1&sn=25f9021946204c3ebf6a62bf6a923b92&scene=21#wechat_redirect)
+[过年放假前，领导居然给我送礼物，到底咋回事？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247534332&idx=1&sn=faaa1ca86ea1453210f42286998efca2&scene=21#wechat_redirect)
+[领导总在非工作时间布置任务，该拒绝还是接受？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247533121&idx=2&sn=5d67df51905756571562984c318adc1f&scene=21#wechat_redirect)
+[领导搞狼性文化、盯着我加班，怎么办？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247528857&idx=2&sn=c5299d823d8650f4d47cfa95c36fde56&scene=21#wechat_redirect)
+[领导自己做副业，老让我转发、助力、注册各种号，怎么办？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247523873&idx=1&sn=a85fc5c5a803185c72aaa79c4336d91f&scene=21#wechat_redirect)
 
 ## **【20，女性专场】**
 
@@ -816,6 +846,8 @@ related_posts: false
 - {% post_link 21同事如何相处？/在职场中，该如何处理与同事之间的关系 %}
 - {% post_link 21同事如何相处？/在职场中，该如何系统构建与同事的关系实战篇 %}
 - {% post_link 21同事如何相处？/男女同事之间有没有那种“浅友谊”关系 %}
+
+[**同事跟我说“我们分工不是那么明确”，是什么意思？**](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247531532&idx=2&sn=35906e2f3b3ce497c2181611b990bb60&scene=21#wechat_redirect)
 
 ## **【22，汽车行业专题】**
 
@@ -1116,6 +1148,10 @@ related_posts: false
 - {% post_link 27职场生活技艺/老公一直不去上班，怎么办 %}
 <!-- 父母要创业投资做生意，怎么办 -->
 - {% post_link 27职场生活技艺/如何劝说父母不再投资做生意 %}
+[**父母说，等我结婚了再给我买房，是什么意思？**](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247501374&idx=2&sn=70aedaeba3b14a5da6ac917f7d3aac6c&scene=21#wechat_redirect)
+[**这人给我介绍工作又介绍对象，他是什么意思？**](https://mp.weixin.qq.com/s?__biz=MzU1Mjg0MzU1MA==&mid=2247499079&idx=2&sn=ecef45146813e7b7809b4e3af9a1f1c8&scene=21#wechat_redirect)
+[职位挂靠，是什么意思？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247485624&idx=1&sn=5acd6f1b13324933d7ab0044f336d850&scene=21#wechat_redirect)
+[“借调”是什么意思，能转正吗？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247537461&idx=1&sn=8cf70b2d75b9fabdb5e6d7e5676659fd&scene=21#wechat_redirect)
 
 ## **【28，宏观职场】**
 
@@ -1143,6 +1179,8 @@ related_posts: false
 - {% post_link 28宏观职场/为什么会拉闸限电 %}
 - {% post_link 28宏观职场/如何知道自己在单位中的角色 %}
 - {% post_link 28宏观职场/真的会被判136年吗 %}
+[**项目进入深水区、改革进入深水区，这“深水区”是什么意思？**](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247498250&idx=2&sn=52ec38891cac419865b249f3208f5555&scene=21#wechat_redirect)
+[华为任总说的经济放缓、只求活下来，是什么意思？](https://mp.weixin.qq.com/s?__biz=MzI0MzQ0OTUxOA==&mid=2247523127&idx=1&sn=865b5dc357f78c9334c3549132f3fc99&scene=21#wechat_redirect)
 
 ## **【29，势商和人生规划】**
 

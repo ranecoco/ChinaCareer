@@ -9,7 +9,7 @@ copyright_url: https://mp.weixin.qq.com/s/LHQbm0FkYmSJqFXyGxMbuQ
 description: 
 account: 势商
 place: 上海
-cover: 0.jpg
+cover: img/auto_cover/e3e4b2b96e30.svg
 ---
 
 **这种**两难选择是常见的，现在就让你选，还真的不知所措，也没有时间和经验来做出理性的分析从而做出决策。

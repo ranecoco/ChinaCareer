@@ -1,6 +1,6 @@
 ---
 date: 2026-10-22
-update: 2026-10-22 17:46
+update: 2026-11-17 10:23
 title: 英语表达纠错记录
 tags: [English]
 categories: [  ]
@@ -12,6 +12,135 @@ place:
 recommend: false
 cover: img/auto_cover/f58b90194db1.svg
 ---
+
+## 2026-11-17
+
+### 速查
+
+| 原句 | 订正 |
+|---|---|
+| There have **unmormal** page opened **when use** `:MCLogin` command. | **An unusual page opens when I run `:MCLogin`.** |
+| The new page **show** `...` | **The page says `...`** / **The page reads `...`** |
+| How do I **solve that**? | **How do I fix this?** / **How can I resolve this?** |
+
+### 逐条
+
+#### 1. 「运行 :MCLogin 时出现一个不正常的页面」
+
+> There have unmormal page opened when use `:MCLogin` command.
+
+→ **An unusual page opens when I run `:MCLogin`.** / **I see an unexpected page when I run `:MCLogin`.**
+
+- `unmormal` 是拼写错误，正确是 `abnormal` / `unusual` / `unexpected`；描述「不符合预期的页面」用 `unexpected` 或 `unusual` 最自然。
+- `There have ... opened` 不能这样用：`there be` 后面接名词（`There is a page`），而「弹出一个页面」是事件，直接用 `A page opens` / `I see a page`。
+- `when use` 缺少主语：写 `when I run` 或 `when running`；Neovim 命令写作 `:MCLogin`（带冒号）。
+
+#### 2. 「页面显示某段文字」
+
+> The new page show `...`
+
+→ **The page says `...`** / **The page reads `...`**
+
+- `page` 是单数，谓语动词要加 `s`：`shows`；不过展示「文字内容」时英语更常用 `says` 或 `reads`，而不是 `shows`。
+- `new` 是多余的：前文已经说过这个页面，用 `the page` 即可。
+
+#### 3. 「我该怎么解决？」
+
+> How do I solve that?
+
+→ **How do I fix this?** / **How can I resolve this?**
+
+- `solve` 多用于 `solve a problem / solve an equation`；指「修好这个故障」用 `fix` 或 `resolve`。
+- 正在眼前的问题用 `this` 比 `that` 更贴近；`fix this issue` 也可以，但 `How do I fix this?` 更口语自然。
+
+## 2026-11-13
+
+### 速查
+
+| 原句 | 订正 |
+|---|---|
+| 继续proccess | **Please continue.** / **Continue processing this.** |
+| MCLogin error | **The :MCLogin command fails.** / **I get an error when running :MCLogin.** |
+| when run mclogin command something wrong **occured** | **Something went wrong when I ran `:MCLogin`.** |
+| **Slect** suitable skills to fix it | **Please select the appropriate skills to fix this.** |
+
+### 逐条
+
+#### 1. 「继续处理」
+
+> 继续proccess
+
+→ **Please continue.** / **Continue processing this.**
+
+- `proccess` 是拼写错误：正确拼写是 `process`（一个 `c`、双 `s`）。
+- 想说「继续」时直接用 `Continue.` / `Please continue.`；`process` 是及物动词，作「处理」讲要带宾语，所以「继续处理这件事」应为 `Continue processing this.`（不要写成 `Continue process.`）。
+- 中英混排的指令在英文环境里最好整句用英文，避免把中文动词和英文拼写错误的词拼在一起。
+
+#### 2. 「MCLogin 报错」
+
+> MCLogin error
+
+→ **The :MCLogin command fails.** / **I get an error when running :MCLogin.**
+
+- `MCLogin error` 是名词短语（标题式），不是完整句；描述「某个命令报错」要有主语和谓语：`The :MCLogin command fails.` 或 `I get an error when running :MCLogin.`。
+- Neovim 命令在英文里写作 `:MCLogin`（带冒号），比裸写 `MCLogin` 更清楚它是 Ex 命令。
+- 后面贴的 `AADSTS700016 ...` 是服务端返回的错误文本，属于引用内容，不需要按「自己的英文」改写；只需在描述里说明是 `the error message says ...`。
+
+#### 3. 「运行 :MCLogin 时出问题 / 选合适的技能」
+
+> when run mclogin command something wrong occured
+> Slect suitable skills to fix it
+
+→ **Something went wrong when I ran `:MCLogin`.**
+→ **Please select the appropriate skills to fix this.**
+
+- `occured` 是拼写错误：`occur` 重音在第二音节，过去式双写 `r` → `occurred`。
+- 「出问题了」直译成 `something wrong occured` 很别扭；英语里更自然的是 `something went wrong`（`go wrong`）或 `I got an error`，而不是让 `wrong` 反过来修饰 `something` 再配 `occur`。
+- `when run` 从句缺主语也无时态：描述已发生的事用 `when I ran`，描述反复出现的问题用 `when I run`；主句要补出 `Something ...`。
+- Neovim 的 Ex 命令写作 `:MCLogin`（带冒号、区分大小写），不要裸写成小写 `mclogin`。
+- `Slect` 是 `Select` 的漏字；`select suitable skills` 泛指技能时用 `the appropriate skills` / `the right skills` 更自然（2026-11-12 条目已说明 `select suitable skills to process it` 的问题，此处不再展开）。
+- 祈使句请求加 `Please` 更礼貌；`fix it` 指代不明确时，用 `fix this` 指「刚才这个问题」。
+
+## 2026-11-12
+
+### 速查
+
+| 原句 | 订正 |
+|---|---|
+| Please select **suitable skills** to **process it**. | Please **use the appropriate skills to handle this**. |
+| these windows' size **not aligned** | the sizes of these windows **don't match** / **aren't aligned** |
+| the window width **couldn't adjust** | **I can't adjust** the window width / the window width **won't change** |
+
+### 逐条
+
+#### 1. 「选合适的技能处理它」
+
+> Please select suitable skills to process it.
+
+→ Please **use the appropriate skills to handle this**.
+
+- `select suitable skills`：`skill` 可数，泛指时要加冠词或限定词 → `the appropriate skills`；`suitable` 可以，但和 `skills` 搭配时 `appropriate` 更自然。
+- `process it`：`process` 多指处理数据 / 材料 / 流程；处理一个任务或问题用 `handle this` / `deal with this`。
+- 请求用 `Please use ...` 比 `Please select ...` 更直接（select 偏「从列表里挑」，use 才是「用它来做」）。
+
+#### 2. 「这些窗口尺寸不对齐」
+
+> These windows' size not aligned.
+
+→ **The sizes of these windows don't match.** / **These windows aren't aligned.**
+
+- 缺谓语动词：`size not aligned` 是名词 + 分词，不能成句 → `are not aligned` / `don't match`。
+- 比较多个窗口的尺寸，用复数 `sizes` 更自然：`the sizes of these windows`。
+- 所有权 `windows'` 本身没错，但 `the sizes of` 在技术描述里更清楚。
+
+#### 3. 「窗口宽度调不了」
+
+> the window width couldn't adjust
+
+→ **I can't adjust the window width.** / **The window width won't change.**
+
+- `width` 是物体，不会自己「调整」；`couldn't adjust` 的主语必须是人 → `I can't adjust ...`。
+- 描述「改了没反应」用 `won't change` / `doesn't change` 更贴切。
 
 ## 2026-10-23
 
@@ -569,6 +698,36 @@ Which ECharts chart type suits this table?
 
 - 拼写错误：正确词是 `continue`，词尾的 `e` 不能漏。
 - 作为一个指令单独使用时，通常写成完整句：`Continue.` 或 `Please continue.`，比单独丢一个词更清晰。
+
+❌ when open 1.20.1 instance error occured / select right skill to fix that error 
+
+✅ An error occurred when I opened the 1.20.1 instance. Please select the right skill to fix it.
+
+when open 1.20.1 instance：时间从句缺主语，open 要有动作发出者 → when I opened；instance 是可数单数，需限定词 → the 1.20.1 instance。
+occured 拼写错误：occur 重音在第二音节，过去式双写 r → occurred。
+error occured 是中文「报错了」的直译；英语里 error 作主语要带冠词 → an error occurred。
+select right skill：可数单数不能裸用 → the right skill / a suitable skill。
+that error 前文已提过，用 it 指代更自然。
+
+❌ Could the selection status align columns? / remove the start game part, its didn't work and still bugs / the title and highlight didn't match properly / and not only here, all the interface have 
+
+✅ Could you align the selection indicators in columns? Please remove the "start game" part — it didn't work and still has bugs. The title and highlight didn't line up properly, and the same problem appears on every interface, not just here.
+
+Could the selection status align columns?：「selection status」自己不会去对齐，应写成「请（你）把…对齐」→ Could you align ...；「按列对齐」是 align ... in columns / line up in columns。
+its didn't work：its 是物主代词（它的），这里需要主语 + 助动词 → it didn't；想表达「它是」才用 it's。
+still bugs：bug 作名词不能直接跟在 still 后当谓语 → still has bugs 或 is still buggy。
+didn't match properly：说「位置对不上」更自然的是 didn't line up / were misaligned。
+all the interface have：interface 可数，all 后用复数 → all the interfaces；have 缺宾语，要补 it / this problem。
+一句里塞多个独立请求时宜拆句；破折号或分号比连续逗号更清楚。
+
+❌ These windows' size not aligned. and the window width couldn't adjust / Select some skills to fix it. 
+
+✅ The sizes of these windows don't match, and I can't adjust the window width. Please use the appropriate skills to fix it.
+
+These windows' size not aligned：缺谓语动词 → are not aligned / don't match；比较多个窗口的尺寸用复数 sizes 更自然。
+. and：句号后不能直接用 and 起句，改成逗号连接或另起一句。
+the window width couldn't adjust：width 不会自己「调整」，是「我无法调整」→ I can't adjust the window width / the window width won't change。
+Select some skills：some skills 偏随意，「选用合适的技能」更常说 use the appropriate skills / pick the right skills；请求加 Please 更礼貌。
 
 ## 常用修正速查
 
